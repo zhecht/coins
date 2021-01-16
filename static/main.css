@@ -1,0 +1,50 @@
+
+html {
+	background: black;
+	color: white;
+}
+body {
+	display: flex;
+	justify-content: center;
+	font-size: 18px;
+}
+
+#coin_table {
+	display: table;
+	justify-content: center;
+	width: 95%;
+	margin-top: 50px;
+}
+
+.coin_header_row, .coin_row {
+	display: table-row;
+	text-align: center;
+}
+
+.coin_header_row div {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.coin_header_row div, .coin_row div {
+	display: table-cell;
+}
+
+.coin_row div {
+	padding: 5px;
+}
+
+.coin_header_row div.sells, .coin_row div.sells, .tot_row div.sells {
+	display: none;
+}
+
+.tot_row div {
+	border-top: 1px solid;
+}
+
+.green {
+	color: #72ff72;
+}
+.red {
+	color: #ff1a1a;
+}

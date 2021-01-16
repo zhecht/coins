@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Crypto</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+		<link rel="stylesheet" href="/static/main.css" type="text/css">
+	</head>
+	<body>
+		<div>
+		</div>
+		<div id="coin_table">
+			<div class="coin_header_row">
+				<div>Coin</div>
+				<div>Total</div>
+				<div>Price</div>
+				<div>BTC Price</div>
+				<div>Worth</div>
+				<div>Sold</div>
+				<div class="sells">Sells</div>
+				<div>Purchased</div>
+				<div>Profit</div>
+				<div>1H</div>
+				<div>24H</div>
+				<div>7D</div>
+			</div>
+			{% for row in rows %}
+				<div class="coin_row">
+					<div>{{row.coin|upper}}</div>
+					<div>{{row.amount}}</div>
+					<div>${{row.price}}</div>
+					<div>{{row.btc_price}}</div>
+					<div>${{row.worth}}</div>
+					<div>{{row.sold}}</div>
+					<div class="sells">{{row.sells}}</div>
+					<div>${{row.purchased}}</div>
+					<div>${{row.profit}}</div>
+					<div>{{row.hour}}%</div>
+					<div>{{row.day}}%</div>
+					<div>{{row.week}}%</div>
+				</div>
+			{% endfor %}
+			<div class="coin_row tot_row">
+				<div>TOTAL</div>
+				<div>-</div>
+				<div>-</div>
+				<div>-</div>
+				<div>${{tot.tot_worth}}</div>
+				<div>${{tot.tot_sold}}</div>
+				<div class="sells">-</div>
+				<div>${{tot.tot_purchased}}</div>
+				<div>${{tot.tot_profit}}</div>
+				<div>-</div>
+				<div>-</div>
+				<div>-</div>
+			</div>
+		</div>
+		<script src="/static/main.js"></script>
+		<script>
+			color();
+		</script>
+	</body>
+</html>
+
