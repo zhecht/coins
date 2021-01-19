@@ -7,34 +7,50 @@ body {
 	display: flex;
 	justify-content: center;
 	font-size: 18px;
+	flex-direction: column;
 }
 
-#coin_table {
+.table {
 	display: table;
 	justify-content: center;
 	width: 95%;
-	margin-top: 50px;
+	margin-top: 5px;
 }
 
-.coin_header_row, .coin_row {
+.slider, .slider_label {
+	
+}
+
+.multiple {
+	text-align: center;
+}
+
+#pie_chart, #exit_table, #exchange_table {
+	display: none;
+}
+
+.header_row, .row {
 	display: table-row;
 	text-align: center;
 }
 
-.coin_header_row div {
+.header_row div {
 	font-weight: bold;
 	font-size: 24px;
 }
 
-.coin_header_row div, .coin_row div {
+.header_row div, .row div {
 	display: table-cell;
 }
 
-.coin_row div {
+.row div {
 	padding: 5px;
+	border-bottom: 1px solid;
+}
+.row div:nth-child(even) {
 }
 
-.coin_header_row div.sells, .coin_row div.sells, .tot_row div.sells {
+.header_row div.sells, .row div.sells, .tot_row div.sells {
 	display: none;
 }
 

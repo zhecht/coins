@@ -1,0 +1,3304 @@
+{
+    "id": "chainlink",
+    "symbol": "link",
+    "name": "Chainlink",
+    "asset_platform_id": "ethereum",
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Smart Contract Platform",
+        "Decentralized Finance (DeFi)",
+        "Oracle",
+        "DOT Ecosystem"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "Chainlink",
+        "de": "Chainlink",
+        "es": "Chainlink",
+        "fr": "Chainlink",
+        "it": "Chainlink",
+        "pl": "Chainlink",
+        "ro": "Chainlink",
+        "hu": "Chainlink",
+        "nl": "Chainlink",
+        "pt": "Chainlink",
+        "sv": "Chainlink",
+        "vi": "Chainlink",
+        "tr": "Chainlink",
+        "ru": "Chainlink",
+        "ja": "\u30c1\u30a7\u30fc\u30f3\u30ea\u30f3\u30af",
+        "zh": "Chainlink",
+        "zh-tw": "Chainlink",
+        "ko": "\uccb4\uc778\ub9c1\ud06c",
+        "ar": "Chainlink",
+        "th": "Chainlink",
+        "id": "Chainlink"
+    },
+    "description": {
+        "en": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "de": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "es": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "fr": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "it": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "pl": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "ro": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "hu": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "nl": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "pt": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "sv": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "vi": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "tr": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "ru": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "ja": "",
+        "zh": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "zh-tw": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "ko": "\ube14\ub85d\uccb4\uc778\uae30\ubc18\uc758 \uc644\ubcbd\ud788 \ud0c8\uc911\uc559\ud654\ub41c \uc2e0\ud0c1 \ub124\ud2b8\uc6cc\ud06c\ub97c \uc9c0\ud5a5\r\n\r\n\uae30\uc874 \ube14\ub85d\uccb4\uc778\ub4e4\uc744 \uc5f0\uacb0\uc2dc\ucf1c\uc8fc\ub294 \uc911\uacc4\uc790 \uc5ed\ud560\uc758 \ubbf8\ub4e4\uc6e8\uc5b4\r\n\r\nERC202) \ud1a0\ud070 \uae30\ubc18\r\n\r\n\uc774\ub354\ub9ac\uc6c0\uc758 \ucc3d\uc2dc\uc790 \ube44\ud0c8\ub9ad \ubd80\ud14c\ub9b0\uc774 \uc5b8\uae09\ud588\ub358 \ud50c\ub7ab\ud3fc\uc73c\ub85c\uc368 \uae30\uc874 \ube14\ub85d\uccb4\uc778\ub4e4 \uac04\uc758 \uc5f0\uacb0\uace0\ub9ac \uc5ed\ud560\uc744 \uc218\ud589\ud558\ub294 \ud50c\ub7ab\ud3fc\uc785\ub2c8\ub2e4. \uc608\ub97c \ub4e4\uc5b4 \uc99d\uad8c\uc0ac\uc640 \uc740\ud589\uac04\uc758 \uc5f0\uacb0 \ubc0f API\uc5f0\ub3d9 \uae30\ub2a5\uc744 \uc218\ud589\ud560 \uc218 \uc788\uc73c\uba70 \uc11c\ub85c \ub2e4\ub978 \ud50c\ub7ab\ud3fc \uac04\uc758 \uc678\ubd80\ub9c1\ud06c \ubc0f API\uc758 \uc5f0\ub3d9\ubb38\uc81c\ub97c \ud55c\ubc88\uc5d0 \ud574\uacb0\ud560 \uc218 \uc788\ub294 \ud50c\ub7ab\ud3fc\uc73c\ub85c\uc368 \uadf8 \uac00\uce58\ub97c \uc778\uc815\ubc1b\uace0 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n\ub124\ud2b8\uc6cc\ud06c\ub294 \uc624\ub77c\ud074 \ub124\ud2b8\uc6cc\ud06c\ub97c \uc0ac\uc6a9\ud558\uba70 \ub2f9\uc7a5 \uc0c1\uc6a9\ud654\ub97c \ud560 \uc218 \uc788\ub294 \ubd80\ubd84\uc774 \uc7a5\uc810\uc73c\ub85c \uc778\uc815\ubc1b\uc544 \uafb8\uc900\ud55c \uc0c1\uc2b9\uc138\ub97c \uc774\uc5b4 \ub098\uac00\uace0 \uc788\ub294 \ucd94\uc138\uc785\ub2c8\ub2e4.",
+        "ar": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "th": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink.",
+        "id": "Chainlink is a decentralized oracle service, the first of its kind. When <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> went live in 2015, it revolutionized what blockchain could bring to enterprise solution and traditional business. Blockchain was no longer just a medium for new age financial transaction, confined to <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin\u2019s</a> potential to disrupt traditional currency exchange. With Ethereum powered smart contracts, Vitalik Buterin opened up a Pandora\u2019s Box of use cases for blockchain technology. Problem is, per their design, smart contracts can only manage data on the blockchain. Their potential, the ability to provide tamperproof, decentralized applications for uses the world over, is still largely untapped, as many of the smart contract programs built on Ethereum lack a bridge to the real world industries they\u2019re trying to improve.\r\n\r\nChainlink\u2019s first component consists of on-chain contracts deployed on Ethereum\u2019s blockchain.  These oracle contracts process the data requests of users looking to take advantage of the network\u2019s oracle services. If a user or entity wants access to off-chain data, they submit a user contract (or requesting contract) to Chainlink\u2019s network, and the blockchain processes these requests into their own contracts. These contracts are responsible for matching the requesting contract up with the appropriate oracles. The contracts include a reputation contract, an order-matching contract, and an aggregating contract. The first of these, the reputation contract, is exactly as it sounds: it checks an oracle provider\u2019s track record to verify its integrity. In turn, the order-matching contract logs the user contract\u2019s service level agreement on the network and collects bids from responsible oracle providers. Finally, the aggregating contract accumulates the collective data of the chosen oracles and balances them to find the most accurate result.\r\n\r\nUnfortunately, the Chainlink team does not offer a roadmap, but a testnet of Chainlink\u2019s services should come sometime within Q1 of 2018. Generally, the project\u2019s general lack of marketing and concrete updates have frustrated community members in the past. Sergey Nazarov, the project\u2019s CEO, is known for a quiet community presence that favors of behind-the-scenes work on Chainlink. The team may not hype their project much, but for what it\u2019s worth, they sacrifice brand marketing in favor of product development\u2013and some community members find this focus to be refreshing. For instance, they\u2019ve established an oracle with Swift Bank, and have a few quiet partnerships with zepplin_os and Request Network.\r\n\r\nChainlink has the potential to connect smart contracts with the outside world. It may allow parties to smart contracts to be able to receive external inputs that prove performance and create payment outputs that end users want to receive, such as bank payments. This has the potential to allow smart contract to mimic the vast majority of financial agreements currently available in the market. With the Chainlink Network, anyone can securely provide smart contracts with access to key external data and any other API capabilities, in exchange for financial reward. Although it remains to be seen how the incentive system will operate, there is potential for rewards similar to those available for crypto miners to be available to Node Operators that provide useful data to the Chainlink network.\"\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/chainlink-link/\">CoinBureau</a> for the complete review on Chainlink."
+    },
+    "links": {
+        "homepage": [
+            "https://chain.link/",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "https://ethplorer.io/address/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "https://blockchair.com/ethereum/erc-20/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "https://explorer.chain.link",
+            ""
+        ],
+        "official_forum_url": [
+            "",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "https://blog.chain.link/",
+            ""
+        ],
+        "twitter_screen_name": "chainlink",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": null,
+        "telegram_channel_identifier": "chainlinkofficial",
+        "subreddit_url": "https://www.reddit.com/r/Chainlink/",
+        "repos_url": {
+            "github": [
+                "https://github.com/smartcontractkit/chainlink",
+                "https://github.com/smartcontractkit/chainlink-ruby"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1547034700",
+        "small": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
+        "large": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1547034700"
+    },
+    "country_origin": "",
+    "genesis_date": "2017-09-16",
+    "contract_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "sentiment_votes_up_percentage": 86.6,
+    "sentiment_votes_down_percentage": 13.4,
+    "market_cap_rank": 9,
+    "coingecko_rank": 9,
+    "coingecko_score": 64.022,
+    "developer_score": 84.493,
+    "community_score": 46.817,
+    "liquidity_score": 78.815,
+    "public_interest_score": 0.041,
+    "public_interest_stats": {
+        "alexa_rank": 41366,
+        "bing_matches": null
+    },
+    "status_updates": [],
+    "last_updated": "2021-01-19T05:42:05.155Z",
+    "tickers": [
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 21.5491,
+            "volume": 11845255.23175715,
+            "converted_last": {
+                "btc": 0.00059222,
+                "eth": 0.01631816,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 7015,
+                "eth": 193293,
+                "usd": 255274354
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.120432,
+            "timestamp": "2021-01-19T05:41:42+00:00",
+            "last_traded_at": "2021-01-19T05:41:42+00:00",
+            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 21.5365,
+            "volume": 48461.07317112808,
+            "converted_last": {
+                "btc": 0.00059188,
+                "eth": 0.01630861,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 28.682902,
+                "eth": 790.333,
+                "usd": 1043763
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150823,
+            "timestamp": "2021-01-19T05:41:21+00:00",
+            "last_traded_at": "2021-01-19T05:41:21+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LINK/USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 21.5685,
+            "volume": 129384.0516540325,
+            "converted_last": {
+                "btc": 0.00059271,
+                "eth": 0.01633158,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 76.687,
+                "eth": 2113,
+                "usd": 2790620
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.125154,
+            "timestamp": "2021-01-19T05:41:22+00:00",
+            "last_traded_at": "2021-01-19T05:41:22+00:00",
+            "last_fetch_at": "2021-01-19T05:41:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LINK/USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 21.488,
+            "volume": 1444620.93,
+            "converted_last": {
+                "btc": 0.00059131,
+                "eth": 0.01629303,
+                "usd": 21.48
+            },
+            "converted_volume": {
+                "btc": 854.218,
+                "eth": 23537,
+                "usd": 31027777
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102721,
+            "timestamp": "2021-01-19T05:43:47+00:00",
+            "last_traded_at": "2021-01-19T05:43:47+00:00",
+            "last_fetch_at": "2021-01-19T05:43:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 21.606,
+            "volume": 218182.94967324,
+            "converted_last": {
+                "btc": 0.00059422,
+                "eth": 0.01637324,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 129.649,
+                "eth": 3572,
+                "usd": 4714061
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.231481,
+            "timestamp": "2021-01-19T05:42:24+00:00",
+            "last_traded_at": "2021-01-19T05:42:24+00:00",
+            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LINKUSD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 21.613,
+            "volume": 105037.25126775552,
+            "converted_last": {
+                "btc": 0.00059343,
+                "eth": 0.01635143,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 62.332,
+                "eth": 1718,
+                "usd": 2270170
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.51358,
+            "timestamp": "2021-01-19T05:39:38+00:00",
+            "last_traded_at": "2021-01-19T05:39:38+00:00",
+            "last_fetch_at": "2021-01-19T05:39:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/LINK/USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 0.0005938,
+            "volume": 5372.4494863590435,
+            "converted_last": {
+                "btc": 0.0005938,
+                "eth": 0.01636165,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 3.190161,
+                "eth": 87.902,
+                "usd": 116089
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.387042,
+            "timestamp": "2021-01-19T05:41:21+00:00",
+            "last_traded_at": "2021-01-19T05:41:21+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LINK/BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 21.591,
+            "volume": 35.11617108980594,
+            "converted_last": {
+                "btc": 0.00059337,
+                "eth": 0.01634988,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 0.02083698,
+                "eth": 0.57414533,
+                "usd": 758.89
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.523366,
+            "timestamp": "2021-01-19T05:39:39+00:00",
+            "last_traded_at": "2021-01-19T05:39:39+00:00",
+            "last_fetch_at": "2021-01-19T05:39:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/LINK/USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 21.57244,
+            "volume": 653657.63845602,
+            "converted_last": {
+                "btc": 0.00059183,
+                "eth": 0.01633573,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 386.854,
+                "eth": 10678,
+                "usd": 14100990
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188823,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/link/usd",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059395,
+            "volume": 564.053960771,
+            "converted_last": {
+                "btc": 0.00059395,
+                "eth": 0.01636579,
+                "usd": 21.63
+            },
+            "converted_volume": {
+                "btc": 0.33501985,
+                "eth": 9.231186,
+                "usd": 12201.6
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.648203,
+            "timestamp": "2021-01-19T05:39:39+00:00",
+            "last_traded_at": "2021-01-19T05:39:39+00:00",
+            "last_fetch_at": "2021-01-19T05:39:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/LINK/BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 21.57404,
+            "volume": 4160587.79,
+            "converted_last": {
+                "btc": 0.00059286,
+                "eth": 0.01633578,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 2467,
+                "eth": 67966,
+                "usd": 89760687
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.121462,
+            "timestamp": "2021-01-19T05:41:27+00:00",
+            "last_traded_at": "2021-01-19T05:41:27+00:00",
+            "last_fetch_at": "2021-01-19T05:41:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LINK-USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 21.5708,
+            "volume": 193756.44033409,
+            "converted_last": {
+                "btc": 0.00059277,
+                "eth": 0.01633332,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 114.853,
+                "eth": 3165,
+                "usd": 4179481
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12526,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 17.86606,
+            "volume": 345678.11032522,
+            "converted_last": {
+                "btc": 0.00059347,
+                "eth": 0.01635261,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 205.15,
+                "eth": 5653,
+                "usd": 7468520
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.196129,
+            "timestamp": "2021-01-19T05:40:12+00:00",
+            "last_traded_at": "2021-01-19T05:40:12+00:00",
+            "last_fetch_at": "2021-01-19T05:40:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/link/eur",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 21.4988,
+            "volume": 4782972.016599944,
+            "converted_last": {
+                "btc": 0.00059161,
+                "eth": 0.01630122,
+                "usd": 21.51
+            },
+            "converted_volume": {
+                "btc": 2830,
+                "eth": 77968,
+                "usd": 102886282
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.124189,
+            "timestamp": "2021-01-19T05:42:38+00:00",
+            "last_traded_at": "2021-01-19T05:42:38+00:00",
+            "last_fetch_at": "2021-01-19T05:42:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=link_usdt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059273,
+            "volume": 4395057.443338451,
+            "converted_last": {
+                "btc": 0.00059273,
+                "eth": 0.01633217,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 2605,
+                "eth": 71781,
+                "usd": 94798213
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150612,
+            "timestamp": "2021-01-19T05:41:10+00:00",
+            "last_traded_at": "2021-01-19T05:41:10+00:00",
+            "last_fetch_at": "2021-01-19T05:41:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 21.547,
+            "volume": 3949060.496,
+            "converted_last": {
+                "btc": 0.00059216,
+                "eth": 0.01634494,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 2338,
+                "eth": 64547,
+                "usd": 85238926
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.192756,
+            "timestamp": "2021-01-19T05:38:41+00:00",
+            "last_traded_at": "2021-01-19T05:38:41+00:00",
+            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=link_usdt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 21.52398,
+            "volume": 104963.28,
+            "converted_last": {
+                "btc": 0.00059257,
+                "eth": 0.0163278,
+                "usd": 21.52
+            },
+            "converted_volume": {
+                "btc": 62.198,
+                "eth": 1714,
+                "usd": 2259228
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110567,
+            "timestamp": "2021-01-19T05:43:58+00:00",
+            "last_traded_at": "2021-01-19T05:43:58+00:00",
+            "last_fetch_at": "2021-01-19T05:43:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LINK-to-USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 21.53735,
+            "volume": 105201.65,
+            "converted_last": {
+                "btc": 0.00059087,
+                "eth": 0.01630916,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 62.16,
+                "eth": 1716,
+                "usd": 2265765
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.144231,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/LINK-to-USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 161.23,
+            "volume": 908179.41,
+            "converted_last": {
+                "btc": 0.00059369,
+                "eth": 0.01635864,
+                "usd": 21.59
+            },
+            "converted_volume": {
+                "btc": 539.178,
+                "eth": 14857,
+                "usd": 19604625
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.339968,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/LINK_TRY",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "0X514910771AF9CA656AF840DFF83E8264ECF986CA",
+            "target": "ETH",
+            "market": {
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.0163281765004714,
+            "volume": 538749.034669131,
+            "converted_last": {
+                "btc": 0.00059255,
+                "eth": 0.0163272,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 319.235,
+                "eth": 8796,
+                "usd": 11616889
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.60272,
+            "timestamp": "2021-01-19T05:41:37+00:00",
+            "last_traded_at": "2021-01-19T05:41:37+00:00",
+            "last_fetch_at": "2021-01-19T05:41:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x514910771af9ca656af840dff83e8264ecf986ca",
+            "token_info_url": "https://sushiswap.fi/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 21.55,
+            "volume": 370333.08639082,
+            "converted_last": {
+                "btc": 0.00059268,
+                "eth": 0.01633081,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 219.489,
+                "eth": 6048,
+                "usd": 7980678
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.183318,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059224,
+            "volume": 82972.74573551262,
+            "converted_last": {
+                "btc": 0.00059224,
+                "eth": 0.01631867,
+                "usd": 21.51
+            },
+            "converted_volume": {
+                "btc": 49.139779,
+                "eth": 1354,
+                "usd": 1784905
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.157376,
+            "timestamp": "2021-01-19T05:43:16+00:00",
+            "last_traded_at": "2021-01-19T05:43:16+00:00",
+            "last_fetch_at": "2021-01-19T05:43:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/LINK-BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Phemex",
+                "identifier": "phemex",
+                "has_trading_incentive": false
+            },
+            "last": 21.5141,
+            "volume": 678378.75203855,
+            "converted_last": {
+                "btc": 0.00059013,
+                "eth": 0.01628886,
+                "usd": 21.51
+            },
+            "converted_volume": {
+                "btc": 400.333,
+                "eth": 11050,
+                "usd": 14592665
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110464,
+            "timestamp": "2021-01-19T05:37:30+00:00",
+            "last_traded_at": "2021-01-19T05:37:30+00:00",
+            "last_fetch_at": "2021-01-19T05:37:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://phemex.com/spot/trade/LINKUSDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0X514910771AF9CA656AF840DFF83E8264ECF986CA",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.0163194034024111,
+            "volume": 713340.789580441,
+            "converted_last": {
+                "btc": 0.00059305,
+                "eth": 0.01634091,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 423.045,
+                "eth": 11657,
+                "usd": 15394477
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602722,
+            "timestamp": "2021-01-19T05:41:25+00:00",
+            "last_traded_at": "2021-01-19T05:41:25+00:00",
+            "last_fetch_at": "2021-01-19T05:41:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x514910771af9ca656af840dff83e8264ecf986ca",
+            "token_info_url": "https://info.uniswap.org/token/0x514910771af9ca656af840dff83e8264ecf986ca",
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.016359,
+            "volume": 3993.39602557,
+            "converted_last": {
+                "btc": 0.00059367,
+                "eth": 0.01635802,
+                "usd": 21.6
+            },
+            "converted_volume": {
+                "btc": 2.370752,
+                "eth": 65.324,
+                "usd": 86271
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.349405,
+            "timestamp": "2021-01-19T05:41:36+00:00",
+            "last_traded_at": "2021-01-19T05:41:36+00:00",
+            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LINK_ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.000592,
+            "volume": 249782.15877595,
+            "converted_last": {
+                "btc": 0.000592,
+                "eth": 0.01634043,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 147.871,
+                "eth": 4082,
+                "usd": 5389960
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.105067,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/link/xbt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "EUR",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 17.82283,
+            "volume": 395826.38,
+            "converted_last": {
+                "btc": 0.00059228,
+                "eth": 0.01631979,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 234.44,
+                "eth": 6460,
+                "usd": 8531219
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106822,
+            "timestamp": "2021-01-19T05:41:31+00:00",
+            "last_traded_at": "2021-01-19T05:41:31+00:00",
+            "last_fetch_at": "2021-01-19T05:41:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LINK-EUR",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 21.571,
+            "volume": 48888.63,
+            "converted_last": {
+                "btc": 0.00059169,
+                "eth": 0.01633194,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 28.927041,
+                "eth": 798.446,
+                "usd": 1054429
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.164866,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.0005928,
+            "volume": 150694.27,
+            "converted_last": {
+                "btc": 0.0005928,
+                "eth": 0.01636251,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 89.332,
+                "eth": 2466,
+                "usd": 3256254
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167465,
+            "timestamp": "2021-01-19T05:37:04+00:00",
+            "last_traded_at": "2021-01-19T05:37:04+00:00",
+            "last_fetch_at": "2021-01-19T05:37:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "CoinAll",
+                "identifier": "coinall",
+                "has_trading_incentive": false
+            },
+            "last": 21.508,
+            "volume": 39.326,
+            "converted_last": {
+                "btc": 0.00059186,
+                "eth": 0.01630819,
+                "usd": 21.52
+            },
+            "converted_volume": {
+                "btc": 0.02327548,
+                "eth": 0.64133592,
+                "usd": 846.3
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.155791,
+            "timestamp": "2021-01-19T05:42:57+00:00",
+            "last_traded_at": "2021-01-19T05:42:57+00:00",
+            "last_fetch_at": "2021-01-19T05:42:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 21.507,
+            "volume": 9847.42,
+            "converted_last": {
+                "btc": 0.00059183,
+                "eth": 0.01630743,
+                "usd": 21.52
+            },
+            "converted_volume": {
+                "btc": 5.828021,
+                "eth": 160.586,
+                "usd": 211908
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.151141,
+            "timestamp": "2021-01-19T05:42:31+00:00",
+            "last_traded_at": "2021-01-19T05:42:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "UST",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 21.536,
+            "volume": 11931.630307559999,
+            "converted_last": {
+                "btc": 0.00058578,
+                "eth": 0.01614065,
+                "usd": 21.3
+            },
+            "converted_volume": {
+                "btc": 6.989301,
+                "eth": 192.584,
+                "usd": 254133
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.185874,
+            "timestamp": "2021-01-19T05:42:30+00:00",
+            "last_traded_at": "2021-01-19T05:42:30+00:00",
+            "last_fetch_at": "2021-01-19T05:42:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LINKUST",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059291,
+            "volume": 500958.78,
+            "converted_last": {
+                "btc": 0.00059291,
+                "eth": 0.01633713,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 297.023,
+                "eth": 8184,
+                "usd": 10808600
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174184,
+            "timestamp": "2021-01-19T05:41:20+00:00",
+            "last_traded_at": "2021-01-19T05:41:20+00:00",
+            "last_fetch_at": "2021-01-19T05:41:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LINK-BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "GBP",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 15.85,
+            "volume": 312175.54,
+            "converted_last": {
+                "btc": 0.00059259,
+                "eth": 0.01632823,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 184.991,
+                "eth": 5097,
+                "usd": 6731775
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174002,
+            "timestamp": "2021-01-19T05:41:26+00:00",
+            "last_traded_at": "2021-01-19T05:41:26+00:00",
+            "last_fetch_at": "2021-01-19T05:41:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LINK-GBP",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 21.6171,
+            "volume": 188290.6,
+            "converted_last": {
+                "btc": 0.00059237,
+                "eth": 0.01635056,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 111.537,
+                "eth": 3079,
+                "usd": 4069734
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.120327,
+            "timestamp": "2021-01-19T05:34:37+00:00",
+            "last_traded_at": "2021-01-19T05:34:37+00:00",
+            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/link",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Coineal",
+                "identifier": "coineal",
+                "has_trading_incentive": false
+            },
+            "last": 21.4948,
+            "volume": 938248.11,
+            "converted_last": {
+                "btc": 0.0005915,
+                "eth": 0.01629636,
+                "usd": 21.48
+            },
+            "converted_volume": {
+                "btc": 554.97,
+                "eth": 15290,
+                "usd": 20158131
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188698,
+            "timestamp": "2021-01-19T05:44:07+00:00",
+            "last_traded_at": "2021-01-19T05:44:07+00:00",
+            "last_fetch_at": "2021-01-19T05:44:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 23590.0,
+            "volume": 634211.68134826,
+            "converted_last": {
+                "btc": 0.00058761,
+                "eth": 0.01619099,
+                "usd": 21.39
+            },
+            "converted_volume": {
+                "btc": 372.667,
+                "eth": 10269,
+                "usd": 13566981
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.169492,
+            "timestamp": "2021-01-19T05:40:11+00:00",
+            "last_traded_at": "2021-01-19T05:40:11+00:00",
+            "last_fetch_at": "2021-01-19T05:40:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/LINK_KRW",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059309,
+            "volume": 470328.3754754655,
+            "converted_last": {
+                "btc": 0.00059309,
+                "eth": 0.01634209,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 278.947,
+                "eth": 7686,
+                "usd": 10132200
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.104465,
+            "timestamp": "2021-01-19T05:43:55+00:00",
+            "last_traded_at": "2021-01-19T05:43:55+00:00",
+            "last_fetch_at": "2021-01-19T05:43:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=link_btc",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.01629999,
+            "volume": 421584.98,
+            "converted_last": {
+                "btc": 0.00059234,
+                "eth": 0.01632147,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 249.722,
+                "eth": 6881,
+                "usd": 9087325
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198498,
+            "timestamp": "2021-01-19T05:41:20+00:00",
+            "last_traded_at": "2021-01-19T05:41:20+00:00",
+            "last_fetch_at": "2021-01-19T05:41:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LINK-ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.0005916,
+            "volume": 125971.77,
+            "converted_last": {
+                "btc": 0.0005916,
+                "eth": 0.01632938,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 74.525,
+                "eth": 2057,
+                "usd": 2716463
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.223071,
+            "timestamp": "2021-01-19T05:38:40+00:00",
+            "last_traded_at": "2021-01-19T05:38:40+00:00",
+            "last_fetch_at": "2021-01-19T05:38:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/LINK-to-BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 21.58,
+            "volume": 776938.495107924,
+            "converted_last": {
+                "btc": 0.000593,
+                "eth": 0.01633948,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 460.721,
+                "eth": 12695,
+                "usd": 16765502
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188084,
+            "timestamp": "2021-01-19T05:41:53+00:00",
+            "last_traded_at": "2021-01-19T05:41:53+00:00",
+            "last_fetch_at": "2021-01-19T05:41:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_BUSD",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Coineal",
+                "identifier": "coineal",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059321,
+            "volume": 102248.17,
+            "converted_last": {
+                "btc": 0.00059321,
+                "eth": 0.01634357,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 60.655,
+                "eth": 1671,
+                "usd": 2203152
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.196032,
+            "timestamp": "2021-01-19T05:44:06+00:00",
+            "last_traded_at": "2021-01-19T05:44:06+00:00",
+            "last_fetch_at": "2021-01-19T05:44:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059296,
+            "volume": 40004.25199003,
+            "converted_last": {
+                "btc": 0.00059296,
+                "eth": 0.01633851,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 23.720921,
+                "eth": 653.61,
+                "usd": 863198
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.415811,
+            "timestamp": "2021-01-19T05:41:35+00:00",
+            "last_traded_at": "2021-01-19T05:41:35+00:00",
+            "last_fetch_at": "2021-01-19T05:41:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.01642347,
+            "volume": 67007.2191613,
+            "converted_last": {
+                "btc": 0.00059765,
+                "eth": 0.01649638,
+                "usd": 21.78
+            },
+            "converted_volume": {
+                "btc": 40.046869,
+                "eth": 1105,
+                "usd": 1459725
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.323299,
+            "timestamp": "2021-01-19T05:38:22+00:00",
+            "last_traded_at": "2021-01-19T05:38:22+00:00",
+            "last_fetch_at": "2021-01-19T05:38:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/link/eth",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 23550.0,
+            "volume": 1156804.41734835,
+            "converted_last": {
+                "btc": 0.00058757,
+                "eth": 0.01618996,
+                "usd": 21.34
+            },
+            "converted_volume": {
+                "btc": 679.702,
+                "eth": 18729,
+                "usd": 24688842
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.127389,
+            "timestamp": "2021-01-19T05:43:27+00:00",
+            "last_traded_at": "2021-01-19T05:43:27+00:00",
+            "last_fetch_at": "2021-01-19T05:43:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.0005974,
+            "volume": 25471.24757305,
+            "converted_last": {
+                "btc": 0.0005974,
+                "eth": 0.01650195,
+                "usd": 21.78
+            },
+            "converted_volume": {
+                "btc": 15.216523,
+                "eth": 420.325,
+                "usd": 554890
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.134318,
+            "timestamp": "2021-01-19T05:29:41+00:00",
+            "last_traded_at": "2021-01-19T05:29:41+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "EUR",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 17.85,
+            "volume": 210215.80811226,
+            "converted_last": {
+                "btc": 0.00059366,
+                "eth": 0.01635793,
+                "usd": 21.59
+            },
+            "converted_volume": {
+                "btc": 124.798,
+                "eth": 3439,
+                "usd": 4537674
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110865,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059245,
+            "volume": 126140.72,
+            "converted_last": {
+                "btc": 0.00059245,
+                "eth": 0.01632445,
+                "usd": 21.52
+            },
+            "converted_volume": {
+                "btc": 74.732,
+                "eth": 2059,
+                "usd": 2714495
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.2107,
+            "timestamp": "2021-01-19T05:43:41+00:00",
+            "last_traded_at": "2021-01-19T05:43:41+00:00",
+            "last_fetch_at": "2021-01-19T05:43:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LINK-to-BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 21.5532,
+            "volume": 252836.03177715,
+            "converted_last": {
+                "btc": 0.00059233,
+                "eth": 0.01632126,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 149.763,
+                "eth": 4127,
+                "usd": 5449848
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188514,
+            "timestamp": "2021-01-19T05:41:38+00:00",
+            "last_traded_at": "2021-01-19T05:41:38+00:00",
+            "last_fetch_at": "2021-01-19T05:41:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 21.5796,
+            "volume": 43209.89375722,
+            "converted_last": {
+                "btc": 0.00059193,
+                "eth": 0.01633845,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 25.577168,
+                "eth": 705.983,
+                "usd": 932644
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.18284,
+            "timestamp": "2021-01-19T05:36:30+00:00",
+            "last_traded_at": "2021-01-19T05:36:30+00:00",
+            "last_fetch_at": "2021-01-19T05:36:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059267,
+            "volume": 8.377393828,
+            "converted_last": {
+                "btc": 0.00059267,
+                "eth": 0.01633052,
+                "usd": 21.53
+            },
+            "converted_volume": {
+                "btc": 0.00496503,
+                "eth": 0.13680717,
+                "usd": 180.34
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299522,
+            "timestamp": "2021-01-19T05:44:00+00:00",
+            "last_traded_at": "2021-01-19T05:44:00+00:00",
+            "last_fetch_at": "2021-01-19T05:44:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/BTC-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.016359,
+            "volume": 481403.8705764411,
+            "converted_last": {
+                "btc": 0.00059449,
+                "eth": 0.01638056,
+                "usd": 21.63
+            },
+            "converted_volume": {
+                "btc": 286.188,
+                "eth": 7886,
+                "usd": 10414296
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.244663,
+            "timestamp": "2021-01-19T05:41:04+00:00",
+            "last_traded_at": "2021-01-19T05:41:04+00:00",
+            "last_fetch_at": "2021-01-19T05:41:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 21.58,
+            "volume": 303045.9937395737,
+            "converted_last": {
+                "btc": 0.00059277,
+                "eth": 0.01633337,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 179.638,
+                "eth": 4950,
+                "usd": 6539733
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.105142,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/LINK_USD",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Resfinex",
+                "identifier": "resfinex",
+                "has_trading_incentive": false
+            },
+            "last": 21.5677,
+            "volume": 39596.109847426414,
+            "converted_last": {
+                "btc": 0.00059273,
+                "eth": 0.01633224,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 23.469903,
+                "eth": 646.693,
+                "usd": 854425
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.199954,
+            "timestamp": "2021-01-19T05:40:19+00:00",
+            "last_traded_at": "2021-01-19T05:40:19+00:00",
+            "last_fetch_at": "2021-01-19T05:40:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.resfinex.com/?pair=LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 21.5546,
+            "volume": 176884.20370159,
+            "converted_last": {
+                "btc": 0.00059237,
+                "eth": 0.01632232,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 104.781,
+                "eth": 2887,
+                "usd": 3812963
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.180308,
+            "timestamp": "2021-01-19T05:41:32+00:00",
+            "last_traded_at": "2021-01-19T05:41:32+00:00",
+            "last_fetch_at": "2021-01-19T05:41:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/LINK-USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 21.5605,
+            "volume": 1308826.2399,
+            "converted_last": {
+                "btc": 0.0005914,
+                "eth": 0.01632399,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 774.046,
+                "eth": 21365,
+                "usd": 28224757
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.303715,
+            "timestamp": "2021-01-19T05:36:07+00:00",
+            "last_traded_at": "2021-01-19T05:36:07+00:00",
+            "last_fetch_at": "2021-01-19T05:36:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 21.555,
+            "volume": 117309.25,
+            "converted_last": {
+                "btc": 0.00059315,
+                "eth": 0.01634383,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 69.582,
+                "eth": 1917,
+                "usd": 2530030
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.157488,
+            "timestamp": "2021-01-19T05:42:12+00:00",
+            "last_traded_at": "2021-01-19T05:42:12+00:00",
+            "last_fetch_at": "2021-01-19T05:42:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059121,
+            "volume": 55117.14651498,
+            "converted_last": {
+                "btc": 0.00059121,
+                "eth": 0.01631862,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 32.585808,
+                "eth": 899.436,
+                "usd": 1188207
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150252,
+            "timestamp": "2021-01-19T05:36:40+00:00",
+            "last_traded_at": "2021-01-19T05:36:40+00:00",
+            "last_fetch_at": "2021-01-19T05:36:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "EUR",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 17.84,
+            "volume": 153740.49114585202,
+            "converted_last": {
+                "btc": 0.00059285,
+                "eth": 0.01633551,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 91.145,
+                "eth": 2511,
+                "usd": 3316750
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167992,
+            "timestamp": "2021-01-19T05:41:05+00:00",
+            "last_traded_at": "2021-01-19T05:41:05+00:00",
+            "last_fetch_at": "2021-01-19T05:41:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_EUR",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059161,
+            "volume": 24470.317709301737,
+            "converted_last": {
+                "btc": 0.00059161,
+                "eth": 0.01632966,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 14.476885,
+                "eth": 399.592,
+                "usd": 527688
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.127043,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/LINK/BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 21.5535,
+            "volume": 52727.50099246062,
+            "converted_last": {
+                "btc": 0.00059234,
+                "eth": 0.01634987,
+                "usd": 21.59
+            },
+            "converted_volume": {
+                "btc": 31.232729,
+                "eth": 862.088,
+                "usd": 1138446
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.141302,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/LINK/USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Vindax",
+                "identifier": "vindax",
+                "has_trading_incentive": false
+            },
+            "last": 21.6993,
+            "volume": 585373.78,
+            "converted_last": {
+                "btc": 0.00059546,
+                "eth": 0.01649382,
+                "usd": 21.68
+            },
+            "converted_volume": {
+                "btc": 348.564,
+                "eth": 9655,
+                "usd": 12691450
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.103955,
+            "timestamp": "2021-01-19T05:19:59+00:00",
+            "last_traded_at": "2021-01-19T05:19:59+00:00",
+            "last_fetch_at": "2021-01-19T05:19:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vindax.com/exchange-base.html?symbol=LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.000592,
+            "volume": 236126.644,
+            "converted_last": {
+                "btc": 0.000592,
+                "eth": 0.01631206,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 139.787,
+                "eth": 3852,
+                "usd": 5088962
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.168634,
+            "timestamp": "2021-01-19T05:40:51+00:00",
+            "last_traded_at": "2021-01-19T05:40:51+00:00",
+            "last_fetch_at": "2021-01-19T05:40:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=link_btc",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 0.016323,
+            "volume": 364454.25,
+            "converted_last": {
+                "btc": 0.00059236,
+                "eth": 0.01632202,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 215.889,
+                "eth": 5949,
+                "usd": 7849764
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.525865,
+            "timestamp": "2021-01-19T05:42:34+00:00",
+            "last_traded_at": "2021-01-19T05:42:34+00:00",
+            "last_fetch_at": "2021-01-19T05:42:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#LINK_ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059273,
+            "volume": 267969.0,
+            "converted_last": {
+                "btc": 0.00059273,
+                "eth": 0.01633217,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 158.833,
+                "eth": 4377,
+                "usd": 5782345
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.147224,
+            "timestamp": "2021-01-19T05:40:25+00:00",
+            "last_traded_at": "2021-01-19T05:40:25+00:00",
+            "last_fetch_at": "2021-01-19T05:40:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=linkbtc",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 21.5886,
+            "volume": 769.5,
+            "converted_last": {
+                "btc": 0.00059408,
+                "eth": 0.0163693,
+                "usd": 21.6
+            },
+            "converted_volume": {
+                "btc": 0.4571428,
+                "eth": 12.59618,
+                "usd": 16621.82
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.598108,
+            "timestamp": "2021-01-19T05:42:53+00:00",
+            "last_traded_at": "2021-01-19T05:42:53+00:00",
+            "last_fetch_at": "2021-01-19T05:42:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "BiKi",
+                "identifier": "biki",
+                "has_trading_incentive": false
+            },
+            "last": 21.5361,
+            "volume": 1014574.7148,
+            "converted_last": {
+                "btc": 0.00059186,
+                "eth": 0.01630831,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 600.49,
+                "eth": 16546,
+                "usd": 21860927
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.177032,
+            "timestamp": "2021-01-19T05:40:40+00:00",
+            "last_traded_at": "2021-01-19T05:40:40+00:00",
+            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.biki.com/trade/LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Currency.com",
+                "identifier": "currency",
+                "has_trading_incentive": false
+            },
+            "last": 21.54255,
+            "volume": 2831.0,
+            "converted_last": {
+                "btc": 0.00059041,
+                "eth": 0.01629643,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 1.671439,
+                "eth": 46.13519,
+                "usd": 60987
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.123118,
+            "timestamp": "2021-01-19T05:34:00+00:00",
+            "last_traded_at": "2021-01-19T05:34:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.currency.com/link-to-usd",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 21.5942,
+            "volume": 166898.6611605431,
+            "converted_last": {
+                "btc": 0.00059221,
+                "eth": 0.01631794,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 98.84,
+                "eth": 2723,
+                "usd": 3596747
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110752,
+            "timestamp": "2021-01-19T05:41:21+00:00",
+            "last_traded_at": "2021-01-19T05:41:21+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_USDC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 21.502,
+            "volume": 932043.696,
+            "converted_last": {
+                "btc": 0.00059169,
+                "eth": 0.01630364,
+                "usd": 21.51
+            },
+            "converted_volume": {
+                "btc": 551.485,
+                "eth": 15196,
+                "usd": 20052132
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.109302,
+            "timestamp": "2021-01-19T05:42:33+00:00",
+            "last_traded_at": "2021-01-19T05:42:33+00:00",
+            "last_fetch_at": "2021-01-19T05:42:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059169,
+            "volume": 492084.4490155318,
+            "converted_last": {
+                "btc": 0.00059169,
+                "eth": 0.01630351,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 291.161,
+                "eth": 8023,
+                "usd": 10604254
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.127034,
+            "timestamp": "2021-01-19T05:39:28+00:00",
+            "last_traded_at": "2021-01-19T05:39:28+00:00",
+            "last_fetch_at": "2021-01-19T05:39:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 21.5444,
+            "volume": 204045.22,
+            "converted_last": {
+                "btc": 0.00059209,
+                "eth": 0.0163146,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 120.814,
+                "eth": 3329,
+                "usd": 4398234
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.11485,
+            "timestamp": "2021-01-19T05:40:47+00:00",
+            "last_traded_at": "2021-01-19T05:40:47+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/link_usdt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 21.5302,
+            "volume": 215553.44,
+            "converted_last": {
+                "btc": 0.00059247,
+                "eth": 0.01632502,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 127.709,
+                "eth": 3519,
+                "usd": 4643532
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.132078,
+            "timestamp": "2021-01-19T05:42:17+00:00",
+            "last_traded_at": "2021-01-19T05:42:17+00:00",
+            "last_fetch_at": "2021-01-19T05:42:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.000593,
+            "volume": 1973.159,
+            "converted_last": {
+                "btc": 0.000593,
+                "eth": 0.01636803,
+                "usd": 21.63
+            },
+            "converted_volume": {
+                "btc": 1.170083,
+                "eth": 32.296721,
+                "usd": 42674
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.3367,
+            "timestamp": "2021-01-19T05:35:50+00:00",
+            "last_traded_at": "2021-01-19T05:35:50+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059259,
+            "volume": 84669.35,
+            "converted_last": {
+                "btc": 0.00059259,
+                "eth": 0.01632831,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 50.174,
+                "eth": 1383,
+                "usd": 1824346
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.294906,
+            "timestamp": "2021-01-19T05:42:15+00:00",
+            "last_traded_at": "2021-01-19T05:42:15+00:00",
+            "last_fetch_at": "2021-01-19T05:42:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Vindax",
+                "identifier": "vindax",
+                "has_trading_incentive": false
+            },
+            "last": 0.01628852,
+            "volume": 190716.0,
+            "converted_last": {
+                "btc": 0.00059274,
+                "eth": 0.01636083,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 113.045,
+                "eth": 3120,
+                "usd": 4122060
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.488499,
+            "timestamp": "2021-01-19T05:36:14+00:00",
+            "last_traded_at": "2021-01-19T05:36:14+00:00",
+            "last_fetch_at": "2021-01-19T05:36:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vindax.com/exchange-base.html?symbol=LINK_ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 21.70148,
+            "volume": 16219.30421754,
+            "converted_last": {
+                "btc": 0.00059527,
+                "eth": 0.01643073,
+                "usd": 21.7
+            },
+            "converted_volume": {
+                "btc": 9.654892,
+                "eth": 266.495,
+                "usd": 351925
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.313237,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/link/usdt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 21.54,
+            "volume": 36675.951717734446,
+            "converted_last": {
+                "btc": 0.00059301,
+                "eth": 0.01633995,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 21.749291,
+                "eth": 599.283,
+                "usd": 790000
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.370885,
+            "timestamp": "2021-01-19T05:43:59+00:00",
+            "last_traded_at": "2021-01-19T05:43:59+00:00",
+            "last_fetch_at": "2021-01-19T05:43:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/USD-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.016336,
+            "volume": 4557.5,
+            "converted_last": {
+                "btc": 0.00059283,
+                "eth": 0.01633502,
+                "usd": 21.53
+            },
+            "converted_volume": {
+                "btc": 2.701838,
+                "eth": 74.447,
+                "usd": 98139
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.341629,
+            "timestamp": "2021-01-19T05:43:38+00:00",
+            "last_traded_at": "2021-01-19T05:43:38+00:00",
+            "last_fetch_at": "2021-01-19T05:43:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LINK-to-ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 0.016312,
+            "volume": 8.848321481,
+            "converted_last": {
+                "btc": 0.00059196,
+                "eth": 0.01631102,
+                "usd": 21.5
+            },
+            "converted_volume": {
+                "btc": 0.00523787,
+                "eth": 0.14432516,
+                "usd": 190.26
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.54942,
+            "timestamp": "2021-01-19T05:44:00+00:00",
+            "last_traded_at": "2021-01-19T05:44:00+00:00",
+            "last_fetch_at": "2021-01-19T05:44:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/ETH-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 21.5362,
+            "volume": 55027.78,
+            "converted_last": {
+                "btc": 0.00059187,
+                "eth": 0.01630839,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 32.569119,
+                "eth": 897.414,
+                "usd": 1185683
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.164038,
+            "timestamp": "2021-01-19T05:40:24+00:00",
+            "last_traded_at": "2021-01-19T05:40:24+00:00",
+            "last_fetch_at": "2021-01-19T05:40:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=linkusdt",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USD",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 21.57335273,
+            "volume": 41578.11167033,
+            "converted_last": {
+                "btc": 0.00059164,
+                "eth": 0.01633036,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 24.599081,
+                "eth": 678.986,
+                "usd": 896979
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.674447,
+            "timestamp": "2021-01-19T05:36:37+00:00",
+            "last_traded_at": "2021-01-19T05:36:37+00:00",
+            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.01632,
+            "volume": 178085.0,
+            "converted_last": {
+                "btc": 0.00059307,
+                "eth": 0.01634151,
+                "usd": 21.59
+            },
+            "converted_volume": {
+                "btc": 105.617,
+                "eth": 2910,
+                "usd": 3844988
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.17139,
+            "timestamp": "2021-01-19T05:40:22+00:00",
+            "last_traded_at": "2021-01-19T05:40:22+00:00",
+            "last_fetch_at": "2021-01-19T05:40:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=linketh",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059761,
+            "volume": 5550.890203,
+            "converted_last": {
+                "btc": 0.00059761,
+                "eth": 0.01646663,
+                "usd": 21.75
+            },
+            "converted_volume": {
+                "btc": 3.317267,
+                "eth": 91.404,
+                "usd": 120714
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.447902,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.016313,
+            "volume": 16475.26492727,
+            "converted_last": {
+                "btc": 0.00059363,
+                "eth": 0.01638542,
+                "usd": 21.65
+            },
+            "converted_volume": {
+                "btc": 9.780213,
+                "eth": 269.954,
+                "usd": 356691
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.195117,
+            "timestamp": "2021-01-19T05:35:53+00:00",
+            "last_traded_at": "2021-01-19T05:35:53+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.016309,
+            "volume": 2124.215019314489,
+            "converted_last": {
+                "btc": 0.00059348,
+                "eth": 0.0163814,
+                "usd": 21.63
+            },
+            "converted_volume": {
+                "btc": 1.260689,
+                "eth": 34.797619,
+                "usd": 45953
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.233143,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/LINK/ETH",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 21.5541,
+            "volume": 177744.19485596,
+            "converted_last": {
+                "btc": 0.00059123,
+                "eth": 0.01631915,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 105.088,
+                "eth": 2901,
+                "usd": 3830580
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.043611,
+            "timestamp": "2021-01-19T05:37:30+00:00",
+            "last_traded_at": "2021-01-19T05:37:30+00:00",
+            "last_fetch_at": "2021-01-19T05:37:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "Dex-Trade",
+                "identifier": "dextrade",
+                "has_trading_incentive": false
+            },
+            "last": 21.5407,
+            "volume": 11679.33395835,
+            "converted_last": {
+                "btc": 0.00059199,
+                "eth": 0.01631179,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 6.914055,
+                "eth": 190.511,
+                "usd": 251601
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.157667,
+            "timestamp": "2021-01-19T05:41:14+00:00",
+            "last_traded_at": "2021-01-19T05:41:14+00:00",
+            "last_fetch_at": "2021-01-19T05:41:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDC",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 21.6104,
+            "volume": 732.000462184874,
+            "converted_last": {
+                "btc": 0.00059266,
+                "eth": 0.01635859,
+                "usd": 21.6
+            },
+            "converted_volume": {
+                "btc": 0.43382587,
+                "eth": 11.974492,
+                "usd": 15813.13
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.138982,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/LINK/USDC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "LINK",
+            "target": "GBP",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 15.886,
+            "volume": 29879.271409417095,
+            "converted_last": {
+                "btc": 0.00059393,
+                "eth": 0.01636531,
+                "usd": 21.61
+            },
+            "converted_volume": {
+                "btc": 17.746279,
+                "eth": 488.984,
+                "usd": 645782
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.138556,
+            "timestamp": "2021-01-19T05:41:34+00:00",
+            "last_traded_at": "2021-01-19T05:41:34+00:00",
+            "last_fetch_at": "2021-01-19T05:41:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LINK_GBP",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059272,
+            "volume": 504797.7,
+            "converted_last": {
+                "btc": 0.00059272,
+                "eth": 0.01633189,
+                "usd": 21.53
+            },
+            "converted_volume": {
+                "btc": 299.204,
+                "eth": 8244,
+                "usd": 10867983
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.316722,
+            "timestamp": "2021-01-19T05:43:13+00:00",
+            "last_traded_at": "2021-01-19T05:43:13+00:00",
+            "last_fetch_at": "2021-01-19T05:43:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 21.555,
+            "volume": 686194.52,
+            "converted_last": {
+                "btc": 0.00059238,
+                "eth": 0.01632262,
+                "usd": 21.57
+            },
+            "converted_volume": {
+                "btc": 406.49,
+                "eth": 11200,
+                "usd": 14798331
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.406626,
+            "timestamp": "2021-01-19T05:40:45+00:00",
+            "last_traded_at": "2021-01-19T05:40:45+00:00",
+            "last_fetch_at": "2021-01-19T05:40:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 0.0163299,
+            "volume": 9730.642433,
+            "converted_last": {
+                "btc": 0.00059196,
+                "eth": 0.01635165,
+                "usd": 21.6
+            },
+            "converted_volume": {
+                "btc": 5.76014,
+                "eth": 159.112,
+                "usd": 210136
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.654322,
+            "timestamp": "2021-01-19T05:31:31+00:00",
+            "last_traded_at": "2021-01-19T05:31:31+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059398,
+            "volume": 129580.4,
+            "converted_last": {
+                "btc": 0.00059398,
+                "eth": 0.01639508,
+                "usd": 21.67
+            },
+            "converted_volume": {
+                "btc": 76.968,
+                "eth": 2124,
+                "usd": 2808390
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.263069,
+            "timestamp": "2021-01-19T05:34:39+00:00",
+            "last_traded_at": "2021-01-19T05:34:39+00:00",
+            "last_fetch_at": "2021-01-19T05:34:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/link",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "SGD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 28.7,
+            "volume": 108.88785365853659,
+            "converted_last": {
+                "btc": 0.00059402,
+                "eth": 0.01636765,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 0.0646813,
+                "eth": 1.782238,
+                "usd": 2349.42
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.590688,
+            "timestamp": "2021-01-19T05:44:00+00:00",
+            "last_traded_at": "2021-01-19T05:44:00+00:00",
+            "last_fetch_at": "2021-01-19T05:44:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/SGD-LINK",
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.01633141,
+            "volume": 29059.979151616655,
+            "converted_last": {
+                "btc": 0.00059267,
+                "eth": 0.01633043,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 17.222887,
+                "eth": 474.562,
+                "usd": 626228
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106439,
+            "timestamp": "2021-01-19T05:42:43+00:00",
+            "last_traded_at": "2021-01-19T05:42:43+00:00",
+            "last_fetch_at": "2021-01-19T05:42:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=link_eth",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LINK",
+            "target": "BTC",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.00059287,
+            "volume": 102235.24813196823,
+            "converted_last": {
+                "btc": 0.00059287,
+                "eth": 0.01633603,
+                "usd": 21.58
+            },
+            "converted_volume": {
+                "btc": 60.612,
+                "eth": 1670,
+                "usd": 2206595
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102842,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/LINK_BTC",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LINK",
+            "target": "TRY",
+            "market": {
+                "name": "Paribu",
+                "identifier": "paribu",
+                "has_trading_incentive": false
+            },
+            "last": 161.01,
+            "volume": 208236.45478626,
+            "converted_last": {
+                "btc": 0.0005924,
+                "eth": 0.01632308,
+                "usd": 21.56
+            },
+            "converted_volume": {
+                "btc": 123.359,
+                "eth": 3399,
+                "usd": 4489011
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106211,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "chainlink"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 21.5001,
+            "volume": 316516.73177119,
+            "converted_last": {
+                "btc": 0.00059164,
+                "eth": 0.0163022,
+                "usd": 21.51
+            },
+            "converted_volume": {
+                "btc": 187.265,
+                "eth": 5160,
+                "usd": 6808988
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.169719,
+            "timestamp": "2021-01-19T05:42:25+00:00",
+            "last_traded_at": "2021-01-19T05:42:25+00:00",
+            "last_fetch_at": "2021-01-19T05:42:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=LINK#limit",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LINK",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 21.5239,
+            "volume": 78255.94,
+            "converted_last": {
+                "btc": 0.0005923,
+                "eth": 0.01632025,
+                "usd": 21.54
+            },
+            "converted_volume": {
+                "btc": 46.350781,
+                "eth": 1277,
+                "usd": 1685325
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.100869,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#LINK_USDT",
+            "token_info_url": null,
+            "coin_id": "chainlink",
+            "target_coin_id": "tether"
+        }
+    ]
+}

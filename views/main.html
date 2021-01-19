@@ -6,57 +6,138 @@
 		<link rel="stylesheet" href="/static/main.css" type="text/css">
 	</head>
 	<body>
-		<div>
+		<div style="padding-left: 20px;">
+			<button onclick="toggle('coin_table', true)">Trends</button>
+			<button onclick="toggle('exit_table', true)">Exits</button>
+			<button onclick="toggle('pie_chart')">Chart</button>
+			<button onclick="toggle('exchange_table')">Exchanges</button>
 		</div>
-		<div id="coin_table">
-			<div class="coin_header_row">
+		<div id="pie_chart" style="height: 400px; width: 100%;"></div>
+		<div id="exchange_table" class="table">
+			<div class="header_row">
+				<div>Coin</div>
+				<div>USDT</div>
+				<div>BTC</div>
+				<div>ETH</div>
+			</div>
+			{% for row in rows %}
+				<div class="row">
+					<div>{{row.coin|upper}}</div>
+					<div>{{row.exchanges["USDT"]|safe}}</div>
+					<div>{{row.exchanges["BTC"]|safe}}</div>
+					<div>{{row.exchanges["ETH"]|safe}}</div>
+				</div>
+			{% endfor %}
+		</div>
+
+		<div id="exit_table" class="table">
+			<div class="header_row exit_header_row">
 				<div>Coin</div>
 				<div>Total</div>
 				<div>Price</div>
-				<div>BTC Price</div>
-				<div>Worth</div>
-				<div>Sold</div>
-				<div class="sells">Sells</div>
+				<div>Bought @</div>
+				<div>Diff</div>
 				<div>Purchased</div>
+				<div>Worth</div>
+				<div>Profit</div>
+				<div>
+					<div class="multiple">2x</div>
+					<input id="2x" class='slider' type='range' step='5' min='0' max='100' value='10'/><label class='slider_label'>10%</label>
+				</div>
+				<div>
+					<div class="multiple">5x</div>
+					<input id="5x" class='slider' type='range' step='5' min='0' max='100' value='25'/><label class='slider_label'>25%</label>
+				</div>
+			</div>
+			{% for row in rows %}
+				<div class="row exit_row">
+					<div>{{row.coin|upper}}</div>
+					<div>{{row.amount}}</div>
+					<div>${{row.price}}</div>
+					<div>${{row.bought_at}}</div>
+					<div>{{row.diff}}x</div>
+					<div>${{row.purchased}}</div>
+					<div>${{row.worth}}</div>
+					<div>${{row.profit}}</div>
+					<div>{{row.multiple2|safe}}</div>
+					<div>{{row.multiple5|safe}}</div>
+				</div>
+			{% endfor %}
+			<div class="row tot_row">
+				<div>TOTAL</div>
+				<div>-</div>
+				<div>-</div>
+				<div>-</div>
+				<div>-</div>
+				<div>-</div>
+				<div>${{tot.tot_worth}}</div>
+				<div>${{tot.tot_profit}}</div>
+				<div>-</div>
+				<div>-</div>
+			</div>
+		</div>
+
+
+		<div id="coin_table" class="table">
+			<div class="header_row coin_header_row">
+				<div>Coin</div>
+				<div>Total</div>
+				<div>Price</div>
+				<div>Bought@</div>
+				<div class="sells">Sells</div>
+				<div>Diff</div>
+				<div>Worth</div>
+				<div>Purchased</div>
+				<div>Sold</div>
 				<div>Profit</div>
 				<div>1H</div>
 				<div>24H</div>
 				<div>7D</div>
 			</div>
 			{% for row in rows %}
-				<div class="coin_row">
+				<div class="row coin_row">
 					<div>{{row.coin|upper}}</div>
 					<div>{{row.amount}}</div>
 					<div>${{row.price}}</div>
-					<div>{{row.btc_price}}</div>
-					<div>${{row.worth}}</div>
-					<div>{{row.sold}}</div>
+					<div>${{row.bought_at}}</div>
 					<div class="sells">{{row.sells}}</div>
+					<div>{{row.diff}}x</div>
+					<div>${{row.worth}}</div>
 					<div>${{row.purchased}}</div>
+					<div>{{row.sold}}</div>
 					<div>${{row.profit}}</div>
 					<div>{{row.hour}}%</div>
 					<div>{{row.day}}%</div>
 					<div>{{row.week}}%</div>
 				</div>
 			{% endfor %}
-			<div class="coin_row tot_row">
+			<div class="row coin_row tot_row">
 				<div>TOTAL</div>
 				<div>-</div>
 				<div>-</div>
 				<div>-</div>
-				<div>${{tot.tot_worth}}</div>
-				<div>${{tot.tot_sold}}</div>
 				<div class="sells">-</div>
-				<div>${{tot.tot_purchased}}</div>
+				<div>-</div>
+				<div>${{tot.tot_worth}}</div>
+				
+				<!-- <div>${{tot.tot_purchased}}</div> -->
+				<div>-</div>
+				<div>${{tot.tot_sold}}</div>
 				<div>${{tot.tot_profit}}</div>
 				<div>-</div>
 				<div>-</div>
 				<div>-</div>
 			</div>
 		</div>
+		<script src="/static/canvasjs.min.js"></script>
 		<script src="/static/main.js"></script>
+		{% for row in rows %}
+			<script>add_data("{{row.perc}}", "{{row.coin}}");</script>
+		{% endfor %}
 		<script>
+			let data = {{data|tojson}};
 			color();
+			color(class_="exit_row");
 		</script>
 	</body>
 </html>

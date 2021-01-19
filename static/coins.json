@@ -16,12 +16,12 @@
 	},
 	"eth": {
 		"amt": 1.1000914,
-		"bought": 900,
+		"bought": 0,
 		"full": "ethereum"
 	},
 	"btc": {
 		"amt": 0.009803,
-		"bought": 650,
+		"bought": 0,
 		"full": "bitcoin",
 		"exchange": "gemini"
 	},
@@ -48,7 +48,8 @@
 	"enj": {
 		"amt": 1391,
 		"bought": 200,
-		"full": "enjin coin"
+		"full": "enjin coin",
+		"gecko": "enjincoin"
 	},
 	"qtum": {
 		"amt": 54,
@@ -64,17 +65,20 @@
 	"omg": {
 		"amt": 57.85,
 		"bought": 202,
-		"full": "omg network"
+		"full": "omg network",
+		"gecko": "omisego"
 	},
 	"grt": {
 		"amt": 700,
 		"bought": 250,
-		"full": "the graph"
+		"full": "the graph",
+		"gecko": "the-graph"
 	},
 	"vidt": {
 		"amt": 88,
 		"bought": 50,
-		"full": "vidt datalink"
+		"full": "vidt datalink",
+		"gecko": "v-id-blockchain"
 	},
 	"waves": {
 		"amt": 31.1187,
@@ -95,5 +99,10 @@
 		"amt": 5.494,
 		"bought": 0,
 		"full": "aave"
+	},
+	"dai": {
+		"amt": 135.8,
+		"bought": 0,
+		"full": "dai"
 	}
 }

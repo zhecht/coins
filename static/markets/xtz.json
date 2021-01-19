@@ -1,0 +1,3342 @@
+{
+    "id": "tezos",
+    "symbol": "xtz",
+    "name": "Tezos",
+    "asset_platform_id": null,
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+        "Smart Contract Platform"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "Tezos",
+        "de": "Tezos",
+        "es": "Tezos",
+        "fr": "Tezos",
+        "it": "Tezos",
+        "pl": "Tezos",
+        "ro": "Tezos",
+        "hu": "Tezos",
+        "nl": "Tezos",
+        "pt": "Tezos",
+        "sv": "Tezos",
+        "vi": "Tezos",
+        "tr": "Tezos",
+        "ru": "Tezos",
+        "ja": "\u30c6\u30be\u30b9",
+        "zh": "Tezos",
+        "zh-tw": "Tezos",
+        "ko": "\ud14c\uc870\uc2a4",
+        "ar": "Tezos",
+        "th": "Tezos",
+        "id": "Tezos"
+    },
+    "description": {
+        "en": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "de": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "es": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "fr": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "it": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "pl": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "ro": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "hu": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "nl": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "pt": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "sv": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "vi": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "tr": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "ru": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "ja": "",
+        "zh": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "zh-tw": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "ko": "",
+        "ar": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "th": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos.",
+        "id": "Tezos is a coin created by a former Morgan Stanley analyst, Arthur Breitman. It is a smart contract platform which is does not involve in mining Tezos coins. It is a coin that promotes themselves on major ideas of self-amendment and on-chain governance. It is an <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a>-like blockchain that hosts smart contracts. It allows the community to vote and improve its flaws. Any token holder may delegate their voting rights to others in the network. The coin uses a generic network shell which allow different transaction and consensus protocols that a blockchain needs to be compatible.\r\n\r\nThe source code is implemented on OCaml which is a fast, flexible and functional programming language which should suit an ambitious project and its technical requirements. Tezos\u2019 proof-of-stake consensus algorithm is different from the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Delegated+Proof-of-Stake&view=market\">delegated proof-of-stake (dPOS)</a> where they go by the name liquid proof-of-stake. This liquid proof-of-stake that Tezos uses focus in filling the gap between both security and decentralization but still being able to take advantage of the benefits that delegated proof-of-stake offers. The staking process in Tezos is called \u201cbaking\u201d. In this blockchain, bakers who make deposits will be rewarded for signing up and publishing blocks. However, if a baker commits any bad behavior the deposits will be forfeited.\r\n\r\nBaking & Endorsing\r\nBaking is what Tezos refers to as the action of signing and publishing a new block in the chain. Bakers need at least 8,000 XTZ to qualify as a delegate, and having additional delegated stake increases their chances of being selected as a Baker or Endorser.\r\n\r\nAt the beginning of each cycle (4096 blocks), the Bakers for each block are randomly selected and published. Bakers earn a block reward of 40 XTZ for baking a block.\r\n\r\nIn addition to the Baker, 32 Endorsers are randomly selected to verify the last block that was baked. Endorsers receive 2 XTZ for each block they endorse.\r\n\r\nBlock Rewards & Inflation\r\nBlock rewards are funded by protocol defined inflation. Rewards are calibrated so that the number of XTZ tokens grows at roughly 5.5% per year. If 100% of Tezos tokens are delegated, the annualized yield will be 5.5%. Currently, 38% of Tezos tokens have been delegated, including the 10% owned by the Tezos Foundation, so the annualized yield is currently 14%.\r\n\r\nTo ensure Bakers and Endorsers act honestly, they are required to post a security deposit for each block they Bake or Endorse. They forfeit this deposit in the event of malicious activity, such as double baking or double endorsing a block.\r\n\r\nIn 2018, Tezos successfully launched their main network after delaying the launch due to corporate governance disputes. The Tezos foundation planned to transition the network to a mainnet, or a more complete version. The foundation has also raised $232 million in July 2017 to build the network and issue a new type of cryptocurrency to its backers in one of the largest- ever initial coin offerings. The founders have also made it clear in their blog that the network is using a new blockchain technology hence unexpected issues may still occur affecting the network.\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/tezos-xtz/\">CoinBureau</a> for the complete review of Tezos."
+    },
+    "links": {
+        "homepage": [
+            "https://www.tezos.com/",
+            "https://tezos.foundation/",
+            ""
+        ],
+        "blockchain_site": [
+            "https://tzstats.com/",
+            "",
+            "https://tezblock.io",
+            "https://tzkt.io",
+            ""
+        ],
+        "official_forum_url": [
+            "https://www.tezos.ch/",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "",
+            ""
+        ],
+        "twitter_screen_name": "tezos",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": null,
+        "telegram_channel_identifier": "",
+        "subreddit_url": "https://www.reddit.com/r/tezos",
+        "repos_url": {
+            "github": [],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/976/thumb/Tezos-logo.png?1547034862",
+        "small": "https://assets.coingecko.com/coins/images/976/small/Tezos-logo.png?1547034862",
+        "large": "https://assets.coingecko.com/coins/images/976/large/Tezos-logo.png?1547034862"
+    },
+    "country_origin": "US",
+    "genesis_date": null,
+    "sentiment_votes_up_percentage": 89.22,
+    "sentiment_votes_down_percentage": 10.78,
+    "ico_data": {
+        "ico_start_date": "2017-07-01T00:00:00.000Z",
+        "ico_end_date": "2017-07-14T00:00:00.000Z",
+        "short_desc": "The self-amending crypto-ledger",
+        "description": "Tezos is a secure, future-proof smart contract system. Because Tezos has a built-in consensus mechanism, its protocol can evolve, and incorporate new innovations over time, without the risk of hard forks splitting the market. Tezos is its own blockchain, not a derivative of any other blockchain. We didn\u2019t just fork Bitcoin or Ethereum and add a layer onto it. We built our own from the ground up. Their smart contract language makes it easier to apply formal verification to any smart contract running on the Tezos blockchain. This allows developers to rule out weaknesses in code before uploading that code on the blockchain.Tezos relies on a less onerous, less computationally intensive, and less power-consuming proof-of-stake consensus algorithm, where bonded stakeholders validate transactions.",
+        "links": {
+            "web": "https://tezos.com/",
+            "blog": "",
+            "slack": "http://slack.tezos.com/",
+            "github": "https://github.com/tezos/tezos",
+            "twitter": "https://twitter.com/tez0s",
+            "facebook": "https://www.facebook.com/tezosledger/",
+            "telegram": "",
+            "whitepaper": "https://tezos.com/pdf/position_paper.pdf"
+        },
+        "softcap_currency": "",
+        "hardcap_currency": "",
+        "total_raised_currency": "USD",
+        "softcap_amount": null,
+        "hardcap_amount": null,
+        "total_raised": "232000000.0",
+        "quote_pre_sale_currency": "",
+        "base_pre_sale_amount": null,
+        "quote_pre_sale_amount": null,
+        "quote_public_sale_currency": "USD",
+        "base_public_sale_amount": 1.0,
+        "quote_public_sale_amount": 0.47,
+        "accepting_currencies": "BTC, ETH",
+        "country_origin": "US",
+        "pre_sale_start_date": null,
+        "pre_sale_end_date": null,
+        "whitelist_url": "",
+        "whitelist_start_date": null,
+        "whitelist_end_date": null,
+        "bounty_detail_url": "",
+        "amount_for_sale": null,
+        "kyc_required": true,
+        "whitelist_available": null,
+        "pre_sale_available": null,
+        "pre_sale_ended": false
+    },
+    "market_cap_rank": 18,
+    "coingecko_rank": 15,
+    "coingecko_score": 58.899,
+    "developer_score": 80.735,
+    "community_score": 46.501,
+    "liquidity_score": 63.341,
+    "public_interest_score": 0.011,
+    "public_interest_stats": {
+        "alexa_rank": 151590,
+        "bing_matches": null
+    },
+    "status_updates": [],
+    "last_updated": "2021-01-19T05:43:16.187Z",
+    "tickers": [
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 2.9936,
+            "volume": 824814.59821867,
+            "converted_last": {
+                "btc": 8.233e-05,
+                "eth": 0.00226858,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 67.908,
+                "eth": 1871,
+                "usd": 2469165
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167001,
+            "timestamp": "2021-01-19T05:42:27+00:00",
+            "last_traded_at": "2021-01-19T05:42:27+00:00",
+            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XTZUSD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 8.21e-05,
+            "volume": 132254.0106455542,
+            "converted_last": {
+                "btc": 8.21e-05,
+                "eth": 0.0022622,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 10.858054,
+                "eth": 299.184,
+                "usd": 394397
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.121655,
+            "timestamp": "2021-01-19T05:43:16+00:00",
+            "last_traded_at": "2021-01-19T05:43:16+00:00",
+            "last_fetch_at": "2021-01-19T05:43:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/XTZ-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 2.995,
+            "volume": 702729.85308563,
+            "converted_last": {
+                "btc": 8.217e-05,
+                "eth": 0.00226796,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 57.741,
+                "eth": 1594,
+                "usd": 2104676
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.186698,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/usd",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 8.206e-05,
+            "volume": 122470.00067261,
+            "converted_last": {
+                "btc": 8.206e-05,
+                "eth": 0.00226109,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 10.049888,
+                "eth": 276.916,
+                "usd": 365416
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.218898,
+            "timestamp": "2021-01-19T05:42:28+00:00",
+            "last_traded_at": "2021-01-19T05:42:28+00:00",
+            "last_fetch_at": "2021-01-19T05:42:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XTZBTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 2.9876,
+            "volume": 10712130.83886029,
+            "converted_last": {
+                "btc": 8.221e-05,
+                "eth": 0.00226531,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 880.678,
+                "eth": 24266,
+                "usd": 32047620
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.170441,
+            "timestamp": "2021-01-19T05:41:58+00:00",
+            "last_traded_at": "2021-01-19T05:41:58+00:00",
+            "last_fetch_at": "2021-01-19T05:41:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 2.4758,
+            "volume": 784482.45953328,
+            "converted_last": {
+                "btc": 8.214e-05,
+                "eth": 0.00226719,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 64.436,
+                "eth": 1779,
+                "usd": 2348728
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.205504,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eur",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 2.9917,
+            "volume": 5303290.09,
+            "converted_last": {
+                "btc": 8.221e-05,
+                "eth": 0.0022653,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 435.998,
+                "eth": 12014,
+                "usd": 15865853
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.170182,
+            "timestamp": "2021-01-19T05:41:25+00:00",
+            "last_traded_at": "2021-01-19T05:41:25+00:00",
+            "last_fetch_at": "2021-01-19T05:41:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 8.23e-05,
+            "volume": 3322177.7396111786,
+            "converted_last": {
+                "btc": 8.23e-05,
+                "eth": 0.00226771,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 273.415,
+                "eth": 7534,
+                "usd": 9941441
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.121655,
+            "timestamp": "2021-01-19T05:42:02+00:00",
+            "last_traded_at": "2021-01-19T05:42:02+00:00",
+            "last_fetch_at": "2021-01-19T05:42:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 2.9812,
+            "volume": 3045265.233741105,
+            "converted_last": {
+                "btc": 8.204e-05,
+                "eth": 0.00226046,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 249.824,
+                "eth": 6884,
+                "usd": 9083676
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123492,
+            "timestamp": "2021-01-19T05:42:46+00:00",
+            "last_traded_at": "2021-01-19T05:42:46+00:00",
+            "last_fetch_at": "2021-01-19T05:42:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 22.33,
+            "volume": 3011383.31,
+            "converted_last": {
+                "btc": 8.222e-05,
+                "eth": 0.00226564,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 247.611,
+                "eth": 6823,
+                "usd": 9003177
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.3125,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_TRY",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 2.987,
+            "volume": 6713088.19,
+            "converted_last": {
+                "btc": 8.209e-05,
+                "eth": 0.00226585,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 551.077,
+                "eth": 15211,
+                "usd": 20086994
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167056,
+            "timestamp": "2021-01-19T05:38:41+00:00",
+            "last_traded_at": "2021-01-19T05:38:41+00:00",
+            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 3265.0,
+            "volume": 3825104.48582716,
+            "converted_last": {
+                "btc": 8.131e-05,
+                "eth": 0.00224048,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 311.027,
+                "eth": 8570,
+                "usd": 11318174
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.30581,
+            "timestamp": "2021-01-19T05:41:50+00:00",
+            "last_traded_at": "2021-01-19T05:41:50+00:00",
+            "last_fetch_at": "2021-01-19T05:43:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 8.2e-05,
+            "volume": 457370.84713707,
+            "converted_last": {
+                "btc": 8.2e-05,
+                "eth": 0.00225944,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 37.504409,
+                "eth": 1033,
+                "usd": 1365353
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.121655,
+            "timestamp": "2021-01-19T05:40:11+00:00",
+            "last_traded_at": "2021-01-19T05:40:11+00:00",
+            "last_fetch_at": "2021-01-19T05:40:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/xbt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 2.9803,
+            "volume": 4417573.6325,
+            "converted_last": {
+                "btc": 8.201e-05,
+                "eth": 0.00225978,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 362.295,
+                "eth": 9983,
+                "usd": 13159656
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.127607,
+            "timestamp": "2021-01-19T05:43:44+00:00",
+            "last_traded_at": "2021-01-19T05:43:44+00:00",
+            "last_fetch_at": "2021-01-19T05:43:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 2.974507,
+            "volume": 1798408.4,
+            "converted_last": {
+                "btc": 8.189e-05,
+                "eth": 0.00225642,
+                "usd": 2.97
+            },
+            "converted_volume": {
+                "btc": 147.272,
+                "eth": 4058,
+                "usd": 5349378
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.488196,
+            "timestamp": "2021-01-19T05:43:20+00:00",
+            "last_traded_at": "2021-01-19T05:43:20+00:00",
+            "last_fetch_at": "2021-01-19T05:43:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XTZ-to-USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 2.979,
+            "volume": 78725.4365,
+            "converted_last": {
+                "btc": 8.198e-05,
+                "eth": 0.00225879,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 6.453634,
+                "eth": 177.824,
+                "usd": 234656
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.134138,
+            "timestamp": "2021-01-19T05:42:31+00:00",
+            "last_traded_at": "2021-01-19T05:42:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "CoinAll",
+                "identifier": "coinall",
+                "has_trading_incentive": false
+            },
+            "last": 2.98,
+            "volume": 70200.0,
+            "converted_last": {
+                "btc": 8.2e-05,
+                "eth": 0.00225955,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 5.756681,
+                "eth": 158.62,
+                "usd": 209314
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.134138,
+            "timestamp": "2021-01-19T05:42:52+00:00",
+            "last_traded_at": "2021-01-19T05:42:52+00:00",
+            "last_fetch_at": "2021-01-19T05:42:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 8.206e-05,
+            "volume": 481994.01,
+            "converted_last": {
+                "btc": 8.206e-05,
+                "eth": 0.00226109,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 39.552428,
+                "eth": 1090,
+                "usd": 1440520
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.170171,
+            "timestamp": "2021-01-19T05:39:53+00:00",
+            "last_traded_at": "2021-01-19T05:39:53+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 2.9874,
+            "volume": 53383.8,
+            "converted_last": {
+                "btc": 8.194e-05,
+                "eth": 0.00226183,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 4.374503,
+                "eth": 120.745,
+                "usd": 159456
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.117045,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "EUR",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 2.47007,
+            "volume": 479689.58,
+            "converted_last": {
+                "btc": 8.208e-05,
+                "eth": 0.00226176,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 39.374997,
+                "eth": 1085,
+                "usd": 1432845
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.234882,
+            "timestamp": "2021-01-19T05:41:32+00:00",
+            "last_traded_at": "2021-01-19T05:41:32+00:00",
+            "last_fetch_at": "2021-01-19T05:41:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-EUR",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 2.9849,
+            "volume": 176845.91512512983,
+            "converted_last": {
+                "btc": 8.214e-05,
+                "eth": 0.00226327,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 14.525918,
+                "eth": 400.249,
+                "usd": 527625
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.11342,
+            "timestamp": "2021-01-19T05:43:16+00:00",
+            "last_traded_at": "2021-01-19T05:43:16+00:00",
+            "last_fetch_at": "2021-01-19T05:43:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 8.217e-05,
+            "volume": 217203.07,
+            "converted_last": {
+                "btc": 8.217e-05,
+                "eth": 0.00226412,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 17.847576,
+                "eth": 491.775,
+                "usd": 649743
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243013,
+            "timestamp": "2021-01-19T05:40:23+00:00",
+            "last_traded_at": "2021-01-19T05:40:23+00:00",
+            "last_fetch_at": "2021-01-19T05:40:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=xtzbtc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 2.9873,
+            "volume": 36457.07,
+            "converted_last": {
+                "btc": 8.21e-05,
+                "eth": 0.00226215,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 2.993061,
+                "eth": 82.471,
+                "usd": 108963
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.180329,
+            "timestamp": "2021-01-19T05:40:26+00:00",
+            "last_traded_at": "2021-01-19T05:40:26+00:00",
+            "last_fetch_at": "2021-01-19T05:40:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=xtzusdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 8.21e-05,
+            "volume": 1702452.7963,
+            "converted_last": {
+                "btc": 8.21e-05,
+                "eth": 0.00226613,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 139.771,
+                "eth": 3858,
+                "usd": 5094724
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.303951,
+            "timestamp": "2021-01-19T05:38:42+00:00",
+            "last_traded_at": "2021-01-19T05:38:42+00:00",
+            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 8.2e-05,
+            "volume": 107352.97,
+            "converted_last": {
+                "btc": 8.2e-05,
+                "eth": 0.00226337,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 8.802944,
+                "eth": 242.979,
+                "usd": 320879
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243309,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 2.9916,
+            "volume": 870782.8096727504,
+            "converted_last": {
+                "btc": 8.208e-05,
+                "eth": 0.00226171,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 71.476,
+                "eth": 1969,
+                "usd": 2600990
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.163558,
+            "timestamp": "2021-01-19T05:41:12+00:00",
+            "last_traded_at": "2021-01-19T05:41:12+00:00",
+            "last_fetch_at": "2021-01-19T05:41:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_BUSD",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "XTZ",
+            "target": "GBP",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 2.20037,
+            "volume": 194859.57,
+            "converted_last": {
+                "btc": 8.227e-05,
+                "eth": 0.00226676,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 16.030247,
+                "eth": 441.7,
+                "usd": 583336
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.262155,
+            "timestamp": "2021-01-19T05:41:18+00:00",
+            "last_traded_at": "2021-01-19T05:41:18+00:00",
+            "last_fetch_at": "2021-01-19T05:41:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-GBP",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "ETH",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0022619,
+            "volume": 124637.58535611,
+            "converted_last": {
+                "btc": 8.199e-05,
+                "eth": 0.00226491,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 10.219519,
+                "eth": 282.293,
+                "usd": 372819
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.318274,
+            "timestamp": "2021-01-19T05:31:08+00:00",
+            "last_traded_at": "2021-01-19T05:31:08+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eth",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 8.215e-05,
+            "volume": 407377.8818342577,
+            "converted_last": {
+                "btc": 8.215e-05,
+                "eth": 0.00226357,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 33.466093,
+                "eth": 922.13,
+                "usd": 1216835
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.194529,
+            "timestamp": "2021-01-19T05:42:43+00:00",
+            "last_traded_at": "2021-01-19T05:42:43+00:00",
+            "last_fetch_at": "2021-01-19T05:42:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 8.228e-05,
+            "volume": 5302.9404,
+            "converted_last": {
+                "btc": 8.228e-05,
+                "eth": 0.00226716,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 0.43632594,
+                "eth": 12.022589,
+                "usd": 15848.68
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.24322,
+            "timestamp": "2021-01-19T05:43:43+00:00",
+            "last_traded_at": "2021-01-19T05:43:43+00:00",
+            "last_fetch_at": "2021-01-19T05:43:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 2.98369,
+            "volume": 829178.14,
+            "converted_last": {
+                "btc": 8.211e-05,
+                "eth": 0.00226235,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 68.08,
+                "eth": 1876,
+                "usd": 2475409
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.39891,
+            "timestamp": "2021-01-19T05:42:29+00:00",
+            "last_traded_at": "2021-01-19T05:42:29+00:00",
+            "last_fetch_at": "2021-01-19T05:42:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 2.9991,
+            "volume": 459277.69627554936,
+            "converted_last": {
+                "btc": 8.238e-05,
+                "eth": 0.00226995,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 37.835874,
+                "eth": 1043,
+                "usd": 1377420
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110173,
+            "timestamp": "2021-01-19T05:40:49+00:00",
+            "last_traded_at": "2021-01-19T05:40:49+00:00",
+            "last_fetch_at": "2021-01-19T05:40:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XTZ_USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 2.9921,
+            "volume": 95819.45,
+            "converted_last": {
+                "btc": 8.219e-05,
+                "eth": 0.00226465,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 7.875303,
+                "eth": 216.997,
+                "usd": 286701
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.400802,
+            "timestamp": "2021-01-19T05:40:40+00:00",
+            "last_traded_at": "2021-01-19T05:40:40+00:00",
+            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 2.986,
+            "volume": 479978.42709879,
+            "converted_last": {
+                "btc": 8.206e-05,
+                "eth": 0.00226116,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 39.38823,
+                "eth": 1085,
+                "usd": 1433327
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106789,
+            "timestamp": "2021-01-19T05:41:27+00:00",
+            "last_traded_at": "2021-01-19T05:41:27+00:00",
+            "last_fetch_at": "2021-01-19T05:41:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 3272.0,
+            "volume": 1372583.660579,
+            "converted_last": {
+                "btc": 8.15e-05,
+                "eth": 0.00224574,
+                "usd": 2.97
+            },
+            "converted_volume": {
+                "btc": 111.869,
+                "eth": 3082,
+                "usd": 4072613
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.488848,
+            "timestamp": "2021-01-19T05:40:10+00:00",
+            "last_traded_at": "2021-01-19T05:40:10+00:00",
+            "last_fetch_at": "2021-01-19T05:40:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/XTZ_KRW",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 2.985,
+            "volume": 518127.82,
+            "converted_last": {
+                "btc": 8.214e-05,
+                "eth": 0.00226334,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 42.559844,
+                "eth": 1173,
+                "usd": 1547486
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.731626,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 8.136e-05,
+            "volume": 407808.5,
+            "converted_last": {
+                "btc": 8.136e-05,
+                "eth": 0.00224181,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 33.1793,
+                "eth": 914.227,
+                "usd": 1205172
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.524204,
+            "timestamp": "2021-01-19T05:44:00+00:00",
+            "last_traded_at": "2021-01-19T05:44:00+00:00",
+            "last_fetch_at": "2021-01-19T05:44:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XTZ-to-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 2.98543,
+            "volume": 137289.57527257,
+            "converted_last": {
+                "btc": 8.189e-05,
+                "eth": 0.00226034,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 11.242692,
+                "eth": 310.322,
+                "usd": 409953
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.361023,
+            "timestamp": "2021-01-19T05:36:25+00:00",
+            "last_traded_at": "2021-01-19T05:36:25+00:00",
+            "last_fetch_at": "2021-01-19T05:36:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 19.03,
+            "volume": 401325.16563084,
+            "converted_last": {
+                "btc": 8.221e-05,
+                "eth": 0.0022652,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 32.992534,
+                "eth": 909.081,
+                "usd": 1201097
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.209974,
+            "timestamp": "2021-01-19T05:40:43+00:00",
+            "last_traded_at": "2021-01-19T05:40:43+00:00",
+            "last_fetch_at": "2021-01-19T05:40:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 2.9881,
+            "volume": 581240.612,
+            "converted_last": {
+                "btc": 8.212e-05,
+                "eth": 0.00226275,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 47.731603,
+                "eth": 1315,
+                "usd": 1737675
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.156879,
+            "timestamp": "2021-01-19T05:40:45+00:00",
+            "last_traded_at": "2021-01-19T05:40:45+00:00",
+            "last_fetch_at": "2021-01-19T05:40:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Coinone",
+                "identifier": "coinone",
+                "has_trading_incentive": false
+            },
+            "last": 3275.0,
+            "volume": 268013.5477,
+            "converted_last": {
+                "btc": 8.163e-05,
+                "eth": 0.00224917,
+                "usd": 2.97
+            },
+            "converted_volume": {
+                "btc": 21.877177,
+                "eth": 602.807,
+                "usd": 795459
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.336494,
+            "timestamp": "2021-01-19T05:42:14+00:00",
+            "last_traded_at": "2021-01-19T05:42:14+00:00",
+            "last_fetch_at": "2021-01-19T05:42:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinone.co.kr/exchange/trade/xtz/krw",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "SXC",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 19.1142,
+            "volume": 464767.454,
+            "converted_last": {
+                "btc": 8.235e-05,
+                "eth": 0.00226918,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 38.275245,
+                "eth": 1055,
+                "usd": 1393415
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.162798,
+            "timestamp": "2021-01-19T05:40:46+00:00",
+            "last_traded_at": "2021-01-19T05:40:46+00:00",
+            "last_fetch_at": "2021-01-19T05:40:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xtz_sxc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "sxc"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 2.9892,
+            "volume": 436591.8,
+            "converted_last": {
+                "btc": 8.191e-05,
+                "eth": 0.00226095,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 35.762197,
+                "eth": 987.111,
+                "usd": 1304880
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.264196,
+            "timestamp": "2021-01-19T05:34:37+00:00",
+            "last_traded_at": "2021-01-19T05:34:37+00:00",
+            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/xtz",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 8.239e-05,
+            "volume": 699411.99,
+            "converted_last": {
+                "btc": 8.239e-05,
+                "eth": 0.00226993,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 57.625,
+                "eth": 1588,
+                "usd": 2093090
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.272882,
+            "timestamp": "2021-01-19T05:44:11+00:00",
+            "last_traded_at": "2021-01-19T05:44:11+00:00",
+            "last_fetch_at": "2021-01-19T05:44:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 8.223e-05,
+            "volume": 173988.76,
+            "converted_last": {
+                "btc": 8.223e-05,
+                "eth": 0.00226578,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 14.307096,
+                "eth": 394.22,
+                "usd": 520852
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.172931,
+            "timestamp": "2021-01-19T05:40:47+00:00",
+            "last_traded_at": "2021-01-19T05:40:47+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 8.216e-05,
+            "volume": 200780.44278263,
+            "converted_last": {
+                "btc": 8.216e-05,
+                "eth": 0.00226385,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 16.496121,
+                "eth": 454.537,
+                "usd": 600289
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.145843,
+            "timestamp": "2021-01-19T05:41:28+00:00",
+            "last_traded_at": "2021-01-19T05:41:28+00:00",
+            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XTZ-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 8.162e-05,
+            "volume": 763066.2075,
+            "converted_last": {
+                "btc": 8.162e-05,
+                "eth": 0.00224897,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 62.281,
+                "eth": 1716,
+                "usd": 2262251
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.167369,
+            "timestamp": "2021-01-19T05:43:46+00:00",
+            "last_traded_at": "2021-01-19T05:43:46+00:00",
+            "last_fetch_at": "2021-01-19T05:43:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 8.19e-05,
+            "volume": 367403.8,
+            "converted_last": {
+                "btc": 8.19e-05,
+                "eth": 0.00226061,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 30.090371,
+                "eth": 830.557,
+                "usd": 1097928
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.389484,
+            "timestamp": "2021-01-19T05:34:39+00:00",
+            "last_traded_at": "2021-01-19T05:34:39+00:00",
+            "last_fetch_at": "2021-01-19T05:34:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/xtz",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 8.187e-05,
+            "volume": 119165.10313745,
+            "converted_last": {
+                "btc": 8.187e-05,
+                "eth": 0.00225978,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 9.756047,
+                "eth": 269.287,
+                "usd": 355744
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.158343,
+            "timestamp": "2021-01-19T05:36:37+00:00",
+            "last_traded_at": "2021-01-19T05:36:37+00:00",
+            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 8.22e-05,
+            "volume": 108956.09379562044,
+            "converted_last": {
+                "btc": 8.22e-05,
+                "eth": 0.00226495,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 8.956191,
+                "eth": 246.78,
+                "usd": 326051
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243013,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 2.9895,
+            "volume": 952178.361057702,
+            "converted_last": {
+                "btc": 8.216e-05,
+                "eth": 0.00226381,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 78.23,
+                "eth": 2156,
+                "usd": 2849168
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.15689,
+            "timestamp": "2021-01-19T05:39:32+00:00",
+            "last_traded_at": "2021-01-19T05:39:32+00:00",
+            "last_fetch_at": "2021-01-19T05:39:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/USDT-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.002264,
+            "volume": 72959.0157,
+            "converted_last": {
+                "btc": 8.216e-05,
+                "eth": 0.00226386,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 5.994354,
+                "eth": 165.169,
+                "usd": 217956
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.132567,
+            "timestamp": "2021-01-19T05:42:40+00:00",
+            "last_traded_at": "2021-01-19T05:42:40+00:00",
+            "last_fetch_at": "2021-01-19T05:42:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_eth",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 2.9879,
+            "volume": 9896.09,
+            "converted_last": {
+                "btc": 8.211e-05,
+                "eth": 0.0022626,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 0.81261463,
+                "eth": 22.390903,
+                "usd": 29583
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.367524,
+            "timestamp": "2021-01-19T05:40:06+00:00",
+            "last_traded_at": "2021-01-19T05:40:06+00:00",
+            "last_fetch_at": "2021-01-19T05:40:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BiKi",
+                "identifier": "biki",
+                "has_trading_incentive": false
+            },
+            "last": 2.9855,
+            "volume": 148018.163,
+            "converted_last": {
+                "btc": 8.205e-05,
+                "eth": 0.00226078,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 12.144707,
+                "eth": 334.637,
+                "usd": 442130
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.327365,
+            "timestamp": "2021-01-19T05:40:40+00:00",
+            "last_traded_at": "2021-01-19T05:40:40+00:00",
+            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.biki.com/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 2.984799,
+            "volume": 95621.74,
+            "converted_last": {
+                "btc": 8.214e-05,
+                "eth": 0.00226294,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 7.853993,
+                "eth": 216.386,
+                "usd": 285280
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.448112,
+            "timestamp": "2021-01-19T05:44:12+00:00",
+            "last_traded_at": "2021-01-19T05:44:12+00:00",
+            "last_fetch_at": "2021-01-19T05:44:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 2.99632455,
+            "volume": 22486.60494466,
+            "converted_last": {
+                "btc": 8.217e-05,
+                "eth": 0.00226812,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 1.847776,
+                "eth": 51.002,
+                "usd": 67377
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.370569,
+            "timestamp": "2021-01-19T05:36:38+00:00",
+            "last_traded_at": "2021-01-19T05:36:38+00:00",
+            "last_fetch_at": "2021-01-19T05:36:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 35.585,
+            "volume": 6129.64,
+            "converted_last": {
+                "btc": 8.24e-05,
+                "eth": 0.00227448,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 0.50509805,
+                "eth": 13.941752,
+                "usd": 18411.49
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.578896,
+            "timestamp": "2021-01-19T05:37:04+00:00",
+            "last_traded_at": "2021-01-19T05:37:04+00:00",
+            "last_fetch_at": "2021-01-19T05:37:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_CRO",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "crypto-com-chain"
+        },
+        {
+            "base": "XTZ",
+            "target": "ETH",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00225757,
+            "volume": 15515.55763005,
+            "converted_last": {
+                "btc": 8.215e-05,
+                "eth": 0.00226759,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 1.274649,
+                "eth": 35.182956,
+                "usd": 46479
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.279715,
+            "timestamp": "2021-01-19T05:36:35+00:00",
+            "last_traded_at": "2021-01-19T05:36:35+00:00",
+            "last_fetch_at": "2021-01-19T05:36:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XTZ",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.06597,
+            "volume": 76621.48056692437,
+            "converted_last": {
+                "btc": 8.191e-05,
+                "eth": 0.00226102,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 6.276445,
+                "eth": 173.243,
+                "usd": 228779
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.332527,
+            "timestamp": "2021-01-19T05:38:36+00:00",
+            "last_traded_at": "2021-01-19T05:38:36+00:00",
+            "last_fetch_at": "2021-01-19T05:41:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_BNB",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 2.997,
+            "volume": 57256.76611811812,
+            "converted_last": {
+                "btc": 8.223e-05,
+                "eth": 0.00226579,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 4.708256,
+                "eth": 129.732,
+                "usd": 171405
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.207032,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XTZ_BUSD",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 8.18e-05,
+            "volume": 574611.5505745722,
+            "converted_last": {
+                "btc": 8.18e-05,
+                "eth": 0.00225393,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 47.003225,
+                "eth": 1295,
+                "usd": 1711882
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243309,
+            "timestamp": "2021-01-19T05:39:27+00:00",
+            "last_traded_at": "2021-01-19T05:39:27+00:00",
+            "last_fetch_at": "2021-01-19T05:39:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "TRY",
+            "market": {
+                "name": "Paribu",
+                "identifier": "paribu",
+                "has_trading_incentive": false
+            },
+            "last": 22.41,
+            "volume": 558147.25720985,
+            "converted_last": {
+                "btc": 8.245e-05,
+                "eth": 0.00227191,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 46.020676,
+                "eth": 1268,
+                "usd": 1674679
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.451187,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 3.0001,
+            "volume": 47991.78423093,
+            "converted_last": {
+                "btc": 8.256e-05,
+                "eth": 0.00227479,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 3.962063,
+                "eth": 109.171,
+                "usd": 144062
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.655673,
+            "timestamp": "2021-01-19T05:42:21+00:00",
+            "last_traded_at": "2021-01-19T05:42:21+00:00",
+            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XTZ#limit",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 2.9853,
+            "volume": 1225742.2499,
+            "converted_last": {
+                "btc": 8.189e-05,
+                "eth": 0.00226024,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 100.372,
+                "eth": 2770,
+                "usd": 3659962
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.214715,
+            "timestamp": "2021-01-19T05:36:07+00:00",
+            "last_traded_at": "2021-01-19T05:36:07+00:00",
+            "last_fetch_at": "2021-01-19T05:36:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 2.99077162,
+            "volume": 35419.55563539,
+            "converted_last": {
+                "btc": 8.204e-05,
+                "eth": 0.00226439,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 2.90571,
+                "eth": 80.204,
+                "usd": 105954
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.237829,
+            "timestamp": "2021-01-19T05:36:39+00:00",
+            "last_traded_at": "2021-01-19T05:36:39+00:00",
+            "last_fetch_at": "2021-01-19T05:36:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 8.1821e-05,
+            "volume": 9490.21379294,
+            "converted_last": {
+                "btc": 8.182e-05,
+                "eth": 0.00225843,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 0.77649878,
+                "eth": 21.432974,
+                "usd": 28314
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.523496,
+            "timestamp": "2021-01-19T05:36:26+00:00",
+            "last_traded_at": "2021-01-19T05:36:26+00:00",
+            "last_fetch_at": "2021-01-19T05:36:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 2.9883,
+            "volume": 8214.5,
+            "converted_last": {
+                "btc": 8.189e-05,
+                "eth": 0.00226027,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 0.67266522,
+                "eth": 18.566953,
+                "usd": 24543
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.326874,
+            "timestamp": "2021-01-19T05:33:58+00:00",
+            "last_traded_at": "2021-01-19T05:33:58+00:00",
+            "last_fetch_at": "2021-01-19T05:40:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.002255,
+            "volume": 2814.84736695,
+            "converted_last": {
+                "btc": 8.206e-05,
+                "eth": 0.00226501,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 0.23098483,
+                "eth": 6.375659,
+                "usd": 8422.62
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.926334,
+            "timestamp": "2021-01-19T05:36:25+00:00",
+            "last_traded_at": "2021-01-19T05:36:25+00:00",
+            "last_fetch_at": "2021-01-19T05:36:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XTZ_ETH",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XTZ",
+            "target": "VET",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 101.33,
+            "volume": 193086.98,
+            "converted_last": {
+                "btc": 8.204e-05,
+                "eth": 0.00226061,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 15.841312,
+                "eth": 436.494,
+                "usd": 576705
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.22405,
+            "timestamp": "2021-01-19T05:40:52+00:00",
+            "last_traded_at": "2021-01-19T05:40:52+00:00",
+            "last_fetch_at": "2021-01-19T05:40:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/xtzvet",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "vechain"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 2.9783,
+            "volume": 67.7357,
+            "converted_last": {
+                "btc": 8.193e-05,
+                "eth": 0.00227464,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 0.0055498,
+                "eth": 0.15407465,
+                "usd": 201.9
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.557745,
+            "timestamp": "2021-01-19T04:54:45+00:00",
+            "last_traded_at": "2021-01-19T04:54:45+00:00",
+            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bitforex",
+                "identifier": "bitforex",
+                "has_trading_incentive": false
+            },
+            "last": 8.195e-05,
+            "volume": 69080.1282,
+            "converted_last": {
+                "btc": 8.195e-05,
+                "eth": 0.00226199,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 5.661117,
+                "eth": 156.259,
+                "usd": 206355
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.631605,
+            "timestamp": "2021-01-19T05:37:07+00:00",
+            "last_traded_at": "2021-01-19T05:37:07+00:00",
+            "last_fetch_at": "2021-01-19T05:37:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitforex.com/en/spot/xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 2.9861,
+            "volume": 112583.932,
+            "converted_last": {
+                "btc": 8.186e-05,
+                "eth": 0.00226126,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 9.216324,
+                "eth": 254.582,
+                "usd": 336272
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.116799,
+            "timestamp": "2021-01-19T05:30:36+00:00",
+            "last_traded_at": "2021-01-19T05:30:36+00:00",
+            "last_fetch_at": "2021-01-19T05:30:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/xtzusdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "XT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 0.40539,
+            "volume": 152894.554,
+            "converted_last": {
+                "btc": 8.218e-05,
+                "eth": 0.00226444,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 12.565118,
+                "eth": 346.221,
+                "usd": 457435
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.406164,
+            "timestamp": "2021-01-19T05:40:47+00:00",
+            "last_traded_at": "2021-01-19T05:40:47+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xtz_xt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "xtcom-token"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 2.99947287,
+            "volume": 19703.98667276,
+            "converted_last": {
+                "btc": 8.243e-05,
+                "eth": 0.00227136,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 1.624254,
+                "eth": 44.754939,
+                "usd": 59131
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.971688,
+            "timestamp": "2021-01-19T05:40:59+00:00",
+            "last_traded_at": "2021-01-19T05:40:59+00:00",
+            "last_fetch_at": "2021-01-19T05:40:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 8.184e-05,
+            "volume": 2236.52042451,
+            "converted_last": {
+                "btc": 8.184e-05,
+                "eth": 0.00226066,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 0.18303683,
+                "eth": 5.056016,
+                "usd": 6667.24
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.164483,
+            "timestamp": "2021-01-19T05:28:26+00:00",
+            "last_traded_at": "2021-01-19T05:28:26+00:00",
+            "last_fetch_at": "2021-01-19T05:40:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "HUSD",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 2.9963,
+            "volume": 15982.4495,
+            "converted_last": {
+                "btc": 8.242e-05,
+                "eth": 0.00227094,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 1.317232,
+                "eth": 36.295196,
+                "usd": 47895
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.870432,
+            "timestamp": "2021-01-19T05:42:42+00:00",
+            "last_traded_at": "2021-01-19T05:42:42+00:00",
+            "last_fetch_at": "2021-01-19T05:42:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_husd",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "husd"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 8.22e-05,
+            "volume": 2576.68,
+            "converted_last": {
+                "btc": 8.22e-05,
+                "eth": 0.00226889,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 0.2118031,
+                "eth": 5.846204,
+                "usd": 7728.2
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.409639,
+            "timestamp": "2021-01-19T05:35:00+00:00",
+            "last_traded_at": "2021-01-19T05:35:00+00:00",
+            "last_fetch_at": "2021-01-19T05:42:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 2.991,
+            "volume": 8869.5913,
+            "converted_last": {
+                "btc": 8.22e-05,
+                "eth": 0.00226495,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 0.72907963,
+                "eth": 20.089168,
+                "usd": 26531
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.131824,
+            "timestamp": "2021-01-19T05:41:20+00:00",
+            "last_traded_at": "2021-01-19T05:41:20+00:00",
+            "last_fetch_at": "2021-01-19T05:41:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 3278.0,
+            "volume": 8418.8222,
+            "converted_last": {
+                "btc": 8.164e-05,
+                "eth": 0.0022494,
+                "usd": 2.97
+            },
+            "converted_volume": {
+                "btc": 0.68727645,
+                "eth": 18.937317,
+                "usd": 25010
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.186492,
+            "timestamp": "2021-01-19T05:41:16+00:00",
+            "last_traded_at": "2021-01-19T05:41:16+00:00",
+            "last_fetch_at": "2021-01-19T05:41:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/XTZ-KRW",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 2.9893,
+            "volume": 6608181.4,
+            "converted_last": {
+                "btc": 8.2e-05,
+                "eth": 0.00226327,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 541.848,
+                "eth": 14956,
+                "usd": 19757903
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.166894,
+            "timestamp": "2021-01-19T05:36:42+00:00",
+            "last_traded_at": "2021-01-19T05:36:42+00:00",
+            "last_fetch_at": "2021-01-19T05:36:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=xtz",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BitAsset",
+                "identifier": "bitasset",
+                "has_trading_incentive": false
+            },
+            "last": 2.986,
+            "volume": 20863.6,
+            "converted_last": {
+                "btc": 8.206e-05,
+                "eth": 0.00226116,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 1.712119,
+                "eth": 47.175985,
+                "usd": 62304
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.101488,
+            "timestamp": "2021-01-19T05:41:17+00:00",
+            "last_traded_at": "2021-01-19T05:41:17+00:00",
+            "last_fetch_at": "2021-01-19T05:41:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitasset.com/ktrade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "DragonEx",
+                "identifier": "dragonex",
+                "has_trading_incentive": false
+            },
+            "last": 2.9876,
+            "volume": 402317.58,
+            "converted_last": {
+                "btc": 8.195e-05,
+                "eth": 0.00226199,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 32.969877,
+                "eth": 910.037,
+                "usd": 1201766
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.533689,
+            "timestamp": "2021-01-19T05:38:22+00:00",
+            "last_traded_at": "2021-01-19T05:38:22+00:00",
+            "last_fetch_at": "2021-01-19T05:38:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dragonex.io/en-us/trade/index/xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Bitsonic",
+                "identifier": "bitsonic",
+                "has_trading_incentive": false
+            },
+            "last": 3265.0,
+            "volume": 251328.8571209801,
+            "converted_last": {
+                "btc": 8.144e-05,
+                "eth": 0.00225224,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 20.467932,
+                "eth": 566.053,
+                "usd": 744920
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.752212,
+            "timestamp": "2021-01-19T05:25:42+00:00",
+            "last_traded_at": "2021-01-19T05:25:42+00:00",
+            "last_fetch_at": "2021-01-19T05:25:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitsonic.co.kr/front/en/exchange/xtz-krw",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 2.961,
+            "volume": 3387.76,
+            "converted_last": {
+                "btc": 8.084e-05,
+                "eth": 0.00224558,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 0.27387711,
+                "eth": 7.607502,
+                "usd": 10043.32
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.609205,
+            "timestamp": "2021-01-19T02:47:05+00:00",
+            "last_traded_at": "2021-01-19T02:47:05+00:00",
+            "last_fetch_at": "2021-01-19T05:43:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "ZG.com",
+                "identifier": "zg",
+                "has_trading_incentive": false
+            },
+            "last": 2.9588,
+            "volume": 34538.16,
+            "converted_last": {
+                "btc": 8.116e-05,
+                "eth": 0.00224018,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 2.803113,
+                "eth": 77.372,
+                "usd": 102213
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 3.884959,
+            "timestamp": "2021-01-19T05:36:03+00:00",
+            "last_traded_at": "2021-01-19T05:36:03+00:00",
+            "last_fetch_at": "2021-01-19T05:36:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.zg.com/exchange/737/XTZ/USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Liquid",
+                "identifier": "quoine",
+                "has_trading_incentive": false
+            },
+            "last": 8.151e-05,
+            "volume": 429.754954,
+            "converted_last": {
+                "btc": 8.151e-05,
+                "eth": 0.00225422,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 0.03502933,
+                "eth": 0.9687603,
+                "usd": 1280.6
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.065246,
+            "timestamp": "2021-01-19T03:40:49+00:00",
+            "last_traded_at": "2021-01-19T03:40:49+00:00",
+            "last_fetch_at": "2021-01-19T05:42:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.liquid.com/exchange/XTZBTC?lang=en",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-05,
+            "volume": 8820.3511,
+            "converted_last": {
+                "btc": 8.1e-05,
+                "eth": 0.00223014,
+                "usd": 2.96
+            },
+            "converted_volume": {
+                "btc": 0.71444844,
+                "eth": 19.670657,
+                "usd": 26099
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 4.529201,
+            "timestamp": "2021-01-19T04:29:37+00:00",
+            "last_traded_at": "2021-01-19T04:29:37+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 2.967579,
+            "volume": 3953.19293662,
+            "converted_last": {
+                "btc": 8.155e-05,
+                "eth": 0.00224704,
+                "usd": 2.97
+            },
+            "converted_volume": {
+                "btc": 0.32238262,
+                "eth": 8.882978,
+                "usd": 11731.41
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.69635,
+            "timestamp": "2021-01-19T05:41:41+00:00",
+            "last_traded_at": "2021-01-19T05:41:41+00:00",
+            "last_fetch_at": "2021-01-19T05:41:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XTZ_USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "ChainEX",
+                "identifier": "chainex",
+                "has_trading_incentive": false
+            },
+            "last": 8.192e-05,
+            "volume": 1831.0546875,
+            "converted_last": {
+                "btc": 8.192e-05,
+                "eth": 0.00226555,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 0.15,
+                "eth": 4.148342,
+                "usd": 5463.99
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 8.023529,
+            "timestamp": "2021-01-19T05:21:04+00:00",
+            "last_traded_at": "2021-01-19T05:21:04+00:00",
+            "last_fetch_at": "2021-01-19T05:36:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Bidesk",
+                "identifier": "bidesk",
+                "has_trading_incentive": false
+            },
+            "last": 2.9831,
+            "volume": 8577816.02,
+            "converted_last": {
+                "btc": 8.209e-05,
+                "eth": 0.0022619,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 704.147,
+                "eth": 19402,
+                "usd": 25623710
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.167319,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bidesk.com/exchange/XTZ/USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "HBTC",
+                "identifier": "hbtc",
+                "has_trading_incentive": false
+            },
+            "last": 2.987,
+            "volume": 8578885.74,
+            "converted_last": {
+                "btc": 8.193e-05,
+                "eth": 0.00226153,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 702.897,
+                "eth": 19401,
+                "usd": 25635125
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.314308,
+            "timestamp": "2021-01-19T05:35:44+00:00",
+            "last_traded_at": "2021-01-19T05:35:44+00:00",
+            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bhex.com/exchange/301/XTZ/USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bidesk",
+                "identifier": "bidesk",
+                "has_trading_incentive": false
+            },
+            "last": 8.194e-05,
+            "volume": 7709411.9,
+            "converted_last": {
+                "btc": 8.194e-05,
+                "eth": 0.00225779,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 631.709,
+                "eth": 17406,
+                "usd": 22987720
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.94294,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bidesk.com/exchange/XTZ/BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "HBTC",
+                "identifier": "hbtc",
+                "has_trading_incentive": false
+            },
+            "last": 8.165e-05,
+            "volume": 7715222.36,
+            "converted_last": {
+                "btc": 8.165e-05,
+                "eth": 0.00225371,
+                "usd": 2.98
+            },
+            "converted_volume": {
+                "btc": 629.948,
+                "eth": 17388,
+                "usd": 22974608
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 1.274117,
+            "timestamp": "2021-01-19T05:35:44+00:00",
+            "last_traded_at": "2021-01-19T05:35:44+00:00",
+            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bhex.com/exchange/301/XTZ/BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BitZ",
+                "identifier": "bit_z",
+                "has_trading_incentive": false
+            },
+            "last": 2.9889,
+            "volume": 1881856.08,
+            "converted_last": {
+                "btc": 8.214e-05,
+                "eth": 0.00226336,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 154.58,
+                "eth": 4259,
+                "usd": 5627497
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 3.791516,
+            "timestamp": "2021-01-19T05:40:52+00:00",
+            "last_traded_at": "2021-01-19T05:40:52+00:00",
+            "last_fetch_at": "2021-01-19T05:40:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bit-z.com/exchange/xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Sistemkoin",
+                "identifier": "sistemkoin",
+                "has_trading_incentive": false
+            },
+            "last": 8.198e-05,
+            "volume": 1380194.0189070506,
+            "converted_last": {
+                "btc": 8.198e-05,
+                "eth": 0.00226282,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 113.148,
+                "eth": 3123,
+                "usd": 4124302
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 61.628467,
+            "timestamp": "2021-01-19T05:38:19+00:00",
+            "last_traded_at": "2021-01-19T05:38:19+00:00",
+            "last_fetch_at": "2021-01-19T05:38:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 8.22e-05,
+            "volume": 2926.76485087,
+            "converted_last": {
+                "btc": 8.22e-05,
+                "eth": 0.00226749,
+                "usd": 3.01
+            },
+            "converted_volume": {
+                "btc": 0.24058007,
+                "eth": 6.636414,
+                "usd": 8807.97
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 8.75436,
+            "timestamp": "2021-01-19T03:28:11+00:00",
+            "last_traded_at": "2021-01-19T03:28:11+00:00",
+            "last_fetch_at": "2021-01-19T05:43:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 8.235e-05,
+            "volume": 23147.25097295,
+            "converted_last": {
+                "btc": 8.235e-05,
+                "eth": 0.00226908,
+                "usd": 2.99
+            },
+            "converted_volume": {
+                "btc": 1.906176,
+                "eth": 52.523,
+                "usd": 69309
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 100.0,
+            "timestamp": "2021-01-19T05:42:26+00:00",
+            "last_traded_at": "2021-01-19T05:42:26+00:00",
+            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=XTZ#limit",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 42577.0,
+            "volume": 10049.70653666,
+            "converted_last": {
+                "btc": 8.29e-05,
+                "eth": 0.00228435,
+                "usd": 3.02
+            },
+            "converted_volume": {
+                "btc": 0.83316089,
+                "eth": 22.957038,
+                "usd": 30318
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.889454,
+            "timestamp": "2021-01-19T05:41:10+00:00",
+            "last_traded_at": "2021-01-19T05:41:10+00:00",
+            "last_fetch_at": "2021-01-19T05:41:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "WBNB",
+            "market": {
+                "name": "PancakeSwap",
+                "identifier": "pancakeswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.06626260621796419,
+            "volume": 40133.04289042172,
+            "converted_last": {
+                "btc": 8.228e-05,
+                "eth": 0.00227105,
+                "usd": 3.0
+            },
+            "converted_volume": {
+                "btc": 3.302078,
+                "eth": 91.144,
+                "usd": 120365
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-19T05:37:20+00:00",
+            "last_traded_at": "2021-01-19T05:37:20+00:00",
+            "last_fetch_at": "2021-01-19T05:37:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.pancakeswap.finance/#/swap",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "wbnb"
+        },
+        {
+            "base": "XTZ",
+            "target": "XRP",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 9.8562,
+            "volume": 131980.05,
+            "converted_last": {
+                "btc": 8.095e-05,
+                "eth": 0.00223044,
+                "usd": 2.95
+            },
+            "converted_volume": {
+                "btc": 10.683441,
+                "eth": 294.373,
+                "usd": 388932
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.549763,
+            "timestamp": "2021-01-19T05:40:23+00:00",
+            "last_traded_at": "2021-01-19T05:40:23+00:00",
+            "last_fetch_at": "2021-01-19T05:40:23+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=xtzxrp",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ripple"
+        }
+    ]
+}

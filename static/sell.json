@@ -5,13 +5,38 @@
 			"sold": 0.4
 		}
 	],
+	"enj": [
+		{
+			"amt": 150,
+			"sold": 0.288,
+			"btc": 0.000008,
+			"soldAmt": 43.6,
+			"soldTo": "btc"
+		}
+	],
 	"link": [
 		{
 			"amt": 10,
 			"sold": 19,
 			"btc": 0.00049999,
 			"soldAmt": 185,
-			"soldTo": "BTC"
+			"soldTo": "btc"
+		}
+	],
+	"grt": [
+		{
+			"amt": 200,
+			"sold": 0.544,
+			"dai": 107.29,
+			"soldAmt": 107.29,
+			"soldTo": "dai"
+		},
+		{
+			"amt": 350,
+			"sold": 0.59999,
+			"dai": 209.9965,
+			"soldAmt": 209.9965,
+			"soldTo": "dai"
 		}
 	]
 }

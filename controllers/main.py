@@ -6,28 +6,28 @@ from requests.auth import AuthBase
 
 main = Blueprint('main', __name__, template_folder='views')
 
-# Create custom authentication for Exchange
-class CoinbaseExchangeAuth(AuthBase):
-	def __init__(self, api_key, secret_key, passphrase):
-		self.api_key = api_key
-		self.secret_key = secret_key
-		self.passphrase = passphrase
+def getExchanges(tickers):
+	exchanges = {}
+	for ticker in tickers["tickers"]:
+		if ticker["target"] not in exchanges:
+			exchanges[ticker["target"]] = []
+		exchanges[ticker["target"]].append(ticker["market"]["name"])
+	for target in exchanges:
+		exchanges[target] = ",".join(exchanges[target])
+	return exchanges
 
-	def __call__(self, request):
-		timestamp = str(time.time())
-		message = timestamp + request.method + request.path_url + (request.body or '')
-		hmac_key = base64.b64decode(self.secret_key)
-		signature = hmac.new(hmac_key, message, hashlib.sha256)
-		signature_b64 = signature.digest().encode('base64').rstrip('\n')
-
-		request.headers.update({
-			'CB-ACCESS-SIGN': signature_b64,
-			'CB-ACCESS-TIMESTAMP': timestamp,
-			'CB-ACCESS-KEY': self.api_key,
-			'CB-ACCESS-PASSPHRASE': self.passphrase,
-			'Content-Type': 'application/json'
-		})
-		return request
+def makeSlider(data):
+	for multiple, default_perc in [(2, 10), (5, 25)]:
+		amt = round(data["amount"] * default_perc / 100, 2)
+		left = round(data["amount"] - amt, 2)
+		price = round(amt * data["bought_at"] * multiple, 2)
+		left_price = round(left * data["bought_at"] * multiple, 2)
+		html = f"""
+		<span id='{data['coin']}_multiple{multiple}_info'>
+			{amt} {data['coin'].upper()} (${price})
+			<br>{left} left (${left_price}) 
+		</span>"""
+		data[f"multiple{multiple}"] = html
 
 def get_data():
 	with open("static/coins.json") as fh:
@@ -59,9 +59,22 @@ def get_data():
 		"tot_purchased": 0
 	}
 	trends = {}
+	portfolio = []
 	profits_in_btc = 0
+	profits_in_dai = 0
 	profits_in_eth = 0
 	for coin in coins:
+		if coin in sold_coins:
+			sold_data = sold_coins[coin]
+			for row in sold_data:
+				if row.get("soldTo") == "btc":
+					profits_in_btc += row['btc']*row["amt"]
+				elif row.get("soldTo") == "dai":
+					profits_in_dai += row["dai"]
+	for coin in coins:
+		with open(f"static/markets/{coin}.json") as fh:
+			tickers = json.load(fh)
+		exchanges = getExchanges(tickers)
 		trends[coin] = {}
 		full_name = coins[coin]["full"]
 		sold = 0
@@ -72,14 +85,21 @@ def get_data():
 			sold_data = sold_coins[coin]
 			for row in sold_data:
 				sold_amt += row["amt"]
-				if row.get("soldTo") == "BTC":
-					profits_in_btc += row['btc']*row["amt"]
+				if row.get("soldTo") == "btc":
 					sold += round(row["btc"]*prices["bitcoin"]["price"]*row["amt"], 2)
 					sold_txt += f"${sold} ({row['amt']} @ {row['btc']} BTC)"
+					sold_txt = f"${sold} BTC"
+				elif row.get("soldTo") == "dai":
+					sold_ = round(row["dai"]*prices["dai"]["price"], 2)
+					sold += sold_
+					#sold_txt += f"${sold_} ({row['amt']}/{row['dai']}DAI)"
+					#sold_txt = f"${sold} ({sold_amt}/{row['dai']} DAI)"
+					sold_txt = f"${round(sold, 2)} DAI"
 				else:
 					sold += round(row["amt"]*row["sold"], 2)
 					# check this ??
 					sold_txt += f"${sold} ({row['amt']} @ ${row['sold']})"
+					sold_txt = f"${sold} USD"
 		if full_name in prices:
 			price_data = prices[full_name]
 			amt = coins[coin]["amt"]
@@ -87,18 +107,28 @@ def get_data():
 			if full_name == "bitcoin":
 				amt += profits_in_btc
 				amt = round(amt, 6)
+			elif full_name == "dai":
+				amt = round(amt+profits_in_dai, 2)
 			purchased = coins[coin]["bought"]
+
 			worth = round(amt*price_data["price"], 2)
+			bought_at = round(purchased / coins[coin]["amt"], 3)
+			diff = 0
+			if bought_at:
+				#diff = round((price_data["price"] - bought_at) / bought_at * 100, 2)
+				diff = round(price_data["price"] / bought_at, 2)
+				if bought_at > price_data["price"]:
+					diff *= -1
 			# use sold if we want to subtract what we take out. 
-			#profit = round(worth - purchased + sold, 2)
-			profit = round(worth - purchased, 2)
-			if coin == "btc":
-				purchased = 0
-				profit = round(profits_in_btc*prices["bitcoin"]["price"], 2)
-			elif coin == "eth":
-				purchased = 0
-				profit = 0
-			elif coin == "aave":
+			profit = round(worth - purchased + sold, 2)
+			#profit = round(worth - purchased, 2)
+			#if coin == "btc":
+			#	purchased = 0
+				#profit = round(profits_in_btc*prices["bitcoin"]["price"], 2)
+			#elif coin == "dai":
+				#purchased = 0
+				#profit = round(profits_in_dai*prices["dai"]["price"], 2)
+			if coin in ["btc", "eth", "dai", "eth", "aave"]:
 				purchased = 0
 				profit = 0
 
@@ -107,7 +137,7 @@ def get_data():
 			tot["tot_sold"] += sold
 			tot["tot_purchased"] += purchased
 			trends[coin]["btc_price"] = "{0:.8f}".format(round(price_data["price"] / prices["bitcoin"]["price"], 8))
-			if coin not in ["btc", "eth", "aave"]:
+			if coin not in ["btc", "eth", "aave", "dai"]:
 				for i in range(2, 3, 1):
 					new_purch = i*(purchased / coins[coin]["amt"])
 					#print(coin, i, purchased, sold)
@@ -123,8 +153,12 @@ def get_data():
 			trends[coin]["hour"] = round(price_data["percent_change_1h"], 2)
 			trends[coin]["day"] = round(price_data["percent_change_24h"], 2)
 			trends[coin]["week"] = round(price_data["percent_change_7d"], 2)
-			rows.append({"coin": coin, "sells": sells, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "purchased": purchased, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 2), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2)})
+			data = {"coin": coin, "sells": sells, "diff": diff, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "purchased": purchased, "bought_at": bought_at, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 3), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2), "exchanges": exchanges}
+			makeSlider(data)
+			rows.append(data)
 	rows = sorted(rows, key=operator.itemgetter("worth"), reverse=True)
+	for row in rows:
+		row["perc"] = round(row["worth"] / tot["tot_worth"] * 100, 2)
 	for key in tot:
 		tot[key] = round(tot[key], 2)
 	return rows, tot, trends
@@ -134,7 +168,23 @@ def refresh_route():
 	rows, tot, trends = get_data()
 	return jsonify(trends)
 
+@main.route('/markets')
+def markets_route():
+	with open("static/coins.json") as fh:
+		coins = json.load(fh)
+
+	coin_ids = ",".join([coin for coin in coins])
+	for coin in coins:
+		gecko_id = coins[coin]["gecko"] if "gecko" in coins[coin] else coins[coin]["full"]
+		url = f"https://api.coingecko.com/api/v3/coins/{gecko_id}?market_data=false&community_data=false&developer_data=false"
+		with open(f"static/markets/{coin}.json", "w") as fh:
+			json.dump(requests.get(url).json(), fh, indent=4)
+	return jsonify({"success": 1})
+
 @main.route('/')
 def main_route():
 	rows, tot, _ = get_data()
-	return render_template("main.html", rows=rows, tot=tot)
+	data = {}
+	for row in rows:
+		data[row["coin"]] = row
+	return render_template("main.html", rows=rows, tot=tot, data=data)

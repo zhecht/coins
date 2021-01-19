@@ -1,0 +1,3350 @@
+{
+    "id": "cosmos",
+    "symbol": "atom",
+    "name": "Cosmos",
+    "asset_platform_id": null,
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+        "Cosmos Ecosystem",
+        "Cryptocurrency"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "Cosmos",
+        "de": "Cosmos",
+        "es": "Cosmos",
+        "fr": "Cosmos",
+        "it": "Cosmos",
+        "pl": "Cosmos",
+        "ro": "Cosmos",
+        "hu": "Cosmos",
+        "nl": "Cosmos",
+        "pt": "Cosmos",
+        "sv": "Cosmos",
+        "vi": "Cosmos",
+        "tr": "Cosmos",
+        "ru": "Cosmos",
+        "ja": "\u30a2\u30c8\u30e0",
+        "zh": "Cosmos",
+        "zh-tw": "Cosmos",
+        "ko": "Cosmos",
+        "ar": "Cosmos",
+        "th": "Cosmos",
+        "id": "Cosmos"
+    },
+    "description": {
+        "en": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "de": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "es": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "fr": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "it": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "pl": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "ro": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "hu": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "nl": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "pt": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "sv": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "vi": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "tr": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "ru": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "ja": "",
+        "zh": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "zh-tw": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "ko": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "ar": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "th": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms.",
+        "id": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.\r\n\r\nWhile the Cosmos Hub is a multi-asset distributed ledger, there is a special native token called the atom. Atoms have three use cases: as a spam-prevention mechanism, as staking tokens, and as a voting mechanism in governance.\r\n\r\nAs a spam prevention mechanism, Atoms are used to pay fees. The fee may be proportional to the amount of computation required by the transaction, similar to Ethereum\u2019s concept of \u201cgas\u201d. Fee distribution is done in-protocol and a protocol specification is described here.\r\n\r\nAs staking tokens, Atoms can be \u201cbonded\u201d in order to earn block rewards. The economic security of the Cosmos Hub is a function of the amount of Atoms staked. The more Atoms that are collateralized, the more \u201cskin\u201d there is at stake and the higher the cost of attacking the network. Thus, the more Atoms there are bonded, the greater the economic security of the network.\r\n\r\nAtom holders may govern the Cosmos Hub by voting on proposals with their staked Atoms."
+    },
+    "links": {
+        "homepage": [
+            "http://cosmos.network/",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://www.mintscan.io/cosmos",
+            "https://cosmos.bigdipper.live/",
+            "https://stargazer.certus.one/",
+            "https://hubble.figment.network/cosmos/chains/cosmoshub-3",
+            "https://atomscan.com/"
+        ],
+        "official_forum_url": [
+            "https://forum.cosmos.network/",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "https://blog.cosmos.network/",
+            ""
+        ],
+        "twitter_screen_name": "cosmos",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": null,
+        "telegram_channel_identifier": "cosmosproject",
+        "subreddit_url": "https://www.reddit.com/r/cosmosnetwork",
+        "repos_url": {
+            "github": [
+                "https://github.com/cosmos/cosmos",
+                "https://github.com/cosmos/cosmos-sdk",
+                "https://github.com/cosmos/voyager"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/1481/thumb/cosmos_hub.png?1555657960",
+        "small": "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960",
+        "large": "https://assets.coingecko.com/coins/images/1481/large/cosmos_hub.png?1555657960"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "sentiment_votes_up_percentage": 83.33,
+    "sentiment_votes_down_percentage": 16.67,
+    "ico_data": {
+        "ico_start_date": "2017-04-06T00:00:00.000Z",
+        "ico_end_date": "2017-04-06T00:00:00.000Z",
+        "short_desc": "A network of distributed ledgers",
+        "description": "The Cosmos network consists of many independent, parallel blockchains, called zones, each powered by classical Byzantine fault-tolerant (BFT) consensus protocols like Tendermint (already used by platforms like ErisDB). Some zones act as hubs with respect to other zones, allowing many zones to interoperate through a shared hub. The architecture is a more general application of the Bitcoin sidechains concept, using classic BFT and Proof-of-Stake algorithms, instead of Proof-of-Work.Cosmos can interoperate with multiple other applications and cryptocurrencies, something other blockchains can\u2019t do well. By creating a new zone, you can plug any blockchain system into the Cosmos hub and pass tokens back and forth between those zones, without the need for an intermediary.For example, if you wanted to trade bitcoins for ether today, you would have to sell your bitcoins for a fiat currency on an open exchange and then use that fiat currency to buy ether on another exchange. The problem is, many of our exchanges today are plagued by hacks, theft, and cons. Two prime examples are what happened at Mt. Gox and more recently Bitfinex.",
+        "links": {
+            "web": "http://cosmos.network/",
+            "blog": "",
+            "slack": "http://forum.tendermint.com:3000/",
+            "github": "https://github.com/cosmos/cosmos",
+            "twitter": "https://twitter.com/cosmos_hq",
+            "facebook": "",
+            "telegram": "",
+            "whitepaper": "http://cosmos.network/whitepaper"
+        },
+        "softcap_currency": "",
+        "hardcap_currency": "",
+        "total_raised_currency": "",
+        "softcap_amount": null,
+        "hardcap_amount": null,
+        "total_raised": null,
+        "quote_pre_sale_currency": "USD",
+        "base_pre_sale_amount": "1.0",
+        "quote_pre_sale_amount": "0.085",
+        "quote_public_sale_currency": "USD",
+        "base_public_sale_amount": 1.0,
+        "quote_public_sale_amount": 0.1,
+        "accepting_currencies": "",
+        "country_origin": "",
+        "pre_sale_start_date": null,
+        "pre_sale_end_date": null,
+        "whitelist_url": "",
+        "whitelist_start_date": null,
+        "whitelist_end_date": null,
+        "bounty_detail_url": "",
+        "amount_for_sale": null,
+        "kyc_required": true,
+        "whitelist_available": null,
+        "pre_sale_available": null,
+        "pre_sale_ended": false
+    },
+    "market_cap_rank": 19,
+    "coingecko_rank": 31,
+    "coingecko_score": 54.244,
+    "developer_score": 61.14,
+    "community_score": 41.037,
+    "liquidity_score": 70.679,
+    "public_interest_score": 0.018,
+    "public_interest_stats": {
+        "alexa_rank": 86006,
+        "bing_matches": null
+    },
+    "status_updates": [],
+    "last_updated": "2021-01-19T05:42:49.443Z",
+    "tickers": [
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 9.429,
+            "volume": 8890195.115073284,
+            "converted_last": {
+                "btc": 0.00025913,
+                "eth": 0.00714015,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 2304,
+                "eth": 63477,
+                "usd": 83867636
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1636,
+            "timestamp": "2021-01-19T05:40:58+00:00",
+            "last_traded_at": "2021-01-19T05:40:58+00:00",
+            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 9.3882,
+            "volume": 4079133.485177854,
+            "converted_last": {
+                "btc": 0.00025835,
+                "eth": 0.00711849,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 1054,
+                "eth": 29037,
+                "usd": 38317368
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.160715,
+            "timestamp": "2021-01-19T05:42:47+00:00",
+            "last_traded_at": "2021-01-19T05:42:47+00:00",
+            "last_fetch_at": "2021-01-19T05:42:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 9.452,
+            "volume": 5803162.6852,
+            "converted_last": {
+                "btc": 0.00025976,
+                "eth": 0.00717002,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 1507,
+                "eth": 41609,
+                "usd": 54947233
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.142324,
+            "timestamp": "2021-01-19T05:38:42+00:00",
+            "last_traded_at": "2021-01-19T05:38:42+00:00",
+            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 70.71,
+            "volume": 3036908.96,
+            "converted_last": {
+                "btc": 0.00026037,
+                "eth": 0.00717434,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 790.728,
+                "eth": 21788,
+                "usd": 28751045
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.11414,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/ATOM_TRY",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025985,
+            "volume": 206996.24,
+            "converted_last": {
+                "btc": 0.00025985,
+                "eth": 0.0071724,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 53.788,
+                "eth": 1485,
+                "usd": 1960643
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150023,
+            "timestamp": "2021-01-19T05:37:29+00:00",
+            "last_traded_at": "2021-01-19T05:37:29+00:00",
+            "last_fetch_at": "2021-01-19T05:37:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002595,
+            "volume": 2817892.426512524,
+            "converted_last": {
+                "btc": 0.0002595,
+                "eth": 0.0071503,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 731.243,
+                "eth": 20149,
+                "usd": 26609729
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.11583,
+            "timestamp": "2021-01-19T05:42:00+00:00",
+            "last_traded_at": "2021-01-19T05:42:00+00:00",
+            "last_fetch_at": "2021-01-19T05:42:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 9.42,
+            "volume": 2479204.5,
+            "converted_last": {
+                "btc": 0.00025886,
+                "eth": 0.00713279,
+                "usd": 9.42
+            },
+            "converted_volume": {
+                "btc": 641.778,
+                "eth": 17684,
+                "usd": 23354106
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.153084,
+            "timestamp": "2021-01-19T05:41:14+00:00",
+            "last_traded_at": "2021-01-19T05:41:14+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ATOM-USD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025985,
+            "volume": 206940.39,
+            "converted_last": {
+                "btc": 0.00025985,
+                "eth": 0.00715995,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 53.773,
+                "eth": 1482,
+                "usd": 1958458
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.361538,
+            "timestamp": "2021-01-19T05:40:00+00:00",
+            "last_traded_at": "2021-01-19T05:40:00+00:00",
+            "last_fetch_at": "2021-01-19T05:40:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ATOM-to-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 9.456,
+            "volume": 3041001.4851,
+            "converted_last": {
+                "btc": 0.00025938,
+                "eth": 0.00715937,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 788.769,
+                "eth": 21772,
+                "usd": 28761629
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.116242,
+            "timestamp": "2021-01-19T05:37:00+00:00",
+            "last_traded_at": "2021-01-19T05:37:00+00:00",
+            "last_fetch_at": "2021-01-19T05:37:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 10280.0,
+            "volume": 2722704.50430585,
+            "converted_last": {
+                "btc": 0.00025648,
+                "eth": 0.00706721,
+                "usd": 9.32
+            },
+            "converted_volume": {
+                "btc": 698.331,
+                "eth": 19242,
+                "usd": 25365503
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.194175,
+            "timestamp": "2021-01-19T05:43:13+00:00",
+            "last_traded_at": "2021-01-19T05:43:13+00:00",
+            "last_fetch_at": "2021-01-19T05:43:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002591,
+            "volume": 146586.11485858,
+            "converted_last": {
+                "btc": 0.0002591,
+                "eth": 0.00713928,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 37.980462,
+                "eth": 1047,
+                "usd": 1382683
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.19253,
+            "timestamp": "2021-01-19T05:40:11+00:00",
+            "last_traded_at": "2021-01-19T05:40:11+00:00",
+            "last_fetch_at": "2021-01-19T05:40:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/xbt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 9.4604,
+            "volume": 608764.84837132,
+            "converted_last": {
+                "btc": 0.00025954,
+                "eth": 0.00716389,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 158.0,
+                "eth": 4361,
+                "usd": 5759159
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.191031,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/usd",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 9.38798,
+            "volume": 13838.07,
+            "converted_last": {
+                "btc": 0.00025819,
+                "eth": 0.00711431,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 3.572902,
+                "eth": 98.448,
+                "usd": 129912
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.435633,
+            "timestamp": "2021-01-19T05:42:59+00:00",
+            "last_traded_at": "2021-01-19T05:42:59+00:00",
+            "last_fetch_at": "2021-01-19T05:42:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ATOM-to-USD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 9.468,
+            "volume": 88940.29,
+            "converted_last": {
+                "btc": 0.00025971,
+                "eth": 0.00716846,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 23.09844,
+                "eth": 637.565,
+                "usd": 841969
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.184495,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026,
+            "volume": 89681.65,
+            "converted_last": {
+                "btc": 0.00026,
+                "eth": 0.00717654,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 23.317229,
+                "eth": 643.604,
+                "usd": 849944
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.176894,
+            "timestamp": "2021-01-19T05:37:04+00:00",
+            "last_traded_at": "2021-01-19T05:37:04+00:00",
+            "last_fetch_at": "2021-01-19T05:37:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025962,
+            "volume": 2135391.3011,
+            "converted_last": {
+                "btc": 0.00025962,
+                "eth": 0.00716605,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 554.39,
+                "eth": 15302,
+                "usd": 20208261
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.261579,
+            "timestamp": "2021-01-19T05:37:58+00:00",
+            "last_traded_at": "2021-01-19T05:37:58+00:00",
+            "last_fetch_at": "2021-01-19T05:37:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=atom_btc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 7.8326,
+            "volume": 284825.97209232,
+            "converted_last": {
+                "btc": 0.00025986,
+                "eth": 0.00717264,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 74.015,
+                "eth": 2043,
+                "usd": 2697860
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114759,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/eur",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 9.389,
+            "volume": 22103.8853,
+            "converted_last": {
+                "btc": 0.00025837,
+                "eth": 0.0071191,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 5.710929,
+                "eth": 157.36,
+                "usd": 207651
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106462,
+            "timestamp": "2021-01-19T05:42:32+00:00",
+            "last_traded_at": "2021-01-19T05:42:32+00:00",
+            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 9.456,
+            "volume": 4209270.17,
+            "converted_last": {
+                "btc": 0.00025938,
+                "eth": 0.00715937,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 1092,
+                "eth": 30136,
+                "usd": 39818382
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.43217,
+            "timestamp": "2021-01-19T05:35:44+00:00",
+            "last_traded_at": "2021-01-19T05:35:44+00:00",
+            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BCH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0183423,
+            "volume": 107.48,
+            "converted_last": {
+                "btc": 0.00025824,
+                "eth": 0.00717878,
+                "usd": 9.38
+            },
+            "converted_volume": {
+                "btc": 0.02775525,
+                "eth": 0.77157555,
+                "usd": 1008.05
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.515467,
+            "timestamp": "2021-01-19T05:02:20+00:00",
+            "last_traded_at": "2021-01-19T05:02:20+00:00",
+            "last_fetch_at": "2021-01-19T05:43:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ATOM-to-BCH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.000258,
+            "volume": 267924.5,
+            "converted_last": {
+                "btc": 0.000258,
+                "eth": 0.00710897,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 69.125,
+                "eth": 1905,
+                "usd": 2515422
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.769231,
+            "timestamp": "2021-01-19T05:41:28+00:00",
+            "last_traded_at": "2021-01-19T05:41:28+00:00",
+            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ATOM-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025881,
+            "volume": 361858.07019054744,
+            "converted_last": {
+                "btc": 0.00025881,
+                "eth": 0.00713129,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 93.652,
+                "eth": 2581,
+                "usd": 3405226
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.200873,
+            "timestamp": "2021-01-19T05:42:41+00:00",
+            "last_traded_at": "2021-01-19T05:42:41+00:00",
+            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_btc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 9.401,
+            "volume": 2382109.8394,
+            "converted_last": {
+                "btc": 0.0002587,
+                "eth": 0.0071282,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 616.247,
+                "eth": 16980,
+                "usd": 22406873
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.199864,
+            "timestamp": "2021-01-19T05:42:27+00:00",
+            "last_traded_at": "2021-01-19T05:42:27+00:00",
+            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 9.40884,
+            "volume": 286983.32,
+            "converted_last": {
+                "btc": 0.00025891,
+                "eth": 0.00713414,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 74.304,
+                "eth": 2047,
+                "usd": 2701706
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.264734,
+            "timestamp": "2021-01-19T05:42:21+00:00",
+            "last_traded_at": "2021-01-19T05:42:21+00:00",
+            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 9.46,
+            "volume": 497982.25915639,
+            "converted_last": {
+                "btc": 0.00025949,
+                "eth": 0.0071624,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 129.22,
+                "eth": 3567,
+                "usd": 4711882
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.192928,
+            "timestamp": "2021-01-19T05:36:02+00:00",
+            "last_traded_at": "2021-01-19T05:36:02+00:00",
+            "last_fetch_at": "2021-01-19T05:36:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ATOM-USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025908,
+            "volume": 945386.6399,
+            "converted_last": {
+                "btc": 0.00025908,
+                "eth": 0.00715114,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 244.931,
+                "eth": 6761,
+                "usd": 8928051
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.594941,
+            "timestamp": "2021-01-19T05:37:02+00:00",
+            "last_traded_at": "2021-01-19T05:37:02+00:00",
+            "last_fetch_at": "2021-01-19T05:37:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 9.4366,
+            "volume": 140412.10876855,
+            "converted_last": {
+                "btc": 0.00025885,
+                "eth": 0.00714468,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 36.345109,
+                "eth": 1003,
+                "usd": 1325286
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.374635,
+            "timestamp": "2021-01-19T05:36:30+00:00",
+            "last_traded_at": "2021-01-19T05:36:30+00:00",
+            "last_fetch_at": "2021-01-19T05:36:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.007152,
+            "volume": 5515.32,
+            "converted_last": {
+                "btc": 0.0002599,
+                "eth": 0.00716142,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 1.433452,
+                "eth": 39.497547,
+                "usd": 52185
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.410013,
+            "timestamp": "2021-01-19T05:40:15+00:00",
+            "last_traded_at": "2021-01-19T05:40:15+00:00",
+            "last_fetch_at": "2021-01-19T05:40:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ATOM-to-ETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025884,
+            "volume": 1771.6683,
+            "converted_last": {
+                "btc": 0.00025884,
+                "eth": 0.00713212,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 0.45857862,
+                "eth": 12.635743,
+                "usd": 16674.02
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.293131,
+            "timestamp": "2021-01-19T05:42:32+00:00",
+            "last_traded_at": "2021-01-19T05:42:32+00:00",
+            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 9.461844,
+            "volume": 999479.17,
+            "converted_last": {
+                "btc": 0.00025954,
+                "eth": 0.0071638,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 259.403,
+                "eth": 7160,
+                "usd": 9455592
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.152036,
+            "timestamp": "2021-01-19T05:37:22+00:00",
+            "last_traded_at": "2021-01-19T05:37:22+00:00",
+            "last_fetch_at": "2021-01-19T05:37:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 60.16,
+            "volume": 209102.66884379,
+            "converted_last": {
+                "btc": 0.00026058,
+                "eth": 0.00717998,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 54.487,
+                "eth": 1501,
+                "usd": 1983618
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1665,
+            "timestamp": "2021-01-19T05:40:44+00:00",
+            "last_traded_at": "2021-01-19T05:40:44+00:00",
+            "last_fetch_at": "2021-01-19T05:40:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BiKi",
+                "identifier": "biki",
+                "has_trading_incentive": false
+            },
+            "last": 9.4227,
+            "volume": 145857.05,
+            "converted_last": {
+                "btc": 0.00025896,
+                "eth": 0.00713538,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 37.770935,
+                "eth": 1041,
+                "usd": 1375056
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.277689,
+            "timestamp": "2021-01-19T05:40:40+00:00",
+            "last_traded_at": "2021-01-19T05:40:40+00:00",
+            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.biki.com/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.007137,
+            "volume": 41165.7613531,
+            "converted_last": {
+                "btc": 0.00025872,
+                "eth": 0.0071465,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 10.650251,
+                "eth": 294.191,
+                "usd": 388532
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.30821,
+            "timestamp": "2021-01-19T05:31:09+00:00",
+            "last_traded_at": "2021-01-19T05:31:09+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/eth",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025912,
+            "volume": 232151.4,
+            "converted_last": {
+                "btc": 0.00025912,
+                "eth": 0.00715225,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 60.155,
+                "eth": 1660,
+                "usd": 2194919
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.273371,
+            "timestamp": "2021-01-19T05:34:37+00:00",
+            "last_traded_at": "2021-01-19T05:34:37+00:00",
+            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 9.4572,
+            "volume": 441815.6,
+            "converted_last": {
+                "btc": 0.00025915,
+                "eth": 0.00715316,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 114.498,
+                "eth": 3160,
+                "usd": 4177761
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.313688,
+            "timestamp": "2021-01-19T05:34:38+00:00",
+            "last_traded_at": "2021-01-19T05:34:38+00:00",
+            "last_fetch_at": "2021-01-19T05:34:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 9.448,
+            "volume": 289838.90946496616,
+            "converted_last": {
+                "btc": 0.00025962,
+                "eth": 0.00715363,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 75.248,
+                "eth": 2073,
+                "usd": 2736044
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.116785,
+            "timestamp": "2021-01-19T05:42:10+00:00",
+            "last_traded_at": "2021-01-19T05:42:10+00:00",
+            "last_fetch_at": "2021-01-19T05:42:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_BUSD",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025972,
+            "volume": 62751.10053877,
+            "converted_last": {
+                "btc": 0.00025972,
+                "eth": 0.00715636,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 16.297716,
+                "eth": 449.07,
+                "usd": 593320
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.211498,
+            "timestamp": "2021-01-19T05:40:57+00:00",
+            "last_traded_at": "2021-01-19T05:40:57+00:00",
+            "last_fetch_at": "2021-01-19T05:40:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_btc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 9.45,
+            "volume": 657349.95,
+            "converted_last": {
+                "btc": 0.00025971,
+                "eth": 0.00715606,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 170.72,
+                "eth": 4704,
+                "usd": 6217698
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.401861,
+            "timestamp": "2021-01-19T05:39:57+00:00",
+            "last_traded_at": "2021-01-19T05:39:57+00:00",
+            "last_fetch_at": "2021-01-19T05:39:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Hoo.com",
+                "identifier": "hoo",
+                "has_trading_incentive": false
+            },
+            "last": 9.428,
+            "volume": 70833.35218722544,
+            "converted_last": {
+                "btc": 0.00025944,
+                "eth": 0.00714867,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 18.377065,
+                "eth": 506.364,
+                "usd": 668194
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.488323,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/atom-usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 9.3991,
+            "volume": 740403.03,
+            "converted_last": {
+                "btc": 0.00025865,
+                "eth": 0.00712676,
+                "usd": 9.4
+            },
+            "converted_volume": {
+                "btc": 191.502,
+                "eth": 5277,
+                "usd": 6963056
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.154251,
+            "timestamp": "2021-01-19T05:42:32+00:00",
+            "last_traded_at": "2021-01-19T05:42:32+00:00",
+            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.007118,
+            "volume": 51544.41045465928,
+            "converted_last": {
+                "btc": 0.00025902,
+                "eth": 0.0071496,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 13.35124,
+                "eth": 368.522,
+                "usd": 486928
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.251467,
+            "timestamp": "2021-01-19T05:35:59+00:00",
+            "last_traded_at": "2021-01-19T05:35:59+00:00",
+            "last_fetch_at": "2021-01-19T05:35:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_eth",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 9.428,
+            "volume": 57071.852,
+            "converted_last": {
+                "btc": 0.0002591,
+                "eth": 0.0071394,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 14.787559,
+                "eth": 407.459,
+                "usd": 538343
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1848,
+            "timestamp": "2021-01-19T05:40:25+00:00",
+            "last_traded_at": "2021-01-19T05:40:25+00:00",
+            "last_fetch_at": "2021-01-19T05:40:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=atomusdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 9.46,
+            "volume": 748228.5588002114,
+            "converted_last": {
+                "btc": 0.00025998,
+                "eth": 0.00716363,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 194.527,
+                "eth": 5360,
+                "usd": 7081787
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.153022,
+            "timestamp": "2021-01-19T05:40:30+00:00",
+            "last_traded_at": "2021-01-19T05:40:30+00:00",
+            "last_fetch_at": "2021-01-19T05:40:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/USDT-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025961,
+            "volume": 26098.7487485,
+            "converted_last": {
+                "btc": 0.00025961,
+                "eth": 0.00716577,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 6.775496,
+                "eth": 187.018,
+                "usd": 247061
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.503962,
+            "timestamp": "2021-01-19T05:36:37+00:00",
+            "last_traded_at": "2021-01-19T05:36:37+00:00",
+            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 112.6,
+            "volume": 14528.35,
+            "converted_last": {
+                "btc": 0.00026074,
+                "eth": 0.00719704,
+                "usd": 9.5
+            },
+            "converted_volume": {
+                "btc": 3.788161,
+                "eth": 104.561,
+                "usd": 138083
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.568485,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_CRO",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "crypto-com-chain"
+        },
+        {
+            "base": "ATOM",
+            "target": "KRW",
+            "market": {
+                "name": "GDAC",
+                "identifier": "gdac",
+                "has_trading_incentive": false
+            },
+            "last": 10320.0,
+            "volume": 63942.0845034,
+            "converted_last": {
+                "btc": 0.00025701,
+                "eth": 0.00708171,
+                "usd": 9.35
+            },
+            "converted_volume": {
+                "btc": 16.433787,
+                "eth": 452.819,
+                "usd": 598021
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.147228,
+            "timestamp": "2021-01-19T05:41:57+00:00",
+            "last_traded_at": "2021-01-19T05:41:57+00:00",
+            "last_fetch_at": "2021-01-19T05:41:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.gdac.com/exchange/ATOM/KRW",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATO",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 9.4298,
+            "volume": 112687.81879348,
+            "converted_last": {
+                "btc": 0.00025934,
+                "eth": 0.007146,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 29.224886,
+                "eth": 805.267,
+                "usd": 1062624
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.275482,
+            "timestamp": "2021-01-19T05:42:41+00:00",
+            "last_traded_at": "2021-01-19T05:42:41+00:00",
+            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/ATOUSD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025952,
+            "volume": 86547.20018457,
+            "converted_last": {
+                "btc": 0.00025952,
+                "eth": 0.00715085,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 22.460729,
+                "eth": 618.886,
+                "usd": 817340
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188707,
+            "timestamp": "2021-01-19T05:41:28+00:00",
+            "last_traded_at": "2021-01-19T05:41:28+00:00",
+            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ATOM-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bitforex",
+                "identifier": "bitforex",
+                "has_trading_incentive": false
+            },
+            "last": 9.45823668,
+            "volume": 142905.5971,
+            "converted_last": {
+                "btc": 0.00025944,
+                "eth": 0.00716107,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 37.075352,
+                "eth": 1023,
+                "usd": 1351412
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.192601,
+            "timestamp": "2021-01-19T05:38:12+00:00",
+            "last_traded_at": "2021-01-19T05:38:12+00:00",
+            "last_fetch_at": "2021-01-19T05:38:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitforex.com/en/spot/atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025991,
+            "volume": 202238.03,
+            "converted_last": {
+                "btc": 0.00025991,
+                "eth": 0.0071616,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 52.564,
+                "eth": 1448,
+                "usd": 1911228
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.136625,
+            "timestamp": "2021-01-19T05:42:37+00:00",
+            "last_traded_at": "2021-01-19T05:42:37+00:00",
+            "last_fetch_at": "2021-01-19T05:42:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 9.48,
+            "volume": 101012.88278481012,
+            "converted_last": {
+                "btc": 0.0002604,
+                "eth": 0.00717518,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 26.304047,
+                "eth": 724.786,
+                "usd": 957602
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110547,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/ATOM_USD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025921,
+            "volume": 12271.0,
+            "converted_last": {
+                "btc": 0.00025921,
+                "eth": 0.00714231,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 3.180766,
+                "eth": 87.643,
+                "usd": 115747
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.546091,
+            "timestamp": "2021-01-19T05:41:46+00:00",
+            "last_traded_at": "2021-01-19T05:41:46+00:00",
+            "last_fetch_at": "2021-01-19T05:41:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00714,
+            "volume": 37993.7859,
+            "converted_last": {
+                "btc": 0.00025982,
+                "eth": 0.0071717,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 9.87172,
+                "eth": 272.48,
+                "usd": 359837
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.321274,
+            "timestamp": "2021-01-19T05:37:31+00:00",
+            "last_traded_at": "2021-01-19T05:37:31+00:00",
+            "last_fetch_at": "2021-01-19T05:37:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=atom_eth",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025959,
+            "volume": 6417.17,
+            "converted_last": {
+                "btc": 0.00025959,
+                "eth": 0.00716522,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 1.665833,
+                "eth": 45.980444,
+                "usd": 60722
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.786948,
+            "timestamp": "2021-01-19T05:37:24+00:00",
+            "last_traded_at": "2021-01-19T05:37:24+00:00",
+            "last_fetch_at": "2021-01-19T05:37:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.007138,
+            "volume": 31278.91315991,
+            "converted_last": {
+                "btc": 0.00025939,
+                "eth": 0.00714741,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 8.113591,
+                "eth": 223.563,
+                "usd": 295251
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.307434,
+            "timestamp": "2021-01-19T05:41:30+00:00",
+            "last_traded_at": "2021-01-19T05:41:30+00:00",
+            "last_fetch_at": "2021-01-19T05:41:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ATOM-ETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 9.436,
+            "volume": 85390.16120082662,
+            "converted_last": {
+                "btc": 0.00025932,
+                "eth": 0.00714545,
+                "usd": 9.44
+            },
+            "converted_volume": {
+                "btc": 22.143726,
+                "eth": 610.152,
+                "usd": 806145
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.296642,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "EUR",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 7.8755,
+            "volume": 493.298955,
+            "converted_last": {
+                "btc": 0.00026212,
+                "eth": 0.00728688,
+                "usd": 9.53
+            },
+            "converted_volume": {
+                "btc": 0.12930125,
+                "eth": 3.594609,
+                "usd": 4699.07
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.862091,
+            "timestamp": "2021-01-19T05:09:46+00:00",
+            "last_traded_at": "2021-01-19T05:09:46+00:00",
+            "last_fetch_at": "2021-01-19T05:38:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.00714,
+            "volume": 386.7943,
+            "converted_last": {
+                "btc": 0.00025982,
+                "eth": 0.0071717,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 0.10049867,
+                "eth": 2.773971,
+                "usd": 3665.25
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.404915,
+            "timestamp": "2021-01-19T05:35:50+00:00",
+            "last_traded_at": "2021-01-19T05:35:50+00:00",
+            "last_fetch_at": "2021-01-19T05:35:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.2094,
+            "volume": 50987.62640401146,
+            "converted_last": {
+                "btc": 0.00026001,
+                "eth": 0.00716441,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 13.257394,
+                "eth": 365.296,
+                "usd": 482433
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.430005,
+            "timestamp": "2021-01-19T05:41:24+00:00",
+            "last_traded_at": "2021-01-19T05:41:24+00:00",
+            "last_fetch_at": "2021-01-19T05:41:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_BNB",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "TRY",
+            "market": {
+                "name": "Paribu",
+                "identifier": "paribu",
+                "has_trading_incentive": false
+            },
+            "last": 70.89,
+            "volume": 543276.10136264,
+            "converted_last": {
+                "btc": 0.00026082,
+                "eth": 0.00718678,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 141.699,
+                "eth": 3904,
+                "usd": 5156400
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.734463,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 9.416,
+            "volume": 35813.855,
+            "converted_last": {
+                "btc": 0.00025877,
+                "eth": 0.00713031,
+                "usd": 9.42
+            },
+            "converted_volume": {
+                "btc": 9.267711,
+                "eth": 255.364,
+                "usd": 337249
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.824786,
+            "timestamp": "2021-01-19T05:41:43+00:00",
+            "last_traded_at": "2021-01-19T05:41:43+00:00",
+            "last_fetch_at": "2021-01-19T05:41:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 9.48264743,
+            "volume": 26403.61362126,
+            "converted_last": {
+                "btc": 0.00026061,
+                "eth": 0.00718078,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 6.880942,
+                "eth": 189.598,
+                "usd": 250396
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.476804,
+            "timestamp": "2021-01-19T05:41:00+00:00",
+            "last_traded_at": "2021-01-19T05:41:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00714177,
+            "volume": 4536.0702461,
+            "converted_last": {
+                "btc": 0.00025989,
+                "eth": 0.00717347,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 1.178875,
+                "eth": 32.539385,
+                "usd": 42986
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.381718,
+            "timestamp": "2021-01-19T05:36:37+00:00",
+            "last_traded_at": "2021-01-19T05:36:37+00:00",
+            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 9.3881,
+            "volume": 71174.2071171,
+            "converted_last": {
+                "btc": 0.00025834,
+                "eth": 0.00711842,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 18.387349,
+                "eth": 506.648,
+                "usd": 668568
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.272937,
+            "timestamp": "2021-01-19T05:42:24+00:00",
+            "last_traded_at": "2021-01-19T05:42:24+00:00",
+            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=ATOM#limit",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002597,
+            "volume": 245235.45195494802,
+            "converted_last": {
+                "btc": 0.0002597,
+                "eth": 0.00715581,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 63.688,
+                "eth": 1755,
+                "usd": 2318557
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.177101,
+            "timestamp": "2021-01-19T05:40:32+00:00",
+            "last_traded_at": "2021-01-19T05:40:32+00:00",
+            "last_fetch_at": "2021-01-19T05:40:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 9.48999818,
+            "volume": 9640.91067941,
+            "converted_last": {
+                "btc": 0.00026026,
+                "eth": 0.00718364,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 2.509116,
+                "eth": 69.257,
+                "usd": 91492
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.912748,
+            "timestamp": "2021-01-19T05:36:38+00:00",
+            "last_traded_at": "2021-01-19T05:36:38+00:00",
+            "last_fetch_at": "2021-01-19T05:36:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00716,
+            "volume": 35144.561,
+            "converted_last": {
+                "btc": 0.00026055,
+                "eth": 0.00719179,
+                "usd": 9.5
+            },
+            "converted_volume": {
+                "btc": 9.157,
+                "eth": 252.752,
+                "usd": 333900
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.438252,
+            "timestamp": "2021-01-19T05:37:00+00:00",
+            "last_traded_at": "2021-01-19T05:37:00+00:00",
+            "last_fetch_at": "2021-01-19T05:37:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 9.4893,
+            "volume": 8284.277577,
+            "converted_last": {
+                "btc": 0.00026073,
+                "eth": 0.00721075,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 2.15999,
+                "eth": 59.736,
+                "usd": 78612
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.019706,
+            "timestamp": "2021-01-19T05:24:46+00:00",
+            "last_traded_at": "2021-01-19T05:24:46+00:00",
+            "last_fetch_at": "2021-01-19T05:38:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATO",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025942,
+            "volume": 8440.77125939,
+            "converted_last": {
+                "btc": 0.00025942,
+                "eth": 0.0071481,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 2.189705,
+                "eth": 60.335,
+                "usd": 79750
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.269854,
+            "timestamp": "2021-01-19T05:39:10+00:00",
+            "last_traded_at": "2021-01-19T05:39:10+00:00",
+            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/ATOBTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 133973.0,
+            "volume": 14468.42360265,
+            "converted_last": {
+                "btc": 0.00026087,
+                "eth": 0.00718794,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 3.774322,
+                "eth": 103.998,
+                "usd": 137347
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.288305,
+            "timestamp": "2021-01-19T05:41:09+00:00",
+            "last_traded_at": "2021-01-19T05:41:09+00:00",
+            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 0.00714881,
+            "volume": 31534.1392,
+            "converted_last": {
+                "btc": 0.00026015,
+                "eth": 0.00716808,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 8.203455,
+                "eth": 226.039,
+                "usd": 298774
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.246464,
+            "timestamp": "2021-01-19T05:39:18+00:00",
+            "last_traded_at": "2021-01-19T05:39:18+00:00",
+            "last_fetch_at": "2021-01-19T05:42:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_ETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 9.36241884,
+            "volume": 43168.33849214,
+            "converted_last": {
+                "btc": 0.00025681,
+                "eth": 0.00708852,
+                "usd": 9.36
+            },
+            "converted_volume": {
+                "btc": 11.086112,
+                "eth": 306.0,
+                "usd": 404243
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.198737,
+            "timestamp": "2021-01-19T05:36:39+00:00",
+            "last_traded_at": "2021-01-19T05:36:39+00:00",
+            "last_fetch_at": "2021-01-19T05:36:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026,
+            "volume": 8604.33477438,
+            "converted_last": {
+                "btc": 0.00026,
+                "eth": 0.00717654,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 2.237127,
+                "eth": 61.749,
+                "usd": 81574
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.576701,
+            "timestamp": "2021-01-19T05:36:28+00:00",
+            "last_traded_at": "2021-01-19T05:36:28+00:00",
+            "last_fetch_at": "2021-01-19T05:36:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002612,
+            "volume": 473.44,
+            "converted_last": {
+                "btc": 0.0002612,
+                "eth": 0.00726143,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 0.12366253,
+                "eth": 3.437851,
+                "usd": 4491.59
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.997315,
+            "timestamp": "2021-01-19T05:05:15+00:00",
+            "last_traded_at": "2021-01-19T05:05:15+00:00",
+            "last_fetch_at": "2021-01-19T05:40:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "UST",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 9.4425,
+            "volume": 4243.0796,
+            "converted_last": {
+                "btc": 0.00025684,
+                "eth": 0.0070769,
+                "usd": 9.35
+            },
+            "converted_volume": {
+                "btc": 1.089776,
+                "eth": 30.027837,
+                "usd": 39657
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.657534,
+            "timestamp": "2021-01-19T05:41:29+00:00",
+            "last_traded_at": "2021-01-19T05:41:29+00:00",
+            "last_fetch_at": "2021-01-19T05:41:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ATOM-UST",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "terrausd"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 9.487,
+            "volume": 33853.35629988405,
+            "converted_last": {
+                "btc": 0.00026059,
+                "eth": 0.0071802,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 8.821683,
+                "eth": 243.074,
+                "usd": 321019
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.335766,
+            "timestamp": "2021-01-19T05:41:49+00:00",
+            "last_traded_at": "2021-01-19T05:41:49+00:00",
+            "last_fetch_at": "2021-01-19T05:41:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_USDC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 9.44443,
+            "volume": 95882.1,
+            "converted_last": {
+                "btc": 0.00025956,
+                "eth": 0.00715184,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 24.886753,
+                "eth": 685.733,
+                "usd": 906005
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.13384,
+            "timestamp": "2021-01-19T05:40:51+00:00",
+            "last_traded_at": "2021-01-19T05:40:51+00:00",
+            "last_fetch_at": "2021-01-19T05:40:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/atomusdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "VET",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 321.0,
+            "volume": 95708.05,
+            "converted_last": {
+                "btc": 0.0002599,
+                "eth": 0.0071613,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 24.874457,
+                "eth": 685.394,
+                "usd": 905558
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.931677,
+            "timestamp": "2021-01-19T05:40:51+00:00",
+            "last_traded_at": "2021-01-19T05:40:51+00:00",
+            "last_fetch_at": "2021-01-19T05:40:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/atomvet",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "vechain"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 9.474,
+            "volume": 24993.05,
+            "converted_last": {
+                "btc": 0.00026037,
+                "eth": 0.00717423,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 6.507401,
+                "eth": 179.306,
+                "usd": 236903
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.959713,
+            "timestamp": "2021-01-19T05:40:47+00:00",
+            "last_traded_at": "2021-01-19T05:40:47+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002596,
+            "volume": 6034.9,
+            "converted_last": {
+                "btc": 0.0002596,
+                "eth": 0.0071655,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 1.56666,
+                "eth": 43.243061,
+                "usd": 57162
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.30704,
+            "timestamp": "2021-01-19T05:33:33+00:00",
+            "last_traded_at": "2021-01-19T05:33:33+00:00",
+            "last_fetch_at": "2021-01-19T05:40:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BIX",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 145.607652,
+            "volume": 91269.7393,
+            "converted_last": {
+                "btc": 0.0002607,
+                "eth": 0.00722543,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 23.79385,
+                "eth": 659.463,
+                "usd": 865346
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.99255,
+            "timestamp": "2021-01-19T05:11:21+00:00",
+            "last_traded_at": "2021-01-19T05:11:21+00:00",
+            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_BIX",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bibox-token"
+        },
+        {
+            "base": "ATOM",
+            "target": "BCH",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.01822212,
+            "volume": 19083.04471945,
+            "converted_last": {
+                "btc": 0.00026062,
+                "eth": 0.00718105,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 4.973346,
+                "eth": 137.036,
+                "usd": 180832
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.717391,
+            "timestamp": "2021-01-19T05:42:26+00:00",
+            "last_traded_at": "2021-01-19T05:42:26+00:00",
+            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=BCH&dest=ATOM#limit",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "ATOM",
+            "target": "KRW",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 10340.0,
+            "volume": 50879.8997,
+            "converted_last": {
+                "btc": 0.00025714,
+                "eth": 0.00709773,
+                "usd": 9.38
+            },
+            "converted_volume": {
+                "btc": 13.08351,
+                "eth": 361.132,
+                "usd": 477076
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.865385,
+            "timestamp": "2021-01-19T05:36:34+00:00",
+            "last_traded_at": "2021-01-19T05:36:34+00:00",
+            "last_fetch_at": "2021-01-19T05:36:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/ATOM-KRW",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 9.428,
+            "volume": 60008.3866,
+            "converted_last": {
+                "btc": 0.0002591,
+                "eth": 0.0071394,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 15.548427,
+                "eth": 428.424,
+                "usd": 565803
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.107128,
+            "timestamp": "2021-01-19T05:41:15+00:00",
+            "last_traded_at": "2021-01-19T05:41:15+00:00",
+            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/ATOM-USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATO",
+            "target": "ETH",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0071303,
+            "volume": 219.89577656,
+            "converted_last": {
+                "btc": 0.00025947,
+                "eth": 0.00716195,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 0.05705671,
+                "eth": 1.574883,
+                "usd": 2081.87
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.890497,
+            "timestamp": "2021-01-19T05:34:53+00:00",
+            "last_traded_at": "2021-01-19T05:34:53+00:00",
+            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/ATOETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 9.42820512,
+            "volume": 8185.69180506,
+            "converted_last": {
+                "btc": 0.00025857,
+                "eth": 0.00712455,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 2.116536,
+                "eth": 58.319,
+                "usd": 77053
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.269359,
+            "timestamp": "2021-01-19T05:41:00+00:00",
+            "last_traded_at": "2021-01-19T05:41:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_usdc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 9.46,
+            "volume": 4347765.584,
+            "converted_last": {
+                "btc": 0.00025949,
+                "eth": 0.0071624,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 1128,
+                "eth": 31140,
+                "usd": 41138329
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.131702,
+            "timestamp": "2021-01-19T05:36:41+00:00",
+            "last_traded_at": "2021-01-19T05:36:41+00:00",
+            "last_fetch_at": "2021-01-19T05:36:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002596,
+            "volume": 1015825.43,
+            "converted_last": {
+                "btc": 0.0002596,
+                "eth": 0.0071655,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 263.708,
+                "eth": 7279,
+                "usd": 9615842
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.176953,
+            "timestamp": "2021-01-19T05:36:41+00:00",
+            "last_traded_at": "2021-01-19T05:36:41+00:00",
+            "last_fetch_at": "2021-01-19T05:36:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 9.4674,
+            "volume": 13758.38,
+            "converted_last": {
+                "btc": 0.00025973,
+                "eth": 0.00716919,
+                "usd": 9.47
+            },
+            "converted_volume": {
+                "btc": 3.573515,
+                "eth": 98.636,
+                "usd": 130256
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.427432,
+            "timestamp": "2021-01-19T05:38:37+00:00",
+            "last_traded_at": "2021-01-19T05:38:37+00:00",
+            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-USD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BitZ",
+                "identifier": "bit_z",
+                "has_trading_incentive": false
+            },
+            "last": 9.4055,
+            "volume": 4001968.24,
+            "converted_last": {
+                "btc": 0.00025849,
+                "eth": 0.00712236,
+                "usd": 9.41
+            },
+            "converted_volume": {
+                "btc": 1034,
+                "eth": 28503,
+                "usd": 37659365
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.390737,
+            "timestamp": "2021-01-19T05:40:58+00:00",
+            "last_traded_at": "2021-01-19T05:40:58+00:00",
+            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bit-z.com/exchange/atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BCH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.0183423,
+            "volume": 107.48,
+            "converted_last": {
+                "btc": 0.00025964,
+                "eth": 0.00721748,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 0.0279056,
+                "eth": 0.77573472,
+                "usd": 1013.74
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.388814,
+            "timestamp": "2021-01-19T04:59:58+00:00",
+            "last_traded_at": "2021-01-19T04:59:58+00:00",
+            "last_fetch_at": "2021-01-19T05:40:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-BCH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Binance JEX",
+                "identifier": "jex",
+                "has_trading_incentive": false
+            },
+            "last": 9.4569,
+            "volume": 4137159.66,
+            "converted_last": {
+                "btc": 0.00025914,
+                "eth": 0.00715293,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 1072,
+                "eth": 29593,
+                "usd": 39119297
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.641306,
+            "timestamp": "2021-01-19T05:34:19+00:00",
+            "last_traded_at": "2021-01-19T05:34:19+00:00",
+            "last_fetch_at": "2021-01-19T05:34:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "ETH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.007146,
+            "volume": 5574.45,
+            "converted_last": {
+                "btc": 0.00026004,
+                "eth": 0.00717772,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 1.449596,
+                "eth": 40.011861,
+                "usd": 52838
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.357362,
+            "timestamp": "2021-01-19T05:38:37+00:00",
+            "last_traded_at": "2021-01-19T05:38:37+00:00",
+            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-ETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "HBTC",
+                "identifier": "hbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025909,
+            "volume": 1252398.4,
+            "converted_last": {
+                "btc": 0.00025909,
+                "eth": 0.00715142,
+                "usd": 9.45
+            },
+            "converted_volume": {
+                "btc": 324.484,
+                "eth": 8956,
+                "usd": 11834138
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.622,
+            "timestamp": "2021-01-19T05:35:44+00:00",
+            "last_traded_at": "2021-01-19T05:35:44+00:00",
+            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bhex.com/exchange/301/ATOM/BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Bidesk",
+                "identifier": "bidesk",
+                "has_trading_incentive": false
+            },
+            "last": 0.00025988,
+            "volume": 1251487.91,
+            "converted_last": {
+                "btc": 0.00025988,
+                "eth": 0.00716077,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 325.237,
+                "eth": 8962,
+                "usd": 11835271
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.58862,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bidesk.com/exchange/ATOM/BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "DragonEx",
+                "identifier": "dragonex",
+                "has_trading_incentive": false
+            },
+            "last": 9.482,
+            "volume": 472015.417,
+            "converted_last": {
+                "btc": 0.00026059,
+                "eth": 0.00718029,
+                "usd": 9.49
+            },
+            "converted_volume": {
+                "btc": 123.002,
+                "eth": 3389,
+                "usd": 4477892
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.076778,
+            "timestamp": "2021-01-19T05:40:09+00:00",
+            "last_traded_at": "2021-01-19T05:40:09+00:00",
+            "last_fetch_at": "2021-01-19T05:40:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dragonex.io/en-us/trade/index/atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002593,
+            "volume": 79770.9969,
+            "converted_last": {
+                "btc": 0.0002593,
+                "eth": 0.00715722,
+                "usd": 9.46
+            },
+            "converted_volume": {
+                "btc": 20.684619,
+                "eth": 570.938,
+                "usd": 754734
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.715275,
+            "timestamp": "2021-01-19T05:34:12+00:00",
+            "last_traded_at": "2021-01-19T05:34:12+00:00",
+            "last_fetch_at": "2021-01-19T05:34:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 9.415,
+            "volume": 50959.6253,
+            "converted_last": {
+                "btc": 0.00025908,
+                "eth": 0.00713881,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 13.202778,
+                "eth": 363.791,
+                "usd": 480445
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.540025,
+            "timestamp": "2021-01-19T05:42:00+00:00",
+            "last_traded_at": "2021-01-19T05:42:00+00:00",
+            "last_fetch_at": "2021-01-19T05:42:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bidesk",
+                "identifier": "bidesk",
+                "has_trading_incentive": false
+            },
+            "last": 9.4215,
+            "volume": 10337258.7,
+            "converted_last": {
+                "btc": 0.00025926,
+                "eth": 0.00714374,
+                "usd": 9.43
+            },
+            "converted_volume": {
+                "btc": 2680,
+                "eth": 73847,
+                "usd": 97526559
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.234555,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bidesk.com/exchange/ATOM/USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "HBTC",
+                "identifier": "hbtc",
+                "has_trading_incentive": false
+            },
+            "last": 9.4746,
+            "volume": 10353465.58,
+            "converted_last": {
+                "btc": 0.00025989,
+                "eth": 0.00717346,
+                "usd": 9.48
+            },
+            "converted_volume": {
+                "btc": 2691,
+                "eth": 74270,
+                "usd": 98133201
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.332401,
+            "timestamp": "2021-01-19T05:35:44+00:00",
+            "last_traded_at": "2021-01-19T05:35:44+00:00",
+            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bhex.com/exchange/301/ATOM/USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        }
+    ]
+}

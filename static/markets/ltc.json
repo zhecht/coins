@@ -1,0 +1,3427 @@
+{
+    "id": "litecoin",
+    "symbol": "ltc",
+    "name": "Litecoin",
+    "asset_platform_id": null,
+    "block_time_in_minutes": 2,
+    "hashing_algorithm": "Scrypt",
+    "categories": [
+        "Cryptocurrency"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "Litecoin",
+        "de": "Litecoin",
+        "es": "Litecoin",
+        "fr": "Litecoin",
+        "it": "Litecoin",
+        "pl": "Litecoin",
+        "ro": "Litecoin",
+        "hu": "Litecoin",
+        "nl": "Litecoin",
+        "pt": "Litecoin",
+        "sv": "Litecoin",
+        "vi": "Litecoin",
+        "tr": "Litecoin",
+        "ru": "\u041b\u0430\u0439\u0442\u043a\u043e\u0438\u043d",
+        "ja": "\u30e9\u30a4\u30c8\u30b3\u30a4\u30f3",
+        "zh": "\u83b1\u7279\u5e01",
+        "zh-tw": "\u840a\u7279\u5e63",
+        "ko": "\ub77c\uc774\ud2b8\ucf54\uc778",
+        "ar": "\u0644\u0627\u064a\u062a\u0643\u0648\u064a\u0646",
+        "th": "Litecoin",
+        "id": "Litecoin"
+    },
+    "description": {
+        "en": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "de": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "es": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "fr": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "it": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "pl": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "ro": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "hu": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "nl": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "pt": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "sv": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "vi": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "tr": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "ru": "",
+        "ja": "",
+        "zh": "",
+        "zh-tw": "",
+        "ko": "\ube44\ud2b8\ucf54\uc778\uc774 \uae08\uc774\ub77c\uba74, \uc790\uc2e0\ub4e4\uc740 \uc740\uc774\ub77c\uace0 \ud45c\ud604\ud558\ub294 \ub77c\uc774\ud2b8 \ucf54\uc778\uc740 \ube44\ud2b8\ucf54\uc778\uc5d0 \uae30\ucd08\ud574 \ub9cc\ub4e4\uc5b4\uc9c4 \uac00\uc0c1\ud654\ud3d0\ub85c, \uae30\uc220\uc801\uc778 \uba74\uc5d0\uc11c \ube44\ud2b8\ucf54\uc778\uacfc \uac70\uc758 \ub3d9\uc77c\ud55c \uc54c\uace0\ub9ac\uc998\uc744 \uc0ac\uc6a9\ud588\uae30 \ub54c\ubb38\uc5d0 \uc0ac\uc2e4\uc0c1 \ube44\ud2b8\ucf54\uc778\uc758 \ud30c\uc0dd \ud654\ud3d0\ub77c\uace0 \ubcfc \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uadf8\ub7ec\ub098 \ube44\ud2b8\ucf54\uc778\uc758 \ub2e8\uc810\uc744 \ubcf4\uc644\ud558\uace0 \uc880 \ub354 \ub098\uc740 \uac00\uc0c1\ud654\ud3d0\uac00 \ub418\ub294 \uac83\uc774 \ub77c\uc774\ud2b8 \ucf54\uc778\uc758 \ubaa9\ud45c\ub77c\uace0 \ud569\ub2c8\ub2e4. \uc77c\ub840\ub85c, \ube44\ud2b8\ucf54\uc778\uc5d0 \uc55e\uc11c \uc138\uadf8\uc717\uc744 2017\ub144\uc5d0 \uc774\ubbf8 \uc2e4\ud589\ud588\uc744 \ubfd0\ub9cc \uc544\ub2c8\ub77c, \uc774\ub97c \uae30\ubc18\uc73c\ub85c \ub77c\uc774\ud2b8\ub2dd \ub124\ud2b8\uc6cc\ud06c\ub3c4 \uac1c\ubc1c \uc911\uc785\ub2c8\ub2e4. \r\n\r\n\ucf54\uc778 \ud2b9\uc9d5\r\n\ub77c\uc774\ud2b8 \ucf54\uc778\uc740 \ube44\ud2b8\ucf54\uc778\uacfc \ube44\uc2b7\ud558\uc9c0\ub9cc, \ucc28\ubcc4\ud654\ub418\ub294 \uc810\ub4e4\uc774 \ud06c\uac8c \uc138 \uac00\uc9c0\uac00 \uc788\uc2b5\ub2c8\ub2e4.\r\n\r\n1. \uc138\uadf8\uc717\uc774 \uc544\uc9c1 \uc9c4\ud589 \uc911\uc778 \ube44\ud2b8\ucf54\uc778\uacfc \ub2ec\ub9ac \ub77c\uc774\ud2b8 \ucf54\uc778\uc740 2017\ub144 5\uc6d4 \uc774\ub97c \uc131\uacf5\uc801\uc73c\ub85c \uc2e4\ud589\ud588\uc2b5\ub2c8\ub2e4. \uc138\uadf8\uc717\uc774\ub780 \ud504\ub85c\ud1a0\ucf5c\uc758 \uc11c\uba85 \ubd80\ubd84\uc744 \uac1c\uc120\ud568\uc73c\ub85c\uc368, \ube14\ub85d \ud06c\uae30\ub97c \uc99d\uac00\uc2dc\ud0a4\uc9c0 \uc54a\uc544\ub3c4 4MB\ub85c \ud655\uc7a5\ub41c \uac83\uacfc \uac19\uc740 \ud6a8\uacfc\ub97c \ub0b4\ub294 \uae30\uc220\uc785\ub2c8\ub2e4. \ub77c\uc774\ud2b8\ucf54\uc778\uc740 \uac70\ub798\ub7c9\uc774 \ub298\uc5b4\ub098\uba74 \uad6c\uc870\uc801\uc73c\ub85c \uc81c\uae30\ub420 \uc218\ubc16\uc5d0 \uc5c6\ub294 \uc2a4\ucf00\uc77c\ub9c1 \ubb38\uc81c\uac00 \uc81c\uae30\ub418\uae30\ub3c4 \uc804\uc5d0 \uc774\ubbf8 \ud574\uacb0\ud55c \uc0c1\ud0dc\uc785\ub2c8\ub2e4. \ub610\ud55c, \uc2e0\uae30\uc220\ub4e4\uc758 \uac1c\ubc1c\uc744 \ucd09\uc9c4\ud560 \uc218 \uc788\ub2e4\ub294 \uc810\uc5d0\uc11c \uc138\uadf8\uc717\uc758 \ube60\ub978 \uc2e4\ud589\uc740 \uae0d\uc815\uc801\uc778 \ud3c9\uac00\ub97c \ubc1b\uace0 \uc788\uc2b5\ub2c8\ub2e4. \r\n\r\n2. \ucf54\uc778 \uc0dd\uc131 \uc8fc\uae30\ub97c 1/4\ub85c \uc904\uc5ec \uac70\ub798 \uc18d\ub3c4\uac00 \ube68\ub77c\uc84c\uace0, \ud1b5\ud654 \ubc1c\ud589\ub7c9\ub3c4 4\ubc30\ub9cc\ud07c \ub298\ub838\uc2b5\ub2c8\ub2e4. \r\n\r\n3. \uc554\ud638\ud654 \ud574\uc2dc \ud568\uc218\ub3c4 \ub2e4\ub978 \uac83\uc744 \uc774\uc6a9\ud569\ub2c8\ub2e4. \ube44\ud2b8\ucf54\uc778\uc740 SHA-256 \ud574\uc2f1 \uc54c\uace0\ub9ac\uc998\uc744 \uc0ac\uc6a9\ud558\ub294\ub370, \uc774\ub294 ASIC\uc774\ub77c\ub294 \ucc44\uad74 \uc7a5\ube44\ub97c \uc801\uc6a9\ud560 \uc218 \uc788\uc5b4 \ub09c\ub3c4\uac00 \uc0c1\uc2b9\ud588\uace0, \ucc44\uad74\uc758 \uc9c4\uc785\uc7a5\ubcbd\uc774 \ub192\uc544\uc84c\uc2b5\ub2c8\ub2e4. \ub77c\uc774\ud2b8 \ucf54\uc778\uc740 \uc774\ub807\uac8c \ucc44\uad74\ud30c\uc6cc\uac00 \uc9d1\uc911\ub418\ub294 \uac83\uc744 \ub9c9\uae30 \uc704\ud574 ASIC \uc800\ud56d\uc131\uc774 \uc788\ub294 \uc2a4\ud06c\ub9bd\ud2b8(Scrypt)\ub77c\ub294 \uc54c\uace0\ub9ac\uc998\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4. \ucc98\uc74c\uc5d0\ub294 \uc77c\ubc18\uc778\ub3c4 \ucc44\uad74\ud560 \uc218 \uc788\ub2e4\ub294 \ubcf8\ub798\uc758 \ucde8\uc9c0\ub97c \uc2e4\ud604\ud560 \uc218 \uc788\uc744 \uac83 \uac19\uc558\uc9c0\ub9cc, \uc774\ud6c4 \uc2a4\ud06c\ub9bd\ud2b8 \uc804\uc6a9\uc758 ASIC \uc7a5\ube44\uac00 \ub4f1\uc7a5\ud558\uba74\uc11c \ubcf8\ub798\uc758 \ubaa9\uc801\uc744 \ub2ec\uc131\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4.\r\n\r\n\ud575\uc2ec \uac00\uce58\r\n(\ud0a4\uc6cc\ub4dc: \uac70\ub798\uc18d\ub3c4)\r\n\r\n\ucf54\uc778 \uc0dd\uc131 \uc8fc\uae30\ub97c 10\ubd84\uc5d0\uc11c 2.5\ubd84\uc73c\ub85c \uc904\uc5ec\uc11c, \ube44\ud2b8\ucf54\uc778 \ubcf4\ub2e4 \uc57d 4\ubc30 \uc815\ub3c4 \ube60\ub978 \uac70\ub798\uac00 \uc774\ub904\uc9d1\ub2c8\ub2e4. \ub354 \ub098\uc544\uac00, \uc138\uadf8\uc717\uc744 \ubc14\ud0d5\uc73c\ub85c \uc2e4\ud589\ub420 \uc218 \uc788\ub294 \ub77c\uc774\ud2b8\ub2dd \ub124\ud2b8\uc6cc\ud06c\ub97c \uac1c\ubc1c\ud558\uace0 \uc788\ub294\ub370, \uc774\uac83\uc774 \uc644\uc131\ub418\uc5b4 \ub3c4\uc785\ub41c\ub2e4\uba74 \ud604\uc7ac\ubcf4\ub2e4 100\ub9cc \ubc30 \uc815\ub3c4 \uac70\ub798 \uc18d\ub3c4\ub97c \uc62c\ub9b4 \uc218 \uc788\ub2e4\uace0 \ud569\ub2c8\ub2e4. ",
+        "ar": "",
+        "th": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
+        "id": "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or \u2018altcoin\u2019 has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n\u2018While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,\u2019 Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin\u2019s blocks would be larger, but with more \u2018orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market."
+    },
+    "links": {
+        "homepage": [
+            "http://litecoin.org",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://blockchair.com/litecoin",
+            "https://chainz.cryptoid.info/ltc/",
+            "https://bitupper.com/en/explorer/litecoin",
+            "https://litecoinblockexplorer.net/",
+            "https://ltc.tokenview.com/"
+        ],
+        "official_forum_url": [
+            "https://litecointalk.org/",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "",
+            ""
+        ],
+        "twitter_screen_name": "LTCFoundation",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": 47417,
+        "telegram_channel_identifier": "",
+        "subreddit_url": "https://www.reddit.com/r/litecoin/",
+        "repos_url": {
+            "github": [
+                "https://github.com/litecoin-project/litecoin"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+        "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+        "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+    },
+    "country_origin": "",
+    "genesis_date": "2011-10-08",
+    "sentiment_votes_up_percentage": 80.86,
+    "sentiment_votes_down_percentage": 19.14,
+    "market_cap_rank": 7,
+    "coingecko_rank": 8,
+    "coingecko_score": 64.158,
+    "developer_score": 73.532,
+    "community_score": 53.978,
+    "liquidity_score": 85.164,
+    "public_interest_score": 0.014,
+    "public_interest_stats": {
+        "alexa_rank": 178888,
+        "bing_matches": null
+    },
+    "status_updates": [
+        {
+            "description": "For all you Atari flashback fans out there, get ready to use Litecoin for everything from games to hotels. Today we announce our newest partnership with Atari! Litecoin will also become an option for purchasing the much-anticipated new Atari VCS gaming console at a discount! \r\n\r\nFor more info see our blog: litecoin-foundation.org/atari/",
+            "category": "general",
+            "created_at": "2020-05-21T12:15:08.418Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "Litecoin Foundation Partners With MeconCash, Enabling Fiat Withdrawal At Over 13,000 ATMs Across South Korea.\r\n\r\n\ud83d\udc47 Read More\r\nhttps://litecoin-foundation.org/litecoin-foundation-partners-with-meconcash-enabling-fiat-withdrawal-at-over-13000-atms-across-south-korea/",
+            "category": "partnership",
+            "created_at": "2020-03-02T13:08:21.379Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "Litecoin Foundation partners with Cred, Litecoin holders can start earning up to 10% interest on their digital assets! Sign up to start earning now: mycred.io/litecoin\r\n\r\nRead more about it here:\r\nlitecoin-foundation.org/13731-2/\r\n\r\n",
+            "category": "partnership",
+            "created_at": "2020-02-14T02:31:28.789Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "Litecoin meetup and pre-Blockshow networking party in Singapore \r\n\r\nDate: & Time: 13 Nov 2019 - 6pm till late.\r\nLocation:  MEDZS Clifford Centre Raffles Place #01-01\r\n\r\nRSVP now \u2013 bit.ly/ecxxparty\r\n\r\nCo-organised by Xfers, Ledger, Ecxx.com, Litecoin foundation",
+            "category": "general",
+            "created_at": "2019-11-08T05:03:54.985Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "Litecoin Summit 2019 was successfully held in Las Vegas.\r\n\r\nRecorded live stream here: \r\nDay 1: https://www.youtube.com/watch?v=7YAGPK4vMrQ\r\nDay 2: https://www.youtube.com/watch?v=_rhgu_WsEus&t=30424s",
+            "category": "general",
+            "created_at": "2019-11-08T04:56:46.406Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "Introducing Litewallet: A New & Improved Version Of LoafWallet\r\n\r\n\ud83d\udc47 Read More\r\nhttps://litecoin-foundation.org/introducing-litewallet-a-new-improved-version-of-loafwallet/",
+            "category": "milestone",
+            "created_at": "2019-11-08T04:52:00.205Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        },
+        {
+            "description": "The Litecoin MimbleWimble Extension Block Proposal has been Published.\r\n\r\n\ud83d\udc47 Read More:\r\nhttps://litecoin.com/en/news/the-litecoin-mimblewimble-extension-block-proposal-has-been-published",
+            "category": "general",
+            "created_at": "2019-11-08T04:41:14.435Z",
+            "user": "Keith Yong",
+            "user_title": "Operations Director",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "litecoin",
+                "name": "Litecoin",
+                "symbol": "ltc",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/2/thumb/litecoin.png?1547033580",
+                    "small": "https://assets.coingecko.com/coins/images/2/small/litecoin.png?1547033580",
+                    "large": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1547033580"
+                }
+            }
+        }
+    ],
+    "last_updated": "2021-01-19T05:43:53.321Z",
+    "tickers": [
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 158.26,
+            "volume": 154930.64173266,
+            "converted_last": {
+                "btc": 0.00435256,
+                "eth": 0.11993101,
+                "usd": 158.26
+            },
+            "converted_volume": {
+                "btc": 674.345,
+                "eth": 18581,
+                "usd": 24519323
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.126422,
+            "timestamp": "2021-01-19T05:42:24+00:00",
+            "last_traded_at": "2021-01-19T05:42:24+00:00",
+            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LTCUSD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 157.9813,
+            "volume": 1060476.417,
+            "converted_last": {
+                "btc": 0.00433953,
+                "eth": 0.11957218,
+                "usd": 157.98
+            },
+            "converted_volume": {
+                "btc": 4602,
+                "eth": 126803,
+                "usd": 167535443
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110194,
+            "timestamp": "2021-01-19T05:40:39+00:00",
+            "last_traded_at": "2021-01-19T05:40:39+00:00",
+            "last_fetch_at": "2021-01-19T05:40:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/LTC-to-USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 157.5676,
+            "volume": 1060490.288,
+            "converted_last": {
+                "btc": 0.00433795,
+                "eth": 0.11952862,
+                "usd": 157.57
+            },
+            "converted_volume": {
+                "btc": 4600,
+                "eth": 126759,
+                "usd": 167098910
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.128972,
+            "timestamp": "2021-01-19T05:43:38+00:00",
+            "last_traded_at": "2021-01-19T05:43:38+00:00",
+            "last_fetch_at": "2021-01-19T05:43:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 157.85,
+            "volume": 1976239.2187191593,
+            "converted_last": {
+                "btc": 0.00434374,
+                "eth": 0.11968793,
+                "usd": 158.07
+            },
+            "converted_volume": {
+                "btc": 8584,
+                "eth": 236532,
+                "usd": 312378810
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106343,
+            "timestamp": "2021-01-19T05:41:49+00:00",
+            "last_traded_at": "2021-01-19T05:41:49+00:00",
+            "last_fetch_at": "2021-01-19T05:41:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 157.55,
+            "volume": 1710940.624724164,
+            "converted_last": {
+                "btc": 0.00433548,
+                "eth": 0.11946046,
+                "usd": 157.64
+            },
+            "converted_volume": {
+                "btc": 7418,
+                "eth": 204390,
+                "usd": 269711063
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.112692,
+            "timestamp": "2021-01-19T05:42:44+00:00",
+            "last_traded_at": "2021-01-19T05:42:44+00:00",
+            "last_fetch_at": "2021-01-19T05:42:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=ltc_usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 158.16,
+            "volume": 16336.698820814365,
+            "converted_last": {
+                "btc": 0.00434628,
+                "eth": 0.11975811,
+                "usd": 158.16
+            },
+            "converted_volume": {
+                "btc": 71.004,
+                "eth": 1956,
+                "usd": 2583812
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.135977,
+            "timestamp": "2021-01-19T05:41:21+00:00",
+            "last_traded_at": "2021-01-19T05:41:21+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LTC/USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 157.92,
+            "volume": 3097.1510977077,
+            "converted_last": {
+                "btc": 0.00434002,
+                "eth": 0.11958565,
+                "usd": 157.93
+            },
+            "converted_volume": {
+                "btc": 13.441708,
+                "eth": 370.375,
+                "usd": 489140
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.148701,
+            "timestamp": "2021-01-19T05:41:21+00:00",
+            "last_traded_at": "2021-01-19T05:41:21+00:00",
+            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LTC/USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 157.45,
+            "volume": 339397.8455,
+            "converted_last": {
+                "btc": 0.00433273,
+                "eth": 0.11938463,
+                "usd": 157.38
+            },
+            "converted_volume": {
+                "btc": 1471,
+                "eth": 40519,
+                "usd": 53413681
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.163549,
+            "timestamp": "2021-01-19T05:43:46+00:00",
+            "last_traded_at": "2021-01-19T05:43:46+00:00",
+            "last_fetch_at": "2021-01-19T05:43:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0043488,
+            "volume": 9287.35548776,
+            "converted_last": {
+                "btc": 0.0043488,
+                "eth": 0.11982748,
+                "usd": 158.12
+            },
+            "converted_volume": {
+                "btc": 40.388852,
+                "eth": 1113,
+                "usd": 1468548
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.115075,
+            "timestamp": "2021-01-19T05:42:23+00:00",
+            "last_traded_at": "2021-01-19T05:42:23+00:00",
+            "last_fetch_at": "2021-01-19T05:42:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LTCBTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 0.004347,
+            "volume": 1211.4843144697493,
+            "converted_last": {
+                "btc": 0.004347,
+                "eth": 0.11977788,
+                "usd": 158.19
+            },
+            "converted_volume": {
+                "btc": 5.266322,
+                "eth": 145.109,
+                "usd": 191640
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.269712,
+            "timestamp": "2021-01-19T05:41:22+00:00",
+            "last_traded_at": "2021-01-19T05:41:22+00:00",
+            "last_fetch_at": "2021-01-19T05:41:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/LTC/BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "LBank",
+                "identifier": "lbank",
+                "has_trading_incentive": false
+            },
+            "last": 158.52,
+            "volume": 995260.8053,
+            "converted_last": {
+                "btc": 0.0043482,
+                "eth": 0.12001944,
+                "usd": 158.49
+            },
+            "converted_volume": {
+                "btc": 4328,
+                "eth": 119451,
+                "usd": 157742695
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150445,
+            "timestamp": "2021-01-19T05:38:18+00:00",
+            "last_traded_at": "2021-01-19T05:38:18+00:00",
+            "last_fetch_at": "2021-01-19T05:38:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=ltc&post=usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 157.98,
+            "volume": 845876.06286,
+            "converted_last": {
+                "btc": 0.00434167,
+                "eth": 0.11963108,
+                "usd": 158.06
+            },
+            "converted_volume": {
+                "btc": 3673,
+                "eth": 101193,
+                "usd": 133698433
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.112661,
+            "timestamp": "2021-01-19T05:40:54+00:00",
+            "last_traded_at": "2021-01-19T05:40:54+00:00",
+            "last_fetch_at": "2021-01-19T05:40:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=ltc_usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 157.83,
+            "volume": 725547.56512315,
+            "converted_last": {
+                "btc": 0.00433721,
+                "eth": 0.11950824,
+                "usd": 157.83
+            },
+            "converted_volume": {
+                "btc": 3147,
+                "eth": 86709,
+                "usd": 114513172
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150655,
+            "timestamp": "2021-01-19T05:41:27+00:00",
+            "last_traded_at": "2021-01-19T05:41:27+00:00",
+            "last_fetch_at": "2021-01-19T05:41:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LTC-USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.004345,
+            "volume": 89692.1836,
+            "converted_last": {
+                "btc": 0.004345,
+                "eth": 0.11972277,
+                "usd": 157.82
+            },
+            "converted_volume": {
+                "btc": 389.713,
+                "eth": 10738,
+                "usd": 14155537
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.183781,
+            "timestamp": "2021-01-19T05:43:45+00:00",
+            "last_traded_at": "2021-01-19T05:43:45+00:00",
+            "last_fetch_at": "2021-01-19T05:43:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.0043487,
+            "volume": 157904.182,
+            "converted_last": {
+                "btc": 0.0043487,
+                "eth": 0.12003312,
+                "usd": 158.51
+            },
+            "converted_volume": {
+                "btc": 686.678,
+                "eth": 18954,
+                "usd": 25029692
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.145973,
+            "timestamp": "2021-01-19T05:38:38+00:00",
+            "last_traded_at": "2021-01-19T05:38:38+00:00",
+            "last_fetch_at": "2021-01-19T05:38:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/LTC-to-BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0043429,
+            "volume": 156355.94,
+            "converted_last": {
+                "btc": 0.0043429,
+                "eth": 0.11966491,
+                "usd": 157.75
+            },
+            "converted_volume": {
+                "btc": 679.038,
+                "eth": 18710,
+                "usd": 24664720
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.143776,
+            "timestamp": "2021-01-19T05:43:45+00:00",
+            "last_traded_at": "2021-01-19T05:43:45+00:00",
+            "last_fetch_at": "2021-01-19T05:43:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 158.06,
+            "volume": 145713.6018,
+            "converted_last": {
+                "btc": 0.00434387,
+                "eth": 0.11969166,
+                "usd": 158.07
+            },
+            "converted_volume": {
+                "btc": 632.961,
+                "eth": 17441,
+                "usd": 23033275
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.169625,
+            "timestamp": "2021-01-19T05:41:09+00:00",
+            "last_traded_at": "2021-01-19T05:41:09+00:00",
+            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 0.004342,
+            "volume": 50005.43,
+            "converted_last": {
+                "btc": 0.004342,
+                "eth": 0.11964011,
+                "usd": 157.88
+            },
+            "converted_volume": {
+                "btc": 217.124,
+                "eth": 5983,
+                "usd": 7894663
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.551471,
+            "timestamp": "2021-01-19T05:42:15+00:00",
+            "last_traded_at": "2021-01-19T05:42:15+00:00",
+            "last_fetch_at": "2021-01-19T05:42:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/LTC_BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 157.98,
+            "volume": 135908.7726,
+            "converted_last": {
+                "btc": 0.00434731,
+                "eth": 0.1197865,
+                "usd": 158.07
+            },
+            "converted_volume": {
+                "btc": 590.838,
+                "eth": 16280,
+                "usd": 21483004
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.132827,
+            "timestamp": "2021-01-19T05:42:47+00:00",
+            "last_traded_at": "2021-01-19T05:42:47+00:00",
+            "last_fetch_at": "2021-01-19T05:42:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/ltc_usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "EUR",
+            "market": {
+                "name": "Currency.com",
+                "identifier": "currency",
+                "has_trading_incentive": false
+            },
+            "last": 131.14,
+            "volume": 1073.26,
+            "converted_last": {
+                "btc": 0.00434725,
+                "eth": 0.11999297,
+                "usd": 158.62
+            },
+            "converted_volume": {
+                "btc": 4.665724,
+                "eth": 128.784,
+                "usd": 170241
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.458681,
+            "timestamp": "2021-01-19T05:34:00+00:00",
+            "last_traded_at": "2021-01-19T05:34:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.currency.com/ltc-to-eur",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.004345,
+            "volume": 429337.33111162257,
+            "converted_last": {
+                "btc": 0.004345,
+                "eth": 0.11972277,
+                "usd": 158.11
+            },
+            "converted_volume": {
+                "btc": 1865,
+                "eth": 51401,
+                "usd": 67883952
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123015,
+            "timestamp": "2021-01-19T05:41:10+00:00",
+            "last_traded_at": "2021-01-19T05:41:10+00:00",
+            "last_fetch_at": "2021-01-19T05:41:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LTC_BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Currency.com",
+                "identifier": "currency",
+                "has_trading_incentive": false
+            },
+            "last": 0.00432,
+            "volume": 54.56,
+            "converted_last": {
+                "btc": 0.00432,
+                "eth": 0.11924094,
+                "usd": 157.63
+            },
+            "converted_volume": {
+                "btc": 0.2356992,
+                "eth": 6.505786,
+                "usd": 8600.12
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.689655,
+            "timestamp": "2021-01-19T05:34:00+00:00",
+            "last_traded_at": "2021-01-19T05:34:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.currency.com/ltc-to-btc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 131.38,
+            "volume": 86577.44294606,
+            "converted_last": {
+                "btc": 0.00435874,
+                "eth": 0.12031018,
+                "usd": 158.88
+            },
+            "converted_volume": {
+                "btc": 377.368,
+                "eth": 10416,
+                "usd": 13755231
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.191283,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/ltc/eur",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 158.61,
+            "volume": 86246.76548462,
+            "converted_last": {
+                "btc": 0.0043495,
+                "eth": 0.12014592,
+                "usd": 158.61
+            },
+            "converted_volume": {
+                "btc": 375.13,
+                "eth": 10362,
+                "usd": 13679599
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1135,
+            "timestamp": "2021-01-19T05:29:41+00:00",
+            "last_traded_at": "2021-01-19T05:29:41+00:00",
+            "last_fetch_at": "2021-01-19T05:29:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 158.78,
+            "volume": 95579.89375746,
+            "converted_last": {
+                "btc": 0.00435606,
+                "eth": 0.12023614,
+                "usd": 158.78
+            },
+            "converted_volume": {
+                "btc": 416.351,
+                "eth": 11492,
+                "usd": 15176176
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.137776,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/ltc/usd",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 215629.7448,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.119585,
+                "usd": 157.8
+            },
+            "converted_volume": {
+                "btc": 935.833,
+                "eth": 25786,
+                "usd": 34027107
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146051,
+            "timestamp": "2021-01-19T05:42:38+00:00",
+            "last_traded_at": "2021-01-19T05:42:38+00:00",
+            "last_fetch_at": "2021-01-19T05:42:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=ltc_btc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 157.83,
+            "volume": 543332.28819,
+            "converted_last": {
+                "btc": 0.00433755,
+                "eth": 0.11951749,
+                "usd": 157.91
+            },
+            "converted_volume": {
+                "btc": 2357,
+                "eth": 64938,
+                "usd": 85797087
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106335,
+            "timestamp": "2021-01-19T05:40:25+00:00",
+            "last_traded_at": "2021-01-19T05:40:25+00:00",
+            "last_fetch_at": "2021-01-19T05:40:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=ltcusdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "CoinAll",
+                "identifier": "coinall",
+                "has_trading_incentive": false
+            },
+            "last": 157.77,
+            "volume": 10.938938,
+            "converted_last": {
+                "btc": 0.00434153,
+                "eth": 0.11962727,
+                "usd": 157.86
+            },
+            "converted_volume": {
+                "btc": 0.04749177,
+                "eth": 1.308595,
+                "usd": 1726.81
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106339,
+            "timestamp": "2021-01-19T05:42:54+00:00",
+            "last_traded_at": "2021-01-19T05:42:54+00:00",
+            "last_fetch_at": "2021-01-19T05:42:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Hoo.com",
+                "identifier": "hoo",
+                "has_trading_incentive": false
+            },
+            "last": 159.28,
+            "volume": 85807.60414668111,
+            "converted_last": {
+                "btc": 0.00436905,
+                "eth": 0.12059485,
+                "usd": 159.34
+            },
+            "converted_volume": {
+                "btc": 374.898,
+                "eth": 10348,
+                "usd": 13672765
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.137884,
+            "timestamp": "2021-01-19T05:35:04+00:00",
+            "last_traded_at": "2021-01-19T05:35:04+00:00",
+            "last_fetch_at": "2021-01-19T05:35:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/ltc-usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 157.63,
+            "volume": 2209.455345,
+            "converted_last": {
+                "btc": 0.00433768,
+                "eth": 0.11952112,
+                "usd": 157.72
+            },
+            "converted_volume": {
+                "btc": 9.583914,
+                "eth": 264.077,
+                "usd": 348473
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106344,
+            "timestamp": "2021-01-19T05:42:31+00:00",
+            "last_traded_at": "2021-01-19T05:42:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 157.58,
+            "volume": 31414.42619,
+            "converted_last": {
+                "btc": 0.00433631,
+                "eth": 0.1194832,
+                "usd": 157.67
+            },
+            "converted_volume": {
+                "btc": 136.223,
+                "eth": 3753,
+                "usd": 4953083
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.125386,
+            "timestamp": "2021-01-19T05:42:16+00:00",
+            "last_traded_at": "2021-01-19T05:42:16+00:00",
+            "last_fetch_at": "2021-01-19T05:42:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 157.94,
+            "volume": 413032.56954305,
+            "converted_last": {
+                "btc": 0.00434057,
+                "eth": 0.11960079,
+                "usd": 157.95
+            },
+            "converted_volume": {
+                "btc": 1793,
+                "eth": 49399,
+                "usd": 65239415
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.158979,
+            "timestamp": "2021-01-19T05:41:39+00:00",
+            "last_traded_at": "2021-01-19T05:41:39+00:00",
+            "last_fetch_at": "2021-01-19T05:41:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 158.137,
+            "volume": 727703.596,
+            "converted_last": {
+                "btc": 0.00434599,
+                "eth": 0.11974997,
+                "usd": 158.28
+            },
+            "converted_volume": {
+                "btc": 3163,
+                "eth": 87142,
+                "usd": 115183217
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.115176,
+            "timestamp": "2021-01-19T05:39:21+00:00",
+            "last_traded_at": "2021-01-19T05:39:21+00:00",
+            "last_fetch_at": "2021-01-19T05:39:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/ltcusdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.004345,
+            "volume": 91421.28797863,
+            "converted_last": {
+                "btc": 0.004345,
+                "eth": 0.11972277,
+                "usd": 158.11
+            },
+            "converted_volume": {
+                "btc": 397.225,
+                "eth": 10945,
+                "usd": 14454924
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.163034,
+            "timestamp": "2021-01-19T05:41:36+00:00",
+            "last_traded_at": "2021-01-19T05:41:36+00:00",
+            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LTC_BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 157.72,
+            "volume": 14969.28730675,
+            "converted_last": {
+                "btc": 0.00433419,
+                "eth": 0.11942495,
+                "usd": 157.72
+            },
+            "converted_volume": {
+                "btc": 64.88,
+                "eth": 1788,
+                "usd": 2360956
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.405516,
+            "timestamp": "2021-01-19T05:41:42+00:00",
+            "last_traded_at": "2021-01-19T05:41:42+00:00",
+            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LTC_USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.004344,
+            "volume": 61102.42663857,
+            "converted_last": {
+                "btc": 0.004344,
+                "eth": 0.11969522,
+                "usd": 158.08
+            },
+            "converted_volume": {
+                "btc": 265.429,
+                "eth": 7314,
+                "usd": 9658884
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146062,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LTC-BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.004361,
+            "volume": 25889.56324496,
+            "converted_last": {
+                "btc": 0.004361,
+                "eth": 0.12037263,
+                "usd": 158.96
+            },
+            "converted_volume": {
+                "btc": 112.904,
+                "eth": 3116,
+                "usd": 4115411
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114837,
+            "timestamp": "2021-01-19T05:38:24+00:00",
+            "last_traded_at": "2021-01-19T05:38:24+00:00",
+            "last_fetch_at": "2021-01-19T05:38:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/ltc/xbt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 158.13,
+            "volume": 53617.7015775,
+            "converted_last": {
+                "btc": 0.00434546,
+                "eth": 0.1197354,
+                "usd": 158.13
+            },
+            "converted_volume": {
+                "btc": 232.993,
+                "eth": 6420,
+                "usd": 8478567
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.175954,
+            "timestamp": "2021-01-19T05:41:23+00:00",
+            "last_traded_at": "2021-01-19T05:41:23+00:00",
+            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Currency.com",
+                "identifier": "currency",
+                "has_trading_incentive": false
+            },
+            "last": 158.61,
+            "volume": 3568.74,
+            "converted_last": {
+                "btc": 0.00434695,
+                "eth": 0.11998471,
+                "usd": 158.61
+            },
+            "converted_volume": {
+                "btc": 15.51312,
+                "eth": 428.194,
+                "usd": 566038
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.372969,
+            "timestamp": "2021-01-19T05:34:00+00:00",
+            "last_traded_at": "2021-01-19T05:34:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.currency.com/ltc-to-usd",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 172800.0,
+            "volume": 273528.21114087,
+            "converted_last": {
+                "btc": 0.0043043,
+                "eth": 0.11860124,
+                "usd": 156.7
+            },
+            "converted_volume": {
+                "btc": 1177,
+                "eth": 32441,
+                "usd": 42861453
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.17341,
+            "timestamp": "2021-01-19T05:40:56+00:00",
+            "last_traded_at": "2021-01-19T05:40:56+00:00",
+            "last_fetch_at": "2021-01-19T05:40:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/LTC_KRW",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 15097.28428199,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.119585,
+                "usd": 157.8
+            },
+            "converted_volume": {
+                "btc": 65.522,
+                "eth": 1805,
+                "usd": 2382403
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.139599,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 157.63,
+            "volume": 31602.81432,
+            "converted_last": {
+                "btc": 0.00433523,
+                "eth": 0.11945359,
+                "usd": 157.63
+            },
+            "converted_volume": {
+                "btc": 137.005,
+                "eth": 3775,
+                "usd": 4981552
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.138078,
+            "timestamp": "2021-01-19T05:42:16+00:00",
+            "last_traded_at": "2021-01-19T05:42:16+00:00",
+            "last_fetch_at": "2021-01-19T05:42:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/LTC_USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Coineal",
+                "identifier": "coineal",
+                "has_trading_incentive": false
+            },
+            "last": 0.004361,
+            "volume": 22814.0498,
+            "converted_last": {
+                "btc": 0.004361,
+                "eth": 0.12037263,
+                "usd": 159.12
+            },
+            "converted_volume": {
+                "btc": 99.492,
+                "eth": 2746,
+                "usd": 3630235
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.20628,
+            "timestamp": "2021-01-19T05:34:25+00:00",
+            "last_traded_at": "2021-01-19T05:34:25+00:00",
+            "last_fetch_at": "2021-01-19T05:34:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 158.44,
+            "volume": 95316.87923109,
+            "converted_last": {
+                "btc": 0.00434601,
+                "eth": 0.11995887,
+                "usd": 158.47
+            },
+            "converted_volume": {
+                "btc": 414.248,
+                "eth": 11434,
+                "usd": 15105115
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10631,
+            "timestamp": "2021-01-19T05:36:31+00:00",
+            "last_traded_at": "2021-01-19T05:36:31+00:00",
+            "last_fetch_at": "2021-01-19T05:36:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "EUR",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 130.43,
+            "volume": 53175.74835425,
+            "converted_last": {
+                "btc": 0.00433791,
+                "eth": 0.11952741,
+                "usd": 157.73
+            },
+            "converted_volume": {
+                "btc": 230.672,
+                "eth": 6356,
+                "usd": 8387273
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.184414,
+            "timestamp": "2021-01-19T05:42:35+00:00",
+            "last_traded_at": "2021-01-19T05:42:35+00:00",
+            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.119977,
+            "volume": 143.365,
+            "converted_last": {
+                "btc": 0.00434917,
+                "eth": 0.12027886,
+                "usd": 158.29
+            },
+            "converted_volume": {
+                "btc": 0.62351822,
+                "eth": 17.243779,
+                "usd": 22693
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.206103,
+            "timestamp": "2021-01-19T05:25:55+00:00",
+            "last_traded_at": "2021-01-19T05:25:55+00:00",
+            "last_fetch_at": "2021-01-19T05:43:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-ETH",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 157.725,
+            "volume": 1.6548280234585513,
+            "converted_last": {
+                "btc": 0.00433466,
+                "eth": 0.11943798,
+                "usd": 157.87
+            },
+            "converted_volume": {
+                "btc": 0.00717312,
+                "eth": 0.19764932,
+                "usd": 261.25
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.692586,
+            "timestamp": "2021-01-19T05:39:38+00:00",
+            "last_traded_at": "2021-01-19T05:39:38+00:00",
+            "last_fetch_at": "2021-01-19T05:39:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/LTC/USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 157.58,
+            "volume": 324938.31477188,
+            "converted_last": {
+                "btc": 0.00433631,
+                "eth": 0.1194832,
+                "usd": 157.67
+            },
+            "converted_volume": {
+                "btc": 1409,
+                "eth": 38825,
+                "usd": 51232723
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106346,
+            "timestamp": "2021-01-19T05:42:18+00:00",
+            "last_traded_at": "2021-01-19T05:42:18+00:00",
+            "last_fetch_at": "2021-01-19T05:42:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "VB",
+                "identifier": "vb",
+                "has_trading_incentive": false
+            },
+            "last": 157.9,
+            "volume": 531260.93674999,
+            "converted_last": {
+                "btc": 0.00433947,
+                "eth": 0.1195705,
+                "usd": 157.91
+            },
+            "converted_volume": {
+                "btc": 2305,
+                "eth": 63523,
+                "usd": 83892597
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.188608,
+            "timestamp": "2021-01-19T05:41:05+00:00",
+            "last_traded_at": "2021-01-19T05:41:05+00:00",
+            "last_fetch_at": "2021-01-19T05:41:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vb.co/exchange",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "SGD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 211.61,
+            "volume": 10185.538506450546,
+            "converted_last": {
+                "btc": 0.00436238,
+                "eth": 0.12041081,
+                "usd": 159.17
+            },
+            "converted_volume": {
+                "btc": 44.433222,
+                "eth": 1226,
+                "usd": 1621207
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.27736,
+            "timestamp": "2021-01-19T05:33:43+00:00",
+            "last_traded_at": "2021-01-19T05:33:43+00:00",
+            "last_fetch_at": "2021-01-19T05:33:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/SGD-LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 158.75,
+            "volume": 1039.7876759055118,
+            "converted_last": {
+                "btc": 0.00435881,
+                "eth": 0.12010317,
+                "usd": 158.75
+            },
+            "converted_volume": {
+                "btc": 4.532232,
+                "eth": 124.882,
+                "usd": 165066
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.670149,
+            "timestamp": "2021-01-19T05:39:39+00:00",
+            "last_traded_at": "2021-01-19T05:39:39+00:00",
+            "last_fetch_at": "2021-01-19T05:39:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/LTC/USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 158.78,
+            "volume": 9447.033631439728,
+            "converted_last": {
+                "btc": 0.00435176,
+                "eth": 0.12011767,
+                "usd": 158.78
+            },
+            "converted_volume": {
+                "btc": 41.111251,
+                "eth": 1135,
+                "usd": 1500000
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.275672,
+            "timestamp": "2021-01-19T05:33:43+00:00",
+            "last_traded_at": "2021-01-19T05:33:43+00:00",
+            "last_fetch_at": "2021-01-19T05:33:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/USD-LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.004345,
+            "volume": 241983.81476,
+            "converted_last": {
+                "btc": 0.004345,
+                "eth": 0.119931,
+                "usd": 158.38
+            },
+            "converted_volume": {
+                "btc": 1051,
+                "eth": 29021,
+                "usd": 38324679
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114995,
+            "timestamp": "2021-01-19T05:38:43+00:00",
+            "last_traded_at": "2021-01-19T05:38:43+00:00",
+            "last_fetch_at": "2021-01-19T05:38:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=ltc_btc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 158.48,
+            "volume": 91069.37649,
+            "converted_last": {
+                "btc": 0.00435323,
+                "eth": 0.11994963,
+                "usd": 158.48
+            },
+            "converted_volume": {
+                "btc": 396.446,
+                "eth": 10924,
+                "usd": 14432675
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.113902,
+            "timestamp": "2021-01-19T05:40:37+00:00",
+            "last_traded_at": "2021-01-19T05:40:37+00:00",
+            "last_fetch_at": "2021-01-19T05:40:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "B2BX",
+                "identifier": "b2bx",
+                "has_trading_incentive": false
+            },
+            "last": 158.5496275,
+            "volume": 10077.42697246,
+            "converted_last": {
+                "btc": 0.0043533,
+                "eth": 0.11995158,
+                "usd": 158.55
+            },
+            "converted_volume": {
+                "btc": 43.870102,
+                "eth": 1209,
+                "usd": 1597772
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.175261,
+            "timestamp": "2021-01-19T05:39:55+00:00",
+            "last_traded_at": "2021-01-19T05:39:55+00:00",
+            "last_fetch_at": "2021-01-19T05:39:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 157.57,
+            "volume": 34044.023,
+            "converted_last": {
+                "btc": 0.00433603,
+                "eth": 0.11947562,
+                "usd": 157.66
+            },
+            "converted_volume": {
+                "btc": 147.616,
+                "eth": 4067,
+                "usd": 5367349
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150761,
+            "timestamp": "2021-01-19T05:42:22+00:00",
+            "last_traded_at": "2021-01-19T05:42:22+00:00",
+            "last_fetch_at": "2021-01-19T05:42:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 158.7,
+            "volume": 100051.20968,
+            "converted_last": {
+                "btc": 0.00436146,
+                "eth": 0.12017631,
+                "usd": 158.78
+            },
+            "converted_volume": {
+                "btc": 436.369,
+                "eth": 12024,
+                "usd": 15886080
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.113924,
+            "timestamp": "2021-01-19T05:40:49+00:00",
+            "last_traded_at": "2021-01-19T05:40:49+00:00",
+            "last_fetch_at": "2021-01-19T05:40:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Coineal",
+                "identifier": "coineal",
+                "has_trading_incentive": false
+            },
+            "last": 158.86,
+            "volume": 13368.92425,
+            "converted_last": {
+                "btc": 0.0043532,
+                "eth": 0.12015722,
+                "usd": 158.84
+            },
+            "converted_volume": {
+                "btc": 58.198,
+                "eth": 1606,
+                "usd": 2123494
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.175495,
+            "timestamp": "2021-01-19T05:34:25+00:00",
+            "last_traded_at": "2021-01-19T05:34:25+00:00",
+            "last_fetch_at": "2021-01-19T05:34:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 39949.94013702,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.119585,
+                "usd": 157.8
+            },
+            "converted_volume": {
+                "btc": 173.383,
+                "eth": 4777,
+                "usd": 6304236
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146083,
+            "timestamp": "2021-01-19T05:42:16+00:00",
+            "last_traded_at": "2021-01-19T05:42:16+00:00",
+            "last_fetch_at": "2021-01-19T05:42:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Waves.Exchange",
+                "identifier": "waves",
+                "has_trading_incentive": false
+            },
+            "last": 0.00432,
+            "volume": 682.17923849,
+            "converted_last": {
+                "btc": 0.00432,
+                "eth": 0.11924094,
+                "usd": 157.62
+            },
+            "converted_volume": {
+                "btc": 2.947014,
+                "eth": 81.344,
+                "usd": 107526
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.476877,
+            "timestamp": "2021-01-19T05:33:29+00:00",
+            "last_traded_at": "2021-01-19T05:33:29+00:00",
+            "last_fetch_at": "2021-01-19T05:40:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 158.3,
+            "volume": 10678.62236,
+            "converted_last": {
+                "btc": 0.00434217,
+                "eth": 0.11985287,
+                "usd": 158.28
+            },
+            "converted_volume": {
+                "btc": 46.368389,
+                "eth": 1280,
+                "usd": 1690189
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150515,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Dcoin",
+                "identifier": "dcoin",
+                "has_trading_incentive": false
+            },
+            "last": 157.6138,
+            "volume": 347116.0,
+            "converted_last": {
+                "btc": 0.00433161,
+                "eth": 0.11935378,
+                "usd": 157.63
+            },
+            "converted_volume": {
+                "btc": 1504,
+                "eth": 41430,
+                "usd": 54714508
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123602,
+            "timestamp": "2021-01-19T05:41:39+00:00",
+            "last_traded_at": "2021-01-19T05:41:39+00:00",
+            "last_fetch_at": "2021-01-19T05:41:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.dcoin.com/currencyTrading/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "EUR",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 130.6,
+            "volume": 64982.6265193,
+            "converted_last": {
+                "btc": 0.00434004,
+                "eth": 0.11958622,
+                "usd": 157.93
+            },
+            "converted_volume": {
+                "btc": 282.027,
+                "eth": 7771,
+                "usd": 10262900
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114881,
+            "timestamp": "2021-01-19T05:41:26+00:00",
+            "last_traded_at": "2021-01-19T05:41:26+00:00",
+            "last_fetch_at": "2021-01-19T05:41:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LTC-EUR",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.004343,
+            "volume": 126461.24,
+            "converted_last": {
+                "btc": 0.004343,
+                "eth": 0.11966766,
+                "usd": 158.11
+            },
+            "converted_volume": {
+                "btc": 549.221,
+                "eth": 15133,
+                "usd": 19994465
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12302,
+            "timestamp": "2021-01-19T05:40:24+00:00",
+            "last_traded_at": "2021-01-19T05:40:24+00:00",
+            "last_fetch_at": "2021-01-19T05:40:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=ltcbtc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 1179.2,
+            "volume": 116178.94417373,
+            "converted_last": {
+                "btc": 0.00434212,
+                "eth": 0.11964343,
+                "usd": 157.88
+            },
+            "converted_volume": {
+                "btc": 504.463,
+                "eth": 13900,
+                "usd": 18342390
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167797,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/LTC_TRY",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 157.672,
+            "volume": 75235.46466861,
+            "converted_last": {
+                "btc": 0.00433321,
+                "eth": 0.11939785,
+                "usd": 157.68
+            },
+            "converted_volume": {
+                "btc": 326.011,
+                "eth": 8983,
+                "usd": 11863445
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.100635,
+            "timestamp": "2021-01-19T05:41:30+00:00",
+            "last_traded_at": "2021-01-19T05:41:30+00:00",
+            "last_fetch_at": "2021-01-19T05:41:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/LTC-USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "TUSD",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 158.0638924,
+            "volume": 5993.37392487,
+            "converted_last": {
+                "btc": 0.00431597,
+                "eth": 0.11892285,
+                "usd": 157.06
+            },
+            "converted_volume": {
+                "btc": 25.867216,
+                "eth": 712.749,
+                "usd": 941301
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.446847,
+            "timestamp": "2021-01-19T05:41:35+00:00",
+            "last_traded_at": "2021-01-19T05:41:35+00:00",
+            "last_fetch_at": "2021-01-19T05:41:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LTC_TUSD",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "true-usd"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 157.68,
+            "volume": 11382.60462547,
+            "converted_last": {
+                "btc": 0.00433343,
+                "eth": 0.11940391,
+                "usd": 157.69
+            },
+            "converted_volume": {
+                "btc": 49.325694,
+                "eth": 1359,
+                "usd": 1794948
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.335698,
+            "timestamp": "2021-01-19T05:41:43+00:00",
+            "last_traded_at": "2021-01-19T05:41:43+00:00",
+            "last_fetch_at": "2021-01-19T05:41:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/LTCUSDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 158.18,
+            "volume": 133054.86854138513,
+            "converted_last": {
+                "btc": 0.00434662,
+                "eth": 0.11976733,
+                "usd": 158.04
+            },
+            "converted_volume": {
+                "btc": 578.339,
+                "eth": 15936,
+                "usd": 21028523
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150694,
+            "timestamp": "2021-01-19T05:42:19+00:00",
+            "last_traded_at": "2021-01-19T05:42:19+00:00",
+            "last_fetch_at": "2021-01-19T05:42:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LTC_BUSD",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Vindax",
+                "identifier": "vindax",
+                "has_trading_incentive": false
+            },
+            "last": 158.42,
+            "volume": 197072.05669673,
+            "converted_last": {
+                "btc": 0.00435559,
+                "eth": 0.12045639,
+                "usd": 158.57
+            },
+            "converted_volume": {
+                "btc": 858.364,
+                "eth": 23739,
+                "usd": 31248892
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106285,
+            "timestamp": "2021-01-19T05:26:42+00:00",
+            "last_traded_at": "2021-01-19T05:26:42+00:00",
+            "last_fetch_at": "2021-01-19T05:26:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vindax.com/exchange-base.html?symbol=LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 1004.9,
+            "volume": 51102.60307057,
+            "converted_last": {
+                "btc": 0.00434114,
+                "eth": 0.11961629,
+                "usd": 158.04
+            },
+            "converted_volume": {
+                "btc": 221.843,
+                "eth": 6113,
+                "usd": 8076234
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.119296,
+            "timestamp": "2021-01-19T05:40:43+00:00",
+            "last_traded_at": "2021-01-19T05:40:43+00:00",
+            "last_fetch_at": "2021-01-19T05:40:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 157.68,
+            "volume": 10474.6285,
+            "converted_last": {
+                "btc": 0.00433906,
+                "eth": 0.11955903,
+                "usd": 157.9
+            },
+            "converted_volume": {
+                "btc": 45.450014,
+                "eth": 1252,
+                "usd": 1653913
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.279046,
+            "timestamp": "2021-01-19T05:41:44+00:00",
+            "last_traded_at": "2021-01-19T05:41:44+00:00",
+            "last_fetch_at": "2021-01-19T05:41:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 157.89,
+            "volume": 8006.95318363,
+            "converted_last": {
+                "btc": 0.00433886,
+                "eth": 0.11955367,
+                "usd": 157.89
+            },
+            "converted_volume": {
+                "btc": 34.741073,
+                "eth": 957.261,
+                "usd": 1264218
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.353647,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/LTCUSD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BCH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.3055,
+            "volume": 5.8819,
+            "converted_last": {
+                "btc": 0.00436401,
+                "eth": 0.12068933,
+                "usd": 158.87
+            },
+            "converted_volume": {
+                "btc": 0.02566866,
+                "eth": 0.70988255,
+                "usd": 934.47
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.153957,
+            "timestamp": "2021-01-19T05:26:26+00:00",
+            "last_traded_at": "2021-01-19T05:26:26+00:00",
+            "last_fetch_at": "2021-01-19T05:43:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-BCH",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Stormgain",
+                "identifier": "stormgain",
+                "has_trading_incentive": false
+            },
+            "last": 158.179,
+            "volume": 19821.73,
+            "converted_last": {
+                "btc": 0.00435279,
+                "eth": 0.11993739,
+                "usd": 158.27
+            },
+            "converted_volume": {
+                "btc": 86.28,
+                "eth": 2377,
+                "usd": 3137154
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.180991,
+            "timestamp": "2021-01-19T05:42:28+00:00",
+            "last_traded_at": "2021-01-19T05:42:28+00:00",
+            "last_fetch_at": "2021-01-19T05:42:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.stormgain.com/exchange",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.004347,
+            "volume": 4666.777839702783,
+            "converted_last": {
+                "btc": 0.004347,
+                "eth": 0.11977788,
+                "usd": 157.9
+            },
+            "converted_volume": {
+                "btc": 20.286483,
+                "eth": 558.977,
+                "usd": 736866
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123015,
+            "timestamp": "2021-01-19T05:43:16+00:00",
+            "last_traded_at": "2021-01-19T05:43:16+00:00",
+            "last_fetch_at": "2021-01-19T05:43:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/LTC-BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "UST",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 157.77,
+            "volume": 4035.8195731,
+            "converted_last": {
+                "btc": 0.00429134,
+                "eth": 0.11824433,
+                "usd": 156.03
+            },
+            "converted_volume": {
+                "btc": 17.31909,
+                "eth": 477.213,
+                "usd": 629726
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.190235,
+            "timestamp": "2021-01-19T05:42:31+00:00",
+            "last_traded_at": "2021-01-19T05:42:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LTCUST",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 158.52,
+            "volume": 198519.9849,
+            "converted_last": {
+                "btc": 0.0043482,
+                "eth": 0.12001944,
+                "usd": 158.58
+            },
+            "converted_volume": {
+                "btc": 863.205,
+                "eth": 23826,
+                "usd": 31481661
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.163914,
+            "timestamp": "2021-01-19T05:35:50+00:00",
+            "last_traded_at": "2021-01-19T05:35:50+00:00",
+            "last_fetch_at": "2021-01-19T05:35:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 1090.951644,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.119585,
+                "usd": 157.8
+            },
+            "converted_volume": {
+                "btc": 4.73473,
+                "eth": 130.461,
+                "usd": 172156
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123041,
+            "timestamp": "2021-01-19T05:42:31+00:00",
+            "last_traded_at": "2021-01-19T05:42:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "C2CX",
+                "identifier": "c2cx",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 287.2568,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.11979299,
+                "usd": 158.19
+            },
+            "converted_volume": {
+                "btc": 1.246695,
+                "eth": 34.41135,
+                "usd": 45443
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.458716,
+            "timestamp": "2021-01-19T05:38:50+00:00",
+            "last_traded_at": "2021-01-19T05:38:50+00:00",
+            "last_fetch_at": "2021-01-19T05:38:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "QC",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 1014.18,
+            "volume": 151694.991,
+            "converted_last": {
+                "btc": 0.00436287,
+                "eth": 0.12021521,
+                "usd": 158.9
+            },
+            "converted_volume": {
+                "btc": 661.826,
+                "eth": 18236,
+                "usd": 24104044
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12157,
+            "timestamp": "2021-01-19T05:39:19+00:00",
+            "last_traded_at": "2021-01-19T05:39:19+00:00",
+            "last_fetch_at": "2021-01-19T05:39:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/ltcqc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 158.95,
+            "volume": 17737.188,
+            "converted_last": {
+                "btc": 0.00435566,
+                "eth": 0.12022529,
+                "usd": 158.93
+            },
+            "converted_volume": {
+                "btc": 77.257,
+                "eth": 2132,
+                "usd": 2818936
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.13833,
+            "timestamp": "2021-01-19T05:34:38+00:00",
+            "last_traded_at": "2021-01-19T05:34:38+00:00",
+            "last_fetch_at": "2021-01-19T05:34:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/ltc",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 172250.0,
+            "volume": 349703.75128428,
+            "converted_last": {
+                "btc": 0.00429761,
+                "eth": 0.11841701,
+                "usd": 156.1
+            },
+            "converted_volume": {
+                "btc": 1503,
+                "eth": 41411,
+                "usd": 54589534
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.129028,
+            "timestamp": "2021-01-19T05:43:31+00:00",
+            "last_traded_at": "2021-01-19T05:43:31+00:00",
+            "last_fetch_at": "2021-01-19T05:43:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "KRW",
+            "market": {
+                "name": "Coinone",
+                "identifier": "coinone",
+                "has_trading_incentive": false
+            },
+            "last": 172500.0,
+            "volume": 29833.7027,
+            "converted_last": {
+                "btc": 0.00429944,
+                "eth": 0.11846752,
+                "usd": 156.33
+            },
+            "converted_volume": {
+                "btc": 128.268,
+                "eth": 3534,
+                "usd": 4663867
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.144844,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinone.co.kr/exchange/trade/ltc/krw",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.004353,
+            "volume": 17530.56,
+            "converted_last": {
+                "btc": 0.004353,
+                "eth": 0.12015181,
+                "usd": 158.67
+            },
+            "converted_volume": {
+                "btc": 76.311,
+                "eth": 2106,
+                "usd": 2781620
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.122983,
+            "timestamp": "2021-01-19T05:37:05+00:00",
+            "last_traded_at": "2021-01-19T05:37:05+00:00",
+            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/LTC_BTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00435312,
+            "volume": 16673.05927548,
+            "converted_last": {
+                "btc": 0.00435312,
+                "eth": 0.12015512,
+                "usd": 158.73
+            },
+            "converted_volume": {
+                "btc": 72.58,
+                "eth": 2003,
+                "usd": 2646546
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.147737,
+            "timestamp": "2021-01-19T05:36:40+00:00",
+            "last_traded_at": "2021-01-19T05:36:40+00:00",
+            "last_fetch_at": "2021-01-19T05:36:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "XRP",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 519.89,
+            "volume": 104132.374,
+            "converted_last": {
+                "btc": 0.00435271,
+                "eth": 0.11993529,
+                "usd": 158.46
+            },
+            "converted_volume": {
+                "btc": 453.258,
+                "eth": 12489,
+                "usd": 16500926
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.665248,
+            "timestamp": "2021-01-19T05:40:25+00:00",
+            "last_traded_at": "2021-01-19T05:40:25+00:00",
+            "last_fetch_at": "2021-01-19T05:40:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=ltcxrp",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "ripple"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 158.2,
+            "volume": 6318.18083392,
+            "converted_last": {
+                "btc": 0.00434772,
+                "eth": 0.11979768,
+                "usd": 158.28
+            },
+            "converted_volume": {
+                "btc": 27.469672,
+                "eth": 756.903,
+                "usd": 1000037
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.182294,
+            "timestamp": "2021-01-19T05:40:44+00:00",
+            "last_traded_at": "2021-01-19T05:40:44+00:00",
+            "last_fetch_at": "2021-01-19T05:40:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=LTC",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "JPY",
+            "market": {
+                "name": "Bitbank",
+                "identifier": "bitbank",
+                "has_trading_incentive": false
+            },
+            "last": 16399.2,
+            "volume": 35620.2387,
+            "converted_last": {
+                "btc": 0.00433598,
+                "eth": 0.1194743,
+                "usd": 157.66
+            },
+            "converted_volume": {
+                "btc": 154.449,
+                "eth": 4256,
+                "usd": 5615792
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.14453,
+            "timestamp": "2021-01-19T05:42:13+00:00",
+            "last_traded_at": "2021-01-19T05:42:13+00:00",
+            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitbank.cc/app/trade/LTC_JPY",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "ETH",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.1198,
+            "volume": 17515.6470497,
+            "converted_last": {
+                "btc": 0.00434754,
+                "eth": 0.11979281,
+                "usd": 158.21
+            },
+            "converted_volume": {
+                "btc": 76.15,
+                "eth": 2098,
+                "usd": 2771077
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.383047,
+            "timestamp": "2021-01-19T05:41:36+00:00",
+            "last_traded_at": "2021-01-19T05:41:36+00:00",
+            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/LTC_ETH",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 157.56,
+            "volume": 190866.8368,
+            "converted_last": {
+                "btc": 0.00433576,
+                "eth": 0.11946804,
+                "usd": 157.65
+            },
+            "converted_volume": {
+                "btc": 827.552,
+                "eth": 22802,
+                "usd": 30089978
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.112694,
+            "timestamp": "2021-01-19T05:42:42+00:00",
+            "last_traded_at": "2021-01-19T05:42:42+00:00",
+            "last_fetch_at": "2021-01-19T05:42:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=LTC_USDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 158.39,
+            "volume": 68503.892,
+            "converted_last": {
+                "btc": 0.00435294,
+                "eth": 0.11994156,
+                "usd": 158.47
+            },
+            "converted_volume": {
+                "btc": 298.193,
+                "eth": 8216,
+                "usd": 10855766
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106333,
+            "timestamp": "2021-01-19T05:40:45+00:00",
+            "last_traded_at": "2021-01-19T05:40:45+00:00",
+            "last_fetch_at": "2021-01-19T05:40:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/ltc_usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "BTC",
+            "market": {
+                "name": "CoinAll",
+                "identifier": "coinall",
+                "has_trading_incentive": false
+            },
+            "last": 0.004345,
+            "volume": 9.021616,
+            "converted_last": {
+                "btc": 0.004345,
+                "eth": 0.11972277,
+                "usd": 157.99
+            },
+            "converted_volume": {
+                "btc": 0.03919892,
+                "eth": 1.080093,
+                "usd": 1425.28
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.192017,
+            "timestamp": "2021-01-19T05:42:53+00:00",
+            "last_traded_at": "2021-01-19T05:42:53+00:00",
+            "last_fetch_at": "2021-01-19T05:42:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 157.99,
+            "volume": 18052.39325463637,
+            "converted_last": {
+                "btc": 0.00433977,
+                "eth": 0.11957876,
+                "usd": 157.99
+            },
+            "converted_volume": {
+                "btc": 78.343,
+                "eth": 2159,
+                "usd": 2852098
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.107391,
+            "timestamp": "2021-01-19T05:40:50+00:00",
+            "last_traded_at": "2021-01-19T05:40:50+00:00",
+            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/LTC_USD",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Emirex",
+                "identifier": "emirex",
+                "has_trading_incentive": false
+            },
+            "last": 156.58,
+            "volume": 38849.46479,
+            "converted_last": {
+                "btc": 0.00431543,
+                "eth": 0.11996268,
+                "usd": 156.79
+            },
+            "converted_volume": {
+                "btc": 167.652,
+                "eth": 4660,
+                "usd": 6091122
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.477677,
+            "timestamp": "2021-01-19T05:00:47+00:00",
+            "last_traded_at": "2021-01-19T05:00:47+00:00",
+            "last_fetch_at": "2021-01-19T05:00:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://emirex.com/trading/LTCUSDT",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 157.87379549,
+            "volume": 23588.82930208,
+            "converted_last": {
+                "btc": 0.00433875,
+                "eth": 0.11955066,
+                "usd": 157.89
+            },
+            "converted_volume": {
+                "btc": 102.346,
+                "eth": 2820,
+                "usd": 3724346
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.149642,
+            "timestamp": "2021-01-19T05:41:00+00:00",
+            "last_traded_at": "2021-01-19T05:41:00+00:00",
+            "last_fetch_at": "2021-01-19T05:41:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#ltc_usdt",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LTC",
+            "target": "TUSD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 148.6002,
+            "volume": 14.834,
+            "converted_last": {
+                "btc": 0.00408318,
+                "eth": 0.11292282,
+                "usd": 148.72
+            },
+            "converted_volume": {
+                "btc": 0.06056987,
+                "eth": 1.675097,
+                "usd": 2206.18
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.220429,
+            "timestamp": "2021-01-19T05:22:17+00:00",
+            "last_traded_at": "2021-01-19T05:22:17+00:00",
+            "last_fetch_at": "2021-01-19T05:43:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-TUSD",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "true-usd"
+        },
+        {
+            "base": "LTC",
+            "target": "GBP",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 116.3,
+            "volume": 23349.29035121,
+            "converted_last": {
+                "btc": 0.00434813,
+                "eth": 0.119809,
+                "usd": 158.23
+            },
+            "converted_volume": {
+                "btc": 101.526,
+                "eth": 2797,
+                "usd": 3694493
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198037,
+            "timestamp": "2021-01-19T05:41:32+00:00",
+            "last_traded_at": "2021-01-19T05:41:32+00:00",
+            "last_fetch_at": "2021-01-19T05:41:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LTC-GBP",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        },
+        {
+            "base": "LTC",
+            "target": "EOS",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 56.0229,
+            "volume": 2.759,
+            "converted_last": {
+                "btc": 0.00433337,
+                "eth": 0.11940235,
+                "usd": 157.76
+            },
+            "converted_volume": {
+                "btc": 0.01195577,
+                "eth": 0.32943109,
+                "usd": 435.25
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.278098,
+            "timestamp": "2021-01-19T05:40:32+00:00",
+            "last_traded_at": "2021-01-19T05:40:32+00:00",
+            "last_fetch_at": "2021-01-19T05:43:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/LTC-to-EOS",
+            "token_info_url": null,
+            "coin_id": "litecoin",
+            "target_coin_id": "eos"
+        },
+        {
+            "base": "LTC",
+            "target": "USD",
+            "market": {
+                "name": "OKCoin",
+                "identifier": "okcoin",
+                "has_trading_incentive": false
+            },
+            "last": 158.88,
+            "volume": 1638.6084,
+            "converted_last": {
+                "btc": 0.00436422,
+                "eth": 0.12025238,
+                "usd": 158.88
+            },
+            "converted_volume": {
+                "btc": 7.151249,
+                "eth": 197.047,
+                "usd": 260342
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.233733,
+            "timestamp": "2021-01-19T05:40:07+00:00",
+            "last_traded_at": "2021-01-19T05:40:07+00:00",
+            "last_fetch_at": "2021-01-19T05:40:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okcoin.com/market#product=ltc_usd",
+            "token_info_url": null,
+            "coin_id": "litecoin"
+        }
+    ]
+}

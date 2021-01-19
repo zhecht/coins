@@ -1,0 +1,3443 @@
+{
+    "id": "monero",
+    "symbol": "xmr",
+    "name": "Monero",
+    "asset_platform_id": null,
+    "block_time_in_minutes": 2,
+    "hashing_algorithm": "RandomX",
+    "categories": [
+        "Privacy Coins"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "Monero",
+        "de": "Monero",
+        "es": "Monero",
+        "fr": "Monero",
+        "it": "Monero",
+        "pl": "Monero",
+        "ro": "Monero",
+        "hu": "Monero",
+        "nl": "Monero",
+        "pt": "Monero",
+        "sv": "Monero",
+        "vi": "Monero",
+        "tr": "Monero",
+        "ru": "\u041c\u043e\u043d\u0435\u0440\u043e",
+        "ja": "\u30e2\u30cd\u30ed",
+        "zh": "\u95e8\u7f57\u5e01",
+        "zh-tw": "\u9580\u7f85\u5e63",
+        "ko": "\ubaa8\ub124\ub85c",
+        "ar": "Monero",
+        "th": "Monero",
+        "id": "Monero"
+    },
+    "description": {
+        "en": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "de": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "es": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "fr": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "it": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "pl": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "ro": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "hu": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "nl": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "pt": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "sv": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "vi": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "tr": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "ru": "",
+        "ja": "",
+        "zh": "",
+        "zh-tw": "",
+        "ko": "\ubaa8\ub124\ub85c\ub294 \uc775\uba85\uc131\uacfc \ucd94\uc801\uc774 \ubd88\uac00\ub2a5\ud55c \uc131\uc9c8\uc744 \uac16\ub294 \ubd84\uc0b0 \uc554\ud638\ud654 \ud654\ud3d0\uc785\ub2c8\ub2e4. \uacf5\uc2dd\uc801\uc778 \uc2ac\ub85c\uac74\uc774 \u201csecure, private, untraceable\u201d\uc77c \uc815\ub3c4\ub85c \ubcf4\uc548\uc5d0 \uc2e0\uacbd\uc744 \uc4f0\ub294 \ud654\ud3d0\uc785\ub2c8\ub2e4. <a href=\"https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/%EB%B0%94%EC%9D%B4%ED%8A%B8%EC%BD%94%EC%9D%B8\">\ubc14\uc774\ud2b8\ucf54\uc778(BCN)</a> \uc5d0\uc11c \ud3ec\ud06c\ub418\uc5c8\ub2e4\uace0 \uc54c\ub824\uc838 \uc788\uc2b5\ub2c8\ub2e4. \r\n\r\n\ub2e4\ub978 \ucf54\uc778\ub4e4\uacfc\ub294 \ub2ec\ub9ac Cryptonote \ud504\ub85c\uc81d\ud2b8\uc5d0\uc11c \uac1c\ubc1c\ub41c <a href=\"https://www.coingecko.com/ko/%EC%BD%94%EC%9D%B8/all?hashing_algorithm=Cryptonight\">CryptoNight</a> \ub77c\ub294 \ucc44\uad74 \uc54c\uace0\ub9ac\uc998\uc744 \ud1b5\ud574 \uac15\ud55c \uc775\uba85\uc131\uc744 \uc81c\uacf5\ud569\ub2c8\ub2e4. Cryptonote\ub294 \ub9c1\uc2dc\uadf8\ub2c8\ucc98\ub97c \uad6c\ud604\ud558\ub294\ub370, \uc774\ub294 \ud0c0\uc778\uc774 \uac70\ub798\uc758 \ub300\uc0c1\uc790\ub97c \ud30c\uc545\ud558\uc9c0 \ubabb\ud558\uac8c \ud558\ub294 \uc2dc\uc2a4\ud15c\uc785\ub2c8\ub2e4. \r\n\r\n\ucf54\uc778 \ud2b9\uc9d5\r\n1. \ubaa8\ub124\ub85c\ub294 \ub9c1\uc2dc\uadf8\ub2c8\ucc98(ring signature)\uc640 \uc77c\ud68c\uc131 \uc8fc\uc18c(one-time keys, stealth address), \uadf8\ub9ac\uace0 \ub9c1CT(ringCT)\uc758 \uc138 \uac00\uc9c0 \ubc29\ubc95\uc744 \uc0ac\uc6a9\ud574 \uc775\uba85\uc131\uc744 \uad6c\ud604\ud569\ub2c8\ub2e4. \ub9c1\uc2dc\uadf8\ub2c8\ucc98\ub780 \uac70\ub798\uc790\uc758 \uacb0\uc81c \ud0a4\ub97c \ube14\ub85d\uccb4\uc778\uc5d0\uc11c \uc811\uadfc \uac00\ub2a5\ud55c \ud37c\ube14\ub9ad \ud0a4\ub4e4\uacfc \uc11e\uc5b4 \uc7a0\uc7ac\uc801 \uc0ac\uc6a9\uc790\ub4e4\uc758 \ud0a4\ub97c \ub9c1\uc73c\ub85c \ub9cc\ub4e4\uc5b4 \ubcf4\uc5ec\uc8fc\ub294 \ubc29\ubc95\uc73c\ub85c, \uc678\ubd80\uc790\uac00 \uac70\ub798\uc758 \ub300\uc0c1\uc790\ub97c \ud2b9\uc815\ud560 \uc218 \uc5c6\uac8c \ud569\ub2c8\ub2e4. \ub9c1\uc744 \ud1b5\ud574 \ubcf4\uc774\ub294 \uc0ac\uc6a9\uc790\ub4e4\uc740 \ubaa8\ub450 \uac70\ub798\uc5d0 \uc801\uc6a9 \uac00\ub2a5\ud55c \uc0ac\ub78c\ub4e4\uc774\ubbc0\ub85c \uc678\ubd80\uc790\ub294 \uac70\ub798 \ub300\uc0c1\uc790\ub97c \uace8\ub77c\ub0bc \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub610\ud55c, \uac70\ub798\ud560 \ub54c \uc1a1\uae08\uc790\ub9cc \uc774\uc6a9 \uac00\ub2a5\ud55c \uc77c\ud68c\uc131 \uc8fc\uc18c\uac00 \ubc1c\uae09\ub418\uae30 \ub54c\ubb38\uc5d0, \ucf54\uc778\uc744 \ubc1b\ub294 \uc0ac\ub78c\ub3c4 \ub204\uac00 \ubcf4\ub0b8 \uac74\uc9c0 \ucd94\uc801\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc774\ub807\uac8c \uac70\ub798\uc790\uc758 \uc2e0\uc6d0\uc744 \ubcf4\ud638\ud558\ub294 \ud55c\ud3b8, \ub9c1CT \uae30\uc220\ub85c \uac70\ub798\uc561\ub3c4 \ubcf4\uc548 \ub420 \uc218 \uc788\ub294 \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud569\ub2c8\ub2e4. \r\n\r\n2. \ubaa8\ub124\ub85c\uc758 \uacf5\uc2dd\uc801\uc778 \uacf5\uae09\ub7c9\uc740 18,400,000 XMR\ub85c \uc815\ud574\uc838 \uc788\uc9c0\ub9cc, \uc774\ud6c4 \ucd1d\ubc1c\ud589\ub7c9\uc740 \ud55c\uc815\ub418\uc5b4 \uc788\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. \ucd1d\ubc1c\ud589\ub7c9\uc5d0 \ub3c4\ub2ec\ud558\uace0 \ub098\uba74, \uadf8 \uc774\ud6c4\uc5d0\ub294 2\ubd84(\ub9e4 \ube14\ub85d)\ub9c8\ub2e4 \uc77c\uc815\ud558\uac8c 0.3 XMR\uc774 \"tail emission\"\uc774\ub77c\ub294 \uc774\ub984\uc73c\ub85c \ubc1c\ud589\ub420 \uac83\uc774\uae30 \ub54c\ubb38\uc785\ub2c8\ub2e4. \uc774\ub7f0 \uc2dc\uc2a4\ud15c\uc774 \uc788\ub294 \uc774\uc720\ub294 \ucc44\uad74 \ubcf4\uc0c1\uc774 \ub05d\ub09c \uc774\ud6c4, \uc218\uc218\ub8cc \uc774\uc678\uc5d0\ub3c4 \ucd94\uac00\ub85c \ube14\ub85d\uccb4\uc778\uc744 \uc720\uc9c0\ud560 \uc778\uc13c\ud2f0\ube0c\ub97c \uc0ac\ub78c\ub4e4\uc5d0\uac8c \uc81c\uacf5\ud558\uae30 \uc704\ud568\uc785\ub2c8\ub2e4. \r\n\r\n\ud575\uc2ec \uac00\uce58\r\n(\ud0a4\uc6cc\ub4dc: \uc775\uba85\uc131, \ud3b8\ub9ac\uc131)\r\n\r\n1. \uc775\uba85\uc131: \ubaa8\ub124\ub85c\ub294 \ub9c1\uc2dc\uadf8\ub2c8\ucc98\uc640 \uc77c\ud68c\uc131 \uc8fc\uc18c\ub97c \ud1b5\ud574 \uae30\ubcf8\uc801\uc73c\ub85c \uac70\ub798\ub0b4\uc6a9\uc774 \ube44\uacf5\uac1c\ub85c \uc124\uc815\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4. \uacf5\uac1c \ud639\uc740 \uac10\uc0ac\ub97c \ubc1b\uc544\uc57c \ud558\ub294 \uac70\ub798\uae30\ub85d\uc5d0 \ub300\ud574\uc11c\ub294 view key \uae30\ub2a5\uc744 \uc0ac\uc6a9\ud574 \uc120\ud0dd\uc801\uc73c\ub85c \uac70\ub798\uc815\ubcf4\ub97c \uacf5\uac1c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \r\n\r\n2. \ud3b8\ub9ac\uc131: \ub9c8\uc774 \ubaa8\ub124\ub85c(MY Monero)\ub97c \uc774\uc6a9\ud558\uc5ec \ubcc4\ub3c4\uc758 \uc124\uce58 \uc5c6\uc774 \uc6f9\uc5d0\uc11c \ubc14\ub85c \ubaa8\ub124\ub85c\ub97c \uc2e4\ud589\ud560 \uc218\ub3c4 \uc788\uace0, \ubaa8\ub124\ub85c(Monero)\ub97c \uc124\uce58\ud574\uc11c \ub354 \ub9ce\uc740 \uc11c\ube44\uc2a4\ub97c \ubc1b\uc73c\uba70 \uc774\uc6a9\ud560 \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4. ",
+        "ar": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "th": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n",
+        "id": "What is Monero?\r\nMonero (XMR) is the top <a href=\"https://www.coingecko.com/en?category_id=37&view=market\">privacy-centric cryptocurrency</a> based on the <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote protocol</a>, a secure, private and untraceable currency system. Monero uses a special kind of cryptography to ensure that all of its transactions are  remain 100% unlinkable and untraceable. In an increasingly transparent world, you can see why something like Monero can become so desirable.\r\n\r\nOrigins of Monero\r\nIn July of 2012, <a href=\"https://www.coingecko.com/en/coins/bytecoin\">Bytecoin</a>, the first real life implementation of CryptoNote, was launched. While Bytecoin had promise, people noticed that 80% of the coins were already published. So, it was decided that the bytecoin blockchain will be forked and the new coins in the new chain will be called Bitmonero, which is was then renamed Monero, meaning \u201ccoin\u201d in Esperanto language. In this new blockchain, a block will be mined and added every two minutes.\r\n\r\nWhy Monero?\r\n\r\n#1: Unlinkability - Your identity is completely private\r\n\r\nYou have complete control over your transactions. You are responsible for your money. Because your identity is private no one will be able to see what you are spending your money on. When you send funds to someone\u2019s public address, what happens is that you actually send the funds to a randomly created brand new one-time destination address. \r\n\r\nThis means that the public record does not contain any mention that funds were received to the recipient\u2019s public address. In Monero, your public address will never appear in the public record of transactions. Instead, a 'stealth address' is recorded in a way that only you, the recipient, can recognize the incoming funds.\r\n\r\n#2: Fungibility\r\n\r\nFungibility is interchangeability between one asset and another asset of the same type.\r\n\r\nSuppose you borrowed $50 from your friend, you can even return the money in the form of 1 $50 bill or 5 $10 bill, It is still fine. This shows that the dollar has fungible properties. However, if you were to borrow someone\u2019s car for the weekend and come back and give them some other car in return, then that person will probably punch on the face. Cars, in this example, are a nonfungible asset.\r\n\r\nWhat is <a href=\"https://www.coingecko.com/en?hashing_algorithm=Cryptonight\">CryptoNote</a>?\r\nCryptoNote is the application layer protocol that fuels various decentralized currencies. While it is similar to the application layer which runs bitcoin in many aspects, there a lot of areas where the two differ from each other. CryptoNote features an entirely new code base and is not a fork of <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a>. More info about CryptoNote can be found at their <a href=\"https://cryptonote.org/\" rel=\"nofollow\">website</a>. \r\n\r\nCryptoNote uses Ring Signatures to conceal sender identities via mixing and it also has unlinkable transactions that is achieved using 1-time keys for each individual payments. Ring signatures enable \u2018transaction mixing\u2019 to occur. Transaction mixing means that when funds are sent, the sender randomly chooses several other users\u2019 funds to also appear in the transaction as a possible source of the funds being sent. \r\n\r\nThe cryptographical nature of the ring signature means that no one can tell which of the funds were really the source of the transaction \u2013 not even the person that gave the funds to the sender in the first place. A system of \u2018key images\u2019 associated with each ring signature ensures that although no one can tell the true source of the funds, it can be easily detected if the sender attempts to anonymously send their funds twice. \r\n"
+    },
+    "links": {
+        "homepage": [
+            "https://getmonero.org",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://xmrchain.net/",
+            "http://moneroblocks.info",
+            "http://monerovision.com/",
+            "https://blockchair.com/monero",
+            "https://xmr.tokenview.com/"
+        ],
+        "official_forum_url": [
+            "https://forum.monero.space/",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "",
+            ""
+        ],
+        "twitter_screen_name": "monero",
+        "facebook_username": "monerocurrency",
+        "bitcointalk_thread_identifier": 583449,
+        "telegram_channel_identifier": "",
+        "subreddit_url": "https://www.reddit.com/r/monero",
+        "repos_url": {
+            "github": [
+                "https://github.com/monero-project/monero",
+                "https://github.com/monero-project/monero-gui",
+                "https://github.com/monero-project/kastelo"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+        "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+        "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+    },
+    "country_origin": "",
+    "genesis_date": "2014-04-18",
+    "sentiment_votes_up_percentage": 75.53,
+    "sentiment_votes_down_percentage": 24.47,
+    "market_cap_rank": 15,
+    "coingecko_rank": 5,
+    "coingecko_score": 64.961,
+    "developer_score": 90.393,
+    "community_score": 57.46,
+    "liquidity_score": 68.78,
+    "public_interest_score": 0.034,
+    "public_interest_stats": {
+        "alexa_rank": 74604,
+        "bing_matches": null
+    },
+    "status_updates": [
+        {
+            "description": "Chamath Palihapitiya explains why privacy is the killer feature of the 2020s and why people who wrap themselves in transparency (like many in the cryptocurrency industry) are wrong. \r\n\r\nhttps://www.youtube.com/watch?v=iilzD82hAFg",
+            "category": "general",
+            "created_at": "2021-01-12T21:26:25.789Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "Monero 0.17.1.8 'Oxygen Orion' released for GUI and CLI\r\n\r\nThis point release contains a patch for the memory exhaustion attack. Node operators are heavily encouraged to update as soon as possible.\r\n\r\nGUI: https://getmonero.org/2020/12/30/monero-GUI-0.17.1.8-released.html\r\n\r\nCLI: https://getmonero.org/2020/12/30/monero-0.17.1.8-released.html",
+            "category": "software_release",
+            "created_at": "2020-12-30T23:42:04.633Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "Andreas Antonopoulos Introduces Monero\r\n\r\nMonero TV Episode 6 (1.5 mins)\r\n\r\nhttps://www.youtube.com/watch?v=s3ENWEHgFPg",
+            "category": "general",
+            "created_at": "2020-11-12T14:45:04.046Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "What are Sybil attacks? How can they impact user privacy? \r\n\r\nJustin explains Sybil attacks against privacy and how Monero uses Dandelion++ and Tor to mitigate these threats. \r\n\r\nhttps://youtu.be/Xm3Fd-aIvxQ",
+            "category": "general",
+            "created_at": "2020-11-11T16:09:56.731Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "Monero Security Warning:\r\n\r\nCLI binaries available on getmonero.org may have been compromised at some point during the last 24h. Investigations ongoing.\r\n\r\nAlways check the integrity of the binaries you download!\r\n\r\nMore information: https://www.reddit.com/r/Monero/comments/dyfozs/security_warning_cli_binaries_available_on/",
+            "category": "software_release",
+            "created_at": "2019-11-19T05:06:20.617Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "Preliminary information thread regarding the scheduled protocol upgrade of November 30\r\n\r\nhttps://www.reddit.com/r/Monero/comments/d884zt/preliminary_information_thread_regarding_the/",
+            "category": "software_release",
+            "created_at": "2019-10-23T13:35:35.945Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        },
+        {
+            "description": "Advisory note for users making use of Monero subaddresses\r\n\r\nhttps://getmonero.org/2019/10/18/subaddress-janus.html",
+            "category": "general",
+            "created_at": "2019-10-23T13:34:55.697Z",
+            "user": "Justin Ehrenhofer",
+            "user_title": "Monero Space Organizer",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "monero",
+                "name": "Monero",
+                "symbol": "xmr",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/69/thumb/monero_logo.png?1547033729",
+                    "small": "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
+                    "large": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1547033729"
+                }
+            }
+        }
+    ],
+    "last_updated": "2021-01-19T05:43:25.525Z",
+    "tickers": [
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 154.23,
+            "volume": 2801.25654311,
+            "converted_last": {
+                "btc": 0.00424172,
+                "eth": 0.11687704,
+                "usd": 154.23
+            },
+            "converted_volume": {
+                "btc": 11.882152,
+                "eth": 327.403,
+                "usd": 432038
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.164809,
+            "timestamp": "2021-01-19T05:42:30+00:00",
+            "last_traded_at": "2021-01-19T05:42:30+00:00",
+            "last_fetch_at": "2021-01-19T05:42:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XMRUSD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.004214,
+            "volume": 66059.152,
+            "converted_last": {
+                "btc": 0.004214,
+                "eth": 0.11611318,
+                "usd": 153.41
+            },
+            "converted_volume": {
+                "btc": 278.373,
+                "eth": 7670,
+                "usd": 10134214
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.165485,
+            "timestamp": "2021-01-19T05:40:38+00:00",
+            "last_traded_at": "2021-01-19T05:40:38+00:00",
+            "last_fetch_at": "2021-01-19T05:40:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 153.4312,
+            "volume": 87783.299,
+            "converted_last": {
+                "btc": 0.00422408,
+                "eth": 0.11639081,
+                "usd": 153.43
+            },
+            "converted_volume": {
+                "btc": 370.803,
+                "eth": 10217,
+                "usd": 13468697
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.183264,
+            "timestamp": "2021-01-19T05:43:40+00:00",
+            "last_traded_at": "2021-01-19T05:43:40+00:00",
+            "last_fetch_at": "2021-01-19T05:43:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 153.901,
+            "volume": 87837.736,
+            "converted_last": {
+                "btc": 0.0042222,
+                "eth": 0.11654152,
+                "usd": 153.9
+            },
+            "converted_volume": {
+                "btc": 370.869,
+                "eth": 10237,
+                "usd": 13518315
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.199167,
+            "timestamp": "2021-01-19T05:38:37+00:00",
+            "last_traded_at": "2021-01-19T05:38:37+00:00",
+            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 153.46,
+            "volume": 83663.317502,
+            "converted_last": {
+                "btc": 0.00420941,
+                "eth": 0.11618838,
+                "usd": 153.49
+            },
+            "converted_volume": {
+                "btc": 352.173,
+                "eth": 9721,
+                "usd": 12841616
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.143248,
+            "timestamp": "2021-01-19T05:37:00+00:00",
+            "last_traded_at": "2021-01-19T05:37:00+00:00",
+            "last_fetch_at": "2021-01-19T05:37:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.004227,
+            "volume": 66137.436,
+            "converted_last": {
+                "btc": 0.004227,
+                "eth": 0.11647138,
+                "usd": 153.54
+            },
+            "converted_volume": {
+                "btc": 279.563,
+                "eth": 7703,
+                "usd": 10154571
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.118175,
+            "timestamp": "2021-01-19T05:43:13+00:00",
+            "last_traded_at": "2021-01-19T05:43:13+00:00",
+            "last_fetch_at": "2021-01-19T05:43:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0042251,
+            "volume": 1422.73498765,
+            "converted_last": {
+                "btc": 0.0042251,
+                "eth": 0.11641903,
+                "usd": 153.63
+            },
+            "converted_volume": {
+                "btc": 6.011198,
+                "eth": 165.633,
+                "usd": 218569
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.165328,
+            "timestamp": "2021-01-19T05:42:27+00:00",
+            "last_traded_at": "2021-01-19T05:42:27+00:00",
+            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XMRBTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 153.68,
+            "volume": 153756.17289479374,
+            "converted_last": {
+                "btc": 0.0042235,
+                "eth": 0.11637489,
+                "usd": 153.69
+            },
+            "converted_volume": {
+                "btc": 649.389,
+                "eth": 17893,
+                "usd": 23631078
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.171633,
+            "timestamp": "2021-01-19T05:41:36+00:00",
+            "last_traded_at": "2021-01-19T05:41:36+00:00",
+            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.116594,
+            "volume": 3624.905,
+            "converted_last": {
+                "btc": 0.0042312,
+                "eth": 0.11658701,
+                "usd": 153.69
+            },
+            "converted_volume": {
+                "btc": 15.337684,
+                "eth": 422.617,
+                "usd": 557111
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.23907,
+            "timestamp": "2021-01-19T05:43:13+00:00",
+            "last_traded_at": "2021-01-19T05:43:13+00:00",
+            "last_fetch_at": "2021-01-19T05:43:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 126.99,
+            "volume": 6394.14093603,
+            "converted_last": {
+                "btc": 0.00421309,
+                "eth": 0.11629007,
+                "usd": 153.57
+            },
+            "converted_volume": {
+                "btc": 26.939106,
+                "eth": 743.575,
+                "usd": 981941
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.172508,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xmr/eur",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 153.54,
+            "volume": 11940.32592378,
+            "converted_last": {
+                "btc": 0.0042123,
+                "eth": 0.11626815,
+                "usd": 153.54
+            },
+            "converted_volume": {
+                "btc": 50.296,
+                "eth": 1388,
+                "usd": 1833318
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.139004,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xmr/usd",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 153.55,
+            "volume": 37586.15764171848,
+            "converted_last": {
+                "btc": 0.00422541,
+                "eth": 0.1164275,
+                "usd": 153.64
+            },
+            "converted_volume": {
+                "btc": 158.817,
+                "eth": 4376,
+                "usd": 5774617
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.132563,
+            "timestamp": "2021-01-19T05:42:45+00:00",
+            "last_traded_at": "2021-01-19T05:42:45+00:00",
+            "last_fetch_at": "2021-01-19T05:42:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.004227,
+            "volume": 91951.70587650816,
+            "converted_last": {
+                "btc": 0.004227,
+                "eth": 0.11647138,
+                "usd": 153.82
+            },
+            "converted_volume": {
+                "btc": 388.68,
+                "eth": 10710,
+                "usd": 14143950
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.147304,
+            "timestamp": "2021-01-19T05:41:31+00:00",
+            "last_traded_at": "2021-01-19T05:41:31+00:00",
+            "last_fetch_at": "2021-01-19T05:41:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.116257,
+            "volume": 3608.022,
+            "converted_last": {
+                "btc": 0.00423059,
+                "eth": 0.1167731,
+                "usd": 154.21
+            },
+            "converted_volume": {
+                "btc": 15.26407,
+                "eth": 421.32,
+                "usd": 556382
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.298661,
+            "timestamp": "2021-01-19T05:38:38+00:00",
+            "last_traded_at": "2021-01-19T05:38:38+00:00",
+            "last_fetch_at": "2021-01-19T05:38:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.004215,
+            "volume": 56388.388,
+            "converted_last": {
+                "btc": 0.004215,
+                "eth": 0.11634273,
+                "usd": 153.64
+            },
+            "converted_volume": {
+                "btc": 237.677,
+                "eth": 6560,
+                "usd": 8663644
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.142248,
+            "timestamp": "2021-01-19T05:37:03+00:00",
+            "last_traded_at": "2021-01-19T05:37:03+00:00",
+            "last_fetch_at": "2021-01-19T05:37:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 153.45,
+            "volume": 999.74264,
+            "converted_last": {
+                "btc": 0.00422266,
+                "eth": 0.11635168,
+                "usd": 153.54
+            },
+            "converted_volume": {
+                "btc": 4.221569,
+                "eth": 116.322,
+                "usd": 153497
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12604,
+            "timestamp": "2021-01-19T05:42:14+00:00",
+            "last_traded_at": "2021-01-19T05:42:14+00:00",
+            "last_fetch_at": "2021-01-19T05:42:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 153.41,
+            "volume": 116278.158103,
+            "converted_last": {
+                "btc": 0.00420804,
+                "eth": 0.11615053,
+                "usd": 153.39
+            },
+            "converted_volume": {
+                "btc": 489.303,
+                "eth": 13506,
+                "usd": 17835734
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.182446,
+            "timestamp": "2021-01-19T05:37:38+00:00",
+            "last_traded_at": "2021-01-19T05:37:38+00:00",
+            "last_fetch_at": "2021-01-19T05:37:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.00422,
+            "volume": 7164.42237026,
+            "converted_last": {
+                "btc": 0.00422,
+                "eth": 0.11648074,
+                "usd": 153.82
+            },
+            "converted_volume": {
+                "btc": 30.233862,
+                "eth": 834.517,
+                "usd": 1102037
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.194787,
+            "timestamp": "2021-01-19T05:38:23+00:00",
+            "last_traded_at": "2021-01-19T05:38:23+00:00",
+            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xmr/xbt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00422089,
+            "volume": 3101.64593534,
+            "converted_last": {
+                "btc": 0.00422089,
+                "eth": 0.11630303,
+                "usd": 153.6
+            },
+            "converted_volume": {
+                "btc": 13.091706,
+                "eth": 360.731,
+                "usd": 476403
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.142226,
+            "timestamp": "2021-01-19T05:41:01+00:00",
+            "last_traded_at": "2021-01-19T05:41:01+00:00",
+            "last_fetch_at": "2021-01-19T05:41:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xmr_btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 153.6283,
+            "volume": 14296.38,
+            "converted_last": {
+                "btc": 0.00422208,
+                "eth": 0.11633574,
+                "usd": 153.71
+            },
+            "converted_volume": {
+                "btc": 60.36,
+                "eth": 1663,
+                "usd": 2197429
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.161838,
+            "timestamp": "2021-01-19T05:40:47+00:00",
+            "last_traded_at": "2021-01-19T05:40:47+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.004213,
+            "volume": 5507.325327326321,
+            "converted_last": {
+                "btc": 0.004213,
+                "eth": 0.11628752,
+                "usd": 153.62
+            },
+            "converted_volume": {
+                "btc": 23.202362,
+                "eth": 640.433,
+                "usd": 846049
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.194854,
+            "timestamp": "2021-01-19T05:36:01+00:00",
+            "last_traded_at": "2021-01-19T05:36:01+00:00",
+            "last_fetch_at": "2021-01-19T05:36:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 153.77,
+            "volume": 684.0810521577681,
+            "converted_last": {
+                "btc": 0.00422597,
+                "eth": 0.11664556,
+                "usd": 154.04
+            },
+            "converted_volume": {
+                "btc": 2.890907,
+                "eth": 79.795,
+                "usd": 105375
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.129963,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/XMR/USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.004217,
+            "volume": 418.22705714963246,
+            "converted_last": {
+                "btc": 0.004217,
+                "eth": 0.11639793,
+                "usd": 153.71
+            },
+            "converted_volume": {
+                "btc": 1.763664,
+                "eth": 48.680764,
+                "usd": 64286
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.194652,
+            "timestamp": "2021-01-19T05:38:39+00:00",
+            "last_traded_at": "2021-01-19T05:38:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/XMR/BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.004226,
+            "volume": 2318.779,
+            "converted_last": {
+                "btc": 0.004226,
+                "eth": 0.11644383,
+                "usd": 153.85
+            },
+            "converted_volume": {
+                "btc": 9.79916,
+                "eth": 270.008,
+                "usd": 356740
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.147315,
+            "timestamp": "2021-01-19T05:40:25+00:00",
+            "last_traded_at": "2021-01-19T05:40:25+00:00",
+            "last_fetch_at": "2021-01-19T05:40:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=xmrbtc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 153.14606843,
+            "volume": 1667.90169568,
+            "converted_last": {
+                "btc": 0.0042008,
+                "eth": 0.1159507,
+                "usd": 153.12
+            },
+            "converted_volume": {
+                "btc": 7.006517,
+                "eth": 193.394,
+                "usd": 255390
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.292977,
+            "timestamp": "2021-01-19T05:38:14+00:00",
+            "last_traded_at": "2021-01-19T05:38:14+00:00",
+            "last_fetch_at": "2021-01-19T05:38:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 153.71,
+            "volume": 5918.013,
+            "converted_last": {
+                "btc": 0.00422981,
+                "eth": 0.11654882,
+                "usd": 153.8
+            },
+            "converted_volume": {
+                "btc": 25.032073,
+                "eth": 689.737,
+                "usd": 910172
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.208279,
+            "timestamp": "2021-01-19T05:42:27+00:00",
+            "last_traded_at": "2021-01-19T05:42:27+00:00",
+            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 154.15,
+            "volume": 4925.403313533571,
+            "converted_last": {
+                "btc": 0.00423588,
+                "eth": 0.11671598,
+                "usd": 154.14
+            },
+            "converted_volume": {
+                "btc": 20.863402,
+                "eth": 574.873,
+                "usd": 759213
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.220808,
+            "timestamp": "2021-01-19T05:41:38+00:00",
+            "last_traded_at": "2021-01-19T05:41:38+00:00",
+            "last_fetch_at": "2021-01-19T05:41:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_BUSD",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.004212,
+            "volume": 73819.494881,
+            "converted_last": {
+                "btc": 0.004212,
+                "eth": 0.11625992,
+                "usd": 153.53
+            },
+            "converted_volume": {
+                "btc": 310.928,
+                "eth": 8582,
+                "usd": 11333727
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.378967,
+            "timestamp": "2021-01-19T05:37:38+00:00",
+            "last_traded_at": "2021-01-19T05:37:38+00:00",
+            "last_fetch_at": "2021-01-19T05:37:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xmr_btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.11635,
+            "volume": 5574.596983498066,
+            "converted_last": {
+                "btc": 0.00422816,
+                "eth": 0.11650332,
+                "usd": 153.86
+            },
+            "converted_volume": {
+                "btc": 23.570282,
+                "eth": 649.459,
+                "usd": 857716
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.394342,
+            "timestamp": "2021-01-19T05:41:09+00:00",
+            "last_traded_at": "2021-01-19T05:41:09+00:00",
+            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00420491,
+            "volume": 2980.4307,
+            "converted_last": {
+                "btc": 0.00420491,
+                "eth": 0.11606422,
+                "usd": 153.27
+            },
+            "converted_volume": {
+                "btc": 12.532443,
+                "eth": 345.921,
+                "usd": 456824
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.685741,
+            "timestamp": "2021-01-19T05:37:15+00:00",
+            "last_traded_at": "2021-01-19T05:37:15+00:00",
+            "last_fetch_at": "2021-01-19T05:37:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.1166,
+            "volume": 49.5865730703259,
+            "converted_last": {
+                "btc": 0.00422675,
+                "eth": 0.11675527,
+                "usd": 154.2
+            },
+            "converted_volume": {
+                "btc": 0.20959005,
+                "eth": 5.789494,
+                "usd": 7646.06
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.464157,
+            "timestamp": "2021-01-19T05:31:39+00:00",
+            "last_traded_at": "2021-01-19T05:31:39+00:00",
+            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/XMR/ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 153.59,
+            "volume": 14921.03943764,
+            "converted_last": {
+                "btc": 0.00422651,
+                "eth": 0.11645783,
+                "usd": 153.68
+            },
+            "converted_volume": {
+                "btc": 63.064,
+                "eth": 1738,
+                "usd": 2293018
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.135557,
+            "timestamp": "2021-01-19T05:42:21+00:00",
+            "last_traded_at": "2021-01-19T05:42:21+00:00",
+            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XMR#limit",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 153.82,
+            "volume": 948.85567,
+            "converted_last": {
+                "btc": 0.00422702,
+                "eth": 0.11647188,
+                "usd": 153.82
+            },
+            "converted_volume": {
+                "btc": 4.01083,
+                "eth": 110.515,
+                "usd": 145953
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.356865,
+            "timestamp": "2021-01-19T05:41:45+00:00",
+            "last_traded_at": "2021-01-19T05:41:45+00:00",
+            "last_fetch_at": "2021-01-19T05:41:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XMRUSD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.004222,
+            "volume": 1974.00796855,
+            "converted_last": {
+                "btc": 0.004222,
+                "eth": 0.11633361,
+                "usd": 153.64
+            },
+            "converted_volume": {
+                "btc": 8.334262,
+                "eth": 229.643,
+                "usd": 303281
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.165328,
+            "timestamp": "2021-01-19T05:41:28+00:00",
+            "last_traded_at": "2021-01-19T05:41:28+00:00",
+            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XMR-BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Waves.Exchange",
+                "identifier": "waves",
+                "has_trading_incentive": false
+            },
+            "last": 0.0042576,
+            "volume": 71.43421318,
+            "converted_last": {
+                "btc": 0.0042576,
+                "eth": 0.11793335,
+                "usd": 154.79
+            },
+            "converted_volume": {
+                "btc": 0.30413831,
+                "eth": 8.424476,
+                "usd": 11057.18
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.807661,
+            "timestamp": "2021-01-19T05:15:45+00:00",
+            "last_traded_at": "2021-01-19T05:15:45+00:00",
+            "last_fetch_at": "2021-01-19T05:40:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.004225,
+            "volume": 621.874,
+            "converted_last": {
+                "btc": 0.004225,
+                "eth": 0.11641627,
+                "usd": 153.75
+            },
+            "converted_volume": {
+                "btc": 2.627418,
+                "eth": 72.396,
+                "usd": 95611
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.283286,
+            "timestamp": "2021-01-19T05:41:49+00:00",
+            "last_traded_at": "2021-01-19T05:41:49+00:00",
+            "last_fetch_at": "2021-01-19T05:41:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XMRBTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 153.2101,
+            "volume": 2528.5858,
+            "converted_last": {
+                "btc": 0.00420255,
+                "eth": 0.11599918,
+                "usd": 153.19
+            },
+            "converted_volume": {
+                "btc": 10.626517,
+                "eth": 293.314,
+                "usd": 387351
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.390269,
+            "timestamp": "2021-01-19T05:37:25+00:00",
+            "last_traded_at": "2021-01-19T05:37:25+00:00",
+            "last_fetch_at": "2021-01-19T05:37:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 3.4,
+            "volume": 942.6089888235294,
+            "converted_last": {
+                "btc": 0.00422178,
+                "eth": 0.11632755,
+                "usd": 153.63
+            },
+            "converted_volume": {
+                "btc": 3.979488,
+                "eth": 109.651,
+                "usd": 144812
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.117543,
+            "timestamp": "2021-01-19T05:41:05+00:00",
+            "last_traded_at": "2021-01-19T05:41:05+00:00",
+            "last_fetch_at": "2021-01-19T05:41:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_BNB",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.116737,
+            "volume": 847.8381482751827,
+            "converted_last": {
+                "btc": 0.00423639,
+                "eth": 0.11673,
+                "usd": 154.04
+            },
+            "converted_volume": {
+                "btc": 3.591769,
+                "eth": 98.968,
+                "usd": 130598
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.312695,
+            "timestamp": "2021-01-19T05:42:47+00:00",
+            "last_traded_at": "2021-01-19T05:42:47+00:00",
+            "last_fetch_at": "2021-01-19T05:42:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_eth",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 153.56,
+            "volume": 1150.33663,
+            "converted_last": {
+                "btc": 0.00422568,
+                "eth": 0.11643508,
+                "usd": 153.77
+            },
+            "converted_volume": {
+                "btc": 4.860958,
+                "eth": 133.94,
+                "usd": 176889
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.292683,
+            "timestamp": "2021-01-19T05:41:51+00:00",
+            "last_traded_at": "2021-01-19T05:41:51+00:00",
+            "last_fetch_at": "2021-01-19T05:41:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XMRUSDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "NiceHash",
+                "identifier": "nice_hash",
+                "has_trading_incentive": false
+            },
+            "last": 0.00421,
+            "volume": 285.03975111,
+            "converted_last": {
+                "btc": 0.00421,
+                "eth": 0.11643014,
+                "usd": 153.22
+            },
+            "converted_volume": {
+                "btc": 1.200017,
+                "eth": 33.187217,
+                "usd": 43674
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.439558,
+            "timestamp": "2021-01-19T05:25:52+00:00",
+            "last_traded_at": "2021-01-19T05:25:52+00:00",
+            "last_fetch_at": "2021-01-19T05:40:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.nicehash.com/my/tradeview/XMRBTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.11604,
+            "volume": 3468.955,
+            "converted_last": {
+                "btc": 0.0042227,
+                "eth": 0.11655514,
+                "usd": 153.92
+            },
+            "converted_volume": {
+                "btc": 14.648341,
+                "eth": 404.325,
+                "usd": 533951
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.084045,
+            "timestamp": "2021-01-19T05:37:01+00:00",
+            "last_traded_at": "2021-01-19T05:37:01+00:00",
+            "last_fetch_at": "2021-01-19T05:37:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.11607,
+            "volume": 351.5239301,
+            "converted_last": {
+                "btc": 0.00421798,
+                "eth": 0.11622295,
+                "usd": 153.49
+            },
+            "converted_volume": {
+                "btc": 1.482722,
+                "eth": 40.855147,
+                "usd": 53956
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.674004,
+            "timestamp": "2021-01-19T05:41:29+00:00",
+            "last_traded_at": "2021-01-19T05:41:29+00:00",
+            "last_fetch_at": "2021-01-19T05:41:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XMR-ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.116282,
+            "volume": 23.5909,
+            "converted_last": {
+                "btc": 0.0042315,
+                "eth": 0.11679822,
+                "usd": 154.24
+            },
+            "converted_volume": {
+                "btc": 0.09982494,
+                "eth": 2.755375,
+                "usd": 3638.75
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.174957,
+            "timestamp": "2021-01-19T05:37:21+00:00",
+            "last_traded_at": "2021-01-19T05:37:21+00:00",
+            "last_fetch_at": "2021-01-19T05:37:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 152.976596,
+            "volume": 754.70555182,
+            "converted_last": {
+                "btc": 0.00420384,
+                "eth": 0.11583326,
+                "usd": 152.98
+            },
+            "converted_volume": {
+                "btc": 3.172662,
+                "eth": 87.42,
+                "usd": 115452
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.149788,
+            "timestamp": "2021-01-19T05:41:42+00:00",
+            "last_traded_at": "2021-01-19T05:41:42+00:00",
+            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 153.47,
+            "volume": 39591.997,
+            "converted_last": {
+                "btc": 0.00420968,
+                "eth": 0.11619596,
+                "usd": 153.53
+            },
+            "converted_volume": {
+                "btc": 166.67,
+                "eth": 4600,
+                "usd": 6078553
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.368152,
+            "timestamp": "2021-01-19T05:35:53+00:00",
+            "last_traded_at": "2021-01-19T05:35:53+00:00",
+            "last_fetch_at": "2021-01-19T05:35:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0042228,
+            "volume": 4392.41559895,
+            "converted_last": {
+                "btc": 0.0042228,
+                "eth": 0.11635565,
+                "usd": 153.54
+            },
+            "converted_volume": {
+                "btc": 18.548293,
+                "eth": 511.082,
+                "usd": 674420
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.325581,
+            "timestamp": "2021-01-19T05:42:26+00:00",
+            "last_traded_at": "2021-01-19T05:42:26+00:00",
+            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=XMR#limit",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 152.76,
+            "volume": 8839.0492,
+            "converted_last": {
+                "btc": 0.00420367,
+                "eth": 0.11582849,
+                "usd": 152.97
+            },
+            "converted_volume": {
+                "btc": 37.15643,
+                "eth": 1024,
+                "usd": 1352112
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.287695,
+            "timestamp": "2021-01-19T05:41:57+00:00",
+            "last_traded_at": "2021-01-19T05:41:57+00:00",
+            "last_fetch_at": "2021-01-19T05:41:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 2183080.0,
+            "volume": 347.7509371,
+            "converted_last": {
+                "btc": 0.00425079,
+                "eth": 0.11712701,
+                "usd": 154.69
+            },
+            "converted_volume": {
+                "btc": 1.478218,
+                "eth": 40.731028,
+                "usd": 53792
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.112557,
+            "timestamp": "2021-01-19T05:41:09+00:00",
+            "last_traded_at": "2021-01-19T05:41:09+00:00",
+            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 153.194,
+            "volume": 1025.37015076,
+            "converted_last": {
+                "btc": 0.00420211,
+                "eth": 0.11598699,
+                "usd": 153.23
+            },
+            "converted_volume": {
+                "btc": 4.30872,
+                "eth": 118.93,
+                "usd": 157113
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.747433,
+            "timestamp": "2021-01-19T05:36:31+00:00",
+            "last_traded_at": "2021-01-19T05:36:31+00:00",
+            "last_fetch_at": "2021-01-19T05:36:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BRL",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 820.15,
+            "volume": 422.1471,
+            "converted_last": {
+                "btc": 0.00425746,
+                "eth": 0.11792936,
+                "usd": 154.85
+            },
+            "converted_volume": {
+                "btc": 1.797273,
+                "eth": 49.783537,
+                "usd": 65371
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.418293,
+            "timestamp": "2021-01-19T05:16:01+00:00",
+            "last_traded_at": "2021-01-19T05:16:01+00:00",
+            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=XMR_BRL",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "QC",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 982.33,
+            "volume": 597.984,
+            "converted_last": {
+                "btc": 0.00422416,
+                "eth": 0.11682167,
+                "usd": 153.84
+            },
+            "converted_volume": {
+                "btc": 2.525978,
+                "eth": 69.857,
+                "usd": 91991
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.405733,
+            "timestamp": "2021-01-19T05:20:39+00:00",
+            "last_traded_at": "2021-01-19T05:20:39+00:00",
+            "last_fetch_at": "2021-01-19T05:39:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/xmrqc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 153.56,
+            "volume": 873.8004,
+            "converted_last": {
+                "btc": 0.00422568,
+                "eth": 0.11643508,
+                "usd": 153.77
+            },
+            "converted_volume": {
+                "btc": 3.692403,
+                "eth": 101.741,
+                "usd": 134366
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.545703,
+            "timestamp": "2021-01-19T05:41:44+00:00",
+            "last_traded_at": "2021-01-19T05:41:44+00:00",
+            "last_fetch_at": "2021-01-19T05:41:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 0.0042279,
+            "volume": 626.55185731,
+            "converted_last": {
+                "btc": 0.0042279,
+                "eth": 0.11649618,
+                "usd": 153.85
+            },
+            "converted_volume": {
+                "btc": 2.648999,
+                "eth": 72.991,
+                "usd": 96396
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299463,
+            "timestamp": "2021-01-19T05:41:57+00:00",
+            "last_traded_at": "2021-01-19T05:41:57+00:00",
+            "last_fetch_at": "2021-01-19T05:41:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 153.42,
+            "volume": 16789.448,
+            "converted_last": {
+                "btc": 0.00420831,
+                "eth": 0.1161581,
+                "usd": 153.48
+            },
+            "converted_volume": {
+                "btc": 70.655,
+                "eth": 1950,
+                "usd": 2576842
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.352488,
+            "timestamp": "2021-01-19T05:35:50+00:00",
+            "last_traded_at": "2021-01-19T05:35:50+00:00",
+            "last_fetch_at": "2021-01-19T05:35:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Bithumb Global",
+                "identifier": "bithumb_global",
+                "has_trading_incentive": false
+            },
+            "last": 153.56,
+            "volume": 11178.294165485804,
+            "converted_last": {
+                "btc": 0.0042202,
+                "eth": 0.11628402,
+                "usd": 153.7
+            },
+            "converted_volume": {
+                "btc": 47.174638,
+                "eth": 1300,
+                "usd": 1718125
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.094418,
+            "timestamp": "2021-01-19T05:39:39+00:00",
+            "last_traded_at": "2021-01-19T05:39:39+00:00",
+            "last_fetch_at": "2021-01-19T05:39:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.004222,
+            "volume": 2604.9977593557555,
+            "converted_last": {
+                "btc": 0.004222,
+                "eth": 0.11633361,
+                "usd": 153.77
+            },
+            "converted_volume": {
+                "btc": 10.998301,
+                "eth": 303.049,
+                "usd": 400564
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.147326,
+            "timestamp": "2021-01-19T05:39:32+00:00",
+            "last_traded_at": "2021-01-19T05:39:32+00:00",
+            "last_fetch_at": "2021-01-19T05:39:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 0.004191,
+            "volume": 13.167,
+            "converted_last": {
+                "btc": 0.004191,
+                "eth": 0.11588161,
+                "usd": 152.84
+            },
+            "converted_volume": {
+                "btc": 0.0551829,
+                "eth": 1.525813,
+                "usd": 2012.48
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.223529,
+            "timestamp": "2021-01-19T04:48:01+00:00",
+            "last_traded_at": "2021-01-19T04:48:01+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.004223,
+            "volume": 518.8083,
+            "converted_last": {
+                "btc": 0.004223,
+                "eth": 0.11636116,
+                "usd": 153.67
+            },
+            "converted_volume": {
+                "btc": 2.190927,
+                "eth": 60.369,
+                "usd": 79727
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.707214,
+            "timestamp": "2021-01-19T05:41:46+00:00",
+            "last_traded_at": "2021-01-19T05:41:46+00:00",
+            "last_fetch_at": "2021-01-19T05:41:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.115467,
+            "volume": 56.8353,
+            "converted_last": {
+                "btc": 0.0041903,
+                "eth": 0.11546007,
+                "usd": 152.48
+            },
+            "converted_volume": {
+                "btc": 0.23815681,
+                "eth": 6.562208,
+                "usd": 8666.46
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.780736,
+            "timestamp": "2021-01-19T05:41:42+00:00",
+            "last_traded_at": "2021-01-19T05:41:42+00:00",
+            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 153.82,
+            "volume": 64.278,
+            "converted_last": {
+                "btc": 0.00421687,
+                "eth": 0.11648224,
+                "usd": 153.6
+            },
+            "converted_volume": {
+                "btc": 0.27105169,
+                "eth": 7.487245,
+                "usd": 9873.24
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.332053,
+            "timestamp": "2021-01-19T05:28:24+00:00",
+            "last_traded_at": "2021-01-19T05:28:24+00:00",
+            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 153.773,
+            "volume": 1535.4815496218453,
+            "converted_last": {
+                "btc": 0.00422605,
+                "eth": 0.11644531,
+                "usd": 153.85
+            },
+            "converted_volume": {
+                "btc": 6.489028,
+                "eth": 178.8,
+                "usd": 236234
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.140359,
+            "timestamp": "2021-01-19T05:40:32+00:00",
+            "last_traded_at": "2021-01-19T05:40:32+00:00",
+            "last_fetch_at": "2021-01-19T05:40:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/USDT-XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "TradeOgre",
+                "identifier": "trade_ogre",
+                "has_trading_incentive": false
+            },
+            "last": 0.00423448,
+            "volume": 387.18530728684516,
+            "converted_last": {
+                "btc": 0.00423448,
+                "eth": 0.11688042,
+                "usd": 154.35
+            },
+            "converted_volume": {
+                "btc": 1.639528,
+                "eth": 45.254379,
+                "usd": 59763
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.997499,
+            "timestamp": "2021-01-19T05:37:12+00:00",
+            "last_traded_at": "2021-01-19T05:37:12+00:00",
+            "last_fetch_at": "2021-01-19T05:37:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tradeogre.com/exchange/BTC-XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "BTSE",
+                "identifier": "btse",
+                "has_trading_incentive": false
+            },
+            "last": 153.55,
+            "volume": 4523.405742292738,
+            "converted_last": {
+                "btc": 0.00422302,
+                "eth": 0.11636173,
+                "usd": 153.55
+            },
+            "converted_volume": {
+                "btc": 19.102435,
+                "eth": 526.351,
+                "usd": 694569
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.292683,
+            "timestamp": "2021-01-19T05:42:14+00:00",
+            "last_traded_at": "2021-01-19T05:42:14+00:00",
+            "last_fetch_at": "2021-01-19T05:42:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.btse.com/en/trading/XMR-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.116,
+            "volume": 1086.866883,
+            "converted_last": {
+                "btc": 0.004205,
+                "eth": 0.11615447,
+                "usd": 153.4
+            },
+            "converted_volume": {
+                "btc": 4.570275,
+                "eth": 126.244,
+                "usd": 166728
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.857633,
+            "timestamp": "2021-01-19T05:31:46+00:00",
+            "last_traded_at": "2021-01-19T05:31:46+00:00",
+            "last_fetch_at": "2021-01-19T05:38:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xmr_eth",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "BCH",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.29767692,
+            "volume": 1573.0483,
+            "converted_last": {
+                "btc": 0.00425743,
+                "eth": 0.11730979,
+                "usd": 154.8
+            },
+            "converted_volume": {
+                "btc": 6.697139,
+                "eth": 184.534,
+                "usd": 243510
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.441019,
+            "timestamp": "2021-01-19T05:42:25+00:00",
+            "last_traded_at": "2021-01-19T05:42:25+00:00",
+            "last_fetch_at": "2021-01-19T05:42:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=BCH&dest=XMR#limit",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "SouthXchange",
+                "identifier": "south_xchange",
+                "has_trading_incentive": false
+            },
+            "last": 0.004222405,
+            "volume": 2.21781945,
+            "converted_last": {
+                "btc": 0.00422241,
+                "eth": 0.11695847,
+                "usd": 153.74
+            },
+            "converted_volume": {
+                "btc": 0.00936453,
+                "eth": 0.25939276,
+                "usd": 340.97
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.254267,
+            "timestamp": "2021-01-19T05:19:31+00:00",
+            "last_traded_at": "2021-01-19T05:19:31+00:00",
+            "last_fetch_at": "2021-01-19T05:42:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.southxchange.com/Market/Book/XMR/BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 155.49311293,
+            "volume": 91.27983394,
+            "converted_last": {
+                "btc": 0.00425237,
+                "eth": 0.11746562,
+                "usd": 155.21
+            },
+            "converted_volume": {
+                "btc": 0.38815599,
+                "eth": 10.722243,
+                "usd": 14167.45
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.155387,
+            "timestamp": "2021-01-19T04:05:26+00:00",
+            "last_traded_at": "2021-01-19T04:05:26+00:00",
+            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xmr_usdc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "CREX24",
+                "identifier": "crex24",
+                "has_trading_incentive": false
+            },
+            "last": 0.0042,
+            "volume": 5.43222194,
+            "converted_last": {
+                "btc": 0.0042,
+                "eth": 0.11572742,
+                "usd": 152.84
+            },
+            "converted_volume": {
+                "btc": 0.02281533,
+                "eth": 0.62865703,
+                "usd": 830.24
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.947867,
+            "timestamp": "2021-01-19T05:41:17+00:00",
+            "last_traded_at": "2021-01-19T05:41:17+00:00",
+            "last_fetch_at": "2021-01-19T05:41:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crex24.com/exchange/XMR-BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.004192,
+            "volume": 46.81406639,
+            "converted_last": {
+                "btc": 0.004192,
+                "eth": 0.11570788,
+                "usd": 152.86
+            },
+            "converted_volume": {
+                "btc": 0.19624457,
+                "eth": 5.416756,
+                "usd": 7155.85
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.367047,
+            "timestamp": "2021-01-19T05:36:29+00:00",
+            "last_traded_at": "2021-01-19T05:36:29+00:00",
+            "last_fetch_at": "2021-01-19T05:36:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 153.623,
+            "volume": 283.383,
+            "converted_last": {
+                "btc": 0.00422193,
+                "eth": 0.11653405,
+                "usd": 153.89
+            },
+            "converted_volume": {
+                "btc": 1.196424,
+                "eth": 33.023769,
+                "usd": 43610
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10065,
+            "timestamp": "2021-01-19T05:38:53+00:00",
+            "last_traded_at": "2021-01-19T05:38:53+00:00",
+            "last_fetch_at": "2021-01-19T05:38:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/xmrusdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "BITEXBOOK",
+                "identifier": "bitexbook",
+                "has_trading_incentive": false
+            },
+            "last": 153.2027,
+            "volume": 0.7421609000000002,
+            "converted_last": {
+                "btc": 0.0041989,
+                "eth": 0.11589842,
+                "usd": 153.2
+            },
+            "converted_volume": {
+                "btc": 0.00311626,
+                "eth": 0.08601527,
+                "usd": 113.7
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.16386,
+            "timestamp": "2021-01-19T05:33:43+00:00",
+            "last_traded_at": "2021-01-19T05:33:43+00:00",
+            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitexbook.com/trading/xmrusd",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 153.17,
+            "volume": 58.1614,
+            "converted_last": {
+                "btc": 0.00419912,
+                "eth": 0.1161061,
+                "usd": 153.09
+            },
+            "converted_volume": {
+                "btc": 0.24422663,
+                "eth": 6.752893,
+                "usd": 8903.79
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.260247,
+            "timestamp": "2021-01-19T04:50:27+00:00",
+            "last_traded_at": "2021-01-19T04:50:27+00:00",
+            "last_fetch_at": "2021-01-19T05:37:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/XMR-USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 0.1161954,
+            "volume": 244.91046863,
+            "converted_last": {
+                "btc": 0.00421673,
+                "eth": 0.11618843,
+                "usd": 153.45
+            },
+            "converted_volume": {
+                "btc": 1.032722,
+                "eth": 28.455763,
+                "usd": 37580
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299282,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "BITEXBOOK",
+                "identifier": "bitexbook",
+                "has_trading_incentive": false
+            },
+            "last": 0.00419893,
+            "volume": 7.264464240000001,
+            "converted_last": {
+                "btc": 0.00419893,
+                "eth": 0.11589916,
+                "usd": 153.2
+            },
+            "converted_volume": {
+                "btc": 0.03050298,
+                "eth": 0.84194531,
+                "usd": 1112.94
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.433156,
+            "timestamp": "2021-01-19T05:33:43+00:00",
+            "last_traded_at": "2021-01-19T05:33:43+00:00",
+            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitexbook.com/trading/xmrbtc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "EUR",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 127.221684,
+            "volume": 156.55269177,
+            "converted_last": {
+                "btc": 0.00422778,
+                "eth": 0.11649281,
+                "usd": 153.85
+            },
+            "converted_volume": {
+                "btc": 0.66186996,
+                "eth": 18.237263,
+                "usd": 24085
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299373,
+            "timestamp": "2021-01-19T05:41:48+00:00",
+            "last_traded_at": "2021-01-19T05:41:48+00:00",
+            "last_fetch_at": "2021-01-19T05:41:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_EUR",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BuyUcoin",
+                "identifier": "buyucoin",
+                "has_trading_incentive": false
+            },
+            "last": 153.4,
+            "volume": 348.285826,
+            "converted_last": {
+                "btc": 0.00422481,
+                "eth": 0.11744651,
+                "usd": 153.45
+            },
+            "converted_volume": {
+                "btc": 1.47144,
+                "eth": 40.904956,
+                "usd": 53444
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.703704,
+            "timestamp": "2021-01-19T05:03:08+00:00",
+            "last_traded_at": "2021-01-19T05:03:08+00:00",
+            "last_fetch_at": "2021-01-19T05:03:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Tokenomy",
+                "identifier": "tokenomy",
+                "has_trading_incentive": false
+            },
+            "last": 0.004227,
+            "volume": 80.54393945,
+            "converted_last": {
+                "btc": 0.004227,
+                "eth": 0.11647138,
+                "usd": 153.69
+            },
+            "converted_volume": {
+                "btc": 0.34045923,
+                "eth": 9.381064,
+                "usd": 12379.18
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.611947,
+            "timestamp": "2021-01-19T05:42:21+00:00",
+            "last_traded_at": "2021-01-19T05:42:21+00:00",
+            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.tokenomy.com/market/XMRBTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "BITEXBOOK",
+                "identifier": "bitexbook",
+                "has_trading_incentive": false
+            },
+            "last": 0.11602019,
+            "volume": 0.8707150800000003,
+            "converted_last": {
+                "btc": 0.00421153,
+                "eth": 0.11624703,
+                "usd": 153.66
+            },
+            "converted_volume": {
+                "btc": 0.00366705,
+                "eth": 0.10121804,
+                "usd": 133.8
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.273529,
+            "timestamp": "2021-01-19T05:33:43+00:00",
+            "last_traded_at": "2021-01-19T05:33:43+00:00",
+            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitexbook.com/trading/xmreth",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 153.54,
+            "volume": 72773.67466,
+            "converted_last": {
+                "btc": 0.00422513,
+                "eth": 0.11641992,
+                "usd": 153.47
+            },
+            "converted_volume": {
+                "btc": 307.478,
+                "eth": 8472,
+                "usd": 11168545
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.132558,
+            "timestamp": "2021-01-19T05:43:40+00:00",
+            "last_traded_at": "2021-01-19T05:43:40+00:00",
+            "last_fetch_at": "2021-01-19T05:43:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 154.32,
+            "volume": 11676.196371,
+            "converted_last": {
+                "btc": 0.00423185,
+                "eth": 0.11689627,
+                "usd": 154.32
+            },
+            "converted_volume": {
+                "btc": 49.411964,
+                "eth": 1365,
+                "usd": 1801871
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.116407,
+            "timestamp": "2021-01-19T05:29:39+00:00",
+            "last_traded_at": "2021-01-19T05:29:39+00:00",
+            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/xmr/usd",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BCH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.294346,
+            "volume": 6.407,
+            "converted_last": {
+                "btc": 0.0041984,
+                "eth": 0.11593033,
+                "usd": 154.3
+            },
+            "converted_volume": {
+                "btc": 0.02689912,
+                "eth": 0.74276559,
+                "usd": 988.6
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.317874,
+            "timestamp": "2021-01-19T03:14:04+00:00",
+            "last_traded_at": "2021-01-19T03:14:04+00:00",
+            "last_fetch_at": "2021-01-19T05:40:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-BCH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 0.004229,
+            "volume": 36175.855,
+            "converted_last": {
+                "btc": 0.004229,
+                "eth": 0.11652649,
+                "usd": 153.61
+            },
+            "converted_volume": {
+                "btc": 152.988,
+                "eth": 4215,
+                "usd": 5556975
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.170872,
+            "timestamp": "2021-01-19T05:43:31+00:00",
+            "last_traded_at": "2021-01-19T05:43:31+00:00",
+            "last_fetch_at": "2021-01-19T05:43:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 0.004206,
+            "volume": 6637.675408,
+            "converted_last": {
+                "btc": 0.004206,
+                "eth": 0.1161821,
+                "usd": 153.38
+            },
+            "converted_volume": {
+                "btc": 27.918063,
+                "eth": 771.179,
+                "usd": 1018068
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.121332,
+            "timestamp": "2021-01-19T05:29:39+00:00",
+            "last_traded_at": "2021-01-19T05:29:39+00:00",
+            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/xmr/btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "EOS",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 54.3593,
+            "volume": 0.627,
+            "converted_last": {
+                "btc": 0.00417425,
+                "eth": 0.11526362,
+                "usd": 153.44
+            },
+            "converted_volume": {
+                "btc": 0.00261726,
+                "eth": 0.07227029,
+                "usd": 96.2
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.342547,
+            "timestamp": "2021-01-19T03:13:35+00:00",
+            "last_traded_at": "2021-01-19T03:13:35+00:00",
+            "last_fetch_at": "2021-01-19T05:43:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-EOS",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "eos"
+        },
+        {
+            "base": "XMR",
+            "target": "EUR",
+            "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 127.72441,
+            "volume": 4376.084737,
+            "converted_last": {
+                "btc": 0.00423684,
+                "eth": 0.11703407,
+                "usd": 154.5
+            },
+            "converted_volume": {
+                "btc": 18.540783,
+                "eth": 512.151,
+                "usd": 676113
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.122914,
+            "timestamp": "2021-01-19T05:29:39+00:00",
+            "last_traded_at": "2021-01-19T05:29:39+00:00",
+            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/xmr/eur",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bidesk",
+                "identifier": "bidesk",
+                "has_trading_incentive": false
+            },
+            "last": 0.004235,
+            "volume": 177618.3344,
+            "converted_last": {
+                "btc": 0.004235,
+                "eth": 0.11669181,
+                "usd": 154.11
+            },
+            "converted_volume": {
+                "btc": 752.214,
+                "eth": 20727,
+                "usd": 27372842
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.377537,
+            "timestamp": "2021-01-19T05:41:47+00:00",
+            "last_traded_at": "2021-01-19T05:41:47+00:00",
+            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bidesk.com/exchange/XMR/BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "HBTC",
+                "identifier": "hbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.004203,
+            "volume": 177867.5979,
+            "converted_last": {
+                "btc": 0.004203,
+                "eth": 0.1160115,
+                "usd": 153.29
+            },
+            "converted_volume": {
+                "btc": 747.578,
+                "eth": 20635,
+                "usd": 27264636
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.402939,
+            "timestamp": "2021-01-19T05:35:45+00:00",
+            "last_traded_at": "2021-01-19T05:35:45+00:00",
+            "last_fetch_at": "2021-01-19T05:35:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bhex.com/exchange/301/XMR/BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BitZ",
+                "identifier": "bit_z",
+                "has_trading_incentive": false
+            },
+            "last": 153.68,
+            "volume": 174114.82,
+            "converted_last": {
+                "btc": 0.0042235,
+                "eth": 0.11637489,
+                "usd": 153.76
+            },
+            "converted_volume": {
+                "btc": 735.374,
+                "eth": 20263,
+                "usd": 26771368
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.53264,
+            "timestamp": "2021-01-19T05:40:56+00:00",
+            "last_traded_at": "2021-01-19T05:40:56+00:00",
+            "last_fetch_at": "2021-01-19T05:40:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bit-z.com/exchange/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "RUB",
+            "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 11366.028275,
+            "volume": 2200.812764,
+            "converted_last": {
+                "btc": 0.00422199,
+                "eth": 0.11662382,
+                "usd": 153.96
+            },
+            "converted_volume": {
+                "btc": 9.291812,
+                "eth": 256.667,
+                "usd": 338838
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.161823,
+            "timestamp": "2021-01-19T05:29:39+00:00",
+            "last_traded_at": "2021-01-19T05:29:39+00:00",
+            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/xmr/rub",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Binance JEX",
+                "identifier": "jex",
+                "has_trading_incentive": false
+            },
+            "last": 153.36,
+            "volume": 37643.5566,
+            "converted_last": {
+                "btc": 0.00420248,
+                "eth": 0.11599717,
+                "usd": 153.34
+            },
+            "converted_volume": {
+                "btc": 158.196,
+                "eth": 4367,
+                "usd": 5772218
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.867724,
+            "timestamp": "2021-01-19T05:34:19+00:00",
+            "last_traded_at": "2021-01-19T05:34:19+00:00",
+            "last_fetch_at": "2021-01-19T05:34:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 0.11635,
+            "volume": 2874.615,
+            "converted_last": {
+                "btc": 0.00422234,
+                "eth": 0.11634302,
+                "usd": 153.37
+            },
+            "converted_volume": {
+                "btc": 12.137606,
+                "eth": 334.441,
+                "usd": 440875
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.351027,
+            "timestamp": "2021-01-19T05:43:29+00:00",
+            "last_traded_at": "2021-01-19T05:43:29+00:00",
+            "last_fetch_at": "2021-01-19T05:43:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=eth&coin=xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "CoinBene",
+                "identifier": "coinbene",
+                "has_trading_incentive": false
+            },
+            "last": 153.02,
+            "volume": 87511.38465560057,
+            "converted_last": {
+                "btc": 0.00417795,
+                "eth": 0.11523657,
+                "usd": 152.96
+            },
+            "converted_volume": {
+                "btc": 365.618,
+                "eth": 10085,
+                "usd": 13386008
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.745334,
+            "timestamp": "2021-01-19T03:25:57+00:00",
+            "last_traded_at": "2021-01-19T03:25:57+00:00",
+            "last_fetch_at": "2021-01-19T03:25:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinbene.com/#/market?pairId=XMRUSDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BitBNS",
+                "identifier": "bitbns",
+                "has_trading_incentive": false
+            },
+            "last": 154.88,
+            "volume": 206.3754,
+            "converted_last": {
+                "btc": 0.00423758,
+                "eth": 0.11667168,
+                "usd": 154.79
+            },
+            "converted_volume": {
+                "btc": 0.87453137,
+                "eth": 24.078164,
+                "usd": 31945
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.047188,
+            "timestamp": "2021-01-19T04:30:04+00:00",
+            "last_traded_at": "2021-01-19T04:30:04+00:00",
+            "last_fetch_at": "2021-01-19T05:42:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitbns.com/trade/#/xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "EXX",
+                "identifier": "exx",
+                "has_trading_incentive": true
+            },
+            "last": 153.61,
+            "volume": 57113.6986,
+            "converted_last": {
+                "btc": 0.00422706,
+                "eth": 0.116473,
+                "usd": 153.7
+            },
+            "converted_volume": {
+                "btc": 241.423,
+                "eth": 6652,
+                "usd": 8778194
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 3.843453,
+            "timestamp": "2021-01-19T05:42:26+00:00",
+            "last_traded_at": "2021-01-19T05:42:26+00:00",
+            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.exx.com/tradeCoding/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "DragonEx",
+                "identifier": "dragonex",
+                "has_trading_incentive": false
+            },
+            "last": 153.2801,
+            "volume": 30035.4756,
+            "converted_last": {
+                "btc": 0.00421251,
+                "eth": 0.11607206,
+                "usd": 153.36
+            },
+            "converted_volume": {
+                "btc": 126.525,
+                "eth": 3486,
+                "usd": 4606147
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.049629,
+            "timestamp": "2021-01-19T05:40:09+00:00",
+            "last_traded_at": "2021-01-19T05:40:09+00:00",
+            "last_fetch_at": "2021-01-19T05:40:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dragonex.io/en-us/trade/index/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 152.79,
+            "volume": 9.8515,
+            "converted_last": {
+                "btc": 0.00414965,
+                "eth": 0.11488036,
+                "usd": 152.57
+            },
+            "converted_volume": {
+                "btc": 0.04088026,
+                "eth": 1.131744,
+                "usd": 1503.08
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.480582,
+            "timestamp": "2021-01-19T02:55:37+00:00",
+            "last_traded_at": "2021-01-19T02:55:37+00:00",
+            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 0.004227,
+            "volume": 7138.37359,
+            "converted_last": {
+                "btc": 0.004227,
+                "eth": 0.11647138,
+                "usd": 153.82
+            },
+            "converted_volume": {
+                "btc": 30.173905,
+                "eth": 831.416,
+                "usd": 1098020
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.034564,
+            "timestamp": "2021-01-19T05:41:58+00:00",
+            "last_traded_at": "2021-01-19T05:41:58+00:00",
+            "last_fetch_at": "2021-01-19T05:41:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 0.11584,
+            "volume": 1544.22053,
+            "converted_last": {
+                "btc": 0.00419572,
+                "eth": 0.11589827,
+                "usd": 152.81
+            },
+            "converted_volume": {
+                "btc": 6.479124,
+                "eth": 178.972,
+                "usd": 235971
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.994343,
+            "timestamp": "2021-01-19T05:27:59+00:00",
+            "last_traded_at": "2021-01-19T05:27:59+00:00",
+            "last_fetch_at": "2021-01-19T05:27:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 153.09,
+            "volume": 2402.83593,
+            "converted_last": {
+                "btc": 0.00420904,
+                "eth": 0.11626615,
+                "usd": 153.32
+            },
+            "converted_volume": {
+                "btc": 10.113639,
+                "eth": 279.368,
+                "usd": 368396
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.91745,
+            "timestamp": "2021-01-19T05:28:00+00:00",
+            "last_traded_at": "2021-01-19T05:28:00+00:00",
+            "last_fetch_at": "2021-01-19T05:28:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        }
+    ]
+}
