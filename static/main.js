@@ -115,7 +115,7 @@ function refreshTable() {
 let multiples = document.getElementsByClassName("multiple");
 for (m of multiples) {
 	m.onclick = function() {
-		//m.innerHTML = 
+		m.innerHTML = "<input value='"+m.innerText+"' />"
 	}
 }
 
