@@ -12,7 +12,7 @@
 			<button onclick="toggle('pie_chart')">Chart</button>
 			<button onclick="toggle('exchange_table')">Exchanges</button>
 		</div>
-		<div id="pie_chart" style="height: 400px; width: 100%;"></div>
+		<div id="pie_chart" class="table" style="height: 400px; width: 100%;"></div>
 		<div id="exchange_table" class="table">
 			<div class="header_row">
 				<div>Coin</div>
@@ -41,12 +41,10 @@
 				<div>Worth</div>
 				<div>Profit</div>
 				<div>
-					<div class="multiple">2x</div>
-					<input id="2x" class='slider' type='range' step='5' min='0' max='100' value='10'/><label class='slider_label'>10%</label>
+					{{firstDrop|safe}}
 				</div>
 				<div>
-					<div class="multiple">5x</div>
-					<input id="5x" class='slider' type='range' step='5' min='0' max='100' value='25'/><label class='slider_label'>25%</label>
+					{{secondDrop|safe}}
 				</div>
 			</div>
 			{% for row in rows %}
@@ -81,6 +79,7 @@
 		<div id="coin_table" class="table">
 			<div class="header_row coin_header_row">
 				<div>Coin</div>
+				<div>Type</div>
 				<div>Total</div>
 				<div>Price</div>
 				<div>Bought@</div>
@@ -97,6 +96,7 @@
 			{% for row in rows %}
 				<div class="row coin_row">
 					<div>{{row.coin|upper}}</div>
+					<div>{{row.type}}</div>
 					<div>{{row.amount}}</div>
 					<div>${{row.price}}</div>
 					<div>${{row.bought_at}}</div>
@@ -116,6 +116,7 @@
 				<div>-</div>
 				<div>-</div>
 				<div>-</div>
+				<div>-</div>
 				<div class="sells">-</div>
 				<div>-</div>
 				<div>${{tot.tot_worth}}</div>
@@ -132,7 +133,7 @@
 		<script src="/static/canvasjs.min.js"></script>
 		<script src="/static/main.js"></script>
 		{% for row in rows %}
-			<script>add_data("{{row.perc}}", "{{row.coin}}");</script>
+			<script>add_data("{{row.perc}}", "{{row.coin}}", "{{row.worth}}", "{{row.type.lower()}}");</script>
 		{% endfor %}
 		<script>
 			let data = {{data|tojson}};

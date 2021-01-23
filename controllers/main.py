@@ -71,6 +71,8 @@ def get_data():
 					profits_in_btc += row['btc']*row["amt"]
 				elif row.get("soldTo") == "dai":
 					profits_in_dai += row["dai"]
+				elif row.get("soldTo") == "eth":
+					profits_in_eth += row["eth"]
 	for coin in coins:
 		with open(f"static/markets/{coin}.json") as fh:
 			tickers = json.load(fh)
@@ -88,13 +90,16 @@ def get_data():
 				if row.get("soldTo") == "btc":
 					sold += round(row["btc"]*prices["bitcoin"]["price"]*row["amt"], 2)
 					sold_txt += f"${sold} ({row['amt']} @ {row['btc']} BTC)"
-					sold_txt = f"${sold} BTC"
+					sold_txt = f"${round(sold, 2)} BTC"
 				elif row.get("soldTo") == "dai":
 					sold_ = round(row["dai"]*prices["dai"]["price"], 2)
 					sold += sold_
 					#sold_txt += f"${sold_} ({row['amt']}/{row['dai']}DAI)"
 					#sold_txt = f"${sold} ({sold_amt}/{row['dai']} DAI)"
 					sold_txt = f"${round(sold, 2)} DAI"
+				elif row.get("soldTo") == "eth":
+					sold += round(row["eth"]*prices["ethereum"]["price"], 2)
+					sold_txt = f"${sold} ETH"
 				else:
 					sold += round(row["amt"]*row["sold"], 2)
 					# check this ??
@@ -104,10 +109,13 @@ def get_data():
 			price_data = prices[full_name]
 			amt = coins[coin]["amt"]
 			amt -= sold_amt
-			if full_name == "bitcoin":
+			if coin == "btc":
 				amt += profits_in_btc
 				amt = round(amt, 6)
-			elif full_name == "dai":
+			elif coin == "eth":
+				amt += profits_in_eth
+				amt = round(amt, 2)
+			elif coin == "dai":
 				amt = round(amt+profits_in_dai, 2)
 			purchased = coins[coin]["bought"]
 
@@ -153,7 +161,8 @@ def get_data():
 			trends[coin]["hour"] = round(price_data["percent_change_1h"], 2)
 			trends[coin]["day"] = round(price_data["percent_change_24h"], 2)
 			trends[coin]["week"] = round(price_data["percent_change_7d"], 2)
-			data = {"coin": coin, "sells": sells, "diff": diff, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "purchased": purchased, "bought_at": bought_at, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 3), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2), "exchanges": exchanges}
+			coinType = coins[coin]["type"].split(",")[0] if "type" in coins[coin] else ""
+			data = {"coin": coin, "type": coinType, "sells": sells, "diff": diff, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "purchased": purchased, "bought_at": bought_at, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 3), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2), "exchanges": exchanges}
 			makeSlider(data)
 			rows.append(data)
 	rows = sorted(rows, key=operator.itemgetter("worth"), reverse=True)
@@ -181,10 +190,24 @@ def markets_route():
 			json.dump(requests.get(url).json(), fh, indent=4)
 	return jsonify({"success": 1})
 
+def getDrop(which):
+	multiple = 2
+	val = 10
+	if which == "second":
+		multiple = 5
+		val = 25
+	html = f"<div class='multiple'><span>{multiple}x</span></div><input id='{multiple}x' class='slider' type='range' step='5' min='0' max='100' value='{val}'/><label class='slider_label'>{val}%</label>"
+	html += "<div class='multiple_change'>"
+	for i in [2,3,5,6,9,10,12,15,20]:
+		html += f"<div>{i}x</div>"
+	html += "</div>"
+	return html
+
+
 @main.route('/')
 def main_route():
 	rows, tot, _ = get_data()
 	data = {}
 	for row in rows:
 		data[row["coin"]] = row
-	return render_template("main.html", rows=rows, tot=tot, data=data)
+	return render_template("main.html", rows=rows, tot=tot, data=data, firstDrop=getDrop("first"), secondDrop=getDrop("second"))

@@ -113,9 +113,11 @@ function refreshTable() {
 }
 
 let multiples = document.getElementsByClassName("multiple");
+let showingInput = false;
 for (m of multiples) {
 	m.onclick = function() {
-		m.innerHTML = "<input value='"+m.innerText+"' />"
+		console.log(this.parentNode);
+		this.parentNode.getElementsByClassName("multiple_change")[0].display = "flex";
 	}
 }
 
@@ -141,6 +143,7 @@ for (let i = 0; i < sliders.length; ++i) {
 }
 
 let dataPoints = [];
+let typeData = {};
 
 function toggle(id, table=false) {
 	let tables = document.getElementsByClassName("table");
@@ -159,8 +162,21 @@ function toggle(id, table=false) {
 	}
 }
 
-function add_data(perc, coin) {
-	dataPoints.push({"y": parseFloat(perc), "label": coin.toUpperCase()});
+function getType(coinType) {
+	if (["insurance", "lending", "dex", "derivative", "assets"].indexOf(coinType) >= 0) {
+		return "DeFi";
+	}
+	return coinType;
+}
+
+function add_data(perc, coin, worth, coinType) {
+	dataPoints.push({"y": parseFloat(perc), "label": coin.toUpperCase(), "worth": worth});
+
+	coinType = getType(coinType);
+	if (!(coinType in typeData)) {
+		typeData[coinType] = [];
+	}
+	typeData[coinType].push(coin);
 }
 
 window.onload = function() {
@@ -173,15 +189,39 @@ window.onload = function() {
 		data: [{
 			type: "doughnut",
 			//showInLegend: true,
-			startAngle: 60,
+			//startAngle: 60,
 			indexLabelFontSize: 18,
-			yValueFormatString: "##0.00\"%\"",
+			yValueFormatString: "##0.0\"%\"",
 			indexLabel: "{label} #percent%",
-			toolTipContent: "<b>{label}:</b> {y} (#percent%)",
+			toolTipContent: "<b>{label}:</b> {y} (${worth})",
 			dataPoints: dataPoints
 		}]
 	});
+	let data = [];
+	for (let type in typeData) {
+		//data.push({"type": type, });
+	}
+	let chart2 = new CanvasJS.Chart("type_chart", {
+		animationEnabled: true,
+		title: {
+			//text: ""
+		},
+		data: [{
+			type: "pie",
+			//showInLegend: true,
+			//startAngle: 60,
+			indexLabelFontSize: 18,
+			yValueFormatString: "##0.0\"%\"",
+			indexLabel: "{label} #percent%",
+			toolTipContent: "<b>{label}:</b> {y} (${worth})",
+			dataPoints: data
+		}]
+	});
 	chart.render();
+	chart2.render();
 }
 
+setTimeout(function() {
+	window.location.reload()
+}, 50000);
 //setInterval(refreshTable, 10000);

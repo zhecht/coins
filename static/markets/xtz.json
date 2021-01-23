@@ -100,8 +100,8 @@
     },
     "country_origin": "US",
     "genesis_date": null,
-    "sentiment_votes_up_percentage": 89.22,
-    "sentiment_votes_down_percentage": 10.78,
+    "sentiment_votes_up_percentage": 85.96,
+    "sentiment_votes_down_percentage": 14.04,
     "ico_data": {
         "ico_start_date": "2017-07-01T00:00:00.000Z",
         "ico_end_date": "2017-07-14T00:00:00.000Z",
@@ -145,17 +145,17 @@
     },
     "market_cap_rank": 18,
     "coingecko_rank": 15,
-    "coingecko_score": 58.899,
-    "developer_score": 80.735,
-    "community_score": 46.501,
-    "liquidity_score": 63.341,
+    "coingecko_score": 59.419,
+    "developer_score": 80.732,
+    "community_score": 47.879,
+    "liquidity_score": 64.286,
     "public_interest_score": 0.011,
     "public_interest_stats": {
         "alexa_rank": 151590,
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-19T05:43:16.187Z",
+    "last_updated": "2021-01-23T18:26:52.270Z",
     "tickers": [
         {
             "base": "XTZ",
@@ -165,26 +165,152 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 2.9936,
-            "volume": 824814.59821867,
+            "last": 3.2166,
+            "volume": 2564125.11159612,
             "converted_last": {
-                "btc": 8.233e-05,
-                "eth": 0.00226858,
-                "usd": 2.99
+                "btc": 0.0001,
+                "eth": 0.00255729,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 67.908,
-                "eth": 1871,
-                "usd": 2469165
+                "btc": 256.419,
+                "eth": 6557,
+                "usd": 8247765
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.167001,
-            "timestamp": "2021-01-19T05:42:27+00:00",
-            "last_traded_at": "2021-01-19T05:42:27+00:00",
-            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "bid_ask_spread_percentage": 0.186567,
+            "timestamp": "2021-01-23T18:24:58+00:00",
+            "last_traded_at": "2021-01-23T18:24:58+00:00",
+            "last_fetch_at": "2021-01-23T18:24:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/XTZUSD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 3.2061,
+            "volume": 29249035.16450329,
+            "converted_last": {
+                "btc": 9.979e-05,
+                "eth": 0.00255174,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 2919,
+                "eth": 74636,
+                "usd": 93881183
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106234,
+            "timestamp": "2021-01-23T18:25:35+00:00",
+            "last_traded_at": "2021-01-23T18:25:35+00:00",
+            "last_fetch_at": "2021-01-23T18:25:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 3.2129,
+            "volume": 14228576.63,
+            "converted_last": {
+                "btc": 9.989e-05,
+                "eth": 0.00255435,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 1421,
+                "eth": 36345,
+                "usd": 45714994
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174701,
+            "timestamp": "2021-01-23T18:24:50+00:00",
+            "last_traded_at": "2021-01-23T18:24:50+00:00",
+            "last_fetch_at": "2021-01-23T18:24:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 9.994e-05,
+            "volume": 417956.11296719,
+            "converted_last": {
+                "btc": 9.994e-05,
+                "eth": 0.00255569,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 41.770534,
+                "eth": 1068,
+                "usd": 1343602
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.130208,
+            "timestamp": "2021-01-23T18:25:03+00:00",
+            "last_traded_at": "2021-01-23T18:25:03+00:00",
+            "last_fetch_at": "2021-01-23T18:25:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XTZBTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 3.2176,
+            "volume": 3073358.94832991,
+            "converted_last": {
+                "btc": 0.00010007,
+                "eth": 0.00256384,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 307.551,
+                "eth": 7880,
+                "usd": 9888840
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.127976,
+            "timestamp": "2021-01-23T18:21:47+00:00",
+            "last_traded_at": "2021-01-23T18:21:47+00:00",
+            "last_fetch_at": "2021-01-23T18:21:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/usd",
             "token_info_url": null,
             "coin_id": "tezos"
         },
@@ -196,23 +322,23 @@
                 "identifier": "decoin",
                 "has_trading_incentive": false
             },
-            "last": 8.21e-05,
-            "volume": 132254.0106455542,
+            "last": 9.98e-05,
+            "volume": 312567.67781563126,
             "converted_last": {
-                "btc": 8.21e-05,
-                "eth": 0.0022622,
-                "usd": 2.98
+                "btc": 9.98e-05,
+                "eth": 0.00255692,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 10.858054,
-                "eth": 299.184,
-                "usd": 394397
+                "btc": 31.194254,
+                "eth": 799.212,
+                "usd": 1003056
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.121655,
-            "timestamp": "2021-01-19T05:43:16+00:00",
-            "last_traded_at": "2021-01-19T05:43:16+00:00",
-            "last_fetch_at": "2021-01-19T05:43:16+00:00",
+            "bid_ask_spread_percentage": 0.1998,
+            "timestamp": "2021-01-23T18:19:47+00:00",
+            "last_traded_at": "2021-01-23T18:19:47+00:00",
+            "last_fetch_at": "2021-01-23T18:19:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.decoin.io/trade/XTZ-BTC",
@@ -222,250 +348,29 @@
         },
         {
             "base": "XTZ",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 2.995,
-            "volume": 702729.85308563,
-            "converted_last": {
-                "btc": 8.217e-05,
-                "eth": 0.00226796,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 57.741,
-                "eth": 1594,
-                "usd": 2104676
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.186698,
-            "timestamp": "2021-01-19T05:38:24+00:00",
-            "last_traded_at": "2021-01-19T05:38:24+00:00",
-            "last_fetch_at": "2021-01-19T05:38:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/usd",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 8.206e-05,
-            "volume": 122470.00067261,
-            "converted_last": {
-                "btc": 8.206e-05,
-                "eth": 0.00226109,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 10.049888,
-                "eth": 276.916,
-                "usd": 365416
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.218898,
-            "timestamp": "2021-01-19T05:42:28+00:00",
-            "last_traded_at": "2021-01-19T05:42:28+00:00",
-            "last_fetch_at": "2021-01-19T05:42:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/XTZBTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 2.9876,
-            "volume": 10712130.83886029,
-            "converted_last": {
-                "btc": 8.221e-05,
-                "eth": 0.00226531,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 880.678,
-                "eth": 24266,
-                "usd": 32047620
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170441,
-            "timestamp": "2021-01-19T05:41:58+00:00",
-            "last_traded_at": "2021-01-19T05:41:58+00:00",
-            "last_fetch_at": "2021-01-19T05:41:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XTZ_USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "EUR",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 2.4758,
-            "volume": 784482.45953328,
-            "converted_last": {
-                "btc": 8.214e-05,
-                "eth": 0.00226719,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 64.436,
-                "eth": 1779,
-                "usd": 2348728
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.205504,
-            "timestamp": "2021-01-19T05:38:24+00:00",
-            "last_traded_at": "2021-01-19T05:38:24+00:00",
-            "last_fetch_at": "2021-01-19T05:38:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eur",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 2.9917,
-            "volume": 5303290.09,
-            "converted_last": {
-                "btc": 8.221e-05,
-                "eth": 0.0022653,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 435.998,
-                "eth": 12014,
-                "usd": 15865853
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170182,
-            "timestamp": "2021-01-19T05:41:25+00:00",
-            "last_traded_at": "2021-01-19T05:41:25+00:00",
-            "last_fetch_at": "2021-01-19T05:41:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XTZ-USD",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 8.23e-05,
-            "volume": 3322177.7396111786,
-            "converted_last": {
-                "btc": 8.23e-05,
-                "eth": 0.00226771,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 273.415,
-                "eth": 7534,
-                "usd": 9941441
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.121655,
-            "timestamp": "2021-01-19T05:42:02+00:00",
-            "last_traded_at": "2021-01-19T05:42:02+00:00",
-            "last_fetch_at": "2021-01-19T05:42:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XTZ_BTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 2.9812,
-            "volume": 3045265.233741105,
-            "converted_last": {
-                "btc": 8.204e-05,
-                "eth": 0.00226046,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 249.824,
-                "eth": 6884,
-                "usd": 9083676
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.123492,
-            "timestamp": "2021-01-19T05:42:46+00:00",
-            "last_traded_at": "2021-01-19T05:42:46+00:00",
-            "last_fetch_at": "2021-01-19T05:42:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_usdt",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
             "target": "TRY",
             "market": {
                 "name": "BtcTurk PRO",
                 "identifier": "btcturk",
                 "has_trading_incentive": false
             },
-            "last": 22.33,
-            "volume": 3011383.31,
+            "last": 23.86,
+            "volume": 8539029.19,
             "converted_last": {
-                "btc": 8.222e-05,
-                "eth": 0.00226564,
-                "usd": 2.99
+                "btc": 0.00010008,
+                "eth": 0.00256402,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 247.611,
-                "eth": 6823,
-                "usd": 9003177
+                "btc": 854.561,
+                "eth": 21894,
+                "usd": 27478756
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.3125,
-            "timestamp": "2021-01-19T05:42:13+00:00",
-            "last_traded_at": "2021-01-19T05:42:13+00:00",
-            "last_fetch_at": "2021-01-19T05:42:13+00:00",
+            "bid_ask_spread_percentage": 0.141911,
+            "timestamp": "2021-01-23T18:22:13+00:00",
+            "last_traded_at": "2021-01-23T18:22:13+00:00",
+            "last_fetch_at": "2021-01-23T18:22:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_TRY",
@@ -480,23 +385,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 2.987,
-            "volume": 6713088.19,
+            "last": 3.215,
+            "volume": 20213304.8351,
             "converted_last": {
-                "btc": 8.209e-05,
-                "eth": 0.00226585,
-                "usd": 2.99
+                "btc": 9.996e-05,
+                "eth": 0.0025561,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 551.077,
-                "eth": 15211,
-                "usd": 20086994
+                "btc": 2020,
+                "eth": 51667,
+                "usd": 64987771
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.167056,
-            "timestamp": "2021-01-19T05:38:41+00:00",
-            "last_traded_at": "2021-01-19T05:38:41+00:00",
-            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "bid_ask_spread_percentage": 0.162325,
+            "timestamp": "2021-01-23T18:24:01+00:00",
+            "last_traded_at": "2021-01-23T18:24:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=xtz_usdt",
@@ -506,29 +411,92 @@
         },
         {
             "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 9.98e-05,
+            "volume": 7605143.598697395,
+            "converted_last": {
+                "btc": 9.98e-05,
+                "eth": 0.00255211,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 758.993,
+                "eth": 19409,
+                "usd": 24413983
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1002,
+            "timestamp": "2021-01-23T18:25:30+00:00",
+            "last_traded_at": "2021-01-23T18:25:30+00:00",
+            "last_fetch_at": "2021-01-23T18:25:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 2.6424,
+            "volume": 1770040.98219475,
+            "converted_last": {
+                "btc": 0.00010005,
+                "eth": 0.00256335,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 177.094,
+                "eth": 4537,
+                "usd": 5694204
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102091,
+            "timestamp": "2021-01-23T18:21:19+00:00",
+            "last_traded_at": "2021-01-23T18:21:19+00:00",
+            "last_fetch_at": "2021-01-23T18:21:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eur",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
             "target": "KRW",
             "market": {
                 "name": "Upbit",
                 "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 3265.0,
-            "volume": 3825104.48582716,
+            "last": 3555.0,
+            "volume": 17923651.70994359,
             "converted_last": {
-                "btc": 8.131e-05,
-                "eth": 0.00224048,
-                "usd": 2.96
+                "btc": 9.997e-05,
+                "eth": 0.00255643,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 311.027,
-                "eth": 8570,
-                "usd": 11318174
+                "btc": 1792,
+                "eth": 45821,
+                "usd": 57635709
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.30581,
-            "timestamp": "2021-01-19T05:41:50+00:00",
-            "last_traded_at": "2021-01-19T05:41:50+00:00",
-            "last_fetch_at": "2021-01-19T05:43:15+00:00",
+            "bid_ask_spread_percentage": 0.280505,
+            "timestamp": "2021-01-23T18:25:54+00:00",
+            "last_traded_at": "2021-01-23T18:25:54+00:00",
+            "last_fetch_at": "2021-01-23T18:25:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-XTZ",
@@ -537,35 +505,35 @@
         },
         {
             "base": "XTZ",
-            "target": "XBT",
+            "target": "USDT",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Huobi Global",
+                "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 8.2e-05,
-            "volume": 457370.84713707,
+            "last": 3.2066,
+            "volume": 10744224.683722032,
             "converted_last": {
-                "btc": 8.2e-05,
-                "eth": 0.00225944,
-                "usd": 2.99
+                "btc": 9.969e-05,
+                "eth": 0.00254942,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 37.504409,
-                "eth": 1033,
-                "usd": 1365353
+                "btc": 1071,
+                "eth": 27392,
+                "usd": 34454645
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.121655,
-            "timestamp": "2021-01-19T05:40:11+00:00",
-            "last_traded_at": "2021-01-19T05:40:11+00:00",
-            "last_fetch_at": "2021-01-19T05:40:11+00:00",
+            "bid_ask_spread_percentage": 0.165472,
+            "timestamp": "2021-01-23T18:25:09+00:00",
+            "last_traded_at": "2021-01-23T18:25:09+00:00",
+            "last_fetch_at": "2021-01-23T18:25:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/xbt",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_usdt",
             "token_info_url": null,
             "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
@@ -575,23 +543,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 2.9803,
-            "volume": 4417573.6325,
+            "last": 3.2084,
+            "volume": 13807942.1054,
             "converted_last": {
-                "btc": 8.201e-05,
-                "eth": 0.00225978,
-                "usd": 2.98
+                "btc": 9.975e-05,
+                "eth": 0.00255085,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 362.295,
-                "eth": 9983,
-                "usd": 13159656
+                "btc": 1377,
+                "eth": 35222,
+                "usd": 44304249
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.127607,
-            "timestamp": "2021-01-19T05:43:44+00:00",
-            "last_traded_at": "2021-01-19T05:43:44+00:00",
-            "last_fetch_at": "2021-01-19T05:43:44+00:00",
+            "bid_ask_spread_percentage": 0.3175,
+            "timestamp": "2021-01-23T18:25:10+00:00",
+            "last_traded_at": "2021-01-23T18:25:10+00:00",
+            "last_fetch_at": "2021-01-23T18:25:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XTZ",
@@ -601,34 +569,161 @@
         },
         {
             "base": "XTZ",
-            "target": "USD",
+            "target": "XBT",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 2.974507,
-            "volume": 1798408.4,
+            "last": 9.99e-05,
+            "volume": 523002.67415849,
             "converted_last": {
-                "btc": 8.189e-05,
-                "eth": 0.00225642,
-                "usd": 2.97
+                "btc": 9.99e-05,
+                "eth": 0.00255949,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 147.272,
-                "eth": 4058,
-                "usd": 5349378
+                "btc": 52.248,
+                "eth": 1339,
+                "usd": 1679956
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.488196,
-            "timestamp": "2021-01-19T05:43:20+00:00",
-            "last_traded_at": "2021-01-19T05:43:20+00:00",
-            "last_fetch_at": "2021-01-19T05:43:20+00:00",
+            "bid_ask_spread_percentage": 0.1,
+            "timestamp": "2021-01-23T18:21:23+00:00",
+            "last_traded_at": "2021-01-23T18:21:23+00:00",
+            "last_fetch_at": "2021-01-23T18:21:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/XTZ-to-USD",
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/xbt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "EUR",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 2.63592,
+            "volume": 1404160.3,
+            "converted_last": {
+                "btc": 9.977e-05,
+                "eth": 0.00255133,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 140.092,
+                "eth": 3582,
+                "usd": 4506092
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174341,
+            "timestamp": "2021-01-23T18:24:40+00:00",
+            "last_traded_at": "2021-01-23T18:24:40+00:00",
+            "last_fetch_at": "2021-01-23T18:24:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-EUR",
             "token_info_url": null,
             "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 3562.0,
+            "volume": 4305254.226239,
+            "converted_last": {
+                "btc": 0.00010021,
+                "eth": 0.00256731,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 431.41,
+                "eth": 11053,
+                "usd": 13871335
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.252171,
+            "timestamp": "2021-01-23T18:21:14+00:00",
+            "last_traded_at": "2021-01-23T18:21:14+00:00",
+            "last_fetch_at": "2021-01-23T18:21:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/XTZ_KRW",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010009,
+            "volume": 6487143.2083,
+            "converted_last": {
+                "btc": 0.00010009,
+                "eth": 0.00256435,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 649.298,
+                "eth": 16635,
+                "usd": 20878497
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.329769,
+            "timestamp": "2021-01-23T18:20:41+00:00",
+            "last_traded_at": "2021-01-23T18:20:41+00:00",
+            "last_fetch_at": "2021-01-23T18:20:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 9.994e-05,
+            "volume": 1667931.9,
+            "converted_last": {
+                "btc": 9.994e-05,
+                "eth": 0.00255569,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 166.693,
+                "eth": 4263,
+                "usd": 5361715
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110121,
+            "timestamp": "2021-01-23T18:24:41+00:00",
+            "last_traded_at": "2021-01-23T18:24:41+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XTZ",
@@ -638,23 +733,23 @@
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 2.979,
-            "volume": 78725.4365,
+            "last": 3.206,
+            "volume": 195799.243,
             "converted_last": {
-                "btc": 8.198e-05,
-                "eth": 0.00225879,
-                "usd": 2.98
+                "btc": 9.978e-05,
+                "eth": 0.00255166,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 6.453634,
-                "eth": 177.824,
-                "usd": 234656
+                "btc": 19.537267,
+                "eth": 499.613,
+                "usd": 628441
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.134138,
-            "timestamp": "2021-01-19T05:42:31+00:00",
-            "last_traded_at": "2021-01-19T05:42:31+00:00",
-            "last_fetch_at": "2021-01-19T05:42:31+00:00",
+            "bid_ask_spread_percentage": 0.162325,
+            "timestamp": "2021-01-23T18:25:42+00:00",
+            "last_traded_at": "2021-01-23T18:25:42+00:00",
+            "last_fetch_at": "2021-01-23T18:25:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -670,153 +765,26 @@
                 "identifier": "coinall",
                 "has_trading_incentive": false
             },
-            "last": 2.98,
-            "volume": 70200.0,
+            "last": 3.207,
+            "volume": 37177.2127,
             "converted_last": {
-                "btc": 8.2e-05,
-                "eth": 0.00225955,
-                "usd": 2.98
+                "btc": 9.971e-05,
+                "eth": 0.00254974,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 5.756681,
-                "eth": 158.62,
-                "usd": 209314
+                "btc": 3.706833,
+                "eth": 94.792,
+                "usd": 119231
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.134138,
-            "timestamp": "2021-01-19T05:42:52+00:00",
-            "last_traded_at": "2021-01-19T05:42:52+00:00",
-            "last_fetch_at": "2021-01-19T05:42:52+00:00",
+            "bid_ask_spread_percentage": 0.193487,
+            "timestamp": "2021-01-23T18:24:46+00:00",
+            "last_traded_at": "2021-01-23T18:24:46+00:00",
+            "last_fetch_at": "2021-01-23T18:24:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 8.206e-05,
-            "volume": 481994.01,
-            "converted_last": {
-                "btc": 8.206e-05,
-                "eth": 0.00226109,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 39.552428,
-                "eth": 1090,
-                "usd": 1440520
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170171,
-            "timestamp": "2021-01-19T05:39:53+00:00",
-            "last_traded_at": "2021-01-19T05:39:53+00:00",
-            "last_fetch_at": "2021-01-19T05:41:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XTZ-BTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 2.9874,
-            "volume": 53383.8,
-            "converted_last": {
-                "btc": 8.194e-05,
-                "eth": 0.00226183,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 4.374503,
-                "eth": 120.745,
-                "usd": 159456
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.117045,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "EUR",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 2.47007,
-            "volume": 479689.58,
-            "converted_last": {
-                "btc": 8.208e-05,
-                "eth": 0.00226176,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 39.374997,
-                "eth": 1085,
-                "usd": 1432845
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.234882,
-            "timestamp": "2021-01-19T05:41:32+00:00",
-            "last_traded_at": "2021-01-19T05:41:32+00:00",
-            "last_fetch_at": "2021-01-19T05:41:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XTZ-EUR",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "Decoin",
-                "identifier": "decoin",
-                "has_trading_incentive": false
-            },
-            "last": 2.9849,
-            "volume": 176845.91512512983,
-            "converted_last": {
-                "btc": 8.214e-05,
-                "eth": 0.00226327,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 14.525918,
-                "eth": 400.249,
-                "usd": 527625
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11342,
-            "timestamp": "2021-01-19T05:43:16+00:00",
-            "last_traded_at": "2021-01-19T05:43:16+00:00",
-            "last_fetch_at": "2021-01-19T05:43:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.decoin.io/trade/XTZ-USDT",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
@@ -829,23 +797,23 @@
                 "identifier": "bitrue",
                 "has_trading_incentive": false
             },
-            "last": 8.217e-05,
-            "volume": 217203.07,
+            "last": 0.0001001,
+            "volume": 577316.81,
             "converted_last": {
-                "btc": 8.217e-05,
-                "eth": 0.00226412,
-                "usd": 2.99
+                "btc": 0.0001001,
+                "eth": 0.00256461,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 17.847576,
-                "eth": 491.775,
-                "usd": 649743
+                "btc": 57.789,
+                "eth": 1481,
+                "usd": 1858228
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.243013,
-            "timestamp": "2021-01-19T05:40:23+00:00",
-            "last_traded_at": "2021-01-19T05:40:23+00:00",
-            "last_fetch_at": "2021-01-19T05:40:23+00:00",
+            "bid_ask_spread_percentage": 0.1998,
+            "timestamp": "2021-01-23T18:19:40+00:00",
+            "last_traded_at": "2021-01-23T18:19:40+00:00",
+            "last_fetch_at": "2021-01-23T18:19:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=xtzbtc",
@@ -861,23 +829,23 @@
                 "identifier": "bitrue",
                 "has_trading_incentive": false
             },
-            "last": 2.9873,
-            "volume": 36457.07,
+            "last": 3.2157,
+            "volume": 76033.88,
             "converted_last": {
-                "btc": 8.21e-05,
-                "eth": 0.00226215,
-                "usd": 2.99
+                "btc": 0.00010007,
+                "eth": 0.00256382,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 2.993061,
-                "eth": 82.471,
-                "usd": 108963
+                "btc": 7.60865,
+                "eth": 194.937,
+                "usd": 244657
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.180329,
-            "timestamp": "2021-01-19T05:40:26+00:00",
-            "last_traded_at": "2021-01-19T05:40:26+00:00",
-            "last_fetch_at": "2021-01-19T05:40:26+00:00",
+            "bid_ask_spread_percentage": 0.183859,
+            "timestamp": "2021-01-23T18:19:39+00:00",
+            "last_traded_at": "2021-01-23T18:19:39+00:00",
+            "last_fetch_at": "2021-01-23T18:19:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=xtzusdt",
@@ -887,67 +855,34 @@
         },
         {
             "base": "XTZ",
-            "target": "BTC",
+            "target": "GBP",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 8.21e-05,
-            "volume": 1702452.7963,
+            "last": 2.34967,
+            "volume": 868413.09,
             "converted_last": {
-                "btc": 8.21e-05,
-                "eth": 0.00226613,
-                "usd": 2.99
+                "btc": 9.994e-05,
+                "eth": 0.0025558,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 139.771,
-                "eth": 3858,
-                "usd": 5094724
+                "btc": 86.793,
+                "eth": 2219,
+                "usd": 2791708
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.303951,
-            "timestamp": "2021-01-19T05:38:42+00:00",
-            "last_traded_at": "2021-01-19T05:38:42+00:00",
-            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "bid_ask_spread_percentage": 0.175855,
+            "timestamp": "2021-01-23T18:24:48+00:00",
+            "last_traded_at": "2021-01-23T18:24:48+00:00",
+            "last_fetch_at": "2021-01-23T18:24:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=xtz_btc",
+            "trade_url": "https://pro.coinbase.com/trade/XTZ-GBP",
             "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 8.2e-05,
-            "volume": 107352.97,
-            "converted_last": {
-                "btc": 8.2e-05,
-                "eth": 0.00226337,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 8.802944,
-                "eth": 242.979,
-                "usd": 320879
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.243309,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_BTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
+            "coin_id": "tezos"
         },
         {
             "base": "XTZ",
@@ -957,23 +892,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 2.9916,
-            "volume": 870782.8096727504,
+            "last": 3.2171,
+            "volume": 2268292.677879146,
             "converted_last": {
-                "btc": 8.208e-05,
-                "eth": 0.00226171,
-                "usd": 2.99
+                "btc": 9.992e-05,
+                "eth": 0.00255514,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 71.476,
-                "eth": 1969,
-                "usd": 2600990
+                "btc": 226.644,
+                "eth": 5796,
+                "usd": 7290175
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.163558,
-            "timestamp": "2021-01-19T05:41:12+00:00",
-            "last_traded_at": "2021-01-19T05:41:12+00:00",
-            "last_fetch_at": "2021-01-19T05:41:12+00:00",
+            "bid_ask_spread_percentage": 0.140402,
+            "timestamp": "2021-01-23T18:23:54+00:00",
+            "last_traded_at": "2021-01-23T18:23:54+00:00",
+            "last_fetch_at": "2021-01-23T18:23:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/XTZ_BUSD",
@@ -983,66 +918,163 @@
         },
         {
             "base": "XTZ",
-            "target": "GBP",
+            "target": "USDT",
             "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 2.20037,
-            "volume": 194859.57,
+            "last": 3.2141,
+            "volume": 123159.85,
             "converted_last": {
-                "btc": 8.227e-05,
-                "eth": 0.00226676,
-                "usd": 2.99
+                "btc": 0.00010002,
+                "eth": 0.00256255,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 16.030247,
-                "eth": 441.7,
-                "usd": 583336
+                "btc": 12.318377,
+                "eth": 315.603,
+                "usd": 396079
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.262155,
-            "timestamp": "2021-01-19T05:41:18+00:00",
-            "last_traded_at": "2021-01-19T05:41:18+00:00",
-            "last_fetch_at": "2021-01-19T05:41:34+00:00",
+            "bid_ask_spread_percentage": 0.195646,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XTZ-GBP",
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_USDT",
             "token_info_url": null,
-            "coin_id": "tezos"
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
                 "has_trading_incentive": false
             },
-            "last": 0.0022619,
-            "volume": 124637.58535611,
+            "last": 3.218,
+            "volume": 1320870.05,
             "converted_last": {
-                "btc": 8.199e-05,
-                "eth": 0.00226491,
-                "usd": 2.99
+                "btc": 0.00010014,
+                "eth": 0.00256566,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 10.219519,
-                "eth": 282.293,
-                "usd": 372819
+                "btc": 132.273,
+                "eth": 3389,
+                "usd": 4253293
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.318274,
-            "timestamp": "2021-01-19T05:31:08+00:00",
-            "last_traded_at": "2021-01-19T05:31:08+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.186393,
+            "timestamp": "2021-01-23T18:22:14+00:00",
+            "last_traded_at": "2021-01-23T18:22:14+00:00",
+            "last_fetch_at": "2021-01-23T18:22:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eth",
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_USDT",
             "token_info_url": null,
             "coin_id": "tezos",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 3.22386,
+            "volume": 2120527.84738536,
+            "converted_last": {
+                "btc": 0.00010032,
+                "eth": 0.00257033,
+                "usd": 3.23
+            },
+            "converted_volume": {
+                "btc": 212.738,
+                "eth": 5450,
+                "usd": 6840275
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.220631,
+            "timestamp": "2021-01-23T18:21:49+00:00",
+            "last_traded_at": "2021-01-23T18:21:49+00:00",
+            "last_fetch_at": "2021-01-23T18:21:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 3.2165,
+            "volume": 13739074.6386,
+            "converted_last": {
+                "btc": 0.0001,
+                "eth": 0.00255729,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 1374,
+                "eth": 35135,
+                "usd": 44193909
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.604328,
+            "timestamp": "2021-01-23T18:23:23+00:00",
+            "last_traded_at": "2021-01-23T18:23:23+00:00",
+            "last_fetch_at": "2021-01-23T18:23:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 3.2035,
+            "volume": 613875.9782731388,
+            "converted_last": {
+                "btc": 9.969e-05,
+                "eth": 0.00255409,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 61.197,
+                "eth": 1568,
+                "usd": 1967800
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.115532,
+            "timestamp": "2021-01-23T18:19:47+00:00",
+            "last_traded_at": "2021-01-23T18:19:47+00:00",
+            "last_fetch_at": "2021-01-23T18:19:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/XTZ-USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
@@ -1052,58 +1084,26 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 8.215e-05,
-            "volume": 407377.8818342577,
+            "last": 9.988e-05,
+            "volume": 1003382.1627110032,
             "converted_last": {
-                "btc": 8.215e-05,
-                "eth": 0.00226357,
-                "usd": 2.99
+                "btc": 9.988e-05,
+                "eth": 0.00255416,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 33.466093,
-                "eth": 922.13,
-                "usd": 1216835
+                "btc": 100.218,
+                "eth": 2563,
+                "usd": 3223633
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194529,
-            "timestamp": "2021-01-19T05:42:43+00:00",
-            "last_traded_at": "2021-01-19T05:42:43+00:00",
-            "last_fetch_at": "2021-01-19T05:42:43+00:00",
+            "bid_ask_spread_percentage": 0.180325,
+            "timestamp": "2021-01-23T18:25:23+00:00",
+            "last_traded_at": "2021-01-23T18:25:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_btc",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx Korea",
-                "identifier": "okex_korea",
-                "has_trading_incentive": false
-            },
-            "last": 8.228e-05,
-            "volume": 5302.9404,
-            "converted_last": {
-                "btc": 8.228e-05,
-                "eth": 0.00226716,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 0.43632594,
-                "eth": 12.022589,
-                "usd": 15848.68
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.24322,
-            "timestamp": "2021-01-19T05:43:43+00:00",
-            "last_traded_at": "2021-01-19T05:43:43+00:00",
-            "last_fetch_at": "2021-01-19T05:43:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://okex.co.kr/kr/view/trade/order",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -1116,23 +1116,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 2.98369,
-            "volume": 829178.14,
+            "last": 3.21485,
+            "volume": 1473032.94,
             "converted_last": {
-                "btc": 8.211e-05,
-                "eth": 0.00226235,
-                "usd": 2.99
+                "btc": 0.00010004,
+                "eth": 0.00256314,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 68.08,
-                "eth": 1876,
-                "usd": 2475409
+                "btc": 147.366,
+                "eth": 3776,
+                "usd": 4738344
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.39891,
-            "timestamp": "2021-01-19T05:42:29+00:00",
-            "last_traded_at": "2021-01-19T05:42:29+00:00",
-            "last_fetch_at": "2021-01-19T05:42:29+00:00",
+            "bid_ask_spread_percentage": 0.26378,
+            "timestamp": "2021-01-23T18:21:18+00:00",
+            "last_traded_at": "2021-01-23T18:21:18+00:00",
+            "last_fetch_at": "2021-01-23T18:21:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#XTZ_USDT",
@@ -1142,34 +1142,35 @@
         },
         {
             "base": "XTZ",
-            "target": "USD",
+            "target": "ETH",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 2.9991,
-            "volume": 459277.69627554936,
+            "last": 0.002554,
+            "volume": 87403.99170209,
             "converted_last": {
-                "btc": 8.238e-05,
-                "eth": 0.00226995,
-                "usd": 3.0
+                "btc": 9.996e-05,
+                "eth": 0.00256111,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 37.835874,
-                "eth": 1043,
-                "usd": 1377420
+                "btc": 8.737214,
+                "eth": 223.852,
+                "usd": 280932
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.110173,
-            "timestamp": "2021-01-19T05:40:49+00:00",
-            "last_traded_at": "2021-01-19T05:40:49+00:00",
-            "last_fetch_at": "2021-01-19T05:40:49+00:00",
+            "bid_ask_spread_percentage": 0.179877,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/XTZ_USD",
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/eth",
             "token_info_url": null,
-            "coin_id": "tezos"
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "XTZ",
@@ -1179,23 +1180,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 2.9921,
-            "volume": 95819.45,
+            "last": 3.2083,
+            "volume": 553192.46,
             "converted_last": {
-                "btc": 8.219e-05,
-                "eth": 0.00226465,
-                "usd": 2.99
+                "btc": 9.974e-05,
+                "eth": 0.00255069,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 7.875303,
-                "eth": 216.997,
-                "usd": 286701
+                "btc": 55.178,
+                "eth": 1411,
+                "usd": 1774807
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.400802,
-            "timestamp": "2021-01-19T05:40:40+00:00",
-            "last_traded_at": "2021-01-19T05:40:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "bid_ask_spread_percentage": 0.376478,
+            "timestamp": "2021-01-23T18:24:38+00:00",
+            "last_traded_at": "2021-01-23T18:24:38+00:00",
+            "last_fetch_at": "2021-01-23T18:24:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1204,127 +1205,64 @@
         },
         {
             "base": "XTZ",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 2.986,
-            "volume": 479978.42709879,
+            "last": 9.98e-05,
+            "volume": 200293.45,
             "converted_last": {
-                "btc": 8.206e-05,
-                "eth": 0.00226116,
-                "usd": 2.99
+                "btc": 9.98e-05,
+                "eth": 0.00255692,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 39.38823,
-                "eth": 1085,
-                "usd": 1433327
+                "btc": 19.989286,
+                "eth": 512.135,
+                "usd": 642726
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106789,
-            "timestamp": "2021-01-19T05:41:27+00:00",
-            "last_traded_at": "2021-01-19T05:41:27+00:00",
-            "last_fetch_at": "2021-01-19T05:41:27+00:00",
+            "bid_ask_spread_percentage": 0.299401,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/XTZ-USDT",
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_BTC",
             "token_info_url": null,
             "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "KRW",
-            "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
-                "has_trading_incentive": false
-            },
-            "last": 3272.0,
-            "volume": 1372583.660579,
-            "converted_last": {
-                "btc": 8.15e-05,
-                "eth": 0.00224574,
-                "usd": 2.97
-            },
-            "converted_volume": {
-                "btc": 111.869,
-                "eth": 3082,
-                "usd": 4072613
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.488848,
-            "timestamp": "2021-01-19T05:40:10+00:00",
-            "last_traded_at": "2021-01-19T05:40:10+00:00",
-            "last_fetch_at": "2021-01-19T05:40:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/XTZ_KRW",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "BtcTurk PRO",
-                "identifier": "btcturk",
-                "has_trading_incentive": false
-            },
-            "last": 2.985,
-            "volume": 518127.82,
-            "converted_last": {
-                "btc": 8.214e-05,
-                "eth": 0.00226334,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 42.559844,
-                "eth": 1173,
-                "usd": 1547486
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.731626,
-            "timestamp": "2021-01-19T05:42:13+00:00",
-            "last_traded_at": "2021-01-19T05:42:13+00:00",
-            "last_fetch_at": "2021-01-19T05:42:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XTZ",
             "target": "BTC",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 8.136e-05,
-            "volume": 407808.5,
+            "last": 9.971e-05,
+            "volume": 10648.9405,
             "converted_last": {
-                "btc": 8.136e-05,
-                "eth": 0.00224181,
-                "usd": 2.96
+                "btc": 9.971e-05,
+                "eth": 0.00254981,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 33.1793,
-                "eth": 914.227,
-                "usd": 1205172
+                "btc": 1.061806,
+                "eth": 27.152802,
+                "usd": 34154
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.524204,
-            "timestamp": "2021-01-19T05:44:00+00:00",
-            "last_traded_at": "2021-01-19T05:44:00+00:00",
-            "last_fetch_at": "2021-01-19T05:44:00+00:00",
+            "bid_ask_spread_percentage": 0.230253,
+            "timestamp": "2021-01-23T18:25:46+00:00",
+            "last_traded_at": "2021-01-23T18:25:46+00:00",
+            "last_fetch_at": "2021-01-23T18:25:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/XTZ-to-BTC",
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -1333,189 +1271,30 @@
             "base": "XTZ",
             "target": "USDT",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 2.98543,
-            "volume": 137289.57527257,
-            "converted_last": {
-                "btc": 8.189e-05,
-                "eth": 0.00226034,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 11.242692,
-                "eth": 310.322,
-                "usd": 409953
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.361023,
-            "timestamp": "2021-01-19T05:36:25+00:00",
-            "last_traded_at": "2021-01-19T05:36:25+00:00",
-            "last_fetch_at": "2021-01-19T05:36:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/XTZ_USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "CNC",
-            "market": {
-                "name": "AEX",
-                "identifier": "aex",
-                "has_trading_incentive": false
-            },
-            "last": 19.03,
-            "volume": 401325.16563084,
-            "converted_last": {
-                "btc": 8.221e-05,
-                "eth": 0.0022652,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 32.992534,
-                "eth": 909.081,
-                "usd": 1201097
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.209974,
-            "timestamp": "2021-01-19T05:40:43+00:00",
-            "last_traded_at": "2021-01-19T05:40:43+00:00",
-            "last_fetch_at": "2021-01-19T05:40:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "global-china-cash"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
                 "name": "XT",
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 2.9881,
-            "volume": 581240.612,
+            "last": 3.2066,
+            "volume": 1026407.51,
             "converted_last": {
-                "btc": 8.212e-05,
-                "eth": 0.00226275,
-                "usd": 2.99
+                "btc": 9.969e-05,
+                "eth": 0.00254942,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 47.731603,
-                "eth": 1315,
-                "usd": 1737675
+                "btc": 102.327,
+                "eth": 2617,
+                "usd": 3291379
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.156879,
-            "timestamp": "2021-01-19T05:40:45+00:00",
-            "last_traded_at": "2021-01-19T05:40:45+00:00",
-            "last_fetch_at": "2021-01-19T05:40:45+00:00",
+            "bid_ask_spread_percentage": 0.162344,
+            "timestamp": "2021-01-23T18:24:23+00:00",
+            "last_traded_at": "2021-01-23T18:24:23+00:00",
+            "last_fetch_at": "2021-01-23T18:24:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/xtz_usdt",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "KRW",
-            "market": {
-                "name": "Coinone",
-                "identifier": "coinone",
-                "has_trading_incentive": false
-            },
-            "last": 3275.0,
-            "volume": 268013.5477,
-            "converted_last": {
-                "btc": 8.163e-05,
-                "eth": 0.00224917,
-                "usd": 2.97
-            },
-            "converted_volume": {
-                "btc": 21.877177,
-                "eth": 602.807,
-                "usd": 795459
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.336494,
-            "timestamp": "2021-01-19T05:42:14+00:00",
-            "last_traded_at": "2021-01-19T05:42:14+00:00",
-            "last_fetch_at": "2021-01-19T05:42:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinone.co.kr/exchange/trade/xtz/krw",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "SXC",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 19.1142,
-            "volume": 464767.454,
-            "converted_last": {
-                "btc": 8.235e-05,
-                "eth": 0.00226918,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 38.275245,
-                "eth": 1055,
-                "usd": 1393415
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.162798,
-            "timestamp": "2021-01-19T05:40:46+00:00",
-            "last_traded_at": "2021-01-19T05:40:46+00:00",
-            "last_fetch_at": "2021-01-19T05:40:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/xtz_sxc",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "sxc"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 2.9892,
-            "volume": 436591.8,
-            "converted_last": {
-                "btc": 8.191e-05,
-                "eth": 0.00226095,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 35.762197,
-                "eth": 987.111,
-                "usd": 1304880
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.264196,
-            "timestamp": "2021-01-19T05:34:37+00:00",
-            "last_traded_at": "2021-01-19T05:34:37+00:00",
-            "last_fetch_at": "2021-01-19T05:34:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/xtz",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
@@ -1528,23 +1307,23 @@
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 8.239e-05,
-            "volume": 699411.99,
+            "last": 0.00010019,
+            "volume": 376710.81,
             "converted_last": {
-                "btc": 8.239e-05,
-                "eth": 0.00226993,
-                "usd": 2.99
+                "btc": 0.00010019,
+                "eth": 0.00256209,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 57.625,
-                "eth": 1588,
-                "usd": 2093090
+                "btc": 37.742656,
+                "eth": 965.166,
+                "usd": 1214040
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.272882,
-            "timestamp": "2021-01-19T05:44:11+00:00",
-            "last_traded_at": "2021-01-19T05:44:11+00:00",
-            "last_fetch_at": "2021-01-19T05:44:11+00:00",
+            "bid_ask_spread_percentage": 0.699301,
+            "timestamp": "2021-01-23T18:25:36+00:00",
+            "last_traded_at": "2021-01-23T18:25:36+00:00",
+            "last_fetch_at": "2021-01-23T18:25:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hotbit.io/exchange?symbol=XTZ_BTC",
@@ -1554,29 +1333,60 @@
         },
         {
             "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 3.2136,
+            "volume": 628710.4627831716,
+            "converted_last": {
+                "btc": 9.994e-05,
+                "eth": 0.0025605,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 62.833,
+                "eth": 1610,
+                "usd": 2020424
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.211023,
+            "timestamp": "2021-01-23T18:22:25+00:00",
+            "last_traded_at": "2021-01-23T18:22:25+00:00",
+            "last_fetch_at": "2021-01-23T18:22:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XTZ_USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
             "target": "BTC",
             "market": {
                 "name": "XT",
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 8.223e-05,
-            "volume": 173988.76,
+            "last": 9.982e-05,
+            "volume": 850110.342,
             "converted_last": {
-                "btc": 8.223e-05,
-                "eth": 0.00226578,
-                "usd": 2.99
+                "btc": 9.982e-05,
+                "eth": 0.00255263,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 14.307096,
-                "eth": 394.22,
-                "usd": 520852
+                "btc": 84.858,
+                "eth": 2170,
+                "usd": 2729474
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.172931,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 0.19009,
+            "timestamp": "2021-01-23T18:24:24+00:00",
+            "last_traded_at": "2021-01-23T18:24:24+00:00",
+            "last_fetch_at": "2021-01-23T18:24:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/xtz_btc",
@@ -1586,32 +1396,223 @@
         },
         {
             "base": "XTZ",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 20.59,
+            "volume": 357312.63163009,
+            "converted_last": {
+                "btc": 9.964e-05,
+                "eth": 0.00255284,
+                "usd": 3.2
+            },
+            "converted_volume": {
+                "btc": 35.60282,
+                "eth": 912.161,
+                "usd": 1144824
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.241663,
+            "timestamp": "2021-01-23T18:22:23+00:00",
+            "last_traded_at": "2021-01-23T18:22:23+00:00",
+            "last_fetch_at": "2021-01-23T18:22:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "XTZ",
+            "target": "SXC",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 20.7423,
+            "volume": 658873.964,
+            "converted_last": {
+                "btc": 9.986e-05,
+                "eth": 0.0025536,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 65.794,
+                "eth": 1682,
+                "usd": 2116273
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.177049,
+            "timestamp": "2021-01-23T18:24:25+00:00",
+            "last_traded_at": "2021-01-23T18:24:25+00:00",
+            "last_fetch_at": "2021-01-23T18:24:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xtz_sxc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "sxc"
+        },
+        {
+            "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "Coinone",
+                "identifier": "coinone",
+                "has_trading_incentive": false
+            },
+            "last": 3567.0,
+            "volume": 986717.631,
+            "converted_last": {
+                "btc": 0.00010031,
+                "eth": 0.0025651,
+                "usd": 3.23
+            },
+            "converted_volume": {
+                "btc": 98.975,
+                "eth": 2531,
+                "usd": 3183622
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.504909,
+            "timestamp": "2021-01-23T18:23:54+00:00",
+            "last_traded_at": "2021-01-23T18:23:54+00:00",
+            "last_fetch_at": "2021-01-23T18:23:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinone.co.kr/exchange/trade/xtz/krw",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "XRP",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 11.8321,
+            "volume": 360320.73,
+            "converted_last": {
+                "btc": 0.0001003,
+                "eth": 0.00256973,
+                "usd": 3.23
+            },
+            "converted_volume": {
+                "btc": 36.140175,
+                "eth": 925.929,
+                "usd": 1162093
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.355454,
+            "timestamp": "2021-01-23T18:19:40+00:00",
+            "last_traded_at": "2021-01-23T18:19:40+00:00",
+            "last_fetch_at": "2021-01-23T18:19:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=xtzxrp",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ripple"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 3.2106,
+            "volume": 421582.04,
+            "converted_last": {
+                "btc": 9.991e-05,
+                "eth": 0.00255976,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 42.120473,
+                "eth": 1079,
+                "usd": 1354321
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.177189,
+            "timestamp": "2021-01-23T18:21:45+00:00",
+            "last_traded_at": "2021-01-23T18:21:45+00:00",
+            "last_fetch_at": "2021-01-23T18:21:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/xtz",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
             "target": "BTC",
             "market": {
                 "name": "KuCoin",
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 8.216e-05,
-            "volume": 200780.44278263,
+            "last": 9.985e-05,
+            "volume": 640846.60087682,
             "converted_last": {
-                "btc": 8.216e-05,
-                "eth": 0.00226385,
-                "usd": 2.99
+                "btc": 9.985e-05,
+                "eth": 0.00255339,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 16.496121,
-                "eth": 454.537,
-                "usd": 600289
+                "btc": 63.989,
+                "eth": 1636,
+                "usd": 2058203
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.145843,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "bid_ask_spread_percentage": 0.260052,
+            "timestamp": "2021-01-23T18:24:28+00:00",
+            "last_traded_at": "2021-01-23T18:24:28+00:00",
+            "last_fetch_at": "2021-01-23T18:24:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/XTZ-BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 9.994e-05,
+            "volume": 128397.60276471,
+            "converted_last": {
+                "btc": 9.994e-05,
+                "eth": 0.00255569,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 12.832056,
+                "eth": 328.145,
+                "usd": 412746
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.190114,
+            "timestamp": "2021-01-23T18:24:34+00:00",
+            "last_traded_at": "2021-01-23T18:24:34+00:00",
+            "last_fetch_at": "2021-01-23T18:24:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -1624,23 +1625,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 8.162e-05,
-            "volume": 763066.2075,
+            "last": 0.00010061,
+            "volume": 2836642.3638,
             "converted_last": {
-                "btc": 8.162e-05,
-                "eth": 0.00224897,
-                "usd": 2.96
+                "btc": 0.00010061,
+                "eth": 0.00257283,
+                "usd": 3.24
             },
             "converted_volume": {
-                "btc": 62.281,
-                "eth": 1716,
-                "usd": 2262251
+                "btc": 285.395,
+                "eth": 7298,
+                "usd": 9180079
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.167369,
-            "timestamp": "2021-01-19T05:43:46+00:00",
-            "last_traded_at": "2021-01-19T05:43:46+00:00",
-            "last_fetch_at": "2021-01-19T05:43:46+00:00",
+            "bid_ask_spread_percentage": 2.161626,
+            "timestamp": "2021-01-23T18:25:08+00:00",
+            "last_traded_at": "2021-01-23T18:25:08+00:00",
+            "last_fetch_at": "2021-01-23T18:25:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XTZ",
@@ -1656,23 +1657,23 @@
                 "identifier": "bitmax",
                 "has_trading_incentive": false
             },
-            "last": 8.19e-05,
-            "volume": 367403.8,
+            "last": 9.995e-05,
+            "volume": 374143.0,
             "converted_last": {
-                "btc": 8.19e-05,
-                "eth": 0.00226061,
-                "usd": 2.99
+                "btc": 9.995e-05,
+                "eth": 0.00256077,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 30.090371,
-                "eth": 830.557,
-                "usd": 1097928
+                "btc": 37.395593,
+                "eth": 958.093,
+                "usd": 1202400
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.389484,
-            "timestamp": "2021-01-19T05:34:39+00:00",
-            "last_traded_at": "2021-01-19T05:34:39+00:00",
-            "last_fetch_at": "2021-01-19T05:34:39+00:00",
+            "bid_ask_spread_percentage": 0.319521,
+            "timestamp": "2021-01-23T18:21:48+00:00",
+            "last_traded_at": "2021-01-23T18:21:48+00:00",
+            "last_fetch_at": "2021-01-23T18:21:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/xtz",
@@ -1684,59 +1685,27 @@
             "base": "XTZ",
             "target": "BTC",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 8.187e-05,
-            "volume": 119165.10313745,
-            "converted_last": {
-                "btc": 8.187e-05,
-                "eth": 0.00225978,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 9.756047,
-                "eth": 269.287,
-                "usd": 355744
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158343,
-            "timestamp": "2021-01-19T05:36:37+00:00",
-            "last_traded_at": "2021-01-19T05:36:37+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
                 "name": "Binance US",
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 8.22e-05,
-            "volume": 108956.09379562044,
+            "last": 0.0001,
+            "volume": 198610.1502,
             "converted_last": {
-                "btc": 8.22e-05,
-                "eth": 0.00226495,
-                "usd": 2.99
+                "btc": 0.0001,
+                "eth": 0.00256205,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 8.956191,
-                "eth": 246.78,
-                "usd": 326051
+                "btc": 19.861015,
+                "eth": 508.849,
+                "usd": 638639
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.243013,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "bid_ask_spread_percentage": 0.1998,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.us/en/trade/XTZ_BTC",
@@ -1746,61 +1715,29 @@
         },
         {
             "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 2.9895,
-            "volume": 952178.361057702,
-            "converted_last": {
-                "btc": 8.216e-05,
-                "eth": 0.00226381,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 78.23,
-                "eth": 2156,
-                "usd": 2849168
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.15689,
-            "timestamp": "2021-01-19T05:39:32+00:00",
-            "last_traded_at": "2021-01-19T05:39:32+00:00",
-            "last_fetch_at": "2021-01-19T05:39:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/USDT-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
             "target": "ETH",
             "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.002264,
-            "volume": 72959.0157,
+            "last": 0.002551,
+            "volume": 249882.53596836838,
             "converted_last": {
-                "btc": 8.216e-05,
-                "eth": 0.00226386,
-                "usd": 2.99
+                "btc": 9.974e-05,
+                "eth": 0.00255068,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 5.994354,
-                "eth": 165.169,
-                "usd": 217956
+                "btc": 24.924309,
+                "eth": 637.372,
+                "usd": 801722
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.132567,
-            "timestamp": "2021-01-19T05:42:40+00:00",
-            "last_traded_at": "2021-01-19T05:42:40+00:00",
-            "last_fetch_at": "2021-01-19T05:42:40+00:00",
+            "bid_ask_spread_percentage": 0.234926,
+            "timestamp": "2021-01-23T18:25:09+00:00",
+            "last_traded_at": "2021-01-23T18:25:09+00:00",
+            "last_fetch_at": "2021-01-23T18:25:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_eth",
@@ -1810,35 +1747,98 @@
         },
         {
             "base": "XTZ",
-            "target": "USDT",
+            "target": "USD",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 2.9879,
-            "volume": 9896.09,
+            "last": 3.20700002,
+            "volume": 137562.83102216,
             "converted_last": {
-                "btc": 8.211e-05,
-                "eth": 0.0022626,
-                "usd": 2.99
+                "btc": 9.97e-05,
+                "eth": 0.00254966,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 0.81261463,
-                "eth": 22.390903,
-                "usd": 29583
+                "btc": 13.715574,
+                "eth": 350.739,
+                "usd": 441164
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.367524,
-            "timestamp": "2021-01-19T05:40:06+00:00",
-            "last_traded_at": "2021-01-19T05:40:06+00:00",
-            "last_fetch_at": "2021-01-19T05:40:06+00:00",
+            "bid_ask_spread_percentage": 0.288486,
+            "timestamp": "2021-01-23T18:24:35+00:00",
+            "last_traded_at": "2021-01-23T18:24:35+00:00",
+            "last_fetch_at": "2021-01-23T18:24:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 3.2158,
+            "volume": 463745.68070968,
+            "converted_last": {
+                "btc": 0.00010007,
+                "eth": 0.0025639,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 46.408106,
+                "eth": 1189,
+                "usd": 1492272
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.223762,
+            "timestamp": "2021-01-23T18:22:02+00:00",
+            "last_traded_at": "2021-01-23T18:22:02+00:00",
+            "last_fetch_at": "2021-01-23T18:22:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XTZ_USDT",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 45.0,
+            "volume": 2472.0,
+            "converted_last": {
+                "btc": 0.00010022,
+                "eth": 0.00256759,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 0.24773449,
+                "eth": 6.347077,
+                "usd": 7965.53
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.58,
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_CRO",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "crypto-com-chain"
         },
         {
             "base": "XTZ",
@@ -1848,23 +1848,23 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 2.9855,
-            "volume": 148018.163,
+            "last": 3.2136,
+            "volume": 170479.96934275,
             "converted_last": {
-                "btc": 8.205e-05,
-                "eth": 0.00226078,
-                "usd": 2.99
+                "btc": 9.991e-05,
+                "eth": 0.00255499,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 12.144707,
-                "eth": 334.637,
-                "usd": 442130
+                "btc": 17.03305,
+                "eth": 435.574,
+                "usd": 547881
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.327365,
-            "timestamp": "2021-01-19T05:40:40+00:00",
-            "last_traded_at": "2021-01-19T05:40:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "bid_ask_spread_percentage": 0.254896,
+            "timestamp": "2021-01-23T18:23:28+00:00",
+            "last_traded_at": "2021-01-23T18:23:28+00:00",
+            "last_fetch_at": "2021-01-23T18:23:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/XTZ_USDT",
@@ -1876,255 +1876,33 @@
             "base": "XTZ",
             "target": "USDT",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 2.984799,
-            "volume": 95621.74,
+            "last": 3.21747477,
+            "volume": 62882.04607676,
             "converted_last": {
-                "btc": 8.214e-05,
-                "eth": 0.00226294,
-                "usd": 2.98
+                "btc": 0.00010003,
+                "eth": 0.00255807,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 7.853993,
-                "eth": 216.386,
-                "usd": 285280
+                "btc": 6.290267,
+                "eth": 160.856,
+                "usd": 202328
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.448112,
-            "timestamp": "2021-01-19T05:44:12+00:00",
-            "last_traded_at": "2021-01-19T05:44:12+00:00",
-            "last_fetch_at": "2021-01-19T05:44:12+00:00",
+            "bid_ask_spread_percentage": 0.223422,
+            "timestamp": "2021-01-23T18:24:35+00:00",
+            "last_traded_at": "2021-01-23T18:24:35+00:00",
+            "last_fetch_at": "2021-01-23T18:24:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=XTZ_USDT",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "USD",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 2.99632455,
-            "volume": 22486.60494466,
-            "converted_last": {
-                "btc": 8.217e-05,
-                "eth": 0.00226812,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 1.847776,
-                "eth": 51.002,
-                "usd": 67377
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.370569,
-            "timestamp": "2021-01-19T05:36:38+00:00",
-            "last_traded_at": "2021-01-19T05:36:38+00:00",
-            "last_fetch_at": "2021-01-19T05:36:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 35.585,
-            "volume": 6129.64,
-            "converted_last": {
-                "btc": 8.24e-05,
-                "eth": 0.00227448,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 0.50509805,
-                "eth": 13.941752,
-                "usd": 18411.49
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.578896,
-            "timestamp": "2021-01-19T05:37:04+00:00",
-            "last_traded_at": "2021-01-19T05:37:04+00:00",
-            "last_fetch_at": "2021-01-19T05:37:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/XTZ_CRO",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "crypto-com-chain"
-        },
-        {
-            "base": "XTZ",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00225757,
-            "volume": 15515.55763005,
-            "converted_last": {
-                "btc": 8.215e-05,
-                "eth": 0.00226759,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 1.274649,
-                "eth": 35.182956,
-                "usd": 46479
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.279715,
-            "timestamp": "2021-01-19T05:36:35+00:00",
-            "last_traded_at": "2021-01-19T05:36:35+00:00",
-            "last_fetch_at": "2021-01-19T05:36:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XTZ",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.06597,
-            "volume": 76621.48056692437,
-            "converted_last": {
-                "btc": 8.191e-05,
-                "eth": 0.00226102,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 6.276445,
-                "eth": 173.243,
-                "usd": 228779
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.332527,
-            "timestamp": "2021-01-19T05:38:36+00:00",
-            "last_traded_at": "2021-01-19T05:38:36+00:00",
-            "last_fetch_at": "2021-01-19T05:41:59+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XTZ_BNB",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "binancecoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
-                "has_trading_incentive": false
-            },
-            "last": 2.997,
-            "volume": 57256.76611811812,
-            "converted_last": {
-                "btc": 8.223e-05,
-                "eth": 0.00226579,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 4.708256,
-                "eth": 129.732,
-                "usd": 171405
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.207032,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/XTZ_BUSD",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 8.18e-05,
-            "volume": 574611.5505745722,
-            "converted_last": {
-                "btc": 8.18e-05,
-                "eth": 0.00225393,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 47.003225,
-                "eth": 1295,
-                "usd": 1711882
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.243309,
-            "timestamp": "2021-01-19T05:39:27+00:00",
-            "last_traded_at": "2021-01-19T05:39:27+00:00",
-            "last_fetch_at": "2021-01-19T05:39:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "TRY",
-            "market": {
-                "name": "Paribu",
-                "identifier": "paribu",
-                "has_trading_incentive": false
-            },
-            "last": 22.41,
-            "volume": 558147.25720985,
-            "converted_last": {
-                "btc": 8.245e-05,
-                "eth": 0.00227191,
-                "usd": 3.0
-            },
-            "converted_volume": {
-                "btc": 46.020676,
-                "eth": 1268,
-                "usd": 1674679
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.451187,
-            "timestamp": "2021-01-19T05:41:23+00:00",
-            "last_traded_at": "2021-01-19T05:41:23+00:00",
-            "last_fetch_at": "2021-01-19T05:41:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "tezos"
         },
         {
             "base": "XTZ",
@@ -2134,23 +1912,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 3.0001,
-            "volume": 47991.78423093,
+            "last": 3.2177,
+            "volume": 90895.22262911,
             "converted_last": {
-                "btc": 8.256e-05,
-                "eth": 0.00227479,
-                "usd": 3.0
+                "btc": 0.00010013,
+                "eth": 0.00256542,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 3.962063,
-                "eth": 109.171,
-                "usd": 144062
+                "btc": 9.10147,
+                "eth": 233.184,
+                "usd": 292644
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.655673,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 0.314104,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XTZ#limit",
@@ -2162,123 +1940,27 @@
             "base": "XTZ",
             "target": "USDT",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 2.9853,
-            "volume": 1225742.2499,
+            "last": 3.2146,
+            "volume": 30524.26,
             "converted_last": {
-                "btc": 8.189e-05,
-                "eth": 0.00226024,
-                "usd": 2.99
+                "btc": 9.994e-05,
+                "eth": 0.00255578,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 100.372,
-                "eth": 2770,
-                "usd": 3659962
+                "btc": 3.050699,
+                "eth": 78.013,
+                "usd": 98126
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.214715,
-            "timestamp": "2021-01-19T05:36:07+00:00",
-            "last_traded_at": "2021-01-19T05:36:07+00:00",
-            "last_fetch_at": "2021-01-19T05:36:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/XTZ_USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 2.99077162,
-            "volume": 35419.55563539,
-            "converted_last": {
-                "btc": 8.204e-05,
-                "eth": 0.00226439,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 2.90571,
-                "eth": 80.204,
-                "usd": 105954
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237829,
-            "timestamp": "2021-01-19T05:36:39+00:00",
-            "last_traded_at": "2021-01-19T05:36:39+00:00",
-            "last_fetch_at": "2021-01-19T05:36:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-XTZ",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 8.1821e-05,
-            "volume": 9490.21379294,
-            "converted_last": {
-                "btc": 8.182e-05,
-                "eth": 0.00225843,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 0.77649878,
-                "eth": 21.432974,
-                "usd": 28314
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.523496,
-            "timestamp": "2021-01-19T05:36:26+00:00",
-            "last_traded_at": "2021-01-19T05:36:26+00:00",
-            "last_fetch_at": "2021-01-19T05:36:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/XTZ_BTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 2.9883,
-            "volume": 8214.5,
-            "converted_last": {
-                "btc": 8.189e-05,
-                "eth": 0.00226027,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 0.67266522,
-                "eth": 18.566953,
-                "usd": 24543
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.326874,
-            "timestamp": "2021-01-19T05:33:58+00:00",
-            "last_traded_at": "2021-01-19T05:33:58+00:00",
-            "last_fetch_at": "2021-01-19T05:40:48+00:00",
+            "bid_ask_spread_percentage": 0.311236,
+            "timestamp": "2021-01-23T18:24:42+00:00",
+            "last_traded_at": "2021-01-23T18:24:42+00:00",
+            "last_fetch_at": "2021-01-23T18:24:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2290,126 +1972,126 @@
             "base": "XTZ",
             "target": "ETH",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.002255,
-            "volume": 2814.84736695,
+            "last": 0.00255569,
+            "volume": 24780.63031291,
             "converted_last": {
-                "btc": 8.206e-05,
-                "eth": 0.00226501,
-                "usd": 2.99
+                "btc": 0.00010003,
+                "eth": 0.00255799,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 0.23098483,
-                "eth": 6.375659,
-                "usd": 8422.62
+                "btc": 2.478799,
+                "eth": 63.389,
+                "usd": 79731
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.926334,
-            "timestamp": "2021-01-19T05:36:25+00:00",
-            "last_traded_at": "2021-01-19T05:36:25+00:00",
-            "last_fetch_at": "2021-01-19T05:36:25+00:00",
+            "bid_ask_spread_percentage": 0.173767,
+            "timestamp": "2021-01-23T18:24:35+00:00",
+            "last_traded_at": "2021-01-23T18:24:35+00:00",
+            "last_fetch_at": "2021-01-23T18:24:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/XTZ_ETH",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "ethereum"
         },
         {
             "base": "XTZ",
-            "target": "VET",
-            "market": {
-                "name": "Oceanex",
-                "identifier": "oceanex",
-                "has_trading_incentive": false
-            },
-            "last": 101.33,
-            "volume": 193086.98,
-            "converted_last": {
-                "btc": 8.204e-05,
-                "eth": 0.00226061,
-                "usd": 2.99
-            },
-            "converted_volume": {
-                "btc": 15.841312,
-                "eth": 436.494,
-                "usd": 576705
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.22405,
-            "timestamp": "2021-01-19T05:40:52+00:00",
-            "last_traded_at": "2021-01-19T05:40:52+00:00",
-            "last_fetch_at": "2021-01-19T05:40:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://oceanex.pro/trades/xtzvet",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "vechain"
-        },
-        {
-            "base": "XTZ",
             "target": "USDT",
             "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
+                "name": "LATOKEN",
+                "identifier": "latoken",
                 "has_trading_incentive": false
             },
-            "last": 2.9783,
-            "volume": 67.7357,
+            "last": 3.2128,
+            "volume": 22056.52360744522,
             "converted_last": {
-                "btc": 8.193e-05,
-                "eth": 0.00227464,
-                "usd": 2.98
+                "btc": 9.998e-05,
+                "eth": 0.00256151,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 0.0055498,
-                "eth": 0.15407465,
-                "usd": 201.9
+                "btc": 2.205188,
+                "eth": 56.498,
+                "usd": 70909
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.557745,
-            "timestamp": "2021-01-19T04:54:45+00:00",
-            "last_traded_at": "2021-01-19T04:54:45+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "bid_ask_spread_percentage": 0.13733,
+            "timestamp": "2021-01-23T18:22:11+00:00",
+            "last_traded_at": "2021-01-23T18:22:11+00:00",
+            "last_fetch_at": "2021-01-23T18:22:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=XTZ_USDT",
+            "trade_url": "https://latoken.com/exchange/USDT-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
-            "target": "BTC",
+            "target": "BNB",
             "market": {
-                "name": "Bitforex",
-                "identifier": "bitforex",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 8.195e-05,
-            "volume": 69080.1282,
+            "last": 0.07916,
+            "volume": 125399.70063163213,
             "converted_last": {
-                "btc": 8.195e-05,
-                "eth": 0.00226199,
-                "usd": 2.99
+                "btc": 0.00010021,
+                "eth": 0.00256256,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 5.661117,
-                "eth": 156.259,
-                "usd": 206355
+                "btc": 12.566134,
+                "eth": 321.345,
+                "usd": 404200
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.631605,
-            "timestamp": "2021-01-19T05:37:07+00:00",
-            "last_traded_at": "2021-01-19T05:37:07+00:00",
-            "last_fetch_at": "2021-01-19T05:37:07+00:00",
+            "bid_ask_spread_percentage": 0.416614,
+            "timestamp": "2021-01-23T18:23:34+00:00",
+            "last_traded_at": "2021-01-23T18:23:34+00:00",
+            "last_fetch_at": "2021-01-23T18:23:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitforex.com/en/spot/xtz_btc",
+            "trade_url": "https://www.binance.com/en/trade/XTZ_BNB",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 9.989e-05,
+            "volume": 37267.50913157,
+            "converted_last": {
+                "btc": 9.989e-05,
+                "eth": 0.00255923,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 3.722651,
+                "eth": 95.376,
+                "usd": 119696
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.259792,
+            "timestamp": "2021-01-23T18:21:45+00:00",
+            "last_traded_at": "2021-01-23T18:21:45+00:00",
+            "last_fetch_at": "2021-01-23T18:21:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XTZ_BTC",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -2422,23 +2104,23 @@
                 "identifier": "oceanex",
                 "has_trading_incentive": false
             },
-            "last": 2.9861,
-            "volume": 112583.932,
+            "last": 3.2082,
+            "volume": 110726.934,
             "converted_last": {
-                "btc": 8.186e-05,
-                "eth": 0.00226126,
-                "usd": 2.99
+                "btc": 9.974e-05,
+                "eth": 0.00255069,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 9.216324,
-                "eth": 254.582,
-                "usd": 336272
+                "btc": 11.044396,
+                "eth": 282.43,
+                "usd": 355252
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116799,
-            "timestamp": "2021-01-19T05:30:36+00:00",
-            "last_traded_at": "2021-01-19T05:30:36+00:00",
-            "last_fetch_at": "2021-01-19T05:30:36+00:00",
+            "bid_ask_spread_percentage": 0.180787,
+            "timestamp": "2021-01-23T18:23:29+00:00",
+            "last_traded_at": "2021-01-23T18:23:29+00:00",
+            "last_fetch_at": "2021-01-23T18:23:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://oceanex.pro/trades/xtzusdt",
@@ -2448,29 +2130,316 @@
         },
         {
             "base": "XTZ",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 3.2263,
+            "volume": 47618.22542262034,
+            "converted_last": {
+                "btc": 0.0001003,
+                "eth": 0.00256964,
+                "usd": 3.23
+            },
+            "converted_volume": {
+                "btc": 4.775934,
+                "eth": 122.362,
+                "usd": 153572
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.29785,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XTZ_BUSD",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 3.213499,
+            "volume": 65367.49,
+            "converted_last": {
+                "btc": 9.991e-05,
+                "eth": 0.00255491,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 6.530813,
+                "eth": 167.008,
+                "usd": 210072
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.497481,
+            "timestamp": "2021-01-23T18:25:11+00:00",
+            "last_traded_at": "2021-01-23T18:25:11+00:00",
+            "last_fetch_at": "2021-01-23T18:25:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XTZ_USDT",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 9.98e-05,
+            "volume": 60758.7702,
+            "converted_last": {
+                "btc": 9.98e-05,
+                "eth": 0.00255692,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 6.063725,
+                "eth": 155.356,
+                "usd": 194982
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.696517,
+            "timestamp": "2021-01-23T18:22:13+00:00",
+            "last_traded_at": "2021-01-23T18:22:13+00:00",
+            "last_fetch_at": "2021-01-23T18:22:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "VET",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 103.97,
+            "volume": 200037.588,
+            "converted_last": {
+                "btc": 9.974e-05,
+                "eth": 0.0025506,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 19.951878,
+                "eth": 510.215,
+                "usd": 641768
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.124559,
+            "timestamp": "2021-01-23T18:23:29+00:00",
+            "last_traded_at": "2021-01-23T18:23:29+00:00",
+            "last_fetch_at": "2021-01-23T18:23:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/xtzvet",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "vechain"
+        },
+        {
+            "base": "XTZ",
+            "target": "HUSD",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 3.2044,
+            "volume": 79473.4645,
+            "converted_last": {
+                "btc": 9.954e-05,
+                "eth": 0.00254557,
+                "usd": 3.2
+            },
+            "converted_volume": {
+                "btc": 7.911106,
+                "eth": 202.305,
+                "usd": 254471
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.768563,
+            "timestamp": "2021-01-23T18:25:09+00:00",
+            "last_traded_at": "2021-01-23T18:25:09+00:00",
+            "last_fetch_at": "2021-01-23T18:25:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_husd",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "husd"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 3.2022,
+            "volume": 19787.51,
+            "converted_last": {
+                "btc": 9.966e-05,
+                "eth": 0.00256122,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 1.971925,
+                "eth": 50.68,
+                "usd": 63460
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.689462,
+            "timestamp": "2021-01-23T18:16:02+00:00",
+            "last_traded_at": "2021-01-23T18:16:02+00:00",
+            "last_fetch_at": "2021-01-23T18:24:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 3.2111,
+            "volume": 15596.363379,
+            "converted_last": {
+                "btc": 9.986e-05,
+                "eth": 0.00255851,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 1.557482,
+                "eth": 39.903434,
+                "usd": 50081
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.853163,
+            "timestamp": "2021-01-23T18:22:48+00:00",
+            "last_traded_at": "2021-01-23T18:22:48+00:00",
+            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001,
+            "volume": 7542.11239,
+            "converted_last": {
+                "btc": 0.0001,
+                "eth": 0.00256205,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 0.75421124,
+                "eth": 19.323255,
+                "usd": 24252
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1999,
+            "timestamp": "2021-01-23T18:22:11+00:00",
+            "last_traded_at": "2021-01-23T18:22:11+00:00",
+            "last_fetch_at": "2021-01-23T18:22:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-XTZ",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "Bitforex",
+                "identifier": "bitforex",
+                "has_trading_incentive": false
+            },
+            "last": 9.988e-05,
+            "volume": 83152.425,
+            "converted_last": {
+                "btc": 9.988e-05,
+                "eth": 0.00255416,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 8.305264,
+                "eth": 212.385,
+                "usd": 267145
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.528415,
+            "timestamp": "2021-01-23T18:24:00+00:00",
+            "last_traded_at": "2021-01-23T18:24:00+00:00",
+            "last_fetch_at": "2021-01-23T18:24:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitforex.com/en/spot/xtz_btc",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
             "target": "XT",
             "market": {
                 "name": "XT",
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 0.40539,
-            "volume": 152894.554,
+            "last": 0.43738,
+            "volume": 197660.924,
             "converted_last": {
-                "btc": 8.218e-05,
-                "eth": 0.00226444,
-                "usd": 2.99
+                "btc": 0.00010004,
+                "eth": 0.00255828,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 12.565118,
-                "eth": 346.221,
-                "usd": 457435
+                "btc": 19.77424,
+                "eth": 505.672,
+                "usd": 636042
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.406164,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 0.424774,
+            "timestamp": "2021-01-23T18:24:24+00:00",
+            "last_traded_at": "2021-01-23T18:24:24+00:00",
+            "last_fetch_at": "2021-01-23T18:24:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/xtz_xt",
@@ -2486,23 +2455,23 @@
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 2.99947287,
-            "volume": 19703.98667276,
+            "last": 3.19992449,
+            "volume": 19867.39416936,
             "converted_last": {
-                "btc": 8.243e-05,
-                "eth": 0.00227136,
-                "usd": 3.0
+                "btc": 9.949e-05,
+                "eth": 0.00254411,
+                "usd": 3.2
             },
             "converted_volume": {
-                "btc": 1.624254,
-                "eth": 44.754939,
-                "usd": 59131
+                "btc": 1.97655,
+                "eth": 50.545,
+                "usd": 63577
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.971688,
-            "timestamp": "2021-01-19T05:40:59+00:00",
-            "last_traded_at": "2021-01-19T05:40:59+00:00",
-            "last_fetch_at": "2021-01-19T05:40:59+00:00",
+            "bid_ask_spread_percentage": 0.644644,
+            "timestamp": "2021-01-23T18:23:46+00:00",
+            "last_traded_at": "2021-01-23T18:23:46+00:00",
+            "last_fetch_at": "2021-01-23T18:23:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#xtz_usdt",
@@ -2512,67 +2481,129 @@
         },
         {
             "base": "XTZ",
-            "target": "BTC",
+            "target": "IDR",
             "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
+                "name": "Indodax",
+                "identifier": "indodax",
                 "has_trading_incentive": false
             },
-            "last": 8.184e-05,
-            "volume": 2236.52042451,
+            "last": 45313.0,
+            "volume": 40276.08525016,
             "converted_last": {
-                "btc": 8.184e-05,
-                "eth": 0.00226066,
-                "usd": 2.98
+                "btc": 0.00010048,
+                "eth": 0.0025825,
+                "usd": 3.23
             },
             "converted_volume": {
-                "btc": 0.18303683,
-                "eth": 5.056016,
-                "usd": 6667.24
+                "btc": 4.047073,
+                "eth": 104.013,
+                "usd": 130163
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.164483,
-            "timestamp": "2021-01-19T05:28:26+00:00",
-            "last_traded_at": "2021-01-19T05:28:26+00:00",
-            "last_fetch_at": "2021-01-19T05:40:59+00:00",
+            "bid_ask_spread_percentage": 0.324389,
+            "timestamp": "2021-01-23T18:17:01+00:00",
+            "last_traded_at": "2021-01-23T18:17:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#xtz_btc",
+            "trade_url": null,
             "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
+            "coin_id": "tezos"
         },
         {
             "base": "XTZ",
-            "target": "HUSD",
+            "target": "USDT",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "BigONE",
+                "identifier": "bigone",
                 "has_trading_incentive": false
             },
-            "last": 2.9963,
-            "volume": 15982.4495,
+            "last": 3.2091,
+            "volume": 35105.15,
             "converted_last": {
-                "btc": 8.242e-05,
-                "eth": 0.00227094,
-                "usd": 3.0
+                "btc": 9.974e-05,
+                "eth": 0.00256333,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 1.317232,
-                "eth": 36.295196,
-                "usd": 47895
+                "btc": 3.501289,
+                "eth": 89.986,
+                "usd": 112760
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.870432,
-            "timestamp": "2021-01-19T05:42:42+00:00",
-            "last_traded_at": "2021-01-19T05:42:42+00:00",
-            "last_fetch_at": "2021-01-19T05:42:42+00:00",
+            "bid_ask_spread_percentage": 0.799529,
+            "timestamp": "2021-01-23T18:14:38+00:00",
+            "last_traded_at": "2021-01-23T18:14:38+00:00",
+            "last_fetch_at": "2021-01-23T18:21:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xtz_husd",
+            "trade_url": "https://big.one/trade/XTZ-USDT",
             "token_info_url": null,
             "coin_id": "tezos",
-            "target_coin_id": "husd"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "EUR",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 2.6582,
+            "volume": 1981.380292,
+            "converted_last": {
+                "btc": 0.00010071,
+                "eth": 0.00260318,
+                "usd": 3.24
+            },
+            "converted_volume": {
+                "btc": 0.19954291,
+                "eth": 5.157886,
+                "usd": 6412.19
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.015363,
+            "timestamp": "2021-01-23T17:37:39+00:00",
+            "last_traded_at": "2021-01-23T17:37:39+00:00",
+            "last_fetch_at": "2021-01-23T18:22:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 3.1939,
+            "volume": 927.245746,
+            "converted_last": {
+                "btc": 9.955e-05,
+                "eth": 0.0025747,
+                "usd": 3.2
+            },
+            "converted_volume": {
+                "btc": 0.09230287,
+                "eth": 2.387378,
+                "usd": 2963.77
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.011831,
+            "timestamp": "2021-01-23T17:30:33+00:00",
+            "last_traded_at": "2021-01-23T17:30:33+00:00",
+            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
@@ -2582,23 +2613,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 8.22e-05,
-            "volume": 2576.68,
+            "last": 0.0001007,
+            "volume": 2123.8,
             "converted_last": {
-                "btc": 8.22e-05,
-                "eth": 0.00226889,
-                "usd": 3.0
+                "btc": 0.0001007,
+                "eth": 0.00257998,
+                "usd": 3.24
             },
             "converted_volume": {
-                "btc": 0.2118031,
-                "eth": 5.846204,
-                "usd": 7728.2
+                "btc": 0.21386666,
+                "eth": 5.479367,
+                "usd": 6876.95
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.409639,
-            "timestamp": "2021-01-19T05:35:00+00:00",
-            "last_traded_at": "2021-01-19T05:35:00+00:00",
-            "last_fetch_at": "2021-01-19T05:42:53+00:00",
+            "bid_ask_spread_percentage": 1.982161,
+            "timestamp": "2021-01-23T18:18:34+00:00",
+            "last_traded_at": "2021-01-23T18:18:34+00:00",
+            "last_fetch_at": "2021-01-23T18:18:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2608,29 +2639,91 @@
         },
         {
             "base": "XTZ",
+            "target": "KRW",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 3559.0,
+            "volume": 8916.2448,
+            "converted_last": {
+                "btc": 0.00010012,
+                "eth": 0.00256502,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 0.89265752,
+                "eth": 22.870316,
+                "usd": 28704
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.58873,
+            "timestamp": "2021-01-23T18:19:08+00:00",
+            "last_traded_at": "2021-01-23T18:19:08+00:00",
+            "last_fetch_at": "2021-01-23T18:19:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/XTZ-KRW",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
+            "target": "USD",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 3.2363,
+            "volume": 10416.02188343,
+            "converted_last": {
+                "btc": 0.00010045,
+                "eth": 0.00258441,
+                "usd": 3.24
+            },
+            "converted_volume": {
+                "btc": 1.046276,
+                "eth": 26.919298,
+                "usd": 33709
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.273562,
+            "timestamp": "2021-01-23T18:12:55+00:00",
+            "last_traded_at": "2021-01-23T18:12:55+00:00",
+            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XTZ_USD",
+            "token_info_url": null,
+            "coin_id": "tezos"
+        },
+        {
+            "base": "XTZ",
             "target": "USDT",
             "market": {
                 "name": "ProBit",
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 2.991,
-            "volume": 8869.5913,
+            "last": 3.206,
+            "volume": 8649.756,
             "converted_last": {
-                "btc": 8.22e-05,
-                "eth": 0.00226495,
-                "usd": 2.99
+                "btc": 9.977e-05,
+                "eth": 0.00255624,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 0.72907963,
-                "eth": 20.089168,
-                "usd": 26531
+                "btc": 0.86301484,
+                "eth": 22.110856,
+                "usd": 27750
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.131824,
-            "timestamp": "2021-01-19T05:41:20+00:00",
-            "last_traded_at": "2021-01-19T05:41:20+00:00",
-            "last_fetch_at": "2021-01-19T05:41:20+00:00",
+            "bid_ask_spread_percentage": 0.993172,
+            "timestamp": "2021-01-23T18:19:16+00:00",
+            "last_traded_at": "2021-01-23T18:19:16+00:00",
+            "last_fetch_at": "2021-01-23T18:19:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/XTZ-USDT",
@@ -2640,34 +2733,35 @@
         },
         {
             "base": "XTZ",
-            "target": "KRW",
+            "target": "BTC",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "Upbit",
+                "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 3278.0,
-            "volume": 8418.8222,
+            "last": 9.997e-05,
+            "volume": 5028.64197146,
             "converted_last": {
-                "btc": 8.164e-05,
-                "eth": 0.0022494,
-                "usd": 2.97
+                "btc": 9.997e-05,
+                "eth": 0.00256128,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 0.68727645,
-                "eth": 18.937317,
-                "usd": 25010
+                "btc": 0.50271334,
+                "eth": 12.879758,
+                "usd": 16164.99
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.186492,
-            "timestamp": "2021-01-19T05:41:16+00:00",
-            "last_traded_at": "2021-01-19T05:41:16+00:00",
-            "last_fetch_at": "2021-01-19T05:41:16+00:00",
+            "bid_ask_spread_percentage": 1.710746,
+            "timestamp": "2021-01-23T18:20:15+00:00",
+            "last_traded_at": "2021-01-23T18:20:15+00:00",
+            "last_fetch_at": "2021-01-23T18:26:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/XTZ-KRW",
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-XTZ",
             "token_info_url": null,
-            "coin_id": "tezos"
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XTZ",
@@ -2677,26 +2771,122 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 2.9893,
-            "volume": 6608181.4,
+            "last": 3.2066,
+            "volume": 17513468.35,
             "converted_last": {
-                "btc": 8.2e-05,
-                "eth": 0.00226327,
-                "usd": 2.99
+                "btc": 9.979e-05,
+                "eth": 0.00255672,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 541.848,
-                "eth": 14956,
-                "usd": 19757903
+                "btc": 1748,
+                "eth": 44777,
+                "usd": 56197967
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.166894,
-            "timestamp": "2021-01-19T05:36:42+00:00",
-            "last_traded_at": "2021-01-19T05:36:42+00:00",
-            "last_fetch_at": "2021-01-19T05:36:42+00:00",
+            "bid_ask_spread_percentage": 0.152961,
+            "timestamp": "2021-01-23T18:18:58+00:00",
+            "last_traded_at": "2021-01-23T18:18:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=xtz",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "BTC",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010006,
+            "volume": 95712.46,
+            "converted_last": {
+                "btc": 0.00010006,
+                "eth": 0.00255876,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 9.576989,
+                "eth": 244.905,
+                "usd": 308046
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.369667,
+            "timestamp": "2021-01-23T18:24:05+00:00",
+            "last_traded_at": "2021-01-23T18:24:05+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/XTZ_BTC",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XTZ",
+            "target": "ETH",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 0.002557,
+            "volume": 183918.9816,
+            "converted_last": {
+                "btc": 0.00010008,
+                "eth": 0.0025593,
+                "usd": 3.22
+            },
+            "converted_volume": {
+                "btc": 18.406792,
+                "eth": 470.704,
+                "usd": 592058
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.58548,
+            "timestamp": "2021-01-23T18:24:03+00:00",
+            "last_traded_at": "2021-01-23T18:24:03+00:00",
+            "last_fetch_at": "2021-01-23T18:24:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/XTZ_ETH",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 3.212542,
+            "volume": 246757.21,
+            "converted_last": {
+                "btc": 9.988e-05,
+                "eth": 0.00255415,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 24.64597,
+                "eth": 630.254,
+                "usd": 792757
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.400554,
+            "timestamp": "2021-01-23T18:24:01+00:00",
+            "last_traded_at": "2021-01-23T18:24:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/XTZ_USDT",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
@@ -2709,23 +2899,23 @@
                 "identifier": "bitasset",
                 "has_trading_incentive": false
             },
-            "last": 2.986,
-            "volume": 20863.6,
+            "last": 3.238,
+            "volume": 10311.4,
             "converted_last": {
-                "btc": 8.206e-05,
-                "eth": 0.00226116,
-                "usd": 2.99
+                "btc": 0.00010033,
+                "eth": 0.00259422,
+                "usd": 3.24
             },
             "converted_volume": {
-                "btc": 1.712119,
-                "eth": 47.175985,
-                "usd": 62304
+                "btc": 1.034574,
+                "eth": 26.750068,
+                "usd": 33406
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.101488,
-            "timestamp": "2021-01-19T05:41:17+00:00",
-            "last_traded_at": "2021-01-19T05:41:17+00:00",
-            "last_fetch_at": "2021-01-19T05:41:17+00:00",
+            "bid_ask_spread_percentage": 0.123115,
+            "timestamp": "2021-01-23T17:56:49+00:00",
+            "last_traded_at": "2021-01-23T17:56:49+00:00",
+            "last_fetch_at": "2021-01-23T17:56:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitasset.com/ktrade/XTZ-USDT",
@@ -2735,98 +2925,34 @@
         },
         {
             "base": "XTZ",
-            "target": "USDT",
+            "target": "TWD",
             "market": {
-                "name": "DragonEx",
-                "identifier": "dragonex",
+                "name": "BitAsset",
+                "identifier": "bitasset",
                 "has_trading_incentive": false
             },
-            "last": 2.9876,
-            "volume": 402317.58,
+            "last": 90.79,
+            "volume": 930.7,
             "converted_last": {
-                "btc": 8.195e-05,
-                "eth": 0.00226199,
-                "usd": 2.99
+                "btc": 0.00010104,
+                "eth": 0.00259921,
+                "usd": 3.25
             },
             "converted_volume": {
-                "btc": 32.969877,
-                "eth": 910.037,
-                "usd": 1201766
+                "btc": 0.09404159,
+                "eth": 2.419083,
+                "usd": 3021.4
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.533689,
-            "timestamp": "2021-01-19T05:38:22+00:00",
-            "last_traded_at": "2021-01-19T05:38:22+00:00",
-            "last_fetch_at": "2021-01-19T05:38:22+00:00",
+            "bid_ask_spread_percentage": 0.483463,
+            "timestamp": "2021-01-23T16:52:54+00:00",
+            "last_traded_at": "2021-01-23T16:52:54+00:00",
+            "last_fetch_at": "2021-01-23T17:56:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://dragonex.io/en-us/trade/index/xtz_usdt",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XTZ",
-            "target": "KRW",
-            "market": {
-                "name": "Bitsonic",
-                "identifier": "bitsonic",
-                "has_trading_incentive": false
-            },
-            "last": 3265.0,
-            "volume": 251328.8571209801,
-            "converted_last": {
-                "btc": 8.144e-05,
-                "eth": 0.00225224,
-                "usd": 2.96
-            },
-            "converted_volume": {
-                "btc": 20.467932,
-                "eth": 566.053,
-                "usd": 744920
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 5.752212,
-            "timestamp": "2021-01-19T05:25:42+00:00",
-            "last_traded_at": "2021-01-19T05:25:42+00:00",
-            "last_fetch_at": "2021-01-19T05:25:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitsonic.co.kr/front/en/exchange/xtz-krw",
+            "trade_url": "https://www.bitasset.com/ktrade/XTZ-TWD",
             "token_info_url": null,
             "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "USDT",
-            "market": {
-                "name": "BigONE",
-                "identifier": "bigone",
-                "has_trading_incentive": false
-            },
-            "last": 2.961,
-            "volume": 3387.76,
-            "converted_last": {
-                "btc": 8.084e-05,
-                "eth": 0.00224558,
-                "usd": 2.96
-            },
-            "converted_volume": {
-                "btc": 0.27387711,
-                "eth": 7.607502,
-                "usd": 10043.32
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.609205,
-            "timestamp": "2021-01-19T02:47:05+00:00",
-            "last_traded_at": "2021-01-19T02:47:05+00:00",
-            "last_fetch_at": "2021-01-19T05:43:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://big.one/trade/XTZ-USDT",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "tether"
         },
         {
             "base": "XTZ",
@@ -2836,23 +2962,23 @@
                 "identifier": "zg",
                 "has_trading_incentive": false
             },
-            "last": 2.9588,
-            "volume": 34538.16,
+            "last": 3.1936,
+            "volume": 33346.43,
             "converted_last": {
-                "btc": 8.116e-05,
-                "eth": 0.00224018,
-                "usd": 2.96
+                "btc": 9.939e-05,
+                "eth": 0.00254635,
+                "usd": 3.2
             },
             "converted_volume": {
-                "btc": 2.803113,
-                "eth": 77.372,
-                "usd": 102213
+                "btc": 3.314216,
+                "eth": 84.912,
+                "usd": 106569
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 3.884959,
-            "timestamp": "2021-01-19T05:36:03+00:00",
-            "last_traded_at": "2021-01-19T05:36:03+00:00",
-            "last_fetch_at": "2021-01-19T05:36:03+00:00",
+            "timestamp": "2021-01-23T18:19:20+00:00",
+            "last_traded_at": "2021-01-23T18:19:20+00:00",
+            "last_fetch_at": "2021-01-23T18:19:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.zg.com/exchange/737/XTZ/USDT",
@@ -2862,156 +2988,29 @@
         },
         {
             "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Liquid",
-                "identifier": "quoine",
-                "has_trading_incentive": false
-            },
-            "last": 8.151e-05,
-            "volume": 429.754954,
-            "converted_last": {
-                "btc": 8.151e-05,
-                "eth": 0.00225422,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 0.03502933,
-                "eth": 0.9687603,
-                "usd": 1280.6
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.065246,
-            "timestamp": "2021-01-19T03:40:49+00:00",
-            "last_traded_at": "2021-01-19T03:40:49+00:00",
-            "last_fetch_at": "2021-01-19T05:42:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.liquid.com/exchange/XTZBTC?lang=en",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "BtcTurk PRO",
-                "identifier": "btcturk",
-                "has_trading_incentive": false
-            },
-            "last": 8.1e-05,
-            "volume": 8820.3511,
-            "converted_last": {
-                "btc": 8.1e-05,
-                "eth": 0.00223014,
-                "usd": 2.96
-            },
-            "converted_volume": {
-                "btc": 0.71444844,
-                "eth": 19.670657,
-                "usd": 26099
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 4.529201,
-            "timestamp": "2021-01-19T04:29:37+00:00",
-            "last_traded_at": "2021-01-19T04:29:37+00:00",
-            "last_fetch_at": "2021-01-19T05:42:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.btcturk.com/pro/al-sat/XTZ_BTC",
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "USD",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 2.967579,
-            "volume": 3953.19293662,
-            "converted_last": {
-                "btc": 8.155e-05,
-                "eth": 0.00224704,
-                "usd": 2.97
-            },
-            "converted_volume": {
-                "btc": 0.32238262,
-                "eth": 8.882978,
-                "usd": 11731.41
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 5.69635,
-            "timestamp": "2021-01-19T05:41:41+00:00",
-            "last_traded_at": "2021-01-19T05:41:41+00:00",
-            "last_fetch_at": "2021-01-19T05:41:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/XTZ_USD",
-            "token_info_url": null,
-            "coin_id": "tezos"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "ChainEX",
-                "identifier": "chainex",
-                "has_trading_incentive": false
-            },
-            "last": 8.192e-05,
-            "volume": 1831.0546875,
-            "converted_last": {
-                "btc": 8.192e-05,
-                "eth": 0.00226555,
-                "usd": 2.98
-            },
-            "converted_volume": {
-                "btc": 0.15,
-                "eth": 4.148342,
-                "usd": 5463.99
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 8.023529,
-            "timestamp": "2021-01-19T05:21:04+00:00",
-            "last_traded_at": "2021-01-19T05:21:04+00:00",
-            "last_fetch_at": "2021-01-19T05:36:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
             "target": "USDT",
             "market": {
                 "name": "Bidesk",
                 "identifier": "bidesk",
                 "has_trading_incentive": false
             },
-            "last": 2.9831,
-            "volume": 8577816.02,
+            "last": 3.2045,
+            "volume": 16405148.71,
             "converted_last": {
-                "btc": 8.209e-05,
-                "eth": 0.0022619,
-                "usd": 2.99
+                "btc": 9.963e-05,
+                "eth": 0.00254775,
+                "usd": 3.2
             },
             "converted_volume": {
-                "btc": 704.147,
-                "eth": 19402,
-                "usd": 25623710
+                "btc": 1634,
+                "eth": 41796,
+                "usd": 52573678
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.167319,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "bid_ask_spread_percentage": 0.199302,
+            "timestamp": "2021-01-23T18:25:08+00:00",
+            "last_traded_at": "2021-01-23T18:25:08+00:00",
+            "last_fetch_at": "2021-01-23T18:25:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bidesk.com/exchange/XTZ/USDT",
@@ -3027,23 +3026,23 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 2.987,
-            "volume": 8578885.74,
+            "last": 3.2121,
+            "volume": 16412335.44,
             "converted_last": {
-                "btc": 8.193e-05,
-                "eth": 0.00226153,
-                "usd": 2.99
+                "btc": 9.997e-05,
+                "eth": 0.00255651,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 702.897,
-                "eth": 19401,
-                "usd": 25635125
+                "btc": 1641,
+                "eth": 41958,
+                "usd": 52777569
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.314308,
-            "timestamp": "2021-01-19T05:35:44+00:00",
-            "last_traded_at": "2021-01-19T05:35:44+00:00",
-            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "bid_ask_spread_percentage": 0.227266,
+            "timestamp": "2021-01-23T18:25:51+00:00",
+            "last_traded_at": "2021-01-23T18:25:51+00:00",
+            "last_fetch_at": "2021-01-23T18:25:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/XTZ/USDT",
@@ -3055,30 +3054,30 @@
             "base": "XTZ",
             "target": "BTC",
             "market": {
-                "name": "Bidesk",
-                "identifier": "bidesk",
+                "name": "HBTC",
+                "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 8.194e-05,
-            "volume": 7709411.9,
+            "last": 0.00010028,
+            "volume": 5889989.98,
             "converted_last": {
-                "btc": 8.194e-05,
-                "eth": 0.00225779,
-                "usd": 2.98
+                "btc": 0.00010028,
+                "eth": 0.00256439,
+                "usd": 3.23
             },
             "converted_volume": {
-                "btc": 631.709,
-                "eth": 17406,
-                "usd": 22987720
+                "btc": 590.648,
+                "eth": 15104,
+                "usd": 18998948
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.94294,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "bid_ask_spread_percentage": 1.076555,
+            "timestamp": "2021-01-23T18:25:52+00:00",
+            "last_traded_at": "2021-01-23T18:25:52+00:00",
+            "last_fetch_at": "2021-01-23T18:25:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bidesk.com/exchange/XTZ/BTC",
+            "trade_url": "https://www.bhex.com/exchange/301/XTZ/BTC",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -3087,30 +3086,30 @@
             "base": "XTZ",
             "target": "BTC",
             "market": {
-                "name": "HBTC",
-                "identifier": "hbtc",
+                "name": "Bidesk",
+                "identifier": "bidesk",
                 "has_trading_incentive": false
             },
-            "last": 8.165e-05,
-            "volume": 7715222.36,
+            "last": 9.945e-05,
+            "volume": 5881857.91,
             "converted_last": {
-                "btc": 8.165e-05,
-                "eth": 0.00225371,
-                "usd": 2.98
+                "btc": 9.945e-05,
+                "eth": 0.00254796,
+                "usd": 3.2
             },
             "converted_volume": {
-                "btc": 629.948,
-                "eth": 17388,
-                "usd": 22974608
+                "btc": 584.951,
+                "eth": 14987,
+                "usd": 18809276
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 1.274117,
-            "timestamp": "2021-01-19T05:35:44+00:00",
-            "last_traded_at": "2021-01-19T05:35:44+00:00",
-            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "bid_ask_spread_percentage": 1.105578,
+            "timestamp": "2021-01-23T18:18:39+00:00",
+            "last_traded_at": "2021-01-23T18:18:39+00:00",
+            "last_fetch_at": "2021-01-23T18:18:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bhex.com/exchange/301/XTZ/BTC",
+            "trade_url": "https://www.bidesk.com/exchange/XTZ/BTC",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -3123,26 +3122,58 @@
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 2.9889,
-            "volume": 1881856.08,
+            "last": 3.2041,
+            "volume": 5983880.75,
             "converted_last": {
-                "btc": 8.214e-05,
-                "eth": 0.00226336,
-                "usd": 2.99
+                "btc": 9.962e-05,
+                "eth": 0.00255223,
+                "usd": 3.2
             },
             "converted_volume": {
-                "btc": 154.58,
-                "eth": 4259,
-                "usd": 5627497
+                "btc": 596.096,
+                "eth": 15272,
+                "usd": 19167719
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 3.791516,
-            "timestamp": "2021-01-19T05:40:52+00:00",
-            "last_traded_at": "2021-01-19T05:40:52+00:00",
-            "last_fetch_at": "2021-01-19T05:40:52+00:00",
+            "bid_ask_spread_percentage": 1.97853,
+            "timestamp": "2021-01-23T18:22:43+00:00",
+            "last_traded_at": "2021-01-23T18:22:43+00:00",
+            "last_fetch_at": "2021-01-23T18:22:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/xtz_usdt",
+            "token_info_url": null,
+            "coin_id": "tezos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XTZ",
+            "target": "USDT",
+            "market": {
+                "name": "DragonEx",
+                "identifier": "dragonex",
+                "has_trading_incentive": false
+            },
+            "last": 3.2073,
+            "volume": 458085.59,
+            "converted_last": {
+                "btc": 9.972e-05,
+                "eth": 0.00254998,
+                "usd": 3.21
+            },
+            "converted_volume": {
+                "btc": 45.678671,
+                "eth": 1168,
+                "usd": 1469312
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.528771,
+            "timestamp": "2021-01-23T18:25:02+00:00",
+            "last_traded_at": "2021-01-23T18:25:02+00:00",
+            "last_fetch_at": "2021-01-23T18:25:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dragonex.io/en-us/trade/index/xtz_usdt",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "tether"
@@ -3155,58 +3186,26 @@
                 "identifier": "sistemkoin",
                 "has_trading_incentive": false
             },
-            "last": 8.198e-05,
-            "volume": 1380194.0189070506,
+            "last": 0.00010078,
+            "volume": 1154626.8222861679,
             "converted_last": {
-                "btc": 8.198e-05,
-                "eth": 0.00226282,
-                "usd": 2.99
+                "btc": 0.00010078,
+                "eth": 0.00257717,
+                "usd": 3.24
             },
             "converted_volume": {
-                "btc": 113.148,
-                "eth": 3123,
-                "usd": 4124302
+                "btc": 116.363,
+                "eth": 2976,
+                "usd": 3742973
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 61.628467,
-            "timestamp": "2021-01-19T05:38:19+00:00",
-            "last_traded_at": "2021-01-19T05:38:19+00:00",
-            "last_fetch_at": "2021-01-19T05:38:19+00:00",
+            "bid_ask_spread_percentage": 56.628287,
+            "timestamp": "2021-01-23T18:25:58+00:00",
+            "last_traded_at": "2021-01-23T18:25:58+00:00",
+            "last_fetch_at": "2021-01-23T18:25:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "tezos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XTZ",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 8.22e-05,
-            "volume": 2926.76485087,
-            "converted_last": {
-                "btc": 8.22e-05,
-                "eth": 0.00226749,
-                "usd": 3.01
-            },
-            "converted_volume": {
-                "btc": 0.24058007,
-                "eth": 6.636414,
-                "usd": 8807.97
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 8.75436,
-            "timestamp": "2021-01-19T03:28:11+00:00",
-            "last_traded_at": "2021-01-19T03:28:11+00:00",
-            "last_fetch_at": "2021-01-19T05:43:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
             "target_coin_id": "bitcoin"
@@ -3219,23 +3218,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 8.235e-05,
-            "volume": 23147.25097295,
+            "last": 9.978e-05,
+            "volume": 31309.59186871,
             "converted_last": {
-                "btc": 8.235e-05,
-                "eth": 0.00226908,
-                "usd": 2.99
+                "btc": 9.978e-05,
+                "eth": 0.00255641,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 1.906176,
-                "eth": 52.523,
-                "usd": 69309
+                "btc": 3.124071,
+                "eth": 80.04,
+                "usd": 100450
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 100.0,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "timestamp": "2021-01-23T18:21:04+00:00",
+            "last_traded_at": "2021-01-23T18:21:04+00:00",
+            "last_fetch_at": "2021-01-23T18:21:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=XTZ#limit",
@@ -3245,32 +3244,32 @@
         },
         {
             "base": "XTZ",
-            "target": "IDR",
+            "target": "GBP",
             "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 42577.0,
-            "volume": 10049.70653666,
+            "last": 2.3465,
+            "volume": 2120.33613961,
             "converted_last": {
-                "btc": 8.29e-05,
-                "eth": 0.00228435,
-                "usd": 3.02
+                "btc": 9.985e-05,
+                "eth": 0.00255809,
+                "usd": 3.21
             },
             "converted_volume": {
-                "btc": 0.83316089,
-                "eth": 22.957038,
-                "usd": 30318
+                "btc": 0.21170616,
+                "eth": 5.424014,
+                "usd": 6807.1
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 0.889454,
-            "timestamp": "2021-01-19T05:41:10+00:00",
-            "last_traded_at": "2021-01-19T05:41:10+00:00",
-            "last_fetch_at": "2021-01-19T05:41:10+00:00",
+            "bid_ask_spread_percentage": 0.731872,
+            "timestamp": "2021-01-23T18:21:24+00:00",
+            "last_traded_at": "2021-01-23T18:21:24+00:00",
+            "last_fetch_at": "2021-01-23T18:21:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xtz/gbp",
             "token_info_url": null,
             "coin_id": "tezos"
         },
@@ -3282,23 +3281,23 @@
                 "identifier": "pancakeswap",
                 "has_trading_incentive": false
             },
-            "last": 0.06626260621796419,
-            "volume": 40133.04289042172,
+            "last": 0.07905007692641323,
+            "volume": 109663.05829205806,
             "converted_last": {
-                "btc": 8.228e-05,
-                "eth": 0.00227105,
-                "usd": 3.0
+                "btc": 0.0001001,
+                "eth": 0.00256464,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 3.302078,
-                "eth": 91.144,
-                "usd": 120365
+                "btc": 10.977394,
+                "eth": 281.246,
+                "usd": 352980
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:37:20+00:00",
-            "last_traded_at": "2021-01-19T05:37:20+00:00",
-            "last_fetch_at": "2021-01-19T05:37:20+00:00",
+            "timestamp": "2021-01-23T18:19:55+00:00",
+            "last_traded_at": "2021-01-23T18:19:55+00:00",
+            "last_fetch_at": "2021-01-23T18:19:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.pancakeswap.finance/#/swap",
@@ -3308,35 +3307,35 @@
         },
         {
             "base": "XTZ",
-            "target": "XRP",
+            "target": "BTC",
             "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
+                "name": "Upbit Indonesia ",
+                "identifier": "upbit_indonesia",
                 "has_trading_incentive": false
             },
-            "last": 9.8562,
-            "volume": 131980.05,
+            "last": 9.997e-05,
+            "volume": 5005.75818986,
             "converted_last": {
-                "btc": 8.095e-05,
-                "eth": 0.00223044,
-                "usd": 2.95
+                "btc": 9.997e-05,
+                "eth": 0.00256931,
+                "usd": 3.22
             },
             "converted_volume": {
-                "btc": 10.683441,
-                "eth": 294.373,
-                "usd": 388932
+                "btc": 0.50042565,
+                "eth": 12.861352,
+                "usd": 16116.35
             },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.549763,
-            "timestamp": "2021-01-19T05:40:23+00:00",
-            "last_traded_at": "2021-01-19T05:40:23+00:00",
-            "last_fetch_at": "2021-01-19T05:40:23+00:00",
-            "is_anomaly": true,
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:14:01+00:00",
+            "last_traded_at": "2021-01-23T18:14:01+00:00",
+            "last_fetch_at": "2021-01-23T18:21:04+00:00",
+            "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=xtzxrp",
+            "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-XTZ",
             "token_info_url": null,
             "coin_id": "tezos",
-            "target_coin_id": "ripple"
+            "target_coin_id": "bitcoin"
         }
     ]
 }

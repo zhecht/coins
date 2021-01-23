@@ -104,14 +104,14 @@
     },
     "country_origin": "",
     "genesis_date": "2014-04-18",
-    "sentiment_votes_up_percentage": 75.53,
-    "sentiment_votes_down_percentage": 24.47,
-    "market_cap_rank": 15,
-    "coingecko_rank": 5,
-    "coingecko_score": 64.961,
-    "developer_score": 90.393,
-    "community_score": 57.46,
-    "liquidity_score": 68.78,
+    "sentiment_votes_up_percentage": 81.74,
+    "sentiment_votes_down_percentage": 18.26,
+    "market_cap_rank": 17,
+    "coingecko_rank": 6,
+    "coingecko_score": 64.819,
+    "developer_score": 90.374,
+    "community_score": 58.133,
+    "liquidity_score": 67.527,
     "public_interest_score": 0.034,
     "public_interest_stats": {
         "alexa_rank": 74604,
@@ -252,7 +252,7 @@
             }
         }
     ],
-    "last_updated": "2021-01-19T05:43:25.525Z",
+    "last_updated": "2021-01-23T18:27:31.950Z",
     "tickers": [
         {
             "base": "XMR",
@@ -262,23 +262,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 154.23,
-            "volume": 2801.25654311,
+            "last": 139.58,
+            "volume": 2188.20605542,
             "converted_last": {
-                "btc": 0.00424172,
-                "eth": 0.11687704,
-                "usd": 154.23
+                "btc": 0.00433947,
+                "eth": 0.11097027,
+                "usd": 139.58
             },
             "converted_volume": {
-                "btc": 11.882152,
-                "eth": 327.403,
-                "usd": 432038
+                "btc": 9.495663,
+                "eth": 242.826,
+                "usd": 305430
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.164809,
-            "timestamp": "2021-01-19T05:42:30+00:00",
-            "last_traded_at": "2021-01-19T05:42:30+00:00",
-            "last_fetch_at": "2021-01-19T05:42:30+00:00",
+            "bid_ask_spread_percentage": 0.214592,
+            "timestamp": "2021-01-23T18:24:59+00:00",
+            "last_traded_at": "2021-01-23T18:24:59+00:00",
+            "last_fetch_at": "2021-01-23T18:24:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/XMRUSD",
@@ -289,185 +289,27 @@
             "base": "XMR",
             "target": "BTC",
             "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.004214,
-            "volume": 66059.152,
-            "converted_last": {
-                "btc": 0.004214,
-                "eth": 0.11611318,
-                "usd": 153.41
-            },
-            "converted_volume": {
-                "btc": 278.373,
-                "eth": 7670,
-                "usd": 10134214
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.165485,
-            "timestamp": "2021-01-19T05:40:38+00:00",
-            "last_traded_at": "2021-01-19T05:40:38+00:00",
-            "last_fetch_at": "2021-01-19T05:40:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-BTC",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 153.4312,
-            "volume": 87783.299,
-            "converted_last": {
-                "btc": 0.00422408,
-                "eth": 0.11639081,
-                "usd": 153.43
-            },
-            "converted_volume": {
-                "btc": 370.803,
-                "eth": 10217,
-                "usd": 13468697
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183264,
-            "timestamp": "2021-01-19T05:43:40+00:00",
-            "last_traded_at": "2021-01-19T05:43:40+00:00",
-            "last_fetch_at": "2021-01-19T05:43:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/XMR-to-USD",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USD",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 153.901,
-            "volume": 87837.736,
-            "converted_last": {
-                "btc": 0.0042222,
-                "eth": 0.11654152,
-                "usd": 153.9
-            },
-            "converted_volume": {
-                "btc": 370.869,
-                "eth": 10237,
-                "usd": 13518315
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.199167,
-            "timestamp": "2021-01-19T05:38:37+00:00",
-            "last_traded_at": "2021-01-19T05:38:37+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-USD",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 153.46,
-            "volume": 83663.317502,
-            "converted_last": {
-                "btc": 0.00420941,
-                "eth": 0.11618838,
-                "usd": 153.49
-            },
-            "converted_volume": {
-                "btc": 352.173,
-                "eth": 9721,
-                "usd": 12841616
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143248,
-            "timestamp": "2021-01-19T05:37:00+00:00",
-            "last_traded_at": "2021-01-19T05:37:00+00:00",
-            "last_fetch_at": "2021-01-19T05:37:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XMR",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.004227,
-            "volume": 66137.436,
-            "converted_last": {
-                "btc": 0.004227,
-                "eth": 0.11647138,
-                "usd": 153.54
-            },
-            "converted_volume": {
-                "btc": 279.563,
-                "eth": 7703,
-                "usd": 10154571
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118175,
-            "timestamp": "2021-01-19T05:43:13+00:00",
-            "last_traded_at": "2021-01-19T05:43:13+00:00",
-            "last_fetch_at": "2021-01-19T05:43:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/XMR-to-BTC",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
                 "name": "Bitfinex",
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 0.0042251,
-            "volume": 1422.73498765,
+            "last": 0.0043284,
+            "volume": 2243.39490802,
             "converted_last": {
-                "btc": 0.0042251,
-                "eth": 0.11641903,
-                "usd": 153.63
+                "btc": 0.0043284,
+                "eth": 0.11068708,
+                "usd": 139.22
             },
             "converted_volume": {
-                "btc": 6.011198,
-                "eth": 165.633,
-                "usd": 218569
+                "btc": 9.710311,
+                "eth": 248.315,
+                "usd": 312334
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.165328,
-            "timestamp": "2021-01-19T05:42:27+00:00",
-            "last_traded_at": "2021-01-19T05:42:27+00:00",
-            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "bid_ask_spread_percentage": 0.161216,
+            "timestamp": "2021-01-23T18:24:56+00:00",
+            "last_traded_at": "2021-01-23T18:24:56+00:00",
+            "last_fetch_at": "2021-01-23T18:24:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/XMRBTC",
@@ -477,35 +319,129 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
+            "target": "USD",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 153.68,
-            "volume": 153756.17289479374,
+            "last": 139.4044,
+            "volume": 75714.825,
             "converted_last": {
-                "btc": 0.0042235,
-                "eth": 0.11637489,
-                "usd": 153.69
+                "btc": 0.00433535,
+                "eth": 0.11107364,
+                "usd": 139.4
             },
             "converted_volume": {
-                "btc": 649.389,
-                "eth": 17893,
-                "usd": 23631078
+                "btc": 328.25,
+                "eth": 8410,
+                "usd": 10554980
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171633,
-            "timestamp": "2021-01-19T05:41:36+00:00",
-            "last_traded_at": "2021-01-19T05:41:36+00:00",
-            "last_fetch_at": "2021-01-19T05:41:36+00:00",
+            "bid_ask_spread_percentage": 0.121312,
+            "timestamp": "2021-01-23T18:18:49+00:00",
+            "last_traded_at": "2021-01-23T18:18:49+00:00",
+            "last_fetch_at": "2021-01-23T18:18:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XMR_USDT",
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.004335,
+            "volume": 65442.28,
+            "converted_last": {
+                "btc": 0.004335,
+                "eth": 0.11085586,
+                "usd": 139.39
+            },
+            "converted_volume": {
+                "btc": 283.692,
+                "eth": 7255,
+                "usd": 9121844
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.161142,
+            "timestamp": "2021-01-23T18:26:05+00:00",
+            "last_traded_at": "2021-01-23T18:26:05+00:00",
+            "last_fetch_at": "2021-01-23T18:26:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-BTC",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 138.894,
+            "volume": 76223.548,
+            "converted_last": {
+                "btc": 0.00431971,
+                "eth": 0.11067316,
+                "usd": 138.89
+            },
+            "converted_volume": {
+                "btc": 329.264,
+                "eth": 8436,
+                "usd": 10586993
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.117007,
+            "timestamp": "2021-01-23T18:21:54+00:00",
+            "last_traded_at": "2021-01-23T18:21:54+00:00",
+            "last_fetch_at": "2021-01-23T18:21:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.004343,
+            "volume": 63983.835,
+            "converted_last": {
+                "btc": 0.004343,
+                "eth": 0.11126975,
+                "usd": 139.65
+            },
+            "converted_volume": {
+                "btc": 277.882,
+                "eth": 7119,
+                "usd": 8935377
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.138058,
+            "timestamp": "2021-01-23T18:18:47+00:00",
+            "last_traded_at": "2021-01-23T18:18:47+00:00",
+            "last_fetch_at": "2021-01-23T18:18:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -515,23 +451,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.116594,
-            "volume": 3624.905,
+            "last": 0.110584,
+            "volume": 2587.943,
             "converted_last": {
-                "btc": 0.0042312,
-                "eth": 0.11658701,
-                "usd": 153.69
+                "btc": 0.00432826,
+                "eth": 0.11089205,
+                "usd": 139.17
             },
             "converted_volume": {
-                "btc": 15.337684,
-                "eth": 422.617,
-                "usd": 557111
+                "btc": 11.201284,
+                "eth": 286.982,
+                "usd": 360161
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.23907,
-            "timestamp": "2021-01-19T05:43:13+00:00",
-            "last_traded_at": "2021-01-19T05:43:13+00:00",
-            "last_fetch_at": "2021-01-19T05:43:13+00:00",
+            "bid_ask_spread_percentage": 0.225897,
+            "timestamp": "2021-01-23T18:21:56+00:00",
+            "last_traded_at": "2021-01-23T18:21:56+00:00",
+            "last_fetch_at": "2021-01-23T18:21:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/XMR-to-ETH",
@@ -541,29 +477,125 @@
         },
         {
             "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 139.43,
+            "volume": 59919.80114,
+            "converted_last": {
+                "btc": 0.00433494,
+                "eth": 0.11085442,
+                "usd": 139.44
+            },
+            "converted_volume": {
+                "btc": 259.749,
+                "eth": 6642,
+                "usd": 8355155
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.178966,
+            "timestamp": "2021-01-23T18:25:12+00:00",
+            "last_traded_at": "2021-01-23T18:25:12+00:00",
+            "last_fetch_at": "2021-01-23T18:25:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.11115,
+            "volume": 2568.764,
+            "converted_last": {
+                "btc": 0.00435041,
+                "eth": 0.11145963,
+                "usd": 139.89
+            },
+            "converted_volume": {
+                "btc": 11.175179,
+                "eth": 286.313,
+                "usd": 359341
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.293925,
+            "timestamp": "2021-01-23T18:18:48+00:00",
+            "last_traded_at": "2021-01-23T18:18:48+00:00",
+            "last_fetch_at": "2021-01-23T18:18:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 139.12,
+            "volume": 99807.9350185286,
+            "converted_last": {
+                "btc": 0.00432531,
+                "eth": 0.11060795,
+                "usd": 139.13
+            },
+            "converted_volume": {
+                "btc": 431.7,
+                "eth": 11040,
+                "usd": 13885964
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.107191,
+            "timestamp": "2021-01-23T18:23:24+00:00",
+            "last_traded_at": "2021-01-23T18:23:24+00:00",
+            "last_fetch_at": "2021-01-23T18:23:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
             "target": "EUR",
             "market": {
                 "name": "Kraken",
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 126.99,
-            "volume": 6394.14093603,
+            "last": 114.51,
+            "volume": 4046.78502776,
             "converted_last": {
-                "btc": 0.00421309,
-                "eth": 0.11629007,
-                "usd": 153.57
+                "btc": 0.00433577,
+                "eth": 0.11108447,
+                "usd": 139.41
             },
             "converted_volume": {
-                "btc": 26.939106,
-                "eth": 743.575,
-                "usd": 981941
+                "btc": 17.545922,
+                "eth": 449.535,
+                "usd": 564163
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.172508,
-            "timestamp": "2021-01-19T05:38:23+00:00",
-            "last_traded_at": "2021-01-19T05:38:23+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.122228,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/xmr/eur",
@@ -578,60 +610,28 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 153.54,
-            "volume": 11940.32592378,
+            "last": 139.0,
+            "volume": 8623.43212922,
             "converted_last": {
-                "btc": 0.0042123,
-                "eth": 0.11626815,
-                "usd": 153.54
+                "btc": 0.00432301,
+                "eth": 0.11075762,
+                "usd": 139.0
             },
             "converted_volume": {
-                "btc": 50.296,
-                "eth": 1388,
-                "usd": 1833318
+                "btc": 37.279191,
+                "eth": 955.111,
+                "usd": 1198657
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139004,
-            "timestamp": "2021-01-19T05:38:23+00:00",
-            "last_traded_at": "2021-01-19T05:38:23+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.150258,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/xmr/usd",
             "token_info_url": null,
             "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 153.55,
-            "volume": 37586.15764171848,
-            "converted_last": {
-                "btc": 0.00422541,
-                "eth": 0.1164275,
-                "usd": 153.64
-            },
-            "converted_volume": {
-                "btc": 158.817,
-                "eth": 4376,
-                "usd": 5774617
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.132563,
-            "timestamp": "2021-01-19T05:42:45+00:00",
-            "last_traded_at": "2021-01-19T05:42:45+00:00",
-            "last_fetch_at": "2021-01-19T05:42:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_usdt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
         },
         {
             "base": "XMR",
@@ -641,90 +641,26 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.004227,
-            "volume": 91951.70587650816,
+            "last": 0.004325,
+            "volume": 63633.91573410405,
             "converted_last": {
-                "btc": 0.004227,
-                "eth": 0.11647138,
-                "usd": 153.82
+                "btc": 0.004325,
+                "eth": 0.11060013,
+                "usd": 139.12
             },
             "converted_volume": {
-                "btc": 388.68,
-                "eth": 10710,
-                "usd": 14143950
+                "btc": 275.217,
+                "eth": 7038,
+                "usd": 8852560
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147304,
-            "timestamp": "2021-01-19T05:41:31+00:00",
-            "last_traded_at": "2021-01-19T05:41:31+00:00",
-            "last_fetch_at": "2021-01-19T05:41:31+00:00",
+            "bid_ask_spread_percentage": 0.146168,
+            "timestamp": "2021-01-23T18:23:30+00:00",
+            "last_traded_at": "2021-01-23T18:23:30+00:00",
+            "last_fetch_at": "2021-01-23T18:23:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/XMR_BTC",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "ETH",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.116257,
-            "volume": 3608.022,
-            "converted_last": {
-                "btc": 0.00423059,
-                "eth": 0.1167731,
-                "usd": 154.21
-            },
-            "converted_volume": {
-                "btc": 15.26407,
-                "eth": 421.32,
-                "usd": 556382
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.298661,
-            "timestamp": "2021-01-19T05:38:38+00:00",
-            "last_traded_at": "2021-01-19T05:38:38+00:00",
-            "last_fetch_at": "2021-01-19T05:38:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-ETH",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.004215,
-            "volume": 56388.388,
-            "converted_last": {
-                "btc": 0.004215,
-                "eth": 0.11634273,
-                "usd": 153.64
-            },
-            "converted_volume": {
-                "btc": 237.677,
-                "eth": 6560,
-                "usd": 8663644
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.142248,
-            "timestamp": "2021-01-19T05:37:03+00:00",
-            "last_traded_at": "2021-01-19T05:37:03+00:00",
-            "last_fetch_at": "2021-01-19T05:37:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XMR",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -737,23 +673,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 153.45,
-            "volume": 999.74264,
+            "last": 139.11,
+            "volume": 1663.65591,
             "converted_last": {
-                "btc": 0.00422266,
-                "eth": 0.11635168,
-                "usd": 153.54
+                "btc": 0.00432499,
+                "eth": 0.1106,
+                "usd": 139.12
             },
             "converted_volume": {
-                "btc": 4.221569,
-                "eth": 116.322,
-                "usd": 153497
+                "btc": 7.195303,
+                "eth": 184.0,
+                "usd": 231443
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.12604,
-            "timestamp": "2021-01-19T05:42:14+00:00",
-            "last_traded_at": "2021-01-19T05:42:14+00:00",
-            "last_fetch_at": "2021-01-19T05:42:14+00:00",
+            "bid_ask_spread_percentage": 0.114376,
+            "timestamp": "2021-01-23T18:23:47+00:00",
+            "last_traded_at": "2021-01-23T18:23:47+00:00",
+            "last_fetch_at": "2021-01-23T18:23:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/XMR_USDT",
@@ -763,35 +699,35 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Digifinex",
+                "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 153.41,
-            "volume": 116278.158103,
+            "last": 0.00434,
+            "volume": 42412.685,
             "converted_last": {
-                "btc": 0.00420804,
-                "eth": 0.11615053,
-                "usd": 153.39
+                "btc": 0.00434,
+                "eth": 0.11098372,
+                "usd": 139.6
             },
             "converted_volume": {
-                "btc": 489.303,
-                "eth": 13506,
-                "usd": 17835734
+                "btc": 184.071,
+                "eth": 4707,
+                "usd": 5920879
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.182446,
-            "timestamp": "2021-01-19T05:37:38+00:00",
-            "last_traded_at": "2021-01-19T05:37:38+00:00",
-            "last_fetch_at": "2021-01-19T05:37:38+00:00",
+            "bid_ask_spread_percentage": 0.16129,
+            "timestamp": "2021-01-23T18:25:04+00:00",
+            "last_traded_at": "2021-01-23T18:25:04+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=xmr_usdt",
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/XMR",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -801,58 +737,26 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.00422,
-            "volume": 7164.42237026,
+            "last": 0.004331,
+            "volume": 10133.25631111,
             "converted_last": {
-                "btc": 0.00422,
-                "eth": 0.11648074,
-                "usd": 153.82
+                "btc": 0.004331,
+                "eth": 0.11096231,
+                "usd": 139.26
             },
             "converted_volume": {
-                "btc": 30.233862,
-                "eth": 834.517,
-                "usd": 1102037
+                "btc": 43.887133,
+                "eth": 1124,
+                "usd": 1411126
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194787,
-            "timestamp": "2021-01-19T05:38:23+00:00",
-            "last_traded_at": "2021-01-19T05:38:23+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.138664,
+            "timestamp": "2021-01-23T18:21:19+00:00",
+            "last_traded_at": "2021-01-23T18:21:19+00:00",
+            "last_fetch_at": "2021-01-23T18:21:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/xmr/xbt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00422089,
-            "volume": 3101.64593534,
-            "converted_last": {
-                "btc": 0.00422089,
-                "eth": 0.11630303,
-                "usd": 153.6
-            },
-            "converted_volume": {
-                "btc": 13.091706,
-                "eth": 360.731,
-                "usd": 476403
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.142226,
-            "timestamp": "2021-01-19T05:41:01+00:00",
-            "last_traded_at": "2021-01-19T05:41:01+00:00",
-            "last_fetch_at": "2021-01-19T05:41:01+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#xmr_btc",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -865,23 +769,23 @@
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 153.6283,
-            "volume": 14296.38,
+            "last": 139.5086,
+            "volume": 17297.72,
             "converted_last": {
-                "btc": 0.00422208,
-                "eth": 0.11633574,
-                "usd": 153.71
+                "btc": 0.00433739,
+                "eth": 0.11091691,
+                "usd": 139.51
             },
             "converted_volume": {
-                "btc": 60.36,
-                "eth": 1663,
-                "usd": 2197429
+                "btc": 75.027,
+                "eth": 1919,
+                "usd": 2413255
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.161838,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 0.169516,
+            "timestamp": "2021-01-23T18:24:24+00:00",
+            "last_traded_at": "2021-01-23T18:24:24+00:00",
+            "last_fetch_at": "2021-01-23T18:24:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/xmr_usdt",
@@ -891,29 +795,189 @@
         },
         {
             "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 139.34,
+            "volume": 29709.247685554572,
+            "converted_last": {
+                "btc": 0.00433215,
+                "eth": 0.11078286,
+                "usd": 139.35
+            },
+            "converted_volume": {
+                "btc": 128.705,
+                "eth": 3291,
+                "usd": 4139953
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.186157,
+            "timestamp": "2021-01-23T18:25:13+00:00",
+            "last_traded_at": "2021-01-23T18:25:13+00:00",
+            "last_fetch_at": "2021-01-23T18:25:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "EOS",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 51.0809,
+            "volume": 2.805,
+            "converted_last": {
+                "btc": 0.00433728,
+                "eth": 0.11147166,
+                "usd": 139.58
+            },
+            "converted_volume": {
+                "btc": 0.01216607,
+                "eth": 0.312678,
+                "usd": 391.52
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.386606,
+            "timestamp": "2021-01-23T18:16:08+00:00",
+            "last_traded_at": "2021-01-23T18:16:08+00:00",
+            "last_fetch_at": "2021-01-23T18:25:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-EOS",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "eos"
+        },
+        {
+            "base": "XMR",
+            "target": "TUSD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 139.49,
+            "volume": 8.8601,
+            "converted_last": {
+                "btc": 0.00433568,
+                "eth": 0.11155121,
+                "usd": 139.67
+            },
+            "converted_volume": {
+                "btc": 0.03841452,
+                "eth": 0.9883549,
+                "usd": 1237.52
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.406656,
+            "timestamp": "2021-01-23T18:13:41+00:00",
+            "last_traded_at": "2021-01-23T18:13:41+00:00",
+            "last_fetch_at": "2021-01-23T18:25:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/XMR-to-TUSD",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "true-usd"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 139.63,
+            "volume": 80376.592852,
+            "converted_last": {
+                "btc": 0.00434514,
+                "eth": 0.11132456,
+                "usd": 139.72
+            },
+            "converted_volume": {
+                "btc": 349.247,
+                "eth": 8948,
+                "usd": 11230222
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150176,
+            "timestamp": "2021-01-23T18:20:43+00:00",
+            "last_traded_at": "2021-01-23T18:20:43+00:00",
+            "last_fetch_at": "2021-01-23T18:20:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00433751,
+            "volume": 2508.97295009,
+            "converted_last": {
+                "btc": 0.00433751,
+                "eth": 0.11092004,
+                "usd": 139.52
+            },
+            "converted_volume": {
+                "btc": 10.882695,
+                "eth": 278.295,
+                "usd": 350050
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.275833,
+            "timestamp": "2021-01-23T18:23:43+00:00",
+            "last_traded_at": "2021-01-23T18:23:43+00:00",
+            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#xmr_btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
             "target": "BTC",
             "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.004213,
-            "volume": 5507.325327326321,
+            "last": 0.004336,
+            "volume": 4095.514395898774,
             "converted_last": {
-                "btc": 0.004213,
-                "eth": 0.11628752,
-                "usd": 153.62
+                "btc": 0.004336,
+                "eth": 0.11088143,
+                "usd": 139.47
             },
             "converted_volume": {
-                "btc": 23.202362,
-                "eth": 640.433,
-                "usd": 846049
+                "btc": 17.75815,
+                "eth": 454.116,
+                "usd": 571213
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194854,
-            "timestamp": "2021-01-19T05:36:01+00:00",
-            "last_traded_at": "2021-01-19T05:36:01+00:00",
-            "last_fetch_at": "2021-01-19T05:36:01+00:00",
+            "bid_ask_spread_percentage": 0.138249,
+            "timestamp": "2021-01-23T18:25:03+00:00",
+            "last_traded_at": "2021-01-23T18:25:03+00:00",
+            "last_fetch_at": "2021-01-23T18:25:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_btc",
@@ -923,61 +987,29 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 153.77,
-            "volume": 684.0810521577681,
-            "converted_last": {
-                "btc": 0.00422597,
-                "eth": 0.11664556,
-                "usd": 154.04
-            },
-            "converted_volume": {
-                "btc": 2.890907,
-                "eth": 79.795,
-                "usd": 105375
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129963,
-            "timestamp": "2021-01-19T05:38:39+00:00",
-            "last_traded_at": "2021-01-19T05:38:39+00:00",
-            "last_fetch_at": "2021-01-19T05:38:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/XMR/USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
             "target": "BTC",
             "market": {
                 "name": "Nominex",
                 "identifier": "nominex",
                 "has_trading_incentive": false
             },
-            "last": 0.004217,
-            "volume": 418.22705714963246,
+            "last": 0.004347,
+            "volume": 278.908946399816,
             "converted_last": {
-                "btc": 0.004217,
-                "eth": 0.11639793,
-                "usd": 153.71
+                "btc": 0.004347,
+                "eth": 0.11137224,
+                "usd": 139.78
             },
             "converted_volume": {
-                "btc": 1.763664,
-                "eth": 48.680764,
-                "usd": 64286
+                "btc": 1.212417,
+                "eth": 31.062713,
+                "usd": 38985
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194652,
-            "timestamp": "2021-01-19T05:38:39+00:00",
-            "last_traded_at": "2021-01-19T05:38:39+00:00",
-            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "bid_ask_spread_percentage": 0.115022,
+            "timestamp": "2021-01-23T18:19:03+00:00",
+            "last_traded_at": "2021-01-23T18:19:03+00:00",
+            "last_fetch_at": "2021-01-23T18:19:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://nominex.io/en/markets/XMR/BTC",
@@ -987,64 +1019,32 @@
         },
         {
             "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.004226,
-            "volume": 2318.779,
-            "converted_last": {
-                "btc": 0.004226,
-                "eth": 0.11644383,
-                "usd": 153.85
-            },
-            "converted_volume": {
-                "btc": 9.79916,
-                "eth": 270.008,
-                "usd": 356740
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147315,
-            "timestamp": "2021-01-19T05:40:25+00:00",
-            "last_traded_at": "2021-01-19T05:40:25+00:00",
-            "last_fetch_at": "2021-01-19T05:40:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=xmrbtc",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
             "target": "USDT",
             "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
+                "name": "Nominex",
+                "identifier": "nominex",
                 "has_trading_incentive": false
             },
-            "last": 153.14606843,
-            "volume": 1667.90169568,
+            "last": 139.68,
+            "volume": 460.71530327247996,
             "converted_last": {
-                "btc": 0.0042008,
-                "eth": 0.1159507,
-                "usd": 153.12
+                "btc": 0.00434695,
+                "eth": 0.11137107,
+                "usd": 139.78
             },
             "converted_volume": {
-                "btc": 7.006517,
-                "eth": 193.394,
-                "usd": 255390
+                "btc": 2.002709,
+                "eth": 51.31,
+                "usd": 64397
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.292977,
-            "timestamp": "2021-01-19T05:38:14+00:00",
-            "last_traded_at": "2021-01-19T05:38:14+00:00",
-            "last_fetch_at": "2021-01-19T05:38:14+00:00",
+            "bid_ask_spread_percentage": 0.178735,
+            "timestamp": "2021-01-23T18:19:04+00:00",
+            "last_traded_at": "2021-01-23T18:19:04+00:00",
+            "last_fetch_at": "2021-01-23T18:19:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#xmr_usdt",
+            "trade_url": "https://nominex.io/en/markets/XMR/USDT",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "tether"
@@ -1057,23 +1057,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 153.71,
-            "volume": 5918.013,
+            "last": 139.34,
+            "volume": 8141.167,
             "converted_last": {
-                "btc": 0.00422981,
-                "eth": 0.11654882,
-                "usd": 153.8
+                "btc": 0.00433611,
+                "eth": 0.11109334,
+                "usd": 139.43
             },
             "converted_volume": {
-                "btc": 25.032073,
-                "eth": 689.737,
-                "usd": 910172
+                "btc": 35.301033,
+                "eth": 904.429,
+                "usd": 1135120
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.208279,
-            "timestamp": "2021-01-19T05:42:27+00:00",
-            "last_traded_at": "2021-01-19T05:42:27+00:00",
-            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "bid_ask_spread_percentage": 0.215471,
+            "timestamp": "2021-01-23T18:22:12+00:00",
+            "last_traded_at": "2021-01-23T18:22:12+00:00",
+            "last_fetch_at": "2021-01-23T18:22:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#XMR_USDT",
@@ -1083,35 +1083,99 @@
         },
         {
             "base": "XMR",
-            "target": "BUSD",
+            "target": "USDT",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "Poloniex",
+                "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 154.15,
-            "volume": 4925.403313533571,
+            "last": 139.35895457,
+            "volume": 1572.19408667,
             "converted_last": {
-                "btc": 0.00423588,
-                "eth": 0.11671598,
-                "usd": 154.14
+                "btc": 0.00433273,
+                "eth": 0.11079793,
+                "usd": 139.37
             },
             "converted_volume": {
-                "btc": 20.863402,
-                "eth": 574.873,
-                "usd": 759213
+                "btc": 6.8119,
+                "eth": 174.196,
+                "usd": 219110
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.220808,
-            "timestamp": "2021-01-19T05:41:38+00:00",
-            "last_traded_at": "2021-01-19T05:41:38+00:00",
-            "last_fetch_at": "2021-01-19T05:41:38+00:00",
+            "bid_ask_spread_percentage": 0.300459,
+            "timestamp": "2021-01-23T18:23:43+00:00",
+            "last_traded_at": "2021-01-23T18:23:43+00:00",
+            "last_fetch_at": "2021-01-23T18:23:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XMR_BUSD",
+            "trade_url": "https://poloniex.com/exchange#xmr_usdt",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "binance-usd"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 139.29,
+            "volume": 11788.19284686,
+            "converted_last": {
+                "btc": 0.00433456,
+                "eth": 0.11105348,
+                "usd": 139.37
+            },
+            "converted_volume": {
+                "btc": 51.097,
+                "eth": 1309,
+                "usd": 1642936
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.265881,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XMR#limit",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.00434,
+            "volume": 1753.099,
+            "converted_last": {
+                "btc": 0.00434,
+                "eth": 0.11119289,
+                "usd": 139.55
+            },
+            "converted_volume": {
+                "btc": 7.60845,
+                "eth": 194.932,
+                "usd": 244651
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146072,
+            "timestamp": "2021-01-23T18:19:39+00:00",
+            "last_traded_at": "2021-01-23T18:19:39+00:00",
+            "last_fetch_at": "2021-01-23T18:19:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=xmrbtc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -1121,26 +1185,90 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.004212,
-            "volume": 73819.494881,
+            "last": 0.004328,
+            "volume": 60175.231857,
             "converted_last": {
-                "btc": 0.004212,
-                "eth": 0.11625992,
-                "usd": 153.53
+                "btc": 0.004328,
+                "eth": 0.11067685,
+                "usd": 139.21
             },
             "converted_volume": {
-                "btc": 310.928,
-                "eth": 8582,
-                "usd": 11333727
+                "btc": 260.438,
+                "eth": 6660,
+                "usd": 8377205
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.378967,
-            "timestamp": "2021-01-19T05:37:38+00:00",
-            "last_traded_at": "2021-01-19T05:37:38+00:00",
-            "last_fetch_at": "2021-01-19T05:37:38+00:00",
+            "bid_ask_spread_percentage": 0.345702,
+            "timestamp": "2021-01-23T18:23:51+00:00",
+            "last_traded_at": "2021-01-23T18:23:51+00:00",
+            "last_fetch_at": "2021-01-23T18:23:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=xmr_btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "XRP",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 513.0023641,
+            "volume": 7122.9,
+            "converted_last": {
+                "btc": 0.00435692,
+                "eth": 0.11162647,
+                "usd": 140.1
+            },
+            "converted_volume": {
+                "btc": 31.033928,
+                "eth": 795.104,
+                "usd": 997901
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.422221,
+            "timestamp": "2021-01-23T18:19:40+00:00",
+            "last_traded_at": "2021-01-23T18:19:40+00:00",
+            "last_fetch_at": "2021-01-23T18:19:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=xmrxrp",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ripple"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.004323,
+            "volume": 1068.79504404,
+            "converted_last": {
+                "btc": 0.004323,
+                "eth": 0.11054899,
+                "usd": 139.05
+            },
+            "converted_volume": {
+                "btc": 4.620401,
+                "eth": 118.154,
+                "usd": 148616
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.184204,
+            "timestamp": "2021-01-23T18:24:36+00:00",
+            "last_traded_at": "2021-01-23T18:24:36+00:00",
+            "last_fetch_at": "2021-01-23T18:24:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/XMR-BTC",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -1153,23 +1281,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.11635,
-            "volume": 5574.596983498066,
+            "last": 0.11042,
+            "volume": 2367.1354229306285,
             "converted_last": {
-                "btc": 0.00422816,
-                "eth": 0.11650332,
-                "usd": 153.86
+                "btc": 0.00432184,
+                "eth": 0.11051929,
+                "usd": 139.02
             },
             "converted_volume": {
-                "btc": 23.570282,
-                "eth": 649.459,
-                "usd": 857716
+                "btc": 10.230378,
+                "eth": 261.614,
+                "usd": 329068
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.394342,
-            "timestamp": "2021-01-19T05:41:09+00:00",
-            "last_traded_at": "2021-01-19T05:41:09+00:00",
-            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "bid_ask_spread_percentage": 0.709857,
+            "timestamp": "2021-01-23T18:23:38+00:00",
+            "last_traded_at": "2021-01-23T18:23:38+00:00",
+            "last_fetch_at": "2021-01-23T18:23:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/XMR_ETH",
@@ -1179,35 +1307,65 @@
         },
         {
             "base": "XMR",
-            "target": "BTC",
+            "target": "USD",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Exrates",
+                "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 0.00420491,
-            "volume": 2980.4307,
+            "last": 139.21,
+            "volume": 731.77399,
             "converted_last": {
-                "btc": 0.00420491,
-                "eth": 0.11606422,
-                "usd": 153.27
+                "btc": 0.00432929,
+                "eth": 0.11091838,
+                "usd": 139.21
             },
             "converted_volume": {
-                "btc": 12.532443,
-                "eth": 345.921,
-                "usd": 456824
+                "btc": 3.168059,
+                "eth": 81.167,
+                "usd": 101870
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.685741,
-            "timestamp": "2021-01-19T05:37:15+00:00",
-            "last_traded_at": "2021-01-19T05:37:15+00:00",
-            "last_fetch_at": "2021-01-19T05:37:15+00:00",
+            "bid_ask_spread_percentage": 0.315457,
+            "timestamp": "2021-01-23T18:22:05+00:00",
+            "last_traded_at": "2021-01-23T18:22:05+00:00",
+            "last_fetch_at": "2021-01-23T18:22:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_BTC",
+            "trade_url": "https://exrates.me/trading/XMRUSD",
             "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "BTSE",
+                "identifier": "btse",
+                "has_trading_incentive": false
+            },
+            "last": 139.1,
+            "volume": 18856.659389730696,
+            "converted_last": {
+                "btc": 0.00432612,
+                "eth": 0.1108373,
+                "usd": 139.1
+            },
+            "converted_volume": {
+                "btc": 81.576,
+                "eth": 2090,
+                "usd": 2622961
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.28715,
+            "timestamp": "2021-01-23T18:21:31+00:00",
+            "last_traded_at": "2021-01-23T18:21:31+00:00",
+            "last_fetch_at": "2021-01-23T18:21:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.btse.com/en/trading/XMR-USD",
+            "token_info_url": null,
+            "coin_id": "monero"
         },
         {
             "base": "XMR",
@@ -1217,23 +1375,23 @@
                 "identifier": "nominex",
                 "has_trading_incentive": false
             },
-            "last": 0.1166,
-            "volume": 49.5865730703259,
+            "last": 0.11127,
+            "volume": 11.225352655702345,
             "converted_last": {
-                "btc": 0.00422675,
-                "eth": 0.11675527,
-                "usd": 154.2
+                "btc": 0.00435511,
+                "eth": 0.11157996,
+                "usd": 140.04
             },
             "converted_volume": {
-                "btc": 0.20959005,
-                "eth": 5.789494,
-                "usd": 7646.06
+                "btc": 0.04888762,
+                "eth": 1.252524,
+                "usd": 1571.99
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.464157,
-            "timestamp": "2021-01-19T05:31:39+00:00",
-            "last_traded_at": "2021-01-19T05:31:39+00:00",
-            "last_fetch_at": "2021-01-19T05:38:39+00:00",
+            "bid_ask_spread_percentage": 0.84373,
+            "timestamp": "2021-01-23T18:19:03+00:00",
+            "last_traded_at": "2021-01-23T18:19:03+00:00",
+            "last_fetch_at": "2021-01-23T18:19:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://nominex.io/en/markets/XMR/ETH",
@@ -1245,93 +1403,605 @@
             "base": "XMR",
             "target": "USDT",
             "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
+                "name": "BiKi",
+                "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 153.59,
-            "volume": 14921.03943764,
+            "last": 139.29,
+            "volume": 356.6483,
             "converted_last": {
-                "btc": 0.00422651,
-                "eth": 0.11645783,
-                "usd": 153.68
+                "btc": 0.00433059,
+                "eth": 0.11074311,
+                "usd": 139.3
             },
             "converted_volume": {
-                "btc": 63.064,
-                "eth": 1738,
-                "usd": 2293018
+                "btc": 1.544498,
+                "eth": 39.496342,
+                "usd": 49680
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.135557,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 0.229803,
+            "timestamp": "2021-01-23T18:23:26+00:00",
+            "last_traded_at": "2021-01-23T18:23:26+00:00",
+            "last_fetch_at": "2021-01-23T18:23:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XMR#limit",
+            "trade_url": "https://www.biki.com/trade/XMR_USDT",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "tether"
         },
         {
             "base": "XMR",
-            "target": "USD",
+            "target": "BTC",
             "market": {
                 "name": "Exrates",
                 "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 153.82,
-            "volume": 948.85567,
+            "last": 0.004325,
+            "volume": 557.711,
             "converted_last": {
-                "btc": 0.00422702,
-                "eth": 0.11647188,
-                "usd": 153.82
+                "btc": 0.004325,
+                "eth": 0.11080858,
+                "usd": 139.07
             },
             "converted_volume": {
-                "btc": 4.01083,
-                "eth": 110.515,
-                "usd": 145953
+                "btc": 2.4121,
+                "eth": 61.799,
+                "usd": 77562
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356865,
-            "timestamp": "2021-01-19T05:41:45+00:00",
-            "last_traded_at": "2021-01-19T05:41:45+00:00",
-            "last_fetch_at": "2021-01-19T05:41:45+00:00",
+            "bid_ask_spread_percentage": 0.323176,
+            "timestamp": "2021-01-23T18:22:04+00:00",
+            "last_traded_at": "2021-01-23T18:22:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exrates.me/trading/XMRUSD",
+            "trade_url": "https://exrates.me/trading/XMRBTC",
             "token_info_url": null,
-            "coin_id": "monero"
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 139.53,
+            "volume": 2305.9997839948396,
+            "converted_last": {
+                "btc": 0.00433359,
+                "eth": 0.11081978,
+                "usd": 139.4
+            },
+            "converted_volume": {
+                "btc": 9.993256,
+                "eth": 255.55,
+                "usd": 321446
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.236508,
+            "timestamp": "2021-01-23T18:25:27+00:00",
+            "last_traded_at": "2021-01-23T18:25:27+00:00",
+            "last_fetch_at": "2021-01-23T18:25:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_BUSD",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "binance-usd"
         },
         {
             "base": "XMR",
             "target": "BTC",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "Hotbit",
+                "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 0.004222,
-            "volume": 1974.00796855,
+            "last": 0.00433799,
+            "volume": 1880.5679,
             "converted_last": {
-                "btc": 0.004222,
-                "eth": 0.11633361,
-                "usd": 153.64
+                "btc": 0.00433799,
+                "eth": 0.11093232,
+                "usd": 139.54
             },
             "converted_volume": {
-                "btc": 8.334262,
-                "eth": 229.643,
-                "usd": 303281
+                "btc": 8.157885,
+                "eth": 208.616,
+                "usd": 262409
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.165328,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "bid_ask_spread_percentage": 0.644271,
+            "timestamp": "2021-01-23T18:25:15+00:00",
+            "last_traded_at": "2021-01-23T18:25:15+00:00",
+            "last_fetch_at": "2021-01-23T18:25:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/XMR-BTC",
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.111256,
+            "volume": 478.7735,
+            "converted_last": {
+                "btc": 0.00435011,
+                "eth": 0.11124224,
+                "usd": 139.93
+            },
+            "converted_volume": {
+                "btc": 2.082717,
+                "eth": 53.26,
+                "usd": 66993
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.376268,
+            "timestamp": "2021-01-23T18:25:03+00:00",
+            "last_traded_at": "2021-01-23T18:25:03+00:00",
+            "last_fetch_at": "2021-01-23T18:25:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_eth",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "NiceHash",
+                "identifier": "nice_hash",
+                "has_trading_incentive": false
+            },
+            "last": 0.00435555,
+            "volume": 130.91785843,
+            "converted_last": {
+                "btc": 0.00435555,
+                "eth": 0.11159129,
+                "usd": 140.05
+            },
+            "converted_volume": {
+                "btc": 0.57021928,
+                "eth": 14.609293,
+                "usd": 18335.49
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.366561,
+            "timestamp": "2021-01-23T18:20:05+00:00",
+            "last_traded_at": "2021-01-23T18:20:05+00:00",
+            "last_fetch_at": "2021-01-23T18:20:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.nicehash.com/my/tradeview/XMRBTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 3.417,
+            "volume": 672.8075671641791,
+            "converted_last": {
+                "btc": 0.00433173,
+                "eth": 0.11077226,
+                "usd": 139.34
+            },
+            "converted_volume": {
+                "btc": 2.914421,
+                "eth": 74.528,
+                "usd": 93746
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.37923,
+            "timestamp": "2021-01-23T18:25:42+00:00",
+            "last_traded_at": "2021-01-23T18:25:42+00:00",
+            "last_fetch_at": "2021-01-23T18:25:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XMR_BNB",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USD",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 139.579767,
+            "volume": 523.22284924,
+            "converted_last": {
+                "btc": 0.00434104,
+                "eth": 0.11121959,
+                "usd": 139.58
+            },
+            "converted_volume": {
+                "btc": 2.271332,
+                "eth": 58.193,
+                "usd": 73031
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174687,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_USD",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 139.4377,
+            "volume": 958.1533,
+            "converted_last": {
+                "btc": 0.0043398,
+                "eth": 0.11097854,
+                "usd": 139.6
+            },
+            "converted_volume": {
+                "btc": 4.158191,
+                "eth": 106.334,
+                "usd": 133753
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.494199,
+            "timestamp": "2021-01-23T18:25:33+00:00",
+            "last_traded_at": "2021-01-23T18:25:33+00:00",
+            "last_fetch_at": "2021-01-23T18:25:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 138.96,
+            "volume": 909.95842,
+            "converted_last": {
+                "btc": 0.00432429,
+                "eth": 0.11079038,
+                "usd": 139.05
+            },
+            "converted_volume": {
+                "btc": 3.934923,
+                "eth": 100.815,
+                "usd": 126529
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.28746,
+            "timestamp": "2021-01-23T18:22:07+00:00",
+            "last_traded_at": "2021-01-23T18:22:07+00:00",
+            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XMRUSDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.11085,
+            "volume": 1691.739,
+            "converted_last": {
+                "btc": 0.00433424,
+                "eth": 0.11083629,
+                "usd": 139.42
+            },
+            "converted_volume": {
+                "btc": 7.332394,
+                "eth": 187.506,
+                "usd": 235856
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.042819,
+            "timestamp": "2021-01-23T18:25:06+00:00",
+            "last_traded_at": "2021-01-23T18:25:06+00:00",
+            "last_fetch_at": "2021-01-23T18:25:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 139.12,
+            "volume": 18610.5963,
+            "converted_last": {
+                "btc": 0.00432927,
+                "eth": 0.11091794,
+                "usd": 139.2
+            },
+            "converted_volume": {
+                "btc": 80.57,
+                "eth": 2064,
+                "usd": 2590617
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.265671,
+            "timestamp": "2021-01-23T18:21:29+00:00",
+            "last_traded_at": "2021-01-23T18:21:29+00:00",
+            "last_fetch_at": "2021-01-23T18:21:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/XMR-USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 138.96,
+            "volume": 846.25945483,
+            "converted_last": {
+                "btc": 0.00432033,
+                "eth": 0.11048074,
+                "usd": 138.97
+            },
+            "converted_volume": {
+                "btc": 3.656121,
+                "eth": 93.495,
+                "usd": 117602
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.258621,
+            "timestamp": "2021-01-23T18:23:15+00:00",
+            "last_traded_at": "2021-01-23T18:23:15+00:00",
+            "last_fetch_at": "2021-01-23T18:23:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BitBNS",
+                "identifier": "bitbns",
+                "has_trading_incentive": false
+            },
+            "last": 138.06,
+            "volume": 16.2808,
+            "converted_last": {
+                "btc": 0.00429654,
+                "eth": 0.1104246,
+                "usd": 138.37
+            },
+            "converted_volume": {
+                "btc": 0.06995109,
+                "eth": 1.797801,
+                "usd": 2252.79
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.077263,
+            "timestamp": "2021-01-23T18:15:40+00:00",
+            "last_traded_at": "2021-01-23T18:15:40+00:00",
+            "last_fetch_at": "2021-01-23T18:23:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitbns.com/trade/#/xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.11131,
+            "volume": 22.8204,
+            "converted_last": {
+                "btc": 0.00435222,
+                "eth": 0.11129624,
+                "usd": 139.99
+            },
+            "converted_volume": {
+                "btc": 0.09931942,
+                "eth": 2.539825,
+                "usd": 3194.74
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.280673,
+            "timestamp": "2021-01-23T18:25:04+00:00",
+            "last_traded_at": "2021-01-23T18:25:04+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_ETH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 139.49,
+            "volume": 12163.151,
+            "converted_last": {
+                "btc": 0.00434143,
+                "eth": 0.11102017,
+                "usd": 139.65
+            },
+            "converted_volume": {
+                "btc": 52.805,
+                "eth": 1350,
+                "usd": 1698553
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.286328,
+            "timestamp": "2021-01-23T18:25:22+00:00",
+            "last_traded_at": "2021-01-23T18:25:22+00:00",
+            "last_fetch_at": "2021-01-23T18:25:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.111,
+            "volume": 568.429583,
+            "converted_last": {
+                "btc": 0.00434454,
+                "eth": 0.11130921,
+                "usd": 139.7
+            },
+            "converted_volume": {
+                "btc": 2.469565,
+                "eth": 63.271,
+                "usd": 79410
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.630063,
+            "timestamp": "2021-01-23T18:20:40+00:00",
+            "last_traded_at": "2021-01-23T18:20:40+00:00",
+            "last_fetch_at": "2021-01-23T18:20:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xmr_eth",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 139.0,
+            "volume": 25864.0949,
+            "converted_last": {
+                "btc": 0.00432553,
+                "eth": 0.11082227,
+                "usd": 139.08
+            },
+            "converted_volume": {
+                "btc": 111.876,
+                "eth": 2866,
+                "usd": 3597208
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.2006,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 0.0043338,
+            "volume": 466.58285398,
+            "converted_last": {
+                "btc": 0.0043338,
+                "eth": 0.11103405,
+                "usd": 139.35
+            },
+            "converted_volume": {
+                "btc": 2.022077,
+                "eth": 51.807,
+                "usd": 65017
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167147,
+            "timestamp": "2021-01-23T18:21:41+00:00",
+            "last_traded_at": "2021-01-23T18:21:41+00:00",
+            "last_fetch_at": "2021-01-23T18:21:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_BTC",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -1344,23 +2014,23 @@
                 "identifier": "waves",
                 "has_trading_incentive": false
             },
-            "last": 0.0042576,
-            "volume": 71.43421318,
+            "last": 0.00434099,
+            "volume": 8.38025007,
             "converted_last": {
-                "btc": 0.0042576,
-                "eth": 0.11793335,
-                "usd": 154.79
+                "btc": 0.00434099,
+                "eth": 0.11156703,
+                "usd": 139.62
             },
             "converted_volume": {
-                "btc": 0.30413831,
-                "eth": 8.424476,
-                "usd": 11057.18
+                "btc": 0.03637858,
+                "eth": 0.93495959,
+                "usd": 1170.02
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.807661,
-            "timestamp": "2021-01-19T05:15:45+00:00",
-            "last_traded_at": "2021-01-19T05:15:45+00:00",
-            "last_fetch_at": "2021-01-19T05:40:13+00:00",
+            "bid_ask_spread_percentage": 1.126071,
+            "timestamp": "2021-01-23T18:17:19+00:00",
+            "last_traded_at": "2021-01-23T18:17:19+00:00",
+            "last_fetch_at": "2021-01-23T18:24:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1370,227 +2040,34 @@
         },
         {
             "base": "XMR",
-            "target": "BTC",
+            "target": "BRL",
             "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
+                "name": "NovaDAX",
+                "identifier": "novadax",
                 "has_trading_incentive": false
             },
-            "last": 0.004225,
-            "volume": 621.874,
+            "last": 770.0,
+            "volume": 334.8264,
             "converted_last": {
-                "btc": 0.004225,
-                "eth": 0.11641627,
-                "usd": 153.75
+                "btc": 0.00437912,
+                "eth": 0.11254705,
+                "usd": 140.84
             },
             "converted_volume": {
-                "btc": 2.627418,
-                "eth": 72.396,
-                "usd": 95611
+                "btc": 1.466246,
+                "eth": 37.683724,
+                "usd": 47158
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.283286,
-            "timestamp": "2021-01-19T05:41:49+00:00",
-            "last_traded_at": "2021-01-19T05:41:49+00:00",
-            "last_fetch_at": "2021-01-19T05:41:49+00:00",
+            "bid_ask_spread_percentage": 0.397476,
+            "timestamp": "2021-01-23T18:17:12+00:00",
+            "last_traded_at": "2021-01-23T18:17:12+00:00",
+            "last_fetch_at": "2021-01-23T18:25:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exrates.me/trading/XMRBTC",
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=XMR_BRL",
             "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 153.2101,
-            "volume": 2528.5858,
-            "converted_last": {
-                "btc": 0.00420255,
-                "eth": 0.11599918,
-                "usd": 153.19
-            },
-            "converted_volume": {
-                "btc": 10.626517,
-                "eth": 293.314,
-                "usd": 387351
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.390269,
-            "timestamp": "2021-01-19T05:37:25+00:00",
-            "last_traded_at": "2021-01-19T05:37:25+00:00",
-            "last_fetch_at": "2021-01-19T05:37:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 3.4,
-            "volume": 942.6089888235294,
-            "converted_last": {
-                "btc": 0.00422178,
-                "eth": 0.11632755,
-                "usd": 153.63
-            },
-            "converted_volume": {
-                "btc": 3.979488,
-                "eth": 109.651,
-                "usd": 144812
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.117543,
-            "timestamp": "2021-01-19T05:41:05+00:00",
-            "last_traded_at": "2021-01-19T05:41:05+00:00",
-            "last_fetch_at": "2021-01-19T05:41:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XMR_BNB",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "binancecoin"
-        },
-        {
-            "base": "XMR",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.116737,
-            "volume": 847.8381482751827,
-            "converted_last": {
-                "btc": 0.00423639,
-                "eth": 0.11673,
-                "usd": 154.04
-            },
-            "converted_volume": {
-                "btc": 3.591769,
-                "eth": 98.968,
-                "usd": 130598
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.312695,
-            "timestamp": "2021-01-19T05:42:47+00:00",
-            "last_traded_at": "2021-01-19T05:42:47+00:00",
-            "last_fetch_at": "2021-01-19T05:42:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xmr_eth",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
-                "has_trading_incentive": false
-            },
-            "last": 153.56,
-            "volume": 1150.33663,
-            "converted_last": {
-                "btc": 0.00422568,
-                "eth": 0.11643508,
-                "usd": 153.77
-            },
-            "converted_volume": {
-                "btc": 4.860958,
-                "eth": 133.94,
-                "usd": 176889
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.292683,
-            "timestamp": "2021-01-19T05:41:51+00:00",
-            "last_traded_at": "2021-01-19T05:41:51+00:00",
-            "last_fetch_at": "2021-01-19T05:41:51+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exrates.me/trading/XMRUSDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "NiceHash",
-                "identifier": "nice_hash",
-                "has_trading_incentive": false
-            },
-            "last": 0.00421,
-            "volume": 285.03975111,
-            "converted_last": {
-                "btc": 0.00421,
-                "eth": 0.11643014,
-                "usd": 153.22
-            },
-            "converted_volume": {
-                "btc": 1.200017,
-                "eth": 33.187217,
-                "usd": 43674
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.439558,
-            "timestamp": "2021-01-19T05:25:52+00:00",
-            "last_traded_at": "2021-01-19T05:25:52+00:00",
-            "last_fetch_at": "2021-01-19T05:40:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.nicehash.com/my/tradeview/XMRBTC",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "ETH",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.11604,
-            "volume": 3468.955,
-            "converted_last": {
-                "btc": 0.0042227,
-                "eth": 0.11655514,
-                "usd": 153.92
-            },
-            "converted_volume": {
-                "btc": 14.648341,
-                "eth": 404.325,
-                "usd": 533951
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.084045,
-            "timestamp": "2021-01-19T05:37:01+00:00",
-            "last_traded_at": "2021-01-19T05:37:01+00:00",
-            "last_fetch_at": "2021-01-19T05:37:01+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/XMR",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "ethereum"
+            "coin_id": "monero"
         },
         {
             "base": "XMR",
@@ -1600,23 +2077,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.11607,
-            "volume": 351.5239301,
+            "last": 0.11136,
+            "volume": 166.32879036,
             "converted_last": {
-                "btc": 0.00421798,
-                "eth": 0.11622295,
-                "usd": 153.49
+                "btc": 0.00435418,
+                "eth": 0.11190592,
+                "usd": 140.04
             },
             "converted_volume": {
-                "btc": 1.482722,
-                "eth": 40.855147,
-                "usd": 53956
+                "btc": 0.72422483,
+                "eth": 18.613176,
+                "usd": 23293
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.674004,
-            "timestamp": "2021-01-19T05:41:29+00:00",
-            "last_traded_at": "2021-01-19T05:41:29+00:00",
-            "last_fetch_at": "2021-01-19T05:41:29+00:00",
+            "bid_ask_spread_percentage": 0.41352,
+            "timestamp": "2021-01-23T18:17:20+00:00",
+            "last_traded_at": "2021-01-23T18:17:20+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/XMR-ETH",
@@ -1626,127 +2103,64 @@
         },
         {
             "base": "XMR",
-            "target": "ETH",
+            "target": "QC",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "ZB",
+                "identifier": "zb",
                 "has_trading_incentive": false
             },
-            "last": 0.116282,
-            "volume": 23.5909,
+            "last": 908.15,
+            "volume": 290.818,
             "converted_last": {
-                "btc": 0.0042315,
-                "eth": 0.11679822,
-                "usd": 154.24
+                "btc": 0.00437558,
+                "eth": 0.11245591,
+                "usd": 140.73
             },
             "converted_volume": {
-                "btc": 0.09982494,
-                "eth": 2.755375,
-                "usd": 3638.75
+                "btc": 1.272496,
+                "eth": 32.704204,
+                "usd": 40926
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.174957,
-            "timestamp": "2021-01-19T05:37:21+00:00",
-            "last_traded_at": "2021-01-19T05:37:21+00:00",
-            "last_fetch_at": "2021-01-19T05:37:21+00:00",
+            "bid_ask_spread_percentage": 0.317608,
+            "timestamp": "2021-01-23T18:17:37+00:00",
+            "last_traded_at": "2021-01-23T18:17:37+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=XMR_ETH",
+            "trade_url": "https://trans.zb.com/xmrqc",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XMR",
-            "target": "USD",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 152.976596,
-            "volume": 754.70555182,
-            "converted_last": {
-                "btc": 0.00420384,
-                "eth": 0.11583326,
-                "usd": 152.98
-            },
-            "converted_volume": {
-                "btc": 3.172662,
-                "eth": 87.42,
-                "usd": 115452
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.149788,
-            "timestamp": "2021-01-19T05:41:42+00:00",
-            "last_traded_at": "2021-01-19T05:41:42+00:00",
-            "last_fetch_at": "2021-01-19T05:41:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/XMR_USD",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
-                "has_trading_incentive": false
-            },
-            "last": 153.47,
-            "volume": 39591.997,
-            "converted_last": {
-                "btc": 0.00420968,
-                "eth": 0.11619596,
-                "usd": 153.53
-            },
-            "converted_volume": {
-                "btc": 166.67,
-                "eth": 4600,
-                "usd": 6078553
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.368152,
-            "timestamp": "2021-01-19T05:35:53+00:00",
-            "last_traded_at": "2021-01-19T05:35:53+00:00",
-            "last_fetch_at": "2021-01-19T05:35:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/XMR_USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
+            "target_coin_id": "qcash"
         },
         {
             "base": "XMR",
             "target": "BTC",
             "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
+                "name": "BigONE",
+                "identifier": "bigone",
                 "has_trading_incentive": false
             },
-            "last": 0.0042228,
-            "volume": 4392.41559895,
+            "last": 0.004325,
+            "volume": 18442.1089,
             "converted_last": {
-                "btc": 0.0042228,
-                "eth": 0.11635565,
-                "usd": 153.54
+                "btc": 0.004325,
+                "eth": 0.11080858,
+                "usd": 139.06
             },
             "converted_volume": {
-                "btc": 18.548293,
-                "eth": 511.082,
-                "usd": 674420
+                "btc": 79.762,
+                "eth": 2044,
+                "usd": 2564633
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.325581,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "bid_ask_spread_percentage": 1.909959,
+            "timestamp": "2021-01-23T18:21:24+00:00",
+            "last_traded_at": "2021-01-23T18:21:24+00:00",
+            "last_fetch_at": "2021-01-23T18:21:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=XMR#limit",
+            "trade_url": "https://big.one/trade/XMR-BTC",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -1755,27 +2169,219 @@
             "base": "XMR",
             "target": "USDT",
             "market": {
-                "name": "ZBG",
-                "identifier": "zbg",
+                "name": "Bithumb Global",
+                "identifier": "bithumb_global",
                 "has_trading_incentive": false
             },
-            "last": 152.76,
-            "volume": 8839.0492,
+            "last": 139.62,
+            "volume": 7642.001863171466,
             "converted_last": {
-                "btc": 0.00420367,
-                "eth": 0.11582849,
-                "usd": 152.97
+                "btc": 0.00434509,
+                "eth": 0.11132324,
+                "usd": 139.72
             },
             "converted_volume": {
-                "btc": 37.15643,
-                "eth": 1024,
-                "usd": 1352112
+                "btc": 33.205166,
+                "eth": 850.732,
+                "usd": 1067723
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.287695,
-            "timestamp": "2021-01-19T05:41:57+00:00",
-            "last_traded_at": "2021-01-19T05:41:57+00:00",
-            "last_fetch_at": "2021-01-19T05:41:57+00:00",
+            "bid_ask_spread_percentage": 0.785041,
+            "timestamp": "2021-01-23T18:18:31+00:00",
+            "last_traded_at": "2021-01-23T18:18:31+00:00",
+            "last_fetch_at": "2021-01-23T18:18:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=XMR_USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 139.11,
+            "volume": 11305.792,
+            "converted_last": {
+                "btc": 0.00432499,
+                "eth": 0.1106,
+                "usd": 139.12
+            },
+            "converted_volume": {
+                "btc": 48.897492,
+                "eth": 1250,
+                "usd": 1572826
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.513961,
+            "timestamp": "2021-01-23T18:23:00+00:00",
+            "last_traded_at": "2021-01-23T18:23:00+00:00",
+            "last_fetch_at": "2021-01-23T18:23:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/xmr_usdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 139.4,
+            "volume": 713.27340793,
+            "converted_last": {
+                "btc": 0.00433798,
+                "eth": 0.11114118,
+                "usd": 139.48
+            },
+            "converted_volume": {
+                "btc": 3.094167,
+                "eth": 79.274,
+                "usd": 99488
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.729509,
+            "timestamp": "2021-01-23T18:21:04+00:00",
+            "last_traded_at": "2021-01-23T18:21:04+00:00",
+            "last_fetch_at": "2021-01-23T18:21:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.004307,
+            "volume": 1214.9738936614813,
+            "converted_last": {
+                "btc": 0.004307,
+                "eth": 0.11105529,
+                "usd": 138.47
+            },
+            "converted_volume": {
+                "btc": 5.232893,
+                "eth": 134.929,
+                "usd": 168237
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146243,
+            "timestamp": "2021-01-23T17:06:00+00:00",
+            "last_traded_at": "2021-01-23T17:06:00+00:00",
+            "last_fetch_at": "2021-01-23T18:22:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "TradeOgre",
+                "identifier": "trade_ogre",
+                "has_trading_incentive": false
+            },
+            "last": 0.00437498,
+            "volume": 295.7912356170771,
+            "converted_last": {
+                "btc": 0.00437498,
+                "eth": 0.1120891,
+                "usd": 140.67
+            },
+            "converted_volume": {
+                "btc": 1.294081,
+                "eth": 33.154972,
+                "usd": 41609
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.17434,
+            "timestamp": "2021-01-23T18:21:44+00:00",
+            "last_traded_at": "2021-01-23T18:21:44+00:00",
+            "last_fetch_at": "2021-01-23T18:21:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tradeogre.com/exchange/BTC-XMR",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.004336,
+            "volume": 473.8375,
+            "converted_last": {
+                "btc": 0.004336,
+                "eth": 0.11088143,
+                "usd": 139.47
+            },
+            "converted_volume": {
+                "btc": 2.054559,
+                "eth": 52.54,
+                "usd": 66087
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.667587,
+            "timestamp": "2021-01-23T18:23:35+00:00",
+            "last_traded_at": "2021-01-23T18:23:35+00:00",
+            "last_fetch_at": "2021-01-23T18:23:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 140.0,
+            "volume": 49.188,
+            "converted_last": {
+                "btc": 0.00435691,
+                "eth": 0.11197627,
+                "usd": 140.21
+            },
+            "converted_volume": {
+                "btc": 0.21430785,
+                "eth": 5.507889,
+                "usd": 6896.77
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.750054,
+            "timestamp": "2021-01-23T18:16:01+00:00",
+            "last_traded_at": "2021-01-23T18:16:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1791,347 +2397,28 @@
                 "identifier": "indodax",
                 "has_trading_incentive": false
             },
-            "last": 2183080.0,
-            "volume": 347.7509371,
+            "last": 1947297.0,
+            "volume": 134.90203829,
             "converted_last": {
-                "btc": 0.00425079,
-                "eth": 0.11712701,
-                "usd": 154.69
+                "btc": 0.00431781,
+                "eth": 0.11041631,
+                "usd": 138.88
             },
             "converted_volume": {
-                "btc": 1.478218,
-                "eth": 40.731028,
-                "usd": 53792
+                "btc": 0.58248161,
+                "eth": 14.895386,
+                "usd": 18735.63
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.112557,
-            "timestamp": "2021-01-19T05:41:09+00:00",
-            "last_traded_at": "2021-01-19T05:41:09+00:00",
-            "last_fetch_at": "2021-01-19T05:41:09+00:00",
+            "bid_ask_spread_percentage": 0.700664,
+            "timestamp": "2021-01-23T18:24:42+00:00",
+            "last_traded_at": "2021-01-23T18:24:42+00:00",
+            "last_fetch_at": "2021-01-23T18:24:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 153.194,
-            "volume": 1025.37015076,
-            "converted_last": {
-                "btc": 0.00420211,
-                "eth": 0.11598699,
-                "usd": 153.23
-            },
-            "converted_volume": {
-                "btc": 4.30872,
-                "eth": 118.93,
-                "usd": 157113
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.747433,
-            "timestamp": "2021-01-19T05:36:31+00:00",
-            "last_traded_at": "2021-01-19T05:36:31+00:00",
-            "last_fetch_at": "2021-01-19T05:36:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/XMR_USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BRL",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 820.15,
-            "volume": 422.1471,
-            "converted_last": {
-                "btc": 0.00425746,
-                "eth": 0.11792936,
-                "usd": 154.85
-            },
-            "converted_volume": {
-                "btc": 1.797273,
-                "eth": 49.783537,
-                "usd": 65371
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.418293,
-            "timestamp": "2021-01-19T05:16:01+00:00",
-            "last_traded_at": "2021-01-19T05:16:01+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=XMR_BRL",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "QC",
-            "market": {
-                "name": "ZB",
-                "identifier": "zb",
-                "has_trading_incentive": false
-            },
-            "last": 982.33,
-            "volume": 597.984,
-            "converted_last": {
-                "btc": 0.00422416,
-                "eth": 0.11682167,
-                "usd": 153.84
-            },
-            "converted_volume": {
-                "btc": 2.525978,
-                "eth": 69.857,
-                "usd": 91991
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.405733,
-            "timestamp": "2021-01-19T05:20:39+00:00",
-            "last_traded_at": "2021-01-19T05:20:39+00:00",
-            "last_fetch_at": "2021-01-19T05:39:17+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trans.zb.com/xmrqc",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "qcash"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 153.56,
-            "volume": 873.8004,
-            "converted_last": {
-                "btc": 0.00422568,
-                "eth": 0.11643508,
-                "usd": 153.77
-            },
-            "converted_volume": {
-                "btc": 3.692403,
-                "eth": 101.741,
-                "usd": 134366
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.545703,
-            "timestamp": "2021-01-19T05:41:44+00:00",
-            "last_traded_at": "2021-01-19T05:41:44+00:00",
-            "last_fetch_at": "2021-01-19T05:41:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 0.0042279,
-            "volume": 626.55185731,
-            "converted_last": {
-                "btc": 0.0042279,
-                "eth": 0.11649618,
-                "usd": 153.85
-            },
-            "converted_volume": {
-                "btc": 2.648999,
-                "eth": 72.991,
-                "usd": 96396
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.299463,
-            "timestamp": "2021-01-19T05:41:57+00:00",
-            "last_traded_at": "2021-01-19T05:41:57+00:00",
-            "last_fetch_at": "2021-01-19T05:41:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/XMR_BTC",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "BW.com",
-                "identifier": "bw",
-                "has_trading_incentive": false
-            },
-            "last": 153.42,
-            "volume": 16789.448,
-            "converted_last": {
-                "btc": 0.00420831,
-                "eth": 0.1161581,
-                "usd": 153.48
-            },
-            "converted_volume": {
-                "btc": 70.655,
-                "eth": 1950,
-                "usd": 2576842
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.352488,
-            "timestamp": "2021-01-19T05:35:50+00:00",
-            "last_traded_at": "2021-01-19T05:35:50+00:00",
-            "last_fetch_at": "2021-01-19T05:35:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/xmr_usdt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "Bithumb Global",
-                "identifier": "bithumb_global",
-                "has_trading_incentive": false
-            },
-            "last": 153.56,
-            "volume": 11178.294165485804,
-            "converted_last": {
-                "btc": 0.0042202,
-                "eth": 0.11628402,
-                "usd": 153.7
-            },
-            "converted_volume": {
-                "btc": 47.174638,
-                "eth": 1300,
-                "usd": 1718125
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.094418,
-            "timestamp": "2021-01-19T05:39:39+00:00",
-            "last_traded_at": "2021-01-19T05:39:39+00:00",
-            "last_fetch_at": "2021-01-19T05:39:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=XMR_USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 0.004222,
-            "volume": 2604.9977593557555,
-            "converted_last": {
-                "btc": 0.004222,
-                "eth": 0.11633361,
-                "usd": 153.77
-            },
-            "converted_volume": {
-                "btc": 10.998301,
-                "eth": 303.049,
-                "usd": 400564
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147326,
-            "timestamp": "2021-01-19T05:39:32+00:00",
-            "last_traded_at": "2021-01-19T05:39:32+00:00",
-            "last_fetch_at": "2021-01-19T05:39:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-XMR",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 0.004191,
-            "volume": 13.167,
-            "converted_last": {
-                "btc": 0.004191,
-                "eth": 0.11588161,
-                "usd": 152.84
-            },
-            "converted_volume": {
-                "btc": 0.0551829,
-                "eth": 1.525813,
-                "usd": 2012.48
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.223529,
-            "timestamp": "2021-01-19T04:48:01+00:00",
-            "last_traded_at": "2021-01-19T04:48:01+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.004223,
-            "volume": 518.8083,
-            "converted_last": {
-                "btc": 0.004223,
-                "eth": 0.11636116,
-                "usd": 153.67
-            },
-            "converted_volume": {
-                "btc": 2.190927,
-                "eth": 60.369,
-                "usd": 79727
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.707214,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:41:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -2141,23 +2428,23 @@
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.115467,
-            "volume": 56.8353,
+            "last": 0.111151,
+            "volume": 29.1218,
             "converted_last": {
-                "btc": 0.0041903,
-                "eth": 0.11546007,
-                "usd": 152.48
+                "btc": 0.004346,
+                "eth": 0.11169589,
+                "usd": 139.86
             },
             "converted_volume": {
-                "btc": 0.23815681,
-                "eth": 6.562208,
-                "usd": 8666.46
+                "btc": 0.12656346,
+                "eth": 3.252785,
+                "usd": 4073.02
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.780736,
-            "timestamp": "2021-01-19T05:41:42+00:00",
-            "last_traded_at": "2021-01-19T05:41:42+00:00",
-            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "bid_ask_spread_percentage": 1.132882,
+            "timestamp": "2021-01-23T18:16:31+00:00",
+            "last_traded_at": "2021-01-23T18:16:31+00:00",
+            "last_fetch_at": "2021-01-23T18:16:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2167,35 +2454,35 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
+                "name": "CREX24",
+                "identifier": "crex24",
                 "has_trading_incentive": false
             },
-            "last": 153.82,
-            "volume": 64.278,
+            "last": 0.00436,
+            "volume": 1.21709306,
             "converted_last": {
-                "btc": 0.00421687,
-                "eth": 0.11648224,
-                "usd": 153.6
+                "btc": 0.00436,
+                "eth": 0.1117053,
+                "usd": 140.2
             },
             "converted_volume": {
-                "btc": 0.27105169,
-                "eth": 7.487245,
-                "usd": 9873.24
+                "btc": 0.00530653,
+                "eth": 0.13595575,
+                "usd": 170.63
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.332053,
-            "timestamp": "2021-01-19T05:28:24+00:00",
-            "last_traded_at": "2021-01-19T05:28:24+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 0.91954,
+            "timestamp": "2021-01-23T18:19:25+00:00",
+            "last_traded_at": "2021-01-23T18:19:25+00:00",
+            "last_fetch_at": "2021-01-23T18:19:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://crex24.com/exchange/XMR-BTC",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -2205,23 +2492,23 @@
                 "identifier": "latoken",
                 "has_trading_incentive": false
             },
-            "last": 153.773,
-            "volume": 1535.4815496218453,
+            "last": 139.054,
+            "volume": 5.628416514447625,
             "converted_last": {
-                "btc": 0.00422605,
-                "eth": 0.11644531,
-                "usd": 153.85
+                "btc": 0.00432173,
+                "eth": 0.11107196,
+                "usd": 139.18
             },
             "converted_volume": {
-                "btc": 6.489028,
-                "eth": 178.8,
-                "usd": 236234
+                "btc": 0.02432448,
+                "eth": 0.62515927,
+                "usd": 783.37
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.140359,
-            "timestamp": "2021-01-19T05:40:32+00:00",
-            "last_traded_at": "2021-01-19T05:40:32+00:00",
-            "last_fetch_at": "2021-01-19T05:40:32+00:00",
+            "bid_ask_spread_percentage": 0.15755,
+            "timestamp": "2021-01-23T18:15:16+00:00",
+            "last_traded_at": "2021-01-23T18:15:16+00:00",
+            "last_fetch_at": "2021-01-23T18:22:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://latoken.com/exchange/USDT-XMR",
@@ -2231,124 +2518,29 @@
         },
         {
             "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "TradeOgre",
-                "identifier": "trade_ogre",
-                "has_trading_incentive": false
-            },
-            "last": 0.00423448,
-            "volume": 387.18530728684516,
-            "converted_last": {
-                "btc": 0.00423448,
-                "eth": 0.11688042,
-                "usd": 154.35
-            },
-            "converted_volume": {
-                "btc": 1.639528,
-                "eth": 45.254379,
-                "usd": 59763
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.997499,
-            "timestamp": "2021-01-19T05:37:12+00:00",
-            "last_traded_at": "2021-01-19T05:37:12+00:00",
-            "last_fetch_at": "2021-01-19T05:37:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tradeogre.com/exchange/BTC-XMR",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "USD",
-            "market": {
-                "name": "BTSE",
-                "identifier": "btse",
-                "has_trading_incentive": false
-            },
-            "last": 153.55,
-            "volume": 4523.405742292738,
-            "converted_last": {
-                "btc": 0.00422302,
-                "eth": 0.11636173,
-                "usd": 153.55
-            },
-            "converted_volume": {
-                "btc": 19.102435,
-                "eth": 526.351,
-                "usd": 694569
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.292683,
-            "timestamp": "2021-01-19T05:42:14+00:00",
-            "last_traded_at": "2021-01-19T05:42:14+00:00",
-            "last_fetch_at": "2021-01-19T05:42:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.btse.com/en/trading/XMR-USD",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "ETH",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.116,
-            "volume": 1086.866883,
-            "converted_last": {
-                "btc": 0.004205,
-                "eth": 0.11615447,
-                "usd": 153.4
-            },
-            "converted_volume": {
-                "btc": 4.570275,
-                "eth": 126.244,
-                "usd": 166728
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.857633,
-            "timestamp": "2021-01-19T05:31:46+00:00",
-            "last_traded_at": "2021-01-19T05:31:46+00:00",
-            "last_fetch_at": "2021-01-19T05:38:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=xmr_eth",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XMR",
             "target": "BCH",
             "market": {
                 "name": "CoinEx",
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.29767692,
-            "volume": 1573.0483,
+            "last": 0.32511516,
+            "volume": 1469.23977564,
             "converted_last": {
-                "btc": 0.00425743,
-                "eth": 0.11730979,
-                "usd": 154.8
+                "btc": 0.00434848,
+                "eth": 0.11141006,
+                "usd": 139.82
             },
             "converted_volume": {
-                "btc": 6.697139,
-                "eth": 184.534,
-                "usd": 243510
+                "btc": 6.388954,
+                "eth": 163.688,
+                "usd": 205427
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.441019,
-            "timestamp": "2021-01-19T05:42:25+00:00",
-            "last_traded_at": "2021-01-19T05:42:25+00:00",
-            "last_fetch_at": "2021-01-19T05:42:25+00:00",
+            "bid_ask_spread_percentage": 1.75169,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BCH&dest=XMR#limit",
@@ -2364,23 +2556,23 @@
                 "identifier": "south_xchange",
                 "has_trading_incentive": false
             },
-            "last": 0.004222405,
-            "volume": 2.21781945,
+            "last": 0.004313547,
+            "volume": 0.9614284,
             "converted_last": {
-                "btc": 0.00422241,
-                "eth": 0.11695847,
-                "usd": 153.74
+                "btc": 0.00431355,
+                "eth": 0.11051515,
+                "usd": 138.7
             },
             "converted_volume": {
-                "btc": 0.00936453,
-                "eth": 0.25939276,
-                "usd": 340.97
+                "btc": 0.00414717,
+                "eth": 0.10625241,
+                "usd": 133.35
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.254267,
-            "timestamp": "2021-01-19T05:19:31+00:00",
-            "last_traded_at": "2021-01-19T05:19:31+00:00",
-            "last_fetch_at": "2021-01-19T05:42:08+00:00",
+            "bid_ask_spread_percentage": 0.998936,
+            "timestamp": "2021-01-23T18:19:43+00:00",
+            "last_traded_at": "2021-01-23T18:19:43+00:00",
+            "last_fetch_at": "2021-01-23T18:19:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.southxchange.com/Market/Book/XMR/BTC",
@@ -2396,23 +2588,23 @@
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 155.49311293,
-            "volume": 91.27983394,
+            "last": 137.20125045,
+            "volume": 27.84283255,
             "converted_last": {
-                "btc": 0.00425237,
-                "eth": 0.11746562,
-                "usd": 155.21
+                "btc": 0.00425379,
+                "eth": 0.10997397,
+                "usd": 137.18
             },
             "converted_volume": {
-                "btc": 0.38815599,
-                "eth": 10.722243,
-                "usd": 14167.45
+                "btc": 0.11843762,
+                "eth": 3.061987,
+                "usd": 3819.5
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.155387,
-            "timestamp": "2021-01-19T04:05:26+00:00",
-            "last_traded_at": "2021-01-19T04:05:26+00:00",
-            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "bid_ask_spread_percentage": 0.353482,
+            "timestamp": "2021-01-23T18:01:37+00:00",
+            "last_traded_at": "2021-01-23T18:01:37+00:00",
+            "last_fetch_at": "2021-01-23T18:23:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#xmr_usdc",
@@ -2422,32 +2614,96 @@
         },
         {
             "base": "XMR",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
                 "name": "CREX24",
                 "identifier": "crex24",
                 "has_trading_incentive": false
             },
-            "last": 0.0042,
-            "volume": 5.43222194,
+            "last": 140.84,
+            "volume": 0.63482775,
             "converted_last": {
-                "btc": 0.0042,
-                "eth": 0.11572742,
-                "usd": 152.84
+                "btc": 0.00438305,
+                "eth": 0.11229598,
+                "usd": 140.94
             },
             "converted_volume": {
-                "btc": 0.02281533,
-                "eth": 0.62865703,
-                "usd": 830.24
+                "btc": 0.00278248,
+                "eth": 0.0712886,
+                "usd": 89.47
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.947867,
-            "timestamp": "2021-01-19T05:41:17+00:00",
-            "last_traded_at": "2021-01-19T05:41:17+00:00",
-            "last_fetch_at": "2021-01-19T05:41:17+00:00",
+            "bid_ask_spread_percentage": 1.232194,
+            "timestamp": "2021-01-23T18:19:30+00:00",
+            "last_traded_at": "2021-01-23T18:19:30+00:00",
+            "last_fetch_at": "2021-01-23T18:19:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crex24.com/exchange/XMR-BTC",
+            "trade_url": "https://crex24.com/exchange/XMR-USDT",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 139.159,
+            "volume": 312.506,
+            "converted_last": {
+                "btc": 0.00433048,
+                "eth": 0.11094904,
+                "usd": 139.25
+            },
+            "converted_volume": {
+                "btc": 1.353302,
+                "eth": 34.67224,
+                "usd": 43516
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.119255,
+            "timestamp": "2021-01-23T18:22:12+00:00",
+            "last_traded_at": "2021-01-23T18:22:12+00:00",
+            "last_fetch_at": "2021-01-23T18:22:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/xmrusdt",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "FinexBox",
+                "identifier": "finexbox",
+                "has_trading_incentive": false
+            },
+            "last": 0.00426505,
+            "volume": 392.0,
+            "converted_last": {
+                "btc": 0.00426505,
+                "eth": 0.10961531,
+                "usd": 137.36
+            },
+            "converted_volume": {
+                "btc": 1.6719,
+                "eth": 42.9692,
+                "usd": 53844
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10211,
+            "timestamp": "2021-01-23T18:15:28+00:00",
+            "last_traded_at": "2021-01-23T18:15:28+00:00",
+            "last_fetch_at": "2021-01-23T18:23:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.finexbox.com/Home/Orders/market/pair/XMR-BTC.html",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
@@ -2460,23 +2716,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.004192,
-            "volume": 46.81406639,
+            "last": 0.004338,
+            "volume": 94.34774455,
             "converted_last": {
-                "btc": 0.004192,
-                "eth": 0.11570788,
-                "usd": 152.86
+                "btc": 0.004338,
+                "eth": 0.11093257,
+                "usd": 139.54
             },
             "converted_volume": {
-                "btc": 0.19624457,
-                "eth": 5.416756,
-                "usd": 7155.85
+                "btc": 0.40928052,
+                "eth": 10.466238,
+                "usd": 13164.83
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.367047,
-            "timestamp": "2021-01-19T05:36:29+00:00",
-            "last_traded_at": "2021-01-19T05:36:29+00:00",
-            "last_fetch_at": "2021-01-19T05:36:29+00:00",
+            "bid_ask_spread_percentage": 1.009869,
+            "timestamp": "2021-01-23T18:23:23+00:00",
+            "last_traded_at": "2021-01-23T18:23:23+00:00",
+            "last_fetch_at": "2021-01-23T18:23:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/XMR_BTC",
@@ -2486,61 +2742,29 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "ZB",
-                "identifier": "zb",
-                "has_trading_incentive": false
-            },
-            "last": 153.623,
-            "volume": 283.383,
-            "converted_last": {
-                "btc": 0.00422193,
-                "eth": 0.11653405,
-                "usd": 153.89
-            },
-            "converted_volume": {
-                "btc": 1.196424,
-                "eth": 33.023769,
-                "usd": 43610
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.10065,
-            "timestamp": "2021-01-19T05:38:53+00:00",
-            "last_traded_at": "2021-01-19T05:38:53+00:00",
-            "last_fetch_at": "2021-01-19T05:38:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trans.zb.com/xmrusdt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
             "target": "USD",
             "market": {
                 "name": "BITEXBOOK",
                 "identifier": "bitexbook",
                 "has_trading_incentive": false
             },
-            "last": 153.2027,
-            "volume": 0.7421609000000002,
+            "last": 138.0024,
+            "volume": 0.7613401000000001,
             "converted_last": {
-                "btc": 0.0041989,
-                "eth": 0.11589842,
-                "usd": 153.2
+                "btc": 0.00427202,
+                "eth": 0.1104579,
+                "usd": 138.0
             },
             "converted_volume": {
-                "btc": 0.00311626,
-                "eth": 0.08601527,
-                "usd": 113.7
+                "btc": 0.00325246,
+                "eth": 0.08409603,
+                "usd": 105.07
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.16386,
-            "timestamp": "2021-01-19T05:33:43+00:00",
-            "last_traded_at": "2021-01-19T05:33:43+00:00",
-            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "bid_ask_spread_percentage": 2.939899,
+            "timestamp": "2021-01-23T17:54:58+00:00",
+            "last_traded_at": "2021-01-23T17:54:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bitexbook.com/trading/xmrusd",
@@ -2549,35 +2773,66 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
+            "target": "EUR",
             "market": {
-                "name": "BigONE",
-                "identifier": "bigone",
+                "name": "EXMO",
+                "identifier": "exmo",
                 "has_trading_incentive": false
             },
-            "last": 153.17,
-            "volume": 58.1614,
+            "last": 114.836087,
+            "volume": 160.79125678,
             "converted_last": {
-                "btc": 0.00419912,
-                "eth": 0.1161061,
-                "usd": 153.09
+                "btc": 0.00434812,
+                "eth": 0.1114008,
+                "usd": 139.81
             },
             "converted_volume": {
-                "btc": 0.24422663,
-                "eth": 6.752893,
-                "usd": 8903.79
+                "btc": 0.69913889,
+                "eth": 17.912275,
+                "usd": 22480
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.260247,
-            "timestamp": "2021-01-19T04:50:27+00:00",
-            "last_traded_at": "2021-01-19T04:50:27+00:00",
-            "last_fetch_at": "2021-01-19T05:37:11+00:00",
+            "bid_ask_spread_percentage": 0.299327,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://big.one/trade/XMR-USDT",
+            "trade_url": "https://exmo.com/en/trade/XMR_EUR",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "BITEXBOOK",
+                "identifier": "bitexbook",
+                "has_trading_incentive": false
+            },
+            "last": 0.00426856,
+            "volume": 7.915013049999998,
+            "converted_last": {
+                "btc": 0.00426856,
+                "eth": 0.11036835,
+                "usd": 137.89
+            },
+            "converted_volume": {
+                "btc": 0.03378571,
+                "eth": 0.87356693,
+                "usd": 1091.41
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.565015,
+            "timestamp": "2021-01-23T17:54:58+00:00",
+            "last_traded_at": "2021-01-23T17:54:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitexbook.com/trading/xmrbtc",
             "token_info_url": null,
             "coin_id": "monero",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -2587,23 +2842,23 @@
                 "identifier": "exmo",
                 "has_trading_incentive": false
             },
-            "last": 0.1161954,
-            "volume": 244.91046863,
+            "last": 0.11104899,
+            "volume": 227.2704829,
             "converted_last": {
-                "btc": 0.00421673,
-                "eth": 0.11618843,
-                "usd": 153.45
+                "btc": 0.00434646,
+                "eth": 0.11135834,
+                "usd": 139.75
             },
             "converted_volume": {
-                "btc": 1.032722,
-                "eth": 28.455763,
-                "usd": 37580
+                "btc": 0.98782149,
+                "eth": 25.308463,
+                "usd": 31762
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.299282,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "bid_ask_spread_percentage": 0.29932,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exmo.com/en/trade/XMR_ETH",
@@ -2615,122 +2870,27 @@
             "base": "XMR",
             "target": "BTC",
             "market": {
-                "name": "BITEXBOOK",
-                "identifier": "bitexbook",
-                "has_trading_incentive": false
-            },
-            "last": 0.00419893,
-            "volume": 7.264464240000001,
-            "converted_last": {
-                "btc": 0.00419893,
-                "eth": 0.11589916,
-                "usd": 153.2
-            },
-            "converted_volume": {
-                "btc": 0.03050298,
-                "eth": 0.84194531,
-                "usd": 1112.94
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.433156,
-            "timestamp": "2021-01-19T05:33:43+00:00",
-            "last_traded_at": "2021-01-19T05:33:43+00:00",
-            "last_fetch_at": "2021-01-19T05:41:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitexbook.com/trading/xmrbtc",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "EUR",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 127.221684,
-            "volume": 156.55269177,
-            "converted_last": {
-                "btc": 0.00422778,
-                "eth": 0.11649281,
-                "usd": 153.85
-            },
-            "converted_volume": {
-                "btc": 0.66186996,
-                "eth": 18.237263,
-                "usd": 24085
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.299373,
-            "timestamp": "2021-01-19T05:41:48+00:00",
-            "last_traded_at": "2021-01-19T05:41:48+00:00",
-            "last_fetch_at": "2021-01-19T05:41:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/XMR_EUR",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "BuyUcoin",
-                "identifier": "buyucoin",
-                "has_trading_incentive": false
-            },
-            "last": 153.4,
-            "volume": 348.285826,
-            "converted_last": {
-                "btc": 0.00422481,
-                "eth": 0.11744651,
-                "usd": 153.45
-            },
-            "converted_volume": {
-                "btc": 1.47144,
-                "eth": 40.904956,
-                "usd": 53444
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.703704,
-            "timestamp": "2021-01-19T05:03:08+00:00",
-            "last_traded_at": "2021-01-19T05:03:08+00:00",
-            "last_fetch_at": "2021-01-19T05:03:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
                 "name": "Tokenomy",
                 "identifier": "tokenomy",
                 "has_trading_incentive": false
             },
-            "last": 0.004227,
-            "volume": 80.54393945,
+            "last": 0.004331,
+            "volume": 217.18567289,
             "converted_last": {
-                "btc": 0.004227,
-                "eth": 0.11647138,
-                "usd": 153.69
+                "btc": 0.004331,
+                "eth": 0.11075357,
+                "usd": 139.31
             },
             "converted_volume": {
-                "btc": 0.34045923,
-                "eth": 9.381064,
-                "usd": 12379.18
+                "btc": 0.94063115,
+                "eth": 24.054088,
+                "usd": 30257
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.611947,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 3.080082,
+            "timestamp": "2021-01-23T18:25:41+00:00",
+            "last_traded_at": "2021-01-23T18:25:41+00:00",
+            "last_fetch_at": "2021-01-23T18:25:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.tokenomy.com/market/XMRBTC",
@@ -2740,29 +2900,60 @@
         },
         {
             "base": "XMR",
+            "target": "UAH",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 3880.4367,
+            "volume": 19.95720528,
+            "converted_last": {
+                "btc": 0.00428244,
+                "eth": 0.1097183,
+                "usd": 137.7
+            },
+            "converted_volume": {
+                "btc": 0.08546563,
+                "eth": 2.189671,
+                "usd": 2748.02
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299327,
+            "timestamp": "2021-01-23T18:21:25+00:00",
+            "last_traded_at": "2021-01-23T18:21:25+00:00",
+            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/XMR_UAH",
+            "token_info_url": null,
+            "coin_id": "monero"
+        },
+        {
+            "base": "XMR",
             "target": "ETH",
             "market": {
                 "name": "BITEXBOOK",
                 "identifier": "bitexbook",
                 "has_trading_incentive": false
             },
-            "last": 0.11602019,
-            "volume": 0.8707150800000003,
+            "last": 0.11028309,
+            "volume": 1.1731126399999998,
             "converted_last": {
-                "btc": 0.00421153,
-                "eth": 0.11624703,
-                "usd": 153.66
+                "btc": 0.00426906,
+                "eth": 0.11038124,
+                "usd": 137.91
             },
             "converted_volume": {
-                "btc": 0.00366705,
-                "eth": 0.10121804,
-                "usd": 133.8
+                "btc": 0.00500809,
+                "eth": 0.12948962,
+                "usd": 161.78
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.273529,
-            "timestamp": "2021-01-19T05:33:43+00:00",
-            "last_traded_at": "2021-01-19T05:33:43+00:00",
-            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "bid_ask_spread_percentage": 2.892753,
+            "timestamp": "2021-01-23T17:54:59+00:00",
+            "last_traded_at": "2021-01-23T17:54:59+00:00",
+            "last_fetch_at": "2021-01-23T18:18:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bitexbook.com/trading/xmreth",
@@ -2772,61 +2963,29 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "VCC Exchange",
-                "identifier": "vcc",
-                "has_trading_incentive": false
-            },
-            "last": 153.54,
-            "volume": 72773.67466,
-            "converted_last": {
-                "btc": 0.00422513,
-                "eth": 0.11641992,
-                "usd": 153.47
-            },
-            "converted_volume": {
-                "btc": 307.478,
-                "eth": 8472,
-                "usd": 11168545
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.132558,
-            "timestamp": "2021-01-19T05:43:40+00:00",
-            "last_traded_at": "2021-01-19T05:43:40+00:00",
-            "last_fetch_at": "2021-01-19T05:43:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=xmr",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
             "target": "USD",
             "market": {
                 "name": "BitHash",
                 "identifier": "bithash",
                 "has_trading_incentive": false
             },
-            "last": 154.32,
-            "volume": 11676.196371,
+            "last": 137.77,
+            "volume": 13546.025712,
             "converted_last": {
-                "btc": 0.00423185,
-                "eth": 0.11689627,
-                "usd": 154.32
+                "btc": 0.00428454,
+                "eth": 0.10977193,
+                "usd": 137.77
             },
             "converted_volume": {
-                "btc": 49.411964,
-                "eth": 1365,
-                "usd": 1801871
+                "btc": 58.038,
+                "eth": 1487,
+                "usd": 1866236
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.116407,
-            "timestamp": "2021-01-19T05:29:39+00:00",
-            "last_traded_at": "2021-01-19T05:29:39+00:00",
-            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "bid_ask_spread_percentage": 0.136306,
+            "timestamp": "2021-01-23T18:19:34+00:00",
+            "last_traded_at": "2021-01-23T18:19:34+00:00",
+            "last_fetch_at": "2021-01-23T18:19:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bithash.net/en/exchange/xmr/usd",
@@ -2837,27 +2996,59 @@
             "base": "XMR",
             "target": "BCH",
             "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.319853,
+            "volume": 11.176,
+            "converted_last": {
+                "btc": 0.00432333,
+                "eth": 0.11131384,
+                "usd": 139.38
+            },
+            "converted_volume": {
+                "btc": 0.04831755,
+                "eth": 1.244043,
+                "usd": 1557.72
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.114906,
+            "timestamp": "2021-01-23T16:40:16+00:00",
+            "last_traded_at": "2021-01-23T16:40:16+00:00",
+            "last_fetch_at": "2021-01-23T18:18:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XMR-to-BCH",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "XMR",
+            "target": "BCH",
+            "market": {
                 "name": "HitBTC",
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.294346,
-            "volume": 6.407,
+            "last": 0.319853,
+            "volume": 11.176,
             "converted_last": {
-                "btc": 0.0041984,
-                "eth": 0.11593033,
-                "usd": 154.3
+                "btc": 0.00427286,
+                "eth": 0.11001443,
+                "usd": 137.8
             },
             "converted_volume": {
-                "btc": 0.02689912,
-                "eth": 0.74276559,
-                "usd": 988.6
+                "btc": 0.04775352,
+                "eth": 1.229521,
+                "usd": 1540.04
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.317874,
-            "timestamp": "2021-01-19T03:14:04+00:00",
-            "last_traded_at": "2021-01-19T03:14:04+00:00",
-            "last_fetch_at": "2021-01-19T05:40:32+00:00",
+            "bid_ask_spread_percentage": 0.230298,
+            "timestamp": "2021-01-23T16:41:57+00:00",
+            "last_traded_at": "2021-01-23T16:41:57+00:00",
+            "last_fetch_at": "2021-01-23T18:21:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/XMR-to-BCH",
@@ -2867,29 +3058,61 @@
         },
         {
             "base": "XMR",
+            "target": "USDT",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 139.66,
+            "volume": 57111.68638,
+            "converted_last": {
+                "btc": 0.00434633,
+                "eth": 0.11135513,
+                "usd": 139.76
+            },
+            "converted_volume": {
+                "btc": 248.226,
+                "eth": 6360,
+                "usd": 7981797
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.121481,
+            "timestamp": "2021-01-23T18:18:58+00:00",
+            "last_traded_at": "2021-01-23T18:18:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=xmr",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
             "target": "BTC",
             "market": {
                 "name": "VCC Exchange",
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.004229,
-            "volume": 36175.855,
+            "last": 0.00435,
+            "volume": 29366.159,
             "converted_last": {
-                "btc": 0.004229,
-                "eth": 0.11652649,
-                "usd": 153.61
+                "btc": 0.00435,
+                "eth": 0.1114491,
+                "usd": 139.88
             },
             "converted_volume": {
-                "btc": 152.988,
-                "eth": 4215,
-                "usd": 5556975
+                "btc": 127.743,
+                "eth": 3273,
+                "usd": 4107610
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.170872,
-            "timestamp": "2021-01-19T05:43:31+00:00",
-            "last_traded_at": "2021-01-19T05:43:31+00:00",
-            "last_fetch_at": "2021-01-19T05:43:31+00:00",
+            "bid_ask_spread_percentage": 0.169029,
+            "timestamp": "2021-01-23T18:18:59+00:00",
+            "last_traded_at": "2021-01-23T18:18:59+00:00",
+            "last_fetch_at": "2021-01-23T18:18:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=xmr",
@@ -2901,65 +3124,33 @@
             "base": "XMR",
             "target": "BTC",
             "market": {
-                "name": "BitHash",
-                "identifier": "bithash",
+                "name": "BiONE",
+                "identifier": "bione",
                 "has_trading_incentive": false
             },
-            "last": 0.004206,
-            "volume": 6637.675408,
+            "last": 0.004331,
+            "volume": 318660.5756,
             "converted_last": {
-                "btc": 0.004206,
-                "eth": 0.1161821,
-                "usd": 153.38
+                "btc": 0.004331,
+                "eth": 0.11075357,
+                "usd": 139.31
             },
             "converted_volume": {
-                "btc": 27.918063,
-                "eth": 771.179,
-                "usd": 1018068
+                "btc": 1380,
+                "eth": 35293,
+                "usd": 44391786
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.121332,
-            "timestamp": "2021-01-19T05:29:39+00:00",
-            "last_traded_at": "2021-01-19T05:29:39+00:00",
-            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "bid_ask_spread_percentage": 0.50598,
+            "timestamp": "2021-01-23T18:24:08+00:00",
+            "last_traded_at": "2021-01-23T18:24:08+00:00",
+            "last_fetch_at": "2021-01-23T18:24:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bithash.net/en/exchange/xmr/btc",
+            "trade_url": "https://www.bione.me/zh_CN/trade/XMR_BTC",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
-            "target": "EOS",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 54.3593,
-            "volume": 0.627,
-            "converted_last": {
-                "btc": 0.00417425,
-                "eth": 0.11526362,
-                "usd": 153.44
-            },
-            "converted_volume": {
-                "btc": 0.00261726,
-                "eth": 0.07227029,
-                "usd": 96.2
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.342547,
-            "timestamp": "2021-01-19T03:13:35+00:00",
-            "last_traded_at": "2021-01-19T03:13:35+00:00",
-            "last_fetch_at": "2021-01-19T05:43:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/XMR-to-EOS",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "eos"
         },
         {
             "base": "XMR",
@@ -2969,23 +3160,23 @@
                 "identifier": "bithash",
                 "has_trading_incentive": false
             },
-            "last": 127.72441,
-            "volume": 4376.084737,
+            "last": 113.390375,
+            "volume": 4900.315617,
             "converted_last": {
-                "btc": 0.00423684,
-                "eth": 0.11703407,
-                "usd": 154.5
+                "btc": 0.00429221,
+                "eth": 0.11031326,
+                "usd": 138.05
             },
             "converted_volume": {
-                "btc": 18.540783,
-                "eth": 512.151,
-                "usd": 676113
+                "btc": 21.033169,
+                "eth": 540.57,
+                "usd": 676474
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.122914,
-            "timestamp": "2021-01-19T05:29:39+00:00",
-            "last_traded_at": "2021-01-19T05:29:39+00:00",
-            "last_fetch_at": "2021-01-19T05:35:52+00:00",
+            "bid_ask_spread_percentage": 0.130539,
+            "timestamp": "2021-01-23T18:17:05+00:00",
+            "last_traded_at": "2021-01-23T18:17:05+00:00",
+            "last_fetch_at": "2021-01-23T18:25:53+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bithash.net/en/exchange/xmr/eur",
@@ -2996,27 +3187,59 @@
             "base": "XMR",
             "target": "BTC",
             "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 0.004272,
+            "volume": 5633.91376,
+            "converted_last": {
+                "btc": 0.004272,
+                "eth": 0.10979393,
+                "usd": 137.4
+            },
+            "converted_volume": {
+                "btc": 24.06808,
+                "eth": 618.57,
+                "usd": 774084
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.184636,
+            "timestamp": "2021-01-23T18:17:06+00:00",
+            "last_traded_at": "2021-01-23T18:17:06+00:00",
+            "last_fetch_at": "2021-01-23T18:25:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/xmr/btc",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
                 "name": "Bidesk",
                 "identifier": "bidesk",
                 "has_trading_incentive": false
             },
-            "last": 0.004235,
-            "volume": 177618.3344,
+            "last": 0.004345,
+            "volume": 195036.9591,
             "converted_last": {
-                "btc": 0.004235,
-                "eth": 0.11669181,
-                "usd": 154.11
+                "btc": 0.004345,
+                "eth": 0.11111158,
+                "usd": 139.76
             },
             "converted_volume": {
-                "btc": 752.214,
-                "eth": 20727,
-                "usd": 27372842
+                "btc": 847.436,
+                "eth": 21671,
+                "usd": 27258840
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.377537,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "bid_ask_spread_percentage": 0.552232,
+            "timestamp": "2021-01-23T18:25:08+00:00",
+            "last_traded_at": "2021-01-23T18:25:08+00:00",
+            "last_fetch_at": "2021-01-23T18:25:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bidesk.com/exchange/XMR/BTC",
@@ -3032,23 +3255,23 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.004203,
-            "volume": 177867.5979,
+            "last": 0.004342,
+            "volume": 195227.3501,
             "converted_last": {
-                "btc": 0.004203,
-                "eth": 0.1160115,
-                "usd": 153.29
+                "btc": 0.004342,
+                "eth": 0.11103486,
+                "usd": 139.67
             },
             "converted_volume": {
-                "btc": 747.578,
-                "eth": 20635,
-                "usd": 27264636
+                "btc": 847.677,
+                "eth": 21677,
+                "usd": 27266610
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.402939,
-            "timestamp": "2021-01-19T05:35:45+00:00",
-            "last_traded_at": "2021-01-19T05:35:45+00:00",
-            "last_fetch_at": "2021-01-19T05:35:45+00:00",
+            "bid_ask_spread_percentage": 0.643382,
+            "timestamp": "2021-01-23T18:25:52+00:00",
+            "last_traded_at": "2021-01-23T18:25:52+00:00",
+            "last_fetch_at": "2021-01-23T18:25:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/XMR/BTC",
@@ -3064,23 +3287,23 @@
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 153.68,
-            "volume": 174114.82,
+            "last": 139.07,
+            "volume": 163234.17,
             "converted_last": {
-                "btc": 0.0042235,
-                "eth": 0.11637489,
-                "usd": 153.76
+                "btc": 0.00432375,
+                "eth": 0.11077659,
+                "usd": 139.03
             },
             "converted_volume": {
-                "btc": 735.374,
-                "eth": 20263,
-                "usd": 26771368
+                "btc": 705.784,
+                "eth": 18083,
+                "usd": 22694780
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.53264,
-            "timestamp": "2021-01-19T05:40:56+00:00",
-            "last_traded_at": "2021-01-19T05:40:56+00:00",
-            "last_fetch_at": "2021-01-19T05:40:56+00:00",
+            "bid_ask_spread_percentage": 0.43054,
+            "timestamp": "2021-01-23T18:22:43+00:00",
+            "last_traded_at": "2021-01-23T18:22:43+00:00",
+            "last_fetch_at": "2021-01-23T18:22:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/xmr_usdt",
@@ -3090,66 +3313,67 @@
         },
         {
             "base": "XMR",
-            "target": "RUB",
-            "market": {
-                "name": "BitHash",
-                "identifier": "bithash",
-                "has_trading_incentive": false
-            },
-            "last": 11366.028275,
-            "volume": 2200.812764,
-            "converted_last": {
-                "btc": 0.00422199,
-                "eth": 0.11662382,
-                "usd": 153.96
-            },
-            "converted_volume": {
-                "btc": 9.291812,
-                "eth": 256.667,
-                "usd": 338838
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.161823,
-            "timestamp": "2021-01-19T05:29:39+00:00",
-            "last_traded_at": "2021-01-19T05:29:39+00:00",
-            "last_fetch_at": "2021-01-19T05:35:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithash.net/en/exchange/xmr/rub",
-            "token_info_url": null,
-            "coin_id": "monero"
-        },
-        {
-            "base": "XMR",
             "target": "USDT",
             "market": {
-                "name": "Binance JEX",
-                "identifier": "jex",
+                "name": "CoinBene",
+                "identifier": "coinbene",
                 "has_trading_incentive": false
             },
-            "last": 153.36,
-            "volume": 37643.5566,
+            "last": 139.11,
+            "volume": 96723.80224282942,
             "converted_last": {
-                "btc": 0.00420248,
-                "eth": 0.11599717,
-                "usd": 153.34
+                "btc": 0.00432896,
+                "eth": 0.11090997,
+                "usd": 139.19
             },
             "converted_volume": {
-                "btc": 158.196,
-                "eth": 4367,
-                "usd": 5772218
+                "btc": 418.713,
+                "eth": 10728,
+                "usd": 13463102
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.867724,
-            "timestamp": "2021-01-19T05:34:19+00:00",
-            "last_traded_at": "2021-01-19T05:34:19+00:00",
-            "last_fetch_at": "2021-01-19T05:34:19+00:00",
+            "bid_ask_spread_percentage": 0.394775,
+            "timestamp": "2021-01-23T18:21:36+00:00",
+            "last_traded_at": "2021-01-23T18:21:36+00:00",
+            "last_fetch_at": "2021-01-23T18:21:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.coinbene.com/spot/exchange/XMR_USDT",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "XMR",
+            "target": "BTC",
+            "market": {
+                "name": "CoinBene",
+                "identifier": "coinbene",
+                "has_trading_incentive": false
+            },
+            "last": 0.004329,
+            "volume": 94074.75490875491,
+            "converted_last": {
+                "btc": 0.004329,
+                "eth": 0.11070242,
+                "usd": 139.25
+            },
+            "converted_volume": {
+                "btc": 407.25,
+                "eth": 10414,
+                "usd": 13099503
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.69029,
+            "timestamp": "2021-01-23T18:23:37+00:00",
+            "last_traded_at": "2021-01-23T18:23:37+00:00",
+            "last_fetch_at": "2021-01-23T18:23:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinbene.com/spot/exchange/XMR_BTC",
+            "token_info_url": null,
+            "coin_id": "monero",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XMR",
@@ -3159,23 +3383,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.11635,
-            "volume": 2874.615,
+            "last": 0.11152,
+            "volume": 1713.809,
             "converted_last": {
-                "btc": 0.00422234,
-                "eth": 0.11634302,
-                "usd": 153.37
+                "btc": 0.00436489,
+                "eth": 0.11183066,
+                "usd": 140.35
             },
             "converted_volume": {
-                "btc": 12.137606,
-                "eth": 334.441,
-                "usd": 440875
+                "btc": 7.480593,
+                "eth": 191.656,
+                "usd": 240541
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.351027,
-            "timestamp": "2021-01-19T05:43:29+00:00",
-            "last_traded_at": "2021-01-19T05:43:29+00:00",
-            "last_fetch_at": "2021-01-19T05:43:29+00:00",
+            "bid_ask_spread_percentage": 0.763153,
+            "timestamp": "2021-01-23T18:19:00+00:00",
+            "last_traded_at": "2021-01-23T18:19:00+00:00",
+            "last_fetch_at": "2021-01-23T18:19:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=eth&coin=xmr",
@@ -3185,259 +3409,35 @@
         },
         {
             "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "CoinBene",
-                "identifier": "coinbene",
-                "has_trading_incentive": false
-            },
-            "last": 153.02,
-            "volume": 87511.38465560057,
-            "converted_last": {
-                "btc": 0.00417795,
-                "eth": 0.11523657,
-                "usd": 152.96
-            },
-            "converted_volume": {
-                "btc": 365.618,
-                "eth": 10085,
-                "usd": 13386008
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.745334,
-            "timestamp": "2021-01-19T03:25:57+00:00",
-            "last_traded_at": "2021-01-19T03:25:57+00:00",
-            "last_fetch_at": "2021-01-19T03:25:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinbene.com/#/market?pairId=XMRUSDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "BitBNS",
-                "identifier": "bitbns",
-                "has_trading_incentive": false
-            },
-            "last": 154.88,
-            "volume": 206.3754,
-            "converted_last": {
-                "btc": 0.00423758,
-                "eth": 0.11667168,
-                "usd": 154.79
-            },
-            "converted_volume": {
-                "btc": 0.87453137,
-                "eth": 24.078164,
-                "usd": 31945
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.047188,
-            "timestamp": "2021-01-19T04:30:04+00:00",
-            "last_traded_at": "2021-01-19T04:30:04+00:00",
-            "last_fetch_at": "2021-01-19T05:42:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitbns.com/trade/#/xmr",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "EXX",
-                "identifier": "exx",
-                "has_trading_incentive": true
-            },
-            "last": 153.61,
-            "volume": 57113.6986,
-            "converted_last": {
-                "btc": 0.00422706,
-                "eth": 0.116473,
-                "usd": 153.7
-            },
-            "converted_volume": {
-                "btc": 241.423,
-                "eth": 6652,
-                "usd": 8778194
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 3.843453,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.exx.com/tradeCoding/xmr_usdt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "DragonEx",
-                "identifier": "dragonex",
-                "has_trading_incentive": false
-            },
-            "last": 153.2801,
-            "volume": 30035.4756,
-            "converted_last": {
-                "btc": 0.00421251,
-                "eth": 0.11607206,
-                "usd": 153.36
-            },
-            "converted_volume": {
-                "btc": 126.525,
-                "eth": 3486,
-                "usd": 4606147
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.049629,
-            "timestamp": "2021-01-19T05:40:09+00:00",
-            "last_traded_at": "2021-01-19T05:40:09+00:00",
-            "last_fetch_at": "2021-01-19T05:40:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://dragonex.io/en-us/trade/index/xmr_usdt",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 152.79,
-            "volume": 9.8515,
-            "converted_last": {
-                "btc": 0.00414965,
-                "eth": 0.11488036,
-                "usd": 152.57
-            },
-            "converted_volume": {
-                "btc": 0.04088026,
-                "eth": 1.131744,
-                "usd": 1503.08
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.480582,
-            "timestamp": "2021-01-19T02:55:37+00:00",
-            "last_traded_at": "2021-01-19T02:55:37+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=XMR_USDT",
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XMR",
-            "target": "BTC",
-            "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
-                "has_trading_incentive": false
-            },
-            "last": 0.004227,
-            "volume": 7138.37359,
-            "converted_last": {
-                "btc": 0.004227,
-                "eth": 0.11647138,
-                "usd": 153.82
-            },
-            "converted_volume": {
-                "btc": 30.173905,
-                "eth": 831.416,
-                "usd": 1098020
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.034564,
-            "timestamp": "2021-01-19T05:41:58+00:00",
-            "last_traded_at": "2021-01-19T05:41:58+00:00",
-            "last_fetch_at": "2021-01-19T05:41:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XMR",
             "target": "ETH",
             "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
+                "name": "BiONE",
+                "identifier": "bione",
                 "has_trading_incentive": false
             },
-            "last": 0.11584,
-            "volume": 1544.22053,
+            "last": 0.110775,
+            "volume": 42747.8359,
             "converted_last": {
-                "btc": 0.00419572,
-                "eth": 0.11589827,
-                "usd": 152.81
+                "btc": 0.00433573,
+                "eth": 0.11087461,
+                "usd": 139.46
             },
             "converted_volume": {
-                "btc": 6.479124,
-                "eth": 178.972,
-                "usd": 235971
+                "btc": 185.343,
+                "eth": 4740,
+                "usd": 5961600
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.994343,
-            "timestamp": "2021-01-19T05:27:59+00:00",
-            "last_traded_at": "2021-01-19T05:27:59+00:00",
-            "last_fetch_at": "2021-01-19T05:27:59+00:00",
+            "bid_ask_spread_percentage": 0.56546,
+            "timestamp": "2021-01-23T18:24:05+00:00",
+            "last_traded_at": "2021-01-23T18:24:05+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.bione.me/zh_CN/trade/XMR_ETH",
             "token_info_url": null,
             "coin_id": "monero",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XMR",
-            "target": "USDT",
-            "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
-                "has_trading_incentive": false
-            },
-            "last": 153.09,
-            "volume": 2402.83593,
-            "converted_last": {
-                "btc": 0.00420904,
-                "eth": 0.11626615,
-                "usd": 153.32
-            },
-            "converted_volume": {
-                "btc": 10.113639,
-                "eth": 279.368,
-                "usd": 368396
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.91745,
-            "timestamp": "2021-01-19T05:28:00+00:00",
-            "last_traded_at": "2021-01-19T05:28:00+00:00",
-            "last_fetch_at": "2021-01-19T05:28:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "monero",
-            "target_coin_id": "tether"
         }
     ]
 }

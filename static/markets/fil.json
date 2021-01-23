@@ -103,21 +103,21 @@
     },
     "country_origin": "",
     "genesis_date": null,
-    "sentiment_votes_up_percentage": 63.24,
-    "sentiment_votes_down_percentage": 36.76,
-    "market_cap_rank": 42,
+    "sentiment_votes_up_percentage": 63.27,
+    "sentiment_votes_down_percentage": 36.73,
+    "market_cap_rank": 39,
     "coingecko_rank": 360,
-    "coingecko_score": 29.603,
+    "coingecko_score": 29.999,
     "developer_score": 0.0,
-    "community_score": 10.651,
-    "liquidity_score": 59.886,
+    "community_score": 11.596,
+    "liquidity_score": 60.742,
     "public_interest_score": 0.051,
     "public_interest_stats": {
         "alexa_rank": 36454,
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-19T05:43:24.137Z",
+    "last_updated": "2021-01-23T18:27:04.753Z",
     "tickers": [
         {
             "base": "FIL",
@@ -127,23 +127,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 23.7516,
-            "volume": 1454605.0203822479,
+            "last": 23.1769,
+            "volume": 1702903.703590342,
             "converted_last": {
-                "btc": 0.00065275,
-                "eth": 0.01798601,
-                "usd": 23.75
+                "btc": 0.00072135,
+                "eth": 0.01844651,
+                "usd": 23.19
             },
             "converted_volume": {
-                "btc": 949.495,
-                "eth": 26163,
-                "usd": 34551872
+                "btc": 1228,
+                "eth": 31413,
+                "usd": 39497521
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.125722,
-            "timestamp": "2021-01-19T05:41:27+00:00",
-            "last_traded_at": "2021-01-19T05:41:27+00:00",
-            "last_fetch_at": "2021-01-19T05:41:27+00:00",
+            "bid_ask_spread_percentage": 0.12469,
+            "timestamp": "2021-01-23T18:26:42+00:00",
+            "last_traded_at": "2021-01-23T18:26:42+00:00",
+            "last_fetch_at": "2021-01-23T18:26:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/FIL_USDT",
@@ -159,26 +159,58 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 23.7258,
-            "volume": 2184340.2925289385,
+            "last": 23.1747,
+            "volume": 2001963.7134667654,
             "converted_last": {
-                "btc": 0.00065289,
-                "eth": 0.01798981,
-                "usd": 23.74
+                "btc": 0.00072051,
+                "eth": 0.01842514,
+                "usd": 23.18
             },
             "converted_volume": {
-                "btc": 1426,
-                "eth": 39296,
-                "usd": 51854515
+                "btc": 1442,
+                "eth": 36886,
+                "usd": 46397891
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100421,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.115106,
+            "timestamp": "2021-01-23T18:25:16+00:00",
+            "last_traded_at": "2021-01-23T18:25:16+00:00",
+            "last_fetch_at": "2021-01-23T18:25:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_usdt",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Coinlist",
+                "identifier": "coinlist",
+                "has_trading_incentive": false
+            },
+            "last": 23.15,
+            "volume": 3577.801,
+            "converted_last": {
+                "btc": 0.00072051,
+                "eth": 0.0184251,
+                "usd": 23.17
+            },
+            "converted_volume": {
+                "btc": 2.577843,
+                "eth": 65.921,
+                "usd": 82888
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.216076,
+            "timestamp": "2021-01-23T18:26:32+00:00",
+            "last_traded_at": "2021-01-23T18:26:32+00:00",
+            "last_fetch_at": "2021-01-23T18:26:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinlist.co/trader/FIL-USDT",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -191,60 +223,28 @@
                 "identifier": "coinlist",
                 "has_trading_incentive": false
             },
-            "last": 23.76,
-            "volume": 73163.0938,
+            "last": 23.17,
+            "volume": 24540.8756,
             "converted_last": {
-                "btc": 0.00065266,
-                "eth": 0.01798336,
-                "usd": 23.76
+                "btc": 0.00072057,
+                "eth": 0.01846132,
+                "usd": 23.17
             },
             "converted_volume": {
-                "btc": 47.750285,
-                "eth": 1316,
-                "usd": 1738355
+                "btc": 17.683387,
+                "eth": 453.057,
+                "usd": 568612
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.18414,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
+            "bid_ask_spread_percentage": 0.259067,
+            "timestamp": "2021-01-23T18:19:04+00:00",
+            "last_traded_at": "2021-01-23T18:19:04+00:00",
+            "last_fetch_at": "2021-01-23T18:26:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinlist.co/trader/FIL-USD",
             "token_info_url": null,
             "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Coinlist",
-                "identifier": "coinlist",
-                "has_trading_incentive": false
-            },
-            "last": 23.73,
-            "volume": 20185.5209,
-            "converted_last": {
-                "btc": 0.00065216,
-                "eth": 0.01796965,
-                "usd": 23.74
-            },
-            "converted_volume": {
-                "btc": 13.164145,
-                "eth": 362.727,
-                "usd": 479242
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.168421,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinlist.co/trader/FIL-USDT",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
         },
         {
             "base": "FIL",
@@ -254,23 +254,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.0006533,
-            "volume": 178302.8192866983,
+            "last": 0.0007209,
+            "volume": 344809.4458870856,
             "converted_last": {
-                "btc": 0.0006533,
-                "eth": 0.01800112,
-                "usd": 23.77
+                "btc": 0.0007209,
+                "eth": 0.01843506,
+                "usd": 23.19
             },
             "converted_volume": {
-                "btc": 116.485,
-                "eth": 3210,
-                "usd": 4238865
+                "btc": 248.573,
+                "eth": 6357,
+                "usd": 7995670
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.137657,
-            "timestamp": "2021-01-19T05:41:03+00:00",
-            "last_traded_at": "2021-01-19T05:41:03+00:00",
-            "last_fetch_at": "2021-01-19T05:41:03+00:00",
+            "bid_ask_spread_percentage": 0.183206,
+            "timestamp": "2021-01-23T18:25:24+00:00",
+            "last_traded_at": "2021-01-23T18:25:24+00:00",
+            "last_fetch_at": "2021-01-23T18:25:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/FIL_BTC",
@@ -282,30 +282,30 @@
             "base": "FIL",
             "target": "BTC",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.000653,
-            "volume": 53548.806785378416,
+            "last": 0.00072126,
+            "volume": 35333.594,
             "converted_last": {
-                "btc": 0.000653,
-                "eth": 0.01799286,
-                "usd": 23.74
+                "btc": 0.00072126,
+                "eth": 0.01844427,
+                "usd": 23.2
             },
             "converted_volume": {
-                "btc": 34.967371,
-                "eth": 963.496,
-                "usd": 1271422
+                "btc": 25.484708,
+                "eth": 651.702,
+                "usd": 819720
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.305344,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.178769,
+            "timestamp": "2021-01-23T18:24:38+00:00",
+            "last_traded_at": "2021-01-23T18:24:38+00:00",
+            "last_fetch_at": "2021-01-23T18:24:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_btc",
+            "trade_url": "https://pro.coinbase.com/trade/FIL-BTC",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "bitcoin"
@@ -318,124 +318,28 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 23.7776,
-            "volume": 290080.0,
+            "last": 23.1668,
+            "volume": 232379.949,
             "converted_last": {
-                "btc": 0.00065342,
-                "eth": 0.0180043,
-                "usd": 23.78
+                "btc": 0.00072024,
+                "eth": 0.0184183,
+                "usd": 23.17
             },
             "converted_volume": {
-                "btc": 189.543,
-                "eth": 5223,
-                "usd": 6897406
+                "btc": 167.37,
+                "eth": 4280,
+                "usd": 5383500
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.150941,
-            "timestamp": "2021-01-19T05:41:30+00:00",
-            "last_traded_at": "2021-01-19T05:41:30+00:00",
-            "last_fetch_at": "2021-01-19T05:41:30+00:00",
+            "bid_ask_spread_percentage": 0.171984,
+            "timestamp": "2021-01-23T18:24:43+00:00",
+            "last_traded_at": "2021-01-23T18:24:43+00:00",
+            "last_fetch_at": "2021-01-23T18:24:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/FIL-USD",
             "token_info_url": null,
             "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00065286,
-            "volume": 45639.408,
-            "converted_last": {
-                "btc": 0.00065286,
-                "eth": 0.017989,
-                "usd": 23.78
-            },
-            "converted_volume": {
-                "btc": 29.796144,
-                "eth": 821.007,
-                "usd": 1085191
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.138227,
-            "timestamp": "2021-01-19T05:39:56+00:00",
-            "last_traded_at": "2021-01-19T05:39:56+00:00",
-            "last_fetch_at": "2021-01-19T05:41:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/FIL-BTC",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "FIL",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 23.7741,
-            "volume": 70100.69691559301,
-            "converted_last": {
-                "btc": 0.00065329,
-                "eth": 0.01800076,
-                "usd": 23.75
-            },
-            "converted_volume": {
-                "btc": 45.795861,
-                "eth": 1262,
-                "usd": 1665148
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.270226,
-            "timestamp": "2021-01-19T05:42:05+00:00",
-            "last_traded_at": "2021-01-19T05:42:05+00:00",
-            "last_fetch_at": "2021-01-19T05:42:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/FIL_BUSD",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 23.79,
-            "volume": 100485.75935017,
-            "converted_last": {
-                "btc": 0.00065256,
-                "eth": 0.018012,
-                "usd": 23.79
-            },
-            "converted_volume": {
-                "btc": 65.573,
-                "eth": 1810,
-                "usd": 2391048
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.18414,
-            "timestamp": "2021-01-19T05:36:31+00:00",
-            "last_traded_at": "2021-01-19T05:36:31+00:00",
-            "last_fetch_at": "2021-01-19T05:36:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/FIL_USDT",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
         },
         {
             "base": "FIL",
@@ -445,23 +349,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 23.74,
-            "volume": 838872.4095,
+            "last": 23.16,
+            "volume": 965704.1258,
             "converted_last": {
-                "btc": 0.00065119,
-                "eth": 0.01797414,
-                "usd": 23.74
+                "btc": 0.00072071,
+                "eth": 0.01846506,
+                "usd": 23.17
             },
             "converted_volume": {
-                "btc": 546.264,
-                "eth": 15078,
-                "usd": 19912042
+                "btc": 695.997,
+                "eth": 17832,
+                "usd": 22380132
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.210261,
-            "timestamp": "2021-01-19T05:37:32+00:00",
-            "last_traded_at": "2021-01-19T05:37:32+00:00",
-            "last_fetch_at": "2021-01-19T05:37:32+00:00",
+            "bid_ask_spread_percentage": 0.172563,
+            "timestamp": "2021-01-23T18:20:38+00:00",
+            "last_traded_at": "2021-01-23T18:20:38+00:00",
+            "last_fetch_at": "2021-01-23T18:20:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=fil_usdt",
@@ -473,61 +377,157 @@
             "base": "FIL",
             "target": "USD",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Gemini",
+                "identifier": "gemini",
                 "has_trading_incentive": false
             },
-            "last": 23.819,
-            "volume": 296499.89911046,
+            "last": 23.1471,
+            "volume": 26615.88117567,
             "converted_last": {
-                "btc": 0.00065346,
-                "eth": 0.01803694,
-                "usd": 23.82
+                "btc": 0.00071986,
+                "eth": 0.01844307,
+                "usd": 23.15
             },
             "converted_volume": {
-                "btc": 193.752,
-                "eth": 5348,
-                "usd": 7062331
+                "btc": 19.159616,
+                "eth": 490.879,
+                "usd": 616080
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.105016,
-            "timestamp": "2021-01-19T05:38:23+00:00",
-            "last_traded_at": "2021-01-19T05:38:23+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.204729,
+            "timestamp": "2021-01-23T18:19:14+00:00",
+            "last_traded_at": "2021-01-23T18:19:14+00:00",
+            "last_fetch_at": "2021-01-23T18:19:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/fil/usd",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "filecoin"
         },
         {
             "base": "FIL",
-            "target": "USD",
+            "target": "BUSD",
             "market": {
-                "name": "Gemini",
-                "identifier": "gemini",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 23.831,
-            "volume": 13581.86930057,
+            "last": 23.209,
+            "volume": 57024.93163199621,
             "converted_last": {
-                "btc": 0.00065488,
-                "eth": 0.01804474,
-                "usd": 23.83
+                "btc": 0.00072148,
+                "eth": 0.0184499,
+                "usd": 23.2
             },
             "converted_volume": {
-                "btc": 8.894533,
-                "eth": 245.081,
-                "usd": 323670
+                "btc": 41.142358,
+                "eth": 1052,
+                "usd": 1322892
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.376348,
-            "timestamp": "2021-01-19T05:41:24+00:00",
-            "last_traded_at": "2021-01-19T05:41:24+00:00",
-            "last_fetch_at": "2021-01-19T05:41:24+00:00",
+            "bid_ask_spread_percentage": 0.207247,
+            "timestamp": "2021-01-23T18:26:39+00:00",
+            "last_traded_at": "2021-01-23T18:26:39+00:00",
+            "last_fetch_at": "2021-01-23T18:26:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.binance.com/en/trade/FIL_BUSD",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "FIL",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.000721,
+            "volume": 74574.89217368283,
+            "converted_last": {
+                "btc": 0.000721,
+                "eth": 0.01843762,
+                "usd": 23.19
+            },
+            "converted_volume": {
+                "btc": 53.768,
+                "eth": 1375,
+                "usd": 1729532
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.138696,
+            "timestamp": "2021-01-23T18:25:09+00:00",
+            "last_traded_at": "2021-01-23T18:25:09+00:00",
+            "last_fetch_at": "2021-01-23T18:25:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_btc",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 23.12,
+            "volume": 110159.48499883,
+            "converted_last": {
+                "btc": 0.00071947,
+                "eth": 0.01843317,
+                "usd": 23.13
+            },
+            "converted_volume": {
+                "btc": 79.256,
+                "eth": 2031,
+                "usd": 2548374
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.143215,
+            "timestamp": "2021-01-23T18:21:58+00:00",
+            "last_traded_at": "2021-01-23T18:21:58+00:00",
+            "last_fetch_at": "2021-01-23T18:21:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/FIL_USDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 23.172,
+            "volume": 154114.12101708,
+            "converted_last": {
+                "btc": 0.00072067,
+                "eth": 0.01846385,
+                "usd": 23.17
+            },
+            "converted_volume": {
+                "btc": 111.065,
+                "eth": 2846,
+                "usd": 3571132
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.173383,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/fil/usd",
             "token_info_url": null,
             "coin_id": "filecoin"
         },
@@ -539,60 +539,28 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 19.701,
-            "volume": 27714.88990206,
+            "last": 18.995,
+            "volume": 18049.34564125,
             "converted_last": {
-                "btc": 0.00065361,
-                "eth": 0.01804103,
-                "usd": 23.82
+                "btc": 0.00071922,
+                "eth": 0.01842677,
+                "usd": 23.13
             },
             "converted_volume": {
-                "btc": 18.114772,
-                "eth": 500.005,
-                "usd": 660291
+                "btc": 12.981456,
+                "eth": 332.591,
+                "usd": 417399
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.157193,
-            "timestamp": "2021-01-19T05:38:23+00:00",
-            "last_traded_at": "2021-01-19T05:38:23+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.126031,
+            "timestamp": "2021-01-23T18:21:21+00:00",
+            "last_traded_at": "2021-01-23T18:21:21+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/fil/eur",
             "token_info_url": null,
             "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.52542,
-            "volume": 8991.130699250123,
-            "converted_last": {
-                "btc": 0.00065304,
-                "eth": 0.01799408,
-                "usd": 23.74
-            },
-            "converted_volume": {
-                "btc": 5.871609,
-                "eth": 161.787,
-                "usd": 213493
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.432974,
-            "timestamp": "2021-01-19T05:42:02+00:00",
-            "last_traded_at": "2021-01-19T05:42:02+00:00",
-            "last_fetch_at": "2021-01-19T05:42:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/FIL_BNB",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "binancecoin"
         },
         {
             "base": "FIL",
@@ -602,23 +570,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 19.696,
-            "volume": 58953.194,
+            "last": 19.0482,
+            "volume": 31834.135,
             "converted_last": {
-                "btc": 0.00065398,
-                "eth": 0.01801991,
-                "usd": 23.82
+                "btc": 0.00072097,
+                "eth": 0.01843693,
+                "usd": 23.19
             },
             "converted_volume": {
-                "btc": 38.554316,
-                "eth": 1062,
-                "usd": 1404169
+                "btc": 22.95155,
+                "eth": 586.924,
+                "usd": 738241
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.125543,
-            "timestamp": "2021-01-19T05:39:40+00:00",
-            "last_traded_at": "2021-01-19T05:39:40+00:00",
-            "last_fetch_at": "2021-01-19T05:41:29+00:00",
+            "bid_ask_spread_percentage": 0.120636,
+            "timestamp": "2021-01-23T18:24:42+00:00",
+            "last_traded_at": "2021-01-23T18:24:42+00:00",
+            "last_fetch_at": "2021-01-23T18:24:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/FIL-EUR",
@@ -629,128 +597,65 @@
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
+                "name": "ZBG",
+                "identifier": "zbg",
                 "has_trading_incentive": false
             },
-            "last": 23.731,
-            "volume": 62819.5008116,
+            "last": 23.1712,
+            "volume": 502229.74,
             "converted_last": {
-                "btc": 0.00065303,
-                "eth": 0.01799375,
-                "usd": 23.74
+                "btc": 0.00072117,
+                "eth": 0.01844197,
+                "usd": 23.2
             },
             "converted_volume": {
-                "btc": 41.023178,
-                "eth": 1130,
-                "usd": 1491612
+                "btc": 362.193,
+                "eth": 9262,
+                "usd": 11650402
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.140458,
-            "timestamp": "2021-01-19T05:42:17+00:00",
-            "last_traded_at": "2021-01-19T05:42:17+00:00",
-            "last_fetch_at": "2021-01-19T05:42:17+00:00",
+            "bid_ask_spread_percentage": 0.614609,
+            "timestamp": "2021-01-23T18:25:23+00:00",
+            "last_traded_at": "2021-01-23T18:25:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.0006518,
-            "volume": 31522.562,
-            "converted_last": {
-                "btc": 0.0006518,
-                "eth": 0.01795779,
-                "usd": 23.68
-            },
-            "converted_volume": {
-                "btc": 20.546406,
-                "eth": 566.075,
-                "usd": 746305
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.29199,
-            "timestamp": "2021-01-19T05:44:11+00:00",
-            "last_traded_at": "2021-01-19T05:44:11+00:00",
-            "last_fetch_at": "2021-01-19T05:44:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=FIL_BTC",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "ZBG",
-                "identifier": "zbg",
+                "name": "CoinTiger",
+                "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 23.7555,
-            "volume": 482606.18,
+            "last": 23.1438,
+            "volume": 61678.91,
             "converted_last": {
-                "btc": 0.00065286,
-                "eth": 0.01798896,
-                "usd": 23.76
+                "btc": 0.00071955,
+                "eth": 0.01840058,
+                "usd": 23.14
             },
             "converted_volume": {
-                "btc": 315.074,
-                "eth": 8682,
-                "usd": 11465439
+                "btc": 44.381155,
+                "eth": 1135,
+                "usd": 1427555
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.601446,
-            "timestamp": "2021-01-19T05:41:08+00:00",
-            "last_traded_at": "2021-01-19T05:41:08+00:00",
-            "last_fetch_at": "2021-01-19T05:41:08+00:00",
+            "bid_ask_spread_percentage": 0.14664,
+            "timestamp": "2021-01-23T18:23:48+00:00",
+            "last_traded_at": "2021-01-23T18:23:48+00:00",
+            "last_fetch_at": "2021-01-23T18:23:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "USD",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 23.869,
-            "volume": 7335.89236817,
-            "converted_last": {
-                "btc": 0.00065537,
-                "eth": 0.01805822,
-                "usd": 23.87
-            },
-            "converted_volume": {
-                "btc": 4.80774,
-                "eth": 132.473,
-                "usd": 175100
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.251783,
-            "timestamp": "2021-01-19T05:39:07+00:00",
-            "last_traded_at": "2021-01-19T05:39:07+00:00",
-            "last_fetch_at": "2021-01-19T05:42:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/FILUSD",
-            "token_info_url": null,
-            "coin_id": "filecoin"
         },
         {
             "base": "FIL",
@@ -760,60 +665,28 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 17.5104,
-            "volume": 28990.636,
+            "last": 16.9162,
+            "volume": 26421.291,
             "converted_last": {
-                "btc": 0.00065466,
-                "eth": 0.01803872,
-                "usd": 23.82
+                "btc": 0.00071954,
+                "eth": 0.01840022,
+                "usd": 23.14
             },
             "converted_volume": {
-                "btc": 18.979141,
-                "eth": 522.954,
-                "usd": 690646
+                "btc": 19.011109,
+                "eth": 486.157,
+                "usd": 611496
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.220828,
-            "timestamp": "2021-01-19T05:41:33+00:00",
-            "last_traded_at": "2021-01-19T05:41:33+00:00",
-            "last_fetch_at": "2021-01-19T05:41:33+00:00",
+            "bid_ask_spread_percentage": 0.260344,
+            "timestamp": "2021-01-23T18:24:43+00:00",
+            "last_traded_at": "2021-01-23T18:24:43+00:00",
+            "last_fetch_at": "2021-01-23T18:27:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/FIL-GBP",
             "token_info_url": null,
             "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "XBT",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.0006513,
-            "volume": 21301.57205317,
-            "converted_last": {
-                "btc": 0.0006513,
-                "eth": 0.01794602,
-                "usd": 23.71
-            },
-            "converted_volume": {
-                "btc": 13.873714,
-                "eth": 382.278,
-                "usd": 505074
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.168093,
-            "timestamp": "2021-01-19T05:40:11+00:00",
-            "last_traded_at": "2021-01-19T05:40:11+00:00",
-            "last_fetch_at": "2021-01-19T05:40:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/fil/xbt",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "FIL",
@@ -823,23 +696,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 23.89,
-            "volume": 9993.01567892,
+            "last": 23.24,
+            "volume": 25938.24414259,
             "converted_last": {
-                "btc": 0.00065655,
-                "eth": 0.01809081,
-                "usd": 23.9
+                "btc": 0.00072254,
+                "eth": 0.01847706,
+                "usd": 23.24
             },
             "converted_volume": {
-                "btc": 6.560964,
-                "eth": 180.782,
-                "usd": 238853
+                "btc": 18.741483,
+                "eth": 479.263,
+                "usd": 602823
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.251256,
-            "timestamp": "2021-01-19T05:40:43+00:00",
-            "last_traded_at": "2021-01-19T05:40:43+00:00",
-            "last_fetch_at": "2021-01-19T05:40:43+00:00",
+            "bid_ask_spread_percentage": 0.215054,
+            "timestamp": "2021-01-23T18:24:13+00:00",
+            "last_traded_at": "2021-01-23T18:24:13+00:00",
+            "last_fetch_at": "2021-01-23T18:24:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=FIL",
@@ -849,35 +722,98 @@
         },
         {
             "base": "FIL",
-            "target": "USDT",
+            "target": "XBT",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 23.7279,
-            "volume": 35569.3946,
+            "last": 0.0007194,
+            "volume": 15092.34908899,
             "converted_last": {
-                "btc": 0.00065295,
-                "eth": 0.01798939,
-                "usd": 23.72
+                "btc": 0.0007194,
+                "eth": 0.01843137,
+                "usd": 23.13
             },
             "converted_volume": {
-                "btc": 23.224938,
-                "eth": 639.872,
-                "usd": 843597
+                "btc": 10.857436,
+                "eth": 278.173,
+                "usd": 349105
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.390791,
-            "timestamp": "2021-01-19T05:44:12+00:00",
-            "last_traded_at": "2021-01-19T05:44:12+00:00",
-            "last_fetch_at": "2021-01-19T05:44:12+00:00",
+            "bid_ask_spread_percentage": 0.208218,
+            "timestamp": "2021-01-23T18:21:21+00:00",
+            "last_traded_at": "2021-01-23T18:21:21+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=FIL_USDT",
+            "trade_url": "https://trade.kraken.com/markets/kraken/fil/xbt",
             "token_info_url": null,
             "coin_id": "filecoin",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.5697,
+            "volume": 4201.667360014042,
+            "converted_last": {
+                "btc": 0.00072118,
+                "eth": 0.0184423,
+                "usd": 23.2
+            },
+            "converted_volume": {
+                "btc": 3.030172,
+                "eth": 77.488,
+                "usd": 97468
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.307206,
+            "timestamp": "2021-01-23T18:23:56+00:00",
+            "last_traded_at": "2021-01-23T18:23:56+00:00",
+            "last_fetch_at": "2021-01-23T18:23:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/FIL_BNB",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 23.154,
+            "volume": 12245.46653206,
+            "converted_last": {
+                "btc": 0.00072011,
+                "eth": 0.01844951,
+                "usd": 23.15
+            },
+            "converted_volume": {
+                "btc": 8.818057,
+                "eth": 225.923,
+                "usd": 283532
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.258176,
+            "timestamp": "2021-01-23T18:21:12+00:00",
+            "last_traded_at": "2021-01-23T18:21:12+00:00",
+            "last_fetch_at": "2021-01-23T18:25:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/FILUSD",
+            "token_info_url": null,
+            "coin_id": "filecoin"
         },
         {
             "base": "FIL",
@@ -887,23 +823,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.000652,
-            "volume": 104847.0184769,
+            "last": 0.000719,
+            "volume": 232208.83724541,
             "converted_last": {
-                "btc": 0.000652,
-                "eth": 0.01799655,
-                "usd": 23.77
+                "btc": 0.000719,
+                "eth": 0.01842113,
+                "usd": 23.12
             },
             "converted_volume": {
-                "btc": 68.36,
-                "eth": 1887,
-                "usd": 2491759
+                "btc": 166.958,
+                "eth": 4278,
+                "usd": 5368620
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.610687,
-            "timestamp": "2021-01-19T05:38:42+00:00",
-            "last_traded_at": "2021-01-19T05:38:42+00:00",
-            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "bid_ask_spread_percentage": 0.554017,
+            "timestamp": "2021-01-23T18:20:45+00:00",
+            "last_traded_at": "2021-01-23T18:20:45+00:00",
+            "last_fetch_at": "2021-01-23T18:20:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=fil_btc",
@@ -913,61 +849,29 @@
         },
         {
             "base": "FIL",
-            "target": "HUSD",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 23.765,
-            "volume": 5080.124931146656,
-            "converted_last": {
-                "btc": 0.00065369,
-                "eth": 0.01801185,
-                "usd": 23.77
-            },
-            "converted_volume": {
-                "btc": 3.320823,
-                "eth": 91.502,
-                "usd": 120746
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.470022,
-            "timestamp": "2021-01-19T05:42:46+00:00",
-            "last_traded_at": "2021-01-19T05:42:46+00:00",
-            "last_fetch_at": "2021-01-19T05:42:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_husd",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "husd"
-        },
-        {
-            "base": "FIL",
             "target": "USDT",
             "market": {
                 "name": "Bilaxy",
                 "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 23.7924,
-            "volume": 5459.61,
+            "last": 23.1433,
+            "volume": 5363.89,
             "converted_last": {
-                "btc": 0.00065387,
-                "eth": 0.0180169,
-                "usd": 23.81
+                "btc": 0.00071928,
+                "eth": 0.01848614,
+                "usd": 23.16
             },
             "converted_volume": {
-                "btc": 3.56989,
-                "eth": 98.365,
-                "usd": 130017
+                "btc": 3.858149,
+                "eth": 99.158,
+                "usd": 124253
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.174314,
-            "timestamp": "2021-01-19T05:39:59+00:00",
-            "last_traded_at": "2021-01-19T05:39:59+00:00",
-            "last_fetch_at": "2021-01-19T05:39:59+00:00",
+            "bid_ask_spread_percentage": 0.164014,
+            "timestamp": "2021-01-23T18:14:28+00:00",
+            "last_traded_at": "2021-01-23T18:14:28+00:00",
+            "last_fetch_at": "2021-01-23T18:14:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bilaxy.com/trade/FIL_USDT",
@@ -979,33 +883,65 @@
             "base": "FIL",
             "target": "ETH",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.018007,
-            "volume": 32264.405295619024,
+            "last": 0.01843,
+            "volume": 6705.15363519,
             "converted_last": {
-                "btc": 0.00065347,
-                "eth": 0.01800592,
-                "usd": 23.76
+                "btc": 0.00071877,
+                "eth": 0.01853208,
+                "usd": 23.22
             },
             "converted_volume": {
-                "btc": 21.083951,
-                "eth": 580.95,
-                "usd": 766617
+                "btc": 4.819463,
+                "eth": 124.26,
+                "usd": 155681
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.233036,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.271297,
+            "timestamp": "2021-01-23T18:07:33+00:00",
+            "last_traded_at": "2021-01-23T18:07:33+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_eth",
+            "trade_url": "https://trade.kraken.com/markets/kraken/fil/eth",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "ethereum"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Bitforex",
+                "identifier": "bitforex",
+                "has_trading_incentive": false
+            },
+            "last": 23.148779,
+            "volume": 73751.1577,
+            "converted_last": {
+                "btc": 0.00071971,
+                "eth": 0.01840454,
+                "usd": 23.15
+            },
+            "converted_volume": {
+                "btc": 53.079,
+                "eth": 1357,
+                "usd": 1707333
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.101166,
+            "timestamp": "2021-01-23T18:23:58+00:00",
+            "last_traded_at": "2021-01-23T18:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:23:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitforex.com/en/spot/fil_usdt",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
         },
         {
             "base": "FIL",
@@ -1015,23 +951,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 23.7439,
-            "volume": 57178.503,
+            "last": 23.1493,
+            "volume": 68665.031,
             "converted_last": {
-                "btc": 0.00065339,
-                "eth": 0.01800354,
-                "usd": 23.76
+                "btc": 0.00072038,
+                "eth": 0.01845653,
+                "usd": 23.16
             },
             "converted_volume": {
-                "btc": 37.35972,
-                "eth": 1029,
-                "usd": 1358408
+                "btc": 49.465047,
+                "eth": 1267,
+                "usd": 1590569
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.193748,
-            "timestamp": "2021-01-19T05:42:38+00:00",
-            "last_traded_at": "2021-01-19T05:42:38+00:00",
-            "last_fetch_at": "2021-01-19T05:42:38+00:00",
+            "bid_ask_spread_percentage": 0.330215,
+            "timestamp": "2021-01-23T18:22:05+00:00",
+            "last_traded_at": "2021-01-23T18:22:05+00:00",
+            "last_fetch_at": "2021-01-23T18:22:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#FIL_USDT",
@@ -1047,58 +983,26 @@
                 "identifier": "bitmax",
                 "has_trading_incentive": false
             },
-            "last": 23.812,
-            "volume": 12624.66,
+            "last": 23.142,
+            "volume": 14979.62,
             "converted_last": {
-                "btc": 0.00065251,
-                "eth": 0.01801072,
-                "usd": 23.81
+                "btc": 0.00072015,
+                "eth": 0.01845071,
+                "usd": 23.16
             },
             "converted_volume": {
-                "btc": 8.237761,
-                "eth": 227.379,
-                "usd": 300577
+                "btc": 10.787644,
+                "eth": 276.385,
+                "usd": 346861
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.281158,
-            "timestamp": "2021-01-19T05:34:36+00:00",
-            "last_traded_at": "2021-01-19T05:34:36+00:00",
-            "last_fetch_at": "2021-01-19T05:34:36+00:00",
+            "bid_ask_spread_percentage": 0.220217,
+            "timestamp": "2021-01-23T18:21:45+00:00",
+            "last_traded_at": "2021-01-23T18:21:45+00:00",
+            "last_fetch_at": "2021-01-23T18:21:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/fil",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Bitforex",
-                "identifier": "bitforex",
-                "has_trading_incentive": false
-            },
-            "last": 23.763929,
-            "volume": 52738.9551,
-            "converted_last": {
-                "btc": 0.00065184,
-                "eth": 0.01799226,
-                "usd": 23.76
-            },
-            "converted_volume": {
-                "btc": 34.377606,
-                "eth": 948.893,
-                "usd": 1253078
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.172026,
-            "timestamp": "2021-01-19T05:38:12+00:00",
-            "last_traded_at": "2021-01-19T05:38:12+00:00",
-            "last_fetch_at": "2021-01-19T05:38:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitforex.com/en/spot/fil_usdt",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -1111,26 +1015,154 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 23.7599,
-            "volume": 3349.87105631,
+            "last": 23.1315,
+            "volume": 15897.17881352,
             "converted_last": {
-                "btc": 0.00065298,
-                "eth": 0.01799229,
-                "usd": 23.76
+                "btc": 0.00071983,
+                "eth": 0.01844234,
+                "usd": 23.15
             },
             "converted_volume": {
-                "btc": 2.187397,
-                "eth": 60.272,
-                "usd": 79599
+                "btc": 11.443234,
+                "eth": 293.181,
+                "usd": 367940
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.337672,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "bid_ask_spread_percentage": 0.340726,
+            "timestamp": "2021-01-23T18:21:50+00:00",
+            "last_traded_at": "2021-01-23T18:21:50+00:00",
+            "last_fetch_at": "2021-01-23T18:21:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/FIL-USDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 23.2529,
+            "volume": 790.1925,
+            "converted_last": {
+                "btc": 0.00072151,
+                "eth": 0.01860269,
+                "usd": 23.28
+            },
+            "converted_volume": {
+                "btc": 0.57013082,
+                "eth": 14.699706,
+                "usd": 18392.61
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.415688,
+            "timestamp": "2021-01-23T18:09:06+00:00",
+            "last_traded_at": "2021-01-23T18:09:06+00:00",
+            "last_fetch_at": "2021-01-23T18:25:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=FIL_USDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "HUSD",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 23.2253,
+            "volume": 15749.629594903685,
+            "converted_last": {
+                "btc": 0.00072149,
+                "eth": 0.01845012,
+                "usd": 23.21
+            },
+            "converted_volume": {
+                "btc": 11.363183,
+                "eth": 290.583,
+                "usd": 365511
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.437174,
+            "timestamp": "2021-01-23T18:25:25+00:00",
+            "last_traded_at": "2021-01-23T18:25:25+00:00",
+            "last_fetch_at": "2021-01-23T18:25:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_husd",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "husd"
+        },
+        {
+            "base": "FIL",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.018419,
+            "volume": 23201.07611617019,
+            "converted_last": {
+                "btc": 0.00072018,
+                "eth": 0.01841672,
+                "usd": 23.17
+            },
+            "converted_volume": {
+                "btc": 16.709018,
+                "eth": 427.288,
+                "usd": 537467
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.254798,
+            "timestamp": "2021-01-23T18:25:04+00:00",
+            "last_traded_at": "2021-01-23T18:25:04+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=fil_eth",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 23.0748,
+            "volume": 119961.3,
+            "converted_last": {
+                "btc": 0.00071806,
+                "eth": 0.01839713,
+                "usd": 23.09
+            },
+            "converted_volume": {
+                "btc": 86.14,
+                "eth": 2207,
+                "usd": 2769868
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.64572,
+            "timestamp": "2021-01-23T18:20:25+00:00",
+            "last_traded_at": "2021-01-23T18:20:25+00:00",
+            "last_fetch_at": "2021-01-23T18:24:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=FIL_USDT",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -1143,23 +1175,23 @@
                 "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 23.7712,
-            "volume": 23780.7996,
+            "last": 23.1408,
+            "volume": 26171.5158,
             "converted_last": {
-                "btc": 0.00065204,
-                "eth": 0.01799777,
-                "usd": 23.78
+                "btc": 0.00072012,
+                "eth": 0.01844976,
+                "usd": 23.15
             },
             "converted_volume": {
-                "btc": 15.50613,
-                "eth": 428.001,
-                "usd": 565415
+                "btc": 18.846564,
+                "eth": 482.858,
+                "usd": 605983
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.200079,
-            "timestamp": "2021-01-19T05:36:09+00:00",
-            "last_traded_at": "2021-01-19T05:36:09+00:00",
-            "last_fetch_at": "2021-01-19T05:36:09+00:00",
+            "bid_ask_spread_percentage": 1.627227,
+            "timestamp": "2021-01-23T18:21:17+00:00",
+            "last_traded_at": "2021-01-23T18:21:17+00:00",
+            "last_fetch_at": "2021-01-23T18:21:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bkex.com/#/trade/FIL_USDT",
@@ -1175,23 +1207,23 @@
                 "identifier": "bw",
                 "has_trading_incentive": false
             },
-            "last": 23.7927,
-            "volume": 179462.822,
+            "last": 23.1051,
+            "volume": 114122.501,
             "converted_last": {
-                "btc": 0.00065263,
-                "eth": 0.01801405,
-                "usd": 23.8
+                "btc": 0.00071835,
+                "eth": 0.01840443,
+                "usd": 23.1
             },
             "converted_volume": {
-                "btc": 117.124,
-                "eth": 3233,
-                "usd": 4271570
+                "btc": 81.98,
+                "eth": 2100,
+                "usd": 2636092
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.033613,
-            "timestamp": "2021-01-19T05:35:49+00:00",
-            "last_traded_at": "2021-01-19T05:35:49+00:00",
-            "last_fetch_at": "2021-01-19T05:35:49+00:00",
+            "bid_ask_spread_percentage": 2.356342,
+            "timestamp": "2021-01-23T18:22:50+00:00",
+            "last_traded_at": "2021-01-23T18:22:50+00:00",
+            "last_fetch_at": "2021-01-23T18:22:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bw.com/trade/fil_usdt",
@@ -1201,29 +1233,92 @@
         },
         {
             "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 23.192,
+            "volume": 63917.182,
+            "converted_last": {
+                "btc": 0.00072105,
+                "eth": 0.0184389,
+                "usd": 23.19
+            },
+            "converted_volume": {
+                "btc": 46.087491,
+                "eth": 1179,
+                "usd": 1482413
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.179953,
+            "timestamp": "2021-01-23T18:24:24+00:00",
+            "last_traded_at": "2021-01-23T18:24:24+00:00",
+            "last_fetch_at": "2021-01-23T18:24:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/fil_usdt",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 326000.0,
+            "volume": 1274.31226027,
+            "converted_last": {
+                "btc": 0.00072072,
+                "eth": 0.01858234,
+                "usd": 23.25
+            },
+            "converted_volume": {
+                "btc": 0.91842193,
+                "eth": 23.679709,
+                "usd": 29629
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.18708,
+            "timestamp": "2021-01-23T18:09:57+00:00",
+            "last_traded_at": "2021-01-23T18:09:57+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "filecoin"
+        },
+        {
+            "base": "FIL",
             "target": "ETH",
             "market": {
                 "name": "OKEx",
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.018,
-            "volume": 4095.42040566,
+            "last": 0.0185,
+            "volume": 2942.89524886,
             "converted_last": {
-                "btc": 0.00065502,
-                "eth": 0.01807991,
-                "usd": 23.88
+                "btc": 0.00072409,
+                "eth": 0.01855153,
+                "usd": 23.28
             },
             "converted_volume": {
-                "btc": 2.682582,
-                "eth": 74.045,
-                "usd": 97784
+                "btc": 2.130921,
+                "eth": 54.595,
+                "usd": 68521
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.104972,
-            "timestamp": "2021-01-19T05:37:58+00:00",
-            "last_traded_at": "2021-01-19T05:37:58+00:00",
-            "last_fetch_at": "2021-01-19T05:37:58+00:00",
+            "bid_ask_spread_percentage": 3.174603,
+            "timestamp": "2021-01-23T18:20:38+00:00",
+            "last_traded_at": "2021-01-23T18:20:38+00:00",
+            "last_fetch_at": "2021-01-23T18:20:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=fil_eth",
@@ -1239,23 +1334,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.0006475,
-            "volume": 395.62355865,
+            "last": 0.000717,
+            "volume": 1012.61581645,
             "converted_last": {
-                "btc": 0.0006475,
-                "eth": 0.01787234,
-                "usd": 23.61
+                "btc": 0.000717,
+                "eth": 0.01833533,
+                "usd": 23.06
             },
             "converted_volume": {
-                "btc": 0.25616625,
-                "eth": 7.070719,
-                "usd": 9340.83
+                "btc": 0.72604554,
+                "eth": 18.566643,
+                "usd": 23354
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.763359,
-            "timestamp": "2021-01-19T05:36:21+00:00",
-            "last_traded_at": "2021-01-19T05:36:21+00:00",
-            "last_fetch_at": "2021-01-19T05:36:21+00:00",
+            "bid_ask_spread_percentage": 0.828729,
+            "timestamp": "2021-01-23T18:23:13+00:00",
+            "last_traded_at": "2021-01-23T18:23:13+00:00",
+            "last_fetch_at": "2021-01-23T18:23:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/FIL_BTC",
@@ -1267,125 +1362,30 @@
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
+                "name": "Coinsuper",
+                "identifier": "coinsuper",
+                "has_trading_incentive": true
             },
-            "last": 23.8049,
-            "volume": 50648.22,
+            "last": 23.1132,
+            "volume": 4141.04,
             "converted_last": {
-                "btc": 0.00065507,
-                "eth": 0.01804979,
-                "usd": 23.79
+                "btc": 0.0007193,
+                "eth": 0.01842885,
+                "usd": 23.13
             },
             "converted_volume": {
-                "btc": 33.177933,
-                "eth": 914.19,
-                "usd": 1205123
+                "btc": 2.978656,
+                "eth": 76.315,
+                "usd": 95780
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.822806,
-            "timestamp": "2021-01-19T05:43:24+00:00",
-            "last_traded_at": "2021-01-19T05:43:24+00:00",
-            "last_fetch_at": "2021-01-19T05:43:24+00:00",
+            "bid_ask_spread_percentage": 0.1,
+            "timestamp": "2021-01-23T18:18:58+00:00",
+            "last_traded_at": "2021-01-23T18:18:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=FIL_USDT",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "IDR",
-            "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
-                "has_trading_incentive": false
-            },
-            "last": 337101.0,
-            "volume": 1490.06793191,
-            "converted_last": {
-                "btc": 0.00065639,
-                "eth": 0.01808621,
-                "usd": 23.89
-            },
-            "converted_volume": {
-                "btc": 0.97806236,
-                "eth": 26.949675,
-                "usd": 35591
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.20795,
-            "timestamp": "2021-01-19T05:41:10+00:00",
-            "last_traded_at": "2021-01-19T05:41:10+00:00",
-            "last_fetch_at": "2021-01-19T05:41:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "ETH",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.017945,
-            "volume": 624.27102199,
-            "converted_last": {
-                "btc": 0.00065302,
-                "eth": 0.01802466,
-                "usd": 23.81
-            },
-            "converted_volume": {
-                "btc": 0.40766056,
-                "eth": 11.252275,
-                "usd": 14864.91
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.721421,
-            "timestamp": "2021-01-19T05:36:25+00:00",
-            "last_traded_at": "2021-01-19T05:36:25+00:00",
-            "last_fetch_at": "2021-01-19T05:36:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/FIL_ETH",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 23.8094,
-            "volume": 531.42,
-            "converted_last": {
-                "btc": 0.00065272,
-                "eth": 0.01802998,
-                "usd": 23.78
-            },
-            "converted_volume": {
-                "btc": 0.34686726,
-                "eth": 9.581494,
-                "usd": 12634.88
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.543456,
-            "timestamp": "2021-01-19T05:28:24+00:00",
-            "last_traded_at": "2021-01-19T05:28:24+00:00",
-            "last_fetch_at": "2021-01-19T05:40:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.coinsuper.com/trade?symbol=FIL%2FUSDT",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -1398,90 +1398,26 @@
                 "identifier": "virgox",
                 "has_trading_incentive": false
             },
-            "last": 23.6867,
-            "volume": 1842.82,
+            "last": 23.1409,
+            "volume": 321.5,
             "converted_last": {
-                "btc": 0.00065181,
-                "eth": 0.01795816,
-                "usd": 23.68
+                "btc": 0.00072012,
+                "eth": 0.01844983,
+                "usd": 23.15
             },
             "converted_volume": {
-                "btc": 1.201175,
-                "eth": 33.093653,
-                "usd": 43630
+                "btc": 0.23151875,
+                "eth": 5.931622,
+                "usd": 7444.14
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.211562,
-            "timestamp": "2021-01-19T05:44:05+00:00",
-            "last_traded_at": "2021-01-19T05:44:05+00:00",
-            "last_fetch_at": "2021-01-19T05:44:05+00:00",
+            "bid_ask_spread_percentage": 0.244233,
+            "timestamp": "2021-01-23T18:21:40+00:00",
+            "last_traded_at": "2021-01-23T18:21:40+00:00",
+            "last_fetch_at": "2021-01-23T18:21:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://virgox.com/exchange",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Coinsuper",
-                "identifier": "coinsuper",
-                "has_trading_incentive": true
-            },
-            "last": 23.7549,
-            "volume": 3897.01,
-            "converted_last": {
-                "btc": 0.00065369,
-                "eth": 0.01801188,
-                "usd": 23.77
-            },
-            "converted_volume": {
-                "btc": 2.547437,
-                "eth": 70.192,
-                "usd": 92625
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.421941,
-            "timestamp": "2021-01-19T05:42:13+00:00",
-            "last_traded_at": "2021-01-19T05:42:13+00:00",
-            "last_fetch_at": "2021-01-19T05:42:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinsuper.com/trade?symbol=FIL%2FUSDT",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 23.727,
-            "volume": 1095.756,
-            "converted_last": {
-                "btc": 0.00065208,
-                "eth": 0.01796738,
-                "usd": 23.74
-            },
-            "converted_volume": {
-                "btc": 0.71451546,
-                "eth": 19.687864,
-                "usd": 26012
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.799731,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/fil_usdt",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -1494,23 +1430,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 23.8445,
-            "volume": 656.85752087,
+            "last": 23.2984,
+            "volume": 923.70570182,
             "converted_last": {
-                "btc": 0.0006553,
-                "eth": 0.01805636,
-                "usd": 23.87
+                "btc": 0.00072502,
+                "eth": 0.01857541,
+                "usd": 23.31
             },
             "converted_volume": {
-                "btc": 0.4304417,
-                "eth": 11.860454,
-                "usd": 15676.91
+                "btc": 0.66970673,
+                "eth": 17.158209,
+                "usd": 21533
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.017985,
-            "timestamp": "2021-01-19T05:39:11+00:00",
-            "last_traded_at": "2021-01-19T05:39:11+00:00",
-            "last_fetch_at": "2021-01-19T05:39:11+00:00",
+            "bid_ask_spread_percentage": 1.5269,
+            "timestamp": "2021-01-23T18:21:11+00:00",
+            "last_traded_at": "2021-01-23T18:21:11+00:00",
+            "last_fetch_at": "2021-01-23T18:21:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=FIL#limit",
@@ -1526,23 +1462,23 @@
                 "identifier": "bithumb_global",
                 "has_trading_incentive": false
             },
-            "last": 23.77,
-            "volume": 1613.133096424064,
+            "last": 23.19,
+            "volume": 1370.307748900388,
             "converted_last": {
-                "btc": 0.00065326,
-                "eth": 0.01799994,
-                "usd": 23.79
+                "btc": 0.00072176,
+                "eth": 0.01845693,
+                "usd": 23.21
             },
             "converted_volume": {
-                "btc": 1.053791,
-                "eth": 29.036302,
-                "usd": 38380
+                "btc": 0.98902697,
+                "eth": 25.29168,
+                "usd": 31801
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.416667,
-            "timestamp": "2021-01-19T05:39:40+00:00",
-            "last_traded_at": "2021-01-19T05:39:40+00:00",
-            "last_fetch_at": "2021-01-19T05:39:40+00:00",
+            "bid_ask_spread_percentage": 1.502146,
+            "timestamp": "2021-01-23T18:26:21+00:00",
+            "last_traded_at": "2021-01-23T18:26:21+00:00",
+            "last_fetch_at": "2021-01-23T18:26:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://global.bithumb.pro/spot/trade;symbol=FIL_USDT",
@@ -1554,30 +1490,93 @@
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
+                "name": "Huobi Indonesia",
+                "identifier": "huobi_id",
                 "has_trading_incentive": false
             },
-            "last": 23.75,
-            "volume": 32818.4034,
+            "last": 23.1322,
+            "volume": 3788.0567999999994,
             "converted_last": {
-                "btc": 0.00065356,
-                "eth": 0.01800816,
-                "usd": 23.78
+                "btc": 0.00071996,
+                "eth": 0.01841093,
+                "usd": 23.15
             },
             "converted_volume": {
-                "btc": 21.448644,
-                "eth": 590.999,
-                "usd": 780510
+                "btc": 2.727236,
+                "eth": 69.742,
+                "usd": 87692
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.439817,
-            "timestamp": "2021-01-19T05:41:57+00:00",
-            "last_traded_at": "2021-01-19T05:41:57+00:00",
-            "last_fetch_at": "2021-01-19T05:41:57+00:00",
+            "bid_ask_spread_percentage": 0.131111,
+            "timestamp": "2021-01-23T18:26:20+00:00",
+            "last_traded_at": "2021-01-23T18:26:20+00:00",
+            "last_fetch_at": "2021-01-23T18:26:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.huobi.com.co/exchange/#s=fil_usdt",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 23.205,
+            "volume": 338.51,
+            "converted_last": {
+                "btc": 0.00071885,
+                "eth": 0.01859415,
+                "usd": 23.21
+            },
+            "converted_volume": {
+                "btc": 0.24333817,
+                "eth": 6.294306,
+                "usd": 7855.12
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.151113,
+            "timestamp": "2021-01-23T17:58:51+00:00",
+            "last_traded_at": "2021-01-23T17:58:51+00:00",
+            "last_fetch_at": "2021-01-23T18:18:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/FIL-to-USD",
+            "token_info_url": null,
+            "coin_id": "filecoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "CoinBene",
+                "identifier": "coinbene",
+                "has_trading_incentive": false
+            },
+            "last": 23.153,
+            "volume": 39705.47561871032,
+            "converted_last": {
+                "btc": 0.00071984,
+                "eth": 0.01840789,
+                "usd": 23.15
+            },
+            "converted_volume": {
+                "btc": 28.581494,
+                "eth": 730.894,
+                "usd": 919346
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.801034,
+            "timestamp": "2021-01-23T18:23:37+00:00",
+            "last_traded_at": "2021-01-23T18:23:37+00:00",
+            "last_fetch_at": "2021-01-23T18:23:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinbene.com/spot/exchange/FIL_USDT",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -1590,23 +1589,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00065475,
-            "volume": 274.43822797,
+            "last": 0.00071906,
+            "volume": 258.04271831,
             "converted_last": {
-                "btc": 0.00065475,
-                "eth": 0.01804108,
-                "usd": 23.81
+                "btc": 0.00071906,
+                "eth": 0.01842266,
+                "usd": 23.12
             },
             "converted_volume": {
-                "btc": 0.17968843,
-                "eth": 4.951162,
-                "usd": 6533.51
+                "btc": 0.1855482,
+                "eth": 4.753834,
+                "usd": 5966.03
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 14.285714,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 12.5,
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=FIL#limit",
@@ -1618,59 +1617,27 @@
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "Huobi Indonesia",
-                "identifier": "huobi_id",
-                "has_trading_incentive": false
-            },
-            "last": 23.7673,
-            "volume": 1364.1780777872061,
-            "converted_last": {
-                "btc": 0.00065194,
-                "eth": 0.01799481,
-                "usd": 23.76
-            },
-            "converted_volume": {
-                "btc": 0.88935833,
-                "eth": 24.548131,
-                "usd": 32418
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 0.121874,
-            "timestamp": "2021-01-19T05:37:04+00:00",
-            "last_traded_at": "2021-01-19T05:37:04+00:00",
-            "last_fetch_at": "2021-01-19T05:37:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.huobi.com.co/exchange/#s=fil_usdt",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
                 "name": "BitZ",
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 23.7561,
-            "volume": 538849.22,
+            "last": 23.149,
+            "volume": 512300.78,
             "converted_last": {
-                "btc": 0.00065288,
-                "eth": 0.01798942,
-                "usd": 23.77
+                "btc": 0.00071971,
+                "eth": 0.0184394,
+                "usd": 23.14
             },
             "converted_volume": {
-                "btc": 351.801,
-                "eth": 9694,
-                "usd": 12807368
+                "btc": 368.71,
+                "eth": 9447,
+                "usd": 11856014
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.41901,
-            "timestamp": "2021-01-19T05:40:57+00:00",
-            "last_traded_at": "2021-01-19T05:40:57+00:00",
-            "last_fetch_at": "2021-01-19T05:40:57+00:00",
+            "bid_ask_spread_percentage": 0.382491,
+            "timestamp": "2021-01-23T18:22:44+00:00",
+            "last_traded_at": "2021-01-23T18:22:44+00:00",
+            "last_fetch_at": "2021-01-23T18:22:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/fil_usdt",
@@ -1686,313 +1653,26 @@
                 "identifier": "exx",
                 "has_trading_incentive": true
             },
-            "last": 23.7466,
-            "volume": 101298.5042,
+            "last": 23.1574,
+            "volume": 75310.1458,
             "converted_last": {
-                "btc": 0.00065346,
-                "eth": 0.01800558,
-                "usd": 23.76
+                "btc": 0.00071997,
+                "eth": 0.01841139,
+                "usd": 23.16
             },
             "converted_volume": {
-                "btc": 66.195,
-                "eth": 1824,
-                "usd": 2406855
+                "btc": 54.221,
+                "eth": 1387,
+                "usd": 1744041
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 36.320972,
-            "timestamp": "2021-01-19T05:42:23+00:00",
-            "last_traded_at": "2021-01-19T05:42:23+00:00",
-            "last_fetch_at": "2021-01-19T05:42:23+00:00",
+            "bid_ask_spread_percentage": 19.557139,
+            "timestamp": "2021-01-23T18:24:43+00:00",
+            "last_traded_at": "2021-01-23T18:24:43+00:00",
+            "last_fetch_at": "2021-01-23T18:24:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.exx.com/tradeCoding/fil_usdt",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Huobi Korea",
-                "identifier": "huobi_korea",
-                "has_trading_incentive": false
-            },
-            "last": 0.000653,
-            "volume": 633.0775515283843,
-            "converted_last": {
-                "btc": 0.000653,
-                "eth": 0.01799286,
-                "usd": 23.74
-            },
-            "converted_volume": {
-                "btc": 0.41339964,
-                "eth": 11.390875,
-                "usd": 15031.31
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:58+00:00",
-            "last_traded_at": "2021-01-19T05:42:58+00:00",
-            "last_fetch_at": "2021-01-19T05:42:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_btc/",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "ZG.com",
-                "identifier": "zg",
-                "has_trading_incentive": false
-            },
-            "last": 23.64,
-            "volume": 306.2322,
-            "converted_last": {
-                "btc": 0.00064845,
-                "eth": 0.01789843,
-                "usd": 23.64
-            },
-            "converted_volume": {
-                "btc": 0.19857483,
-                "eth": 5.481076,
-                "usd": 7240.82
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:36:03+00:00",
-            "last_traded_at": "2021-01-19T05:36:03+00:00",
-            "last_fetch_at": "2021-01-19T05:36:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.zg.com/exchange/737/FIL/USDT",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Korea",
-                "identifier": "huobi_korea",
-                "has_trading_incentive": false
-            },
-            "last": 0.01798,
-            "volume": 207.47680000000003,
-            "converted_last": {
-                "btc": 0.00065429,
-                "eth": 0.01805982,
-                "usd": 23.85
-            },
-            "converted_volume": {
-                "btc": 0.13575045,
-                "eth": 3.746994,
-                "usd": 4948.16
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:38:15+00:00",
-            "last_traded_at": "2021-01-19T05:38:15+00:00",
-            "last_fetch_at": "2021-01-19T05:38:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_eth/",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Korea",
-                "identifier": "huobi_korea",
-                "has_trading_incentive": false
-            },
-            "last": 23.7737,
-            "volume": 135.39870000000002,
-            "converted_last": {
-                "btc": 0.00065211,
-                "eth": 0.01799966,
-                "usd": 23.77
-            },
-            "converted_volume": {
-                "btc": 0.08829521,
-                "eth": 2.437131,
-                "usd": 3218.4
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:38:16+00:00",
-            "last_traded_at": "2021-01-19T05:38:16+00:00",
-            "last_fetch_at": "2021-01-19T05:38:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_usdt/",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "FIL",
-            "target": "ETH",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.01804,
-            "volume": 5381.90198858,
-            "converted_last": {
-                "btc": 0.00064854,
-                "eth": 0.01802888,
-                "usd": 23.55
-            },
-            "converted_volume": {
-                "btc": 3.490368,
-                "eth": 97.03,
-                "usd": 126768
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.389755,
-            "timestamp": "2021-01-19T05:02:01+00:00",
-            "last_traded_at": "2021-01-19T05:02:01+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/fil/eth",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00075338,
-            "volume": 8450.08762915,
-            "converted_last": {
-                "btc": 0.00075338,
-                "eth": 0.02075874,
-                "usd": 27.42
-            },
-            "converted_volume": {
-                "btc": 6.366127,
-                "eth": 175.413,
-                "usd": 231662
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.470355,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:43:22+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-FIL",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "FIL",
-            "target": "USD",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 23.5553,
-            "volume": 1259.069,
-            "converted_last": {
-                "btc": 0.00064722,
-                "eth": 0.01789931,
-                "usd": 23.56
-            },
-            "converted_volume": {
-                "btc": 0.81489661,
-                "eth": 22.536466,
-                "usd": 29658
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.125153,
-            "timestamp": "2021-01-19T05:26:00+00:00",
-            "last_traded_at": "2021-01-19T05:26:00+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/FIL-to-USD",
-            "token_info_url": null,
-            "coin_id": "filecoin"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00064292,
-            "volume": 206.37603934,
-            "converted_last": {
-                "btc": 0.00064292,
-                "eth": 0.01769878,
-                "usd": 23.48
-            },
-            "converted_volume": {
-                "btc": 0.13268328,
-                "eth": 3.652605,
-                "usd": 4846.54
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 5.338551,
-            "timestamp": "2021-01-19T04:15:43+00:00",
-            "last_traded_at": "2021-01-19T04:15:43+00:00",
-            "last_fetch_at": "2021-01-19T05:36:35+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-FIL",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "FIL",
-            "target": "USDT",
-            "market": {
-                "name": "Hoo.com",
-                "identifier": "hoo",
-                "has_trading_incentive": false
-            },
-            "last": 23.7167,
-            "volume": 13455.7740812436,
-            "converted_last": {
-                "btc": 0.00065264,
-                "eth": 0.01798291,
-                "usd": 23.71
-            },
-            "converted_volume": {
-                "btc": 8.781763,
-                "eth": 241.974,
-                "usd": 318980
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.195639,
-            "timestamp": "2021-01-19T05:43:03+00:00",
-            "last_traded_at": "2021-01-19T05:43:03+00:00",
-            "last_fetch_at": "2021-01-19T05:43:03+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://hoo.com/spot/fil-usdt",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -2005,24 +1685,24 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 23.794,
-            "volume": 2471.08038185,
+            "last": 23.209,
+            "volume": 11045.3852132,
             "converted_last": {
-                "btc": 0.0006472,
-                "eth": 0.01783296,
-                "usd": 23.57
+                "btc": 0.00073549,
+                "eth": 0.01880824,
+                "usd": 23.66
             },
             "converted_volume": {
-                "btc": 1.599275,
-                "eth": 44.066668,
-                "usd": 58246
+                "btc": 8.123806,
+                "eth": 207.744,
+                "usd": 261304
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 0.252632,
-            "timestamp": "2021-01-19T05:39:07+00:00",
-            "last_traded_at": "2021-01-19T05:39:07+00:00",
-            "last_fetch_at": "2021-01-19T05:42:31+00:00",
-            "is_anomaly": true,
+            "bid_ask_spread_percentage": 0.21561,
+            "timestamp": "2021-01-23T18:24:56+00:00",
+            "last_traded_at": "2021-01-23T18:24:56+00:00",
+            "last_fetch_at": "2021-01-23T18:24:56+00:00",
+            "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/FILUST",
             "token_info_url": null,
@@ -2030,33 +1710,128 @@
             "target_coin_id": "tether"
         },
         {
-            "base": "UNI",
-            "target": "USDT",
+            "base": "FIL",
+            "target": "BTC",
             "market": {
-                "name": "Coinsuper",
-                "identifier": "coinsuper",
-                "has_trading_incentive": true
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
             },
-            "last": 9.1188,
-            "volume": 1424.41,
+            "last": 0.000728,
+            "volume": 77382.83485915,
             "converted_last": {
-                "btc": 0.00025093,
-                "eth": 0.00691422,
-                "usd": 9.12
+                "btc": 0.000728,
+                "eth": 0.01861662,
+                "usd": 23.42
             },
             "converted_volume": {
-                "btc": 0.3574304,
-                "eth": 9.84869,
-                "usd": 12996.25
+                "btc": 56.335,
+                "eth": 1441,
+                "usd": 1812077
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 0.1,
-            "timestamp": "2021-01-19T05:42:12+00:00",
-            "last_traded_at": "2021-01-19T05:42:12+00:00",
-            "last_fetch_at": "2021-01-19T05:42:12+00:00",
-            "is_anomaly": true,
+            "bid_ask_spread_percentage": 1.028846,
+            "timestamp": "2021-01-23T18:25:55+00:00",
+            "last_traded_at": "2021-01-23T18:25:55+00:00",
+            "last_fetch_at": "2021-01-23T18:25:55+00:00",
+            "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinsuper.com/trade?symbol=UNI%2FUSDT",
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-FIL",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "GBP",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 15.75,
+            "volume": 1255.15080456,
+            "converted_last": {
+                "btc": 0.00067301,
+                "eth": 0.01745429,
+                "usd": 21.55
+            },
+            "converted_volume": {
+                "btc": 0.8447343,
+                "eth": 21.907763,
+                "usd": 27047
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.733654,
+            "timestamp": "2021-01-23T15:50:08+00:00",
+            "last_traded_at": "2021-01-23T15:50:08+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/fil/gbp",
+            "token_info_url": null,
+            "coin_id": "filecoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 22.743,
+            "volume": 35020.1314,
+            "converted_last": {
+                "btc": 0.00070774,
+                "eth": 0.0181326,
+                "usd": 22.76
+            },
+            "converted_volume": {
+                "btc": 24.785088,
+                "eth": 635.006,
+                "usd": 796975
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.31248,
+            "timestamp": "2021-01-23T18:22:23+00:00",
+            "last_traded_at": "2021-01-23T18:22:23+00:00",
+            "last_fetch_at": "2021-01-23T18:22:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 22.936,
+            "volume": 301.11,
+            "converted_last": {
+                "btc": 0.00071379,
+                "eth": 0.01828756,
+                "usd": 22.95
+            },
+            "converted_volume": {
+                "btc": 0.21492837,
+                "eth": 5.506568,
+                "usd": 6911.06
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.653825,
+            "timestamp": "2021-01-23T18:19:01+00:00",
+            "last_traded_at": "2021-01-23T18:19:01+00:00",
+            "last_fetch_at": "2021-01-23T18:19:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
@@ -2069,29 +1844,157 @@
                 "identifier": "upbit_indonesia",
                 "has_trading_incentive": false
             },
-            "last": 0.00075338,
-            "volume": 7248.40433716,
+            "last": 0.000728,
+            "volume": 73712.70334911,
             "converted_last": {
-                "btc": 0.00075338,
-                "eth": 0.02075874,
-                "usd": 27.39
+                "btc": 0.000728,
+                "eth": 0.01861662,
+                "usd": 23.42
             },
             "converted_volume": {
-                "btc": 5.460803,
-                "eth": 150.468,
-                "usd": 198556
+                "btc": 53.663,
+                "eth": 1372,
+                "usd": 1726134
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:52+00:00",
-            "last_traded_at": "2021-01-19T05:42:52+00:00",
-            "last_fetch_at": "2021-01-19T05:42:52+00:00",
-            "is_anomaly": true,
+            "timestamp": "2021-01-23T18:25:59+00:00",
+            "last_traded_at": "2021-01-23T18:25:59+00:00",
+            "last_fetch_at": "2021-01-23T18:25:59+00:00",
+            "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-FIL",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Korea",
+                "identifier": "huobi_korea",
+                "has_trading_incentive": false
+            },
+            "last": 23.1528,
+            "volume": 2034.1593999999993,
+            "converted_last": {
+                "btc": 0.00071983,
+                "eth": 0.01844243,
+                "usd": 23.15
+            },
+            "converted_volume": {
+                "btc": 1.464252,
+                "eth": 37.514835,
+                "usd": 47084
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:22:56+00:00",
+            "last_traded_at": "2021-01-23T18:22:56+00:00",
+            "last_fetch_at": "2021-01-23T18:22:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_usdt/",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "ZG.com",
+                "identifier": "zg",
+                "has_trading_incentive": false
+            },
+            "last": 22.84,
+            "volume": 1191.1963,
+            "converted_last": {
+                "btc": 0.00070986,
+                "eth": 0.01824387,
+                "usd": 22.86
+            },
+            "converted_volume": {
+                "btc": 0.84557731,
+                "eth": 21.732035,
+                "usd": 27232
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:14:35+00:00",
+            "last_traded_at": "2021-01-23T18:14:35+00:00",
+            "last_fetch_at": "2021-01-23T18:14:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.zg.com/exchange/737/FIL/USDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Korea",
+                "identifier": "huobi_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.00072,
+            "volume": 1085.9004,
+            "converted_last": {
+                "btc": 0.00072,
+                "eth": 0.01844675,
+                "usd": 23.15
+            },
+            "converted_volume": {
+                "btc": 0.78184829,
+                "eth": 20.03133,
+                "usd": 25141
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:22:51+00:00",
+            "last_traded_at": "2021-01-23T18:22:51+00:00",
+            "last_fetch_at": "2021-01-23T18:22:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_btc/",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Korea",
+                "identifier": "huobi_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.018406,
+            "volume": 273.191,
+            "converted_last": {
+                "btc": 0.00072041,
+                "eth": 0.01845727,
+                "usd": 23.17
+            },
+            "converted_volume": {
+                "btc": 0.19680976,
+                "eth": 5.042361,
+                "usd": 6328.5
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:22:51+00:00",
+            "last_traded_at": "2021-01-23T18:22:51+00:00",
+            "last_fetch_at": "2021-01-23T18:22:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.huobi.co.kr/en-US/exchange/fil_eth/",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "FIL",
@@ -2101,58 +2004,26 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.0006409,
-            "volume": 12.781,
+            "last": 0.0007026,
+            "volume": 35.853,
             "converted_last": {
-                "btc": 0.0006409,
-                "eth": 0.01796749,
-                "usd": 23.72
+                "btc": 0.0007026,
+                "eth": 0.01811516,
+                "usd": 22.7
             },
             "converted_volume": {
-                "btc": 0.00819134,
-                "eth": 0.2296425,
-                "usd": 303.11
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.290387,
-            "timestamp": "2021-01-19T01:47:58+00:00",
-            "last_traded_at": "2021-01-19T01:47:58+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://exchange.bitcoin.com/exchange/FIL-to-BTC",
-            "token_info_url": null,
-            "coin_id": "filecoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "FIL",
-            "target": "BTC",
-            "market": {
-                "name": "Huobi Indonesia",
-                "identifier": "huobi_id",
-                "has_trading_incentive": false
-            },
-            "last": 0.000662,
-            "volume": 5.0,
-            "converted_last": {
-                "btc": 0.000662,
-                "eth": 0.01966281,
-                "usd": 24.07
-            },
-            "converted_volume": {
-                "btc": 0.00331,
-                "eth": 0.09831404,
-                "usd": 120.34
+                "btc": 0.02519032,
+                "eth": 0.64948297,
+                "usd": 813.93
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 0.153139,
-            "timestamp": "2021-01-18T09:47:24+00:00",
-            "last_traded_at": "2021-01-18T09:47:24+00:00",
-            "last_fetch_at": "2021-01-18T09:53:48+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://www.huobi.com.co/exchange/#s=fil_btc",
+            "bid_ask_spread_percentage": 0.277239,
+            "timestamp": "2021-01-23T18:04:04+00:00",
+            "last_traded_at": "2021-01-23T18:04:04+00:00",
+            "last_fetch_at": "2021-01-23T18:18:46+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/FIL-to-BTC",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "bitcoin"
@@ -2161,33 +2032,129 @@
             "base": "FIL",
             "target": "USDT",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "Hoo.com",
+                "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 27.4,
-            "volume": 205.07400206,
+            "last": 23.085,
+            "volume": 13127.535883229115,
             "converted_last": {
-                "btc": 0.0007445,
-                "eth": 0.02132339,
-                "usd": 27.39
+                "btc": 0.00071838,
+                "eth": 0.01840527,
+                "usd": 23.1
             },
             "converted_volume": {
-                "btc": 0.15267749,
-                "eth": 4.372872,
-                "usd": 5617.08
+                "btc": 9.430572,
+                "eth": 241.616,
+                "usd": 303245
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 15.845778,
-            "timestamp": "2021-01-19T01:31:41+00:00",
-            "last_traded_at": "2021-01-19T01:31:41+00:00",
-            "last_fetch_at": "2021-01-19T05:36:35+00:00",
+            "bid_ask_spread_percentage": 0.137713,
+            "timestamp": "2021-01-23T18:20:40+00:00",
+            "last_traded_at": "2021-01-23T18:20:40+00:00",
+            "last_fetch_at": "2021-01-23T18:20:40+00:00",
             "is_anomaly": true,
-            "is_stale": true,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-FIL",
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/fil-usdt",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.0007014,
+            "volume": 132.3317,
+            "converted_last": {
+                "btc": 0.0007014,
+                "eth": 0.01812926,
+                "usd": 22.55
+            },
+            "converted_volume": {
+                "btc": 0.09281745,
+                "eth": 2.399076,
+                "usd": 2984.29
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.512111,
+            "timestamp": "2021-01-23T17:23:01+00:00",
+            "last_traded_at": "2021-01-23T17:23:01+00:00",
+            "last_fetch_at": "2021-01-23T18:25:18+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=FIL_BTC",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Coinsuper",
+                "identifier": "coinsuper",
+                "has_trading_incentive": true
+            },
+            "last": 9.3874,
+            "volume": 1299.45,
+            "converted_last": {
+                "btc": 0.00029214,
+                "eth": 0.00748486,
+                "usd": 9.39
+            },
+            "converted_volume": {
+                "btc": 0.37962586,
+                "eth": 9.726197,
+                "usd": 12206.99
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.1,
+            "timestamp": "2021-01-23T18:18:57+00:00",
+            "last_traded_at": "2021-01-23T18:18:57+00:00",
+            "last_fetch_at": "2021-01-23T18:18:57+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://www.coinsuper.com/trade?symbol=UNI%2FUSDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.01874,
+            "volume": 862.49713381,
+            "converted_last": {
+                "btc": 0.00073348,
+                "eth": 0.0187922,
+                "usd": 23.59
+            },
+            "converted_volume": {
+                "btc": 0.6326275,
+                "eth": 16.208222,
+                "usd": 20342
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.542005,
+            "timestamp": "2021-01-23T18:22:07+00:00",
+            "last_traded_at": "2021-01-23T18:22:07+00:00",
+            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/FIL_ETH",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "FIL",
@@ -2197,25 +2164,25 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 27.49,
-            "volume": 9.55543614,
+            "last": 22.261,
+            "volume": 56.44227341,
             "converted_last": {
-                "btc": 0.00075287,
-                "eth": 0.02193854,
-                "usd": 27.49
+                "btc": 0.0006923,
+                "eth": 0.01773696,
+                "usd": 22.26
             },
             "converted_volume": {
-                "btc": 0.00719398,
-                "eth": 0.2096323,
-                "usd": 262.68
+                "btc": 0.03907477,
+                "eth": 1.001114,
+                "usd": 1256.46
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 16.205893,
-            "timestamp": "2021-01-19T00:37:59+00:00",
-            "last_traded_at": "2021-01-19T00:37:59+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "bid_ask_spread_percentage": 6.789351,
+            "timestamp": "2021-01-23T18:18:03+00:00",
+            "last_traded_at": "2021-01-23T18:18:03+00:00",
+            "last_fetch_at": "2021-01-23T18:24:36+00:00",
             "is_anomaly": true,
-            "is_stale": true,
+            "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-FIL",
             "token_info_url": null,
             "coin_id": "filecoin"
@@ -2228,29 +2195,188 @@
                 "identifier": "bibo",
                 "has_trading_incentive": false
             },
-            "last": 22.0,
-            "volume": 1.549,
+            "last": 24.0,
+            "volume": 1.11,
             "converted_last": {
-                "btc": 0.0006164,
-                "eth": 0.01802663,
-                "usd": 22.0
+                "btc": 0.00075427,
+                "eth": 0.01955324,
+                "usd": 24.03
             },
             "converted_volume": {
-                "btc": 0.0009548,
-                "eth": 0.02792325,
-                "usd": 34.08
+                "btc": 0.00083724,
+                "eth": 0.02170409,
+                "usd": 26.67
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 8.333333,
-            "timestamp": "2021-01-18T18:00:19+00:00",
-            "last_traded_at": "2021-01-18T18:00:19+00:00",
-            "last_fetch_at": "2021-01-19T05:41:25+00:00",
+            "bid_ask_spread_percentage": 12.5,
+            "timestamp": "2021-01-23T16:06:44+00:00",
+            "last_traded_at": "2021-01-23T16:06:44+00:00",
+            "last_fetch_at": "2021-01-23T18:26:15+00:00",
             "is_anomaly": true,
-            "is_stale": true,
+            "is_stale": false,
             "trade_url": "https://bibo.gold/#/exchange?symbol=FIL-USDT",
             "token_info_url": null,
             "coin_id": "filecoin",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Indonesia",
+                "identifier": "huobi_id",
+                "has_trading_incentive": false
+            },
+            "last": 0.000698,
+            "volume": 8.2108,
+            "converted_last": {
+                "btc": 0.000698,
+                "eth": 0.01844009,
+                "usd": 22.54
+            },
+            "converted_volume": {
+                "btc": 0.00573114,
+                "eth": 0.15140786,
+                "usd": 185.09
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.138696,
+            "timestamp": "2021-01-23T02:33:35+00:00",
+            "last_traded_at": "2021-01-23T02:33:35+00:00",
+            "last_fetch_at": "2021-01-23T02:41:17+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://www.huobi.com.co/exchange/#s=fil_btc",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "FIL",
+            "target": "AUD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 29.1,
+            "volume": 279.59520921,
+            "converted_last": {
+                "btc": 0.00068348,
+                "eth": 0.01782821,
+                "usd": 22.46
+            },
+            "converted_volume": {
+                "btc": 0.19109864,
+                "eth": 4.984682,
+                "usd": 6278.37
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 60.448657,
+            "timestamp": "2021-01-23T08:26:46+00:00",
+            "last_traded_at": "2021-01-23T08:26:46+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://trade.kraken.com/markets/kraken/fil/aud",
+            "token_info_url": null,
+            "coin_id": "filecoin"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 22.509,
+            "volume": 15.16753173,
+            "converted_last": {
+                "btc": 0.00070605,
+                "eth": 0.01834391,
+                "usd": 22.54
+            },
+            "converted_volume": {
+                "btc": 0.01070907,
+                "eth": 0.27823191,
+                "usd": 341.82
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 11.38189,
+            "timestamp": "2021-01-23T15:13:55+00:00",
+            "last_traded_at": "2021-01-23T15:13:55+00:00",
+            "last_fetch_at": "2021-01-23T18:24:32+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-FIL",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "USDT",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 20.371,
+            "volume": 291.308,
+            "converted_last": {
+                "btc": 0.00056177,
+                "eth": 0.01460372,
+                "usd": 20.34
+            },
+            "converted_volume": {
+                "btc": 0.16364733,
+                "eth": 4.254181,
+                "usd": 5925.04
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-20T01:31:31+00:00",
+            "last_traded_at": "2021-01-20T01:31:31+00:00",
+            "last_fetch_at": "2021-01-23T18:24:01+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://www.bione.me/zh_CN/trade/FIL_USDT",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "FIL",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00069846,
+            "volume": 232.10939288,
+            "converted_last": {
+                "btc": 0.00069846,
+                "eth": 0.01814666,
+                "usd": 22.29
+            },
+            "converted_volume": {
+                "btc": 0.16211913,
+                "eth": 4.212009,
+                "usd": 5174.67
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 5.159831,
+            "timestamp": "2021-01-23T15:13:59+00:00",
+            "last_traded_at": "2021-01-23T15:13:59+00:00",
+            "last_fetch_at": "2021-01-23T18:24:36+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-FIL",
+            "token_info_url": null,
+            "coin_id": "filecoin",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "FIL",
@@ -2260,23 +2386,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.02091788,
-            "volume": 4.73505284,
+            "last": 0.02086155,
+            "volume": 17.17033745,
             "converted_last": {
-                "btc": 0.00070514,
-                "eth": 0.02095094,
-                "usd": 25.99
+                "btc": 0.00080087,
+                "eth": 0.02080749,
+                "usd": 25.57
             },
             "converted_volume": {
-                "btc": 0.00333888,
-                "eth": 0.09920383,
-                "usd": 123.05
+                "btc": 0.01375129,
+                "eth": 0.35727169,
+                "usd": 438.97
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 61.737342,
-            "timestamp": "2021-01-18T13:13:57+00:00",
-            "last_traded_at": "2021-01-18T13:13:57+00:00",
-            "last_fetch_at": "2021-01-18T14:05:49+00:00",
+            "bid_ask_spread_percentage": 27.002093,
+            "timestamp": "2021-01-23T15:14:04+00:00",
+            "last_traded_at": "2021-01-23T15:14:04+00:00",
+            "last_fetch_at": "2021-01-23T18:24:32+00:00",
             "is_anomaly": true,
             "is_stale": true,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-FIL",

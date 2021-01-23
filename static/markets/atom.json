@@ -105,8 +105,8 @@
     },
     "country_origin": "",
     "genesis_date": null,
-    "sentiment_votes_up_percentage": 83.33,
-    "sentiment_votes_down_percentage": 16.67,
+    "sentiment_votes_up_percentage": 83.48,
+    "sentiment_votes_down_percentage": 16.52,
     "ico_data": {
         "ico_start_date": "2017-04-06T00:00:00.000Z",
         "ico_end_date": "2017-04-06T00:00:00.000Z",
@@ -148,20 +148,51 @@
         "pre_sale_available": null,
         "pre_sale_ended": false
     },
-    "market_cap_rank": 19,
-    "coingecko_rank": 31,
-    "coingecko_score": 54.244,
-    "developer_score": 61.14,
-    "community_score": 41.037,
-    "liquidity_score": 70.679,
+    "market_cap_rank": 21,
+    "coingecko_rank": 30,
+    "coingecko_score": 54.915,
+    "developer_score": 61.138,
+    "community_score": 42.73,
+    "liquidity_score": 72.541,
     "public_interest_score": 0.018,
     "public_interest_stats": {
         "alexa_rank": 86006,
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-19T05:42:49.443Z",
+    "last_updated": "2021-01-23T18:24:34.373Z",
     "tickers": [
+        {
+            "base": "ATOM",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 63.3,
+            "volume": 2051291.27,
+            "converted_last": {
+                "btc": 0.0002655,
+                "eth": 0.00680229,
+                "usd": 8.54
+            },
+            "converted_volume": {
+                "btc": 544.622,
+                "eth": 13953,
+                "usd": 17512541
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.1158,
+            "timestamp": "2021-01-23T18:22:13+00:00",
+            "last_traded_at": "2021-01-23T18:22:13+00:00",
+            "last_fetch_at": "2021-01-23T18:22:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/ATOM_TRY",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
         {
             "base": "ATOM",
             "target": "USDT",
@@ -170,23 +201,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 9.429,
-            "volume": 8890195.115073284,
+            "last": 8.546,
+            "volume": 4149147.7650036276,
             "converted_last": {
-                "btc": 0.00025913,
-                "eth": 0.00714015,
-                "usd": 9.43
+                "btc": 0.00026598,
+                "eth": 0.00680177,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 2304,
-                "eth": 63477,
-                "usd": 83867636
+                "btc": 1104,
+                "eth": 28222,
+                "usd": 35485113
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1636,
-            "timestamp": "2021-01-19T05:40:58+00:00",
-            "last_traded_at": "2021-01-19T05:40:58+00:00",
-            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "bid_ask_spread_percentage": 0.181718,
+            "timestamp": "2021-01-23T18:26:02+00:00",
+            "last_traded_at": "2021-01-23T18:26:02+00:00",
+            "last_fetch_at": "2021-01-23T18:26:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ATOM_USDT",
@@ -202,23 +233,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 9.3882,
-            "volume": 4079133.485177854,
+            "last": 8.5391,
+            "volume": 2175276.023025379,
             "converted_last": {
-                "btc": 0.00025835,
-                "eth": 0.00711849,
-                "usd": 9.39
+                "btc": 0.00026548,
+                "eth": 0.00678905,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 1054,
-                "eth": 29037,
-                "usd": 38317368
+                "btc": 577.502,
+                "eth": 14768,
+                "usd": 18576093
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.160715,
-            "timestamp": "2021-01-19T05:42:47+00:00",
-            "last_traded_at": "2021-01-19T05:42:47+00:00",
-            "last_fetch_at": "2021-01-19T05:42:47+00:00",
+            "bid_ask_spread_percentage": 0.185391,
+            "timestamp": "2021-01-23T18:25:19+00:00",
+            "last_traded_at": "2021-01-23T18:25:19+00:00",
+            "last_fetch_at": "2021-01-23T18:25:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_usdt",
@@ -228,29 +259,92 @@
         },
         {
             "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 8.549,
+            "volume": 1067654.5,
+            "converted_last": {
+                "btc": 0.00026578,
+                "eth": 0.00679671,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 283.766,
+                "eth": 7257,
+                "usd": 9127378
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.186807,
+            "timestamp": "2021-01-23T18:24:42+00:00",
+            "last_traded_at": "2021-01-23T18:24:42+00:00",
+            "last_fetch_at": "2021-01-23T18:24:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ATOM-USD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026587,
+            "volume": 37479.61,
+            "converted_last": {
+                "btc": 0.00026587,
+                "eth": 0.0067989,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 9.964704,
+                "eth": 254.82,
+                "usd": 320527
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.232969,
+            "timestamp": "2021-01-23T18:25:30+00:00",
+            "last_traded_at": "2021-01-23T18:25:30+00:00",
+            "last_fetch_at": "2021-01-23T18:25:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ATOM-to-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
             "target": "USDT",
             "market": {
                 "name": "OKEx",
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 9.452,
-            "volume": 5803162.6852,
+            "last": 8.535,
+            "volume": 2936703.5361,
             "converted_last": {
-                "btc": 0.00025976,
-                "eth": 0.00717002,
-                "usd": 9.47
+                "btc": 0.00026536,
+                "eth": 0.00678579,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 1507,
-                "eth": 41609,
-                "usd": 54947233
+                "btc": 779.275,
+                "eth": 19928,
+                "usd": 25065999
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.142324,
-            "timestamp": "2021-01-19T05:38:42+00:00",
-            "last_traded_at": "2021-01-19T05:38:42+00:00",
-            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "bid_ask_spread_percentage": 0.193699,
+            "timestamp": "2021-01-23T18:23:55+00:00",
+            "last_traded_at": "2021-01-23T18:23:55+00:00",
+            "last_fetch_at": "2021-01-23T18:23:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=atom_usdt",
@@ -260,60 +354,29 @@
         },
         {
             "base": "ATOM",
-            "target": "TRY",
-            "market": {
-                "name": "BtcTurk PRO",
-                "identifier": "btcturk",
-                "has_trading_incentive": false
-            },
-            "last": 70.71,
-            "volume": 3036908.96,
-            "converted_last": {
-                "btc": 0.00026037,
-                "eth": 0.00717434,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 790.728,
-                "eth": 21788,
-                "usd": 28751045
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11414,
-            "timestamp": "2021-01-19T05:42:13+00:00",
-            "last_traded_at": "2021-01-19T05:42:13+00:00",
-            "last_fetch_at": "2021-01-19T05:42:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.btcturk.com/pro/al-sat/ATOM_TRY",
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATOM",
             "target": "BTC",
             "market": {
                 "name": "Bitcoin.com Exchange",
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.00025985,
-            "volume": 206996.24,
+            "last": 0.00026604,
+            "volume": 37208.04,
             "converted_last": {
-                "btc": 0.00025985,
-                "eth": 0.0071724,
-                "usd": 9.47
+                "btc": 0.00026604,
+                "eth": 0.00681607,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 53.788,
-                "eth": 1485,
-                "usd": 1960643
+                "btc": 9.898827,
+                "eth": 253.613,
+                "usd": 318300
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.150023,
-            "timestamp": "2021-01-19T05:37:29+00:00",
-            "last_traded_at": "2021-01-19T05:37:29+00:00",
-            "last_fetch_at": "2021-01-19T05:37:29+00:00",
+            "bid_ask_spread_percentage": 0.345293,
+            "timestamp": "2021-01-23T18:18:43+00:00",
+            "last_traded_at": "2021-01-23T18:18:43+00:00",
+            "last_fetch_at": "2021-01-23T18:18:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-BTC",
@@ -329,89 +392,26 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.0002595,
-            "volume": 2817892.426512524,
+            "last": 0.0002656,
+            "volume": 1356901.8701430722,
             "converted_last": {
-                "btc": 0.0002595,
-                "eth": 0.0071503,
-                "usd": 9.44
+                "btc": 0.0002656,
+                "eth": 0.006792,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 731.243,
-                "eth": 20149,
-                "usd": 26609729
+                "btc": 360.393,
+                "eth": 9216,
+                "usd": 11592502
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11583,
-            "timestamp": "2021-01-19T05:42:00+00:00",
-            "last_traded_at": "2021-01-19T05:42:00+00:00",
-            "last_fetch_at": "2021-01-19T05:42:00+00:00",
+            "bid_ask_spread_percentage": 0.175188,
+            "timestamp": "2021-01-23T18:25:36+00:00",
+            "last_traded_at": "2021-01-23T18:25:36+00:00",
+            "last_fetch_at": "2021-01-23T18:25:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ATOM_BTC",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 9.42,
-            "volume": 2479204.5,
-            "converted_last": {
-                "btc": 0.00025886,
-                "eth": 0.00713279,
-                "usd": 9.42
-            },
-            "converted_volume": {
-                "btc": 641.778,
-                "eth": 17684,
-                "usd": 23354106
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.153084,
-            "timestamp": "2021-01-19T05:41:14+00:00",
-            "last_traded_at": "2021-01-19T05:41:14+00:00",
-            "last_fetch_at": "2021-01-19T05:41:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/ATOM-USD",
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025985,
-            "volume": 206940.39,
-            "converted_last": {
-                "btc": 0.00025985,
-                "eth": 0.00715995,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 53.773,
-                "eth": 1482,
-                "usd": 1958458
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.361538,
-            "timestamp": "2021-01-19T05:40:00+00:00",
-            "last_traded_at": "2021-01-19T05:40:00+00:00",
-            "last_fetch_at": "2021-01-19T05:40:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ATOM-to-BTC",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "bitcoin"
@@ -424,23 +424,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 9.456,
-            "volume": 3041001.4851,
+            "last": 8.533,
+            "volume": 1545958.6581,
             "converted_last": {
-                "btc": 0.00025938,
-                "eth": 0.00715937,
-                "usd": 9.46
+                "btc": 0.00026529,
+                "eth": 0.0067842,
+                "usd": 8.53
             },
             "converted_volume": {
-                "btc": 788.769,
-                "eth": 21772,
-                "usd": 28761629
+                "btc": 410.135,
+                "eth": 10488,
+                "usd": 13192513
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116242,
-            "timestamp": "2021-01-19T05:37:00+00:00",
-            "last_traded_at": "2021-01-19T05:37:00+00:00",
-            "last_fetch_at": "2021-01-19T05:37:00+00:00",
+            "bid_ask_spread_percentage": 0.163724,
+            "timestamp": "2021-01-23T18:25:10+00:00",
+            "last_traded_at": "2021-01-23T18:25:10+00:00",
+            "last_fetch_at": "2021-01-23T18:25:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/ATOM",
@@ -450,60 +450,29 @@
         },
         {
             "base": "ATOM",
-            "target": "KRW",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 10280.0,
-            "volume": 2722704.50430585,
-            "converted_last": {
-                "btc": 0.00025648,
-                "eth": 0.00706721,
-                "usd": 9.32
-            },
-            "converted_volume": {
-                "btc": 698.331,
-                "eth": 19242,
-                "usd": 25365503
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194175,
-            "timestamp": "2021-01-19T05:43:13+00:00",
-            "last_traded_at": "2021-01-19T05:43:13+00:00",
-            "last_fetch_at": "2021-01-19T05:43:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATOM",
             "target": "XBT",
             "market": {
                 "name": "Kraken",
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.0002591,
-            "volume": 146586.11485858,
+            "last": 0.0002659,
+            "volume": 119630.00740515,
             "converted_last": {
-                "btc": 0.0002591,
-                "eth": 0.00713928,
-                "usd": 9.43
+                "btc": 0.0002659,
+                "eth": 0.00681249,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 37.980462,
-                "eth": 1047,
-                "usd": 1382683
+                "btc": 31.809619,
+                "eth": 814.978,
+                "usd": 1022791
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.19253,
-            "timestamp": "2021-01-19T05:40:11+00:00",
-            "last_traded_at": "2021-01-19T05:40:11+00:00",
-            "last_fetch_at": "2021-01-19T05:40:11+00:00",
+            "bid_ask_spread_percentage": 0.150207,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/atom/xbt",
@@ -515,58 +484,27 @@
             "base": "ATOM",
             "target": "USD",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 9.4604,
-            "volume": 608764.84837132,
-            "converted_last": {
-                "btc": 0.00025954,
-                "eth": 0.00716389,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 158.0,
-                "eth": 4361,
-                "usd": 5759159
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.191031,
-            "timestamp": "2021-01-19T05:38:24+00:00",
-            "last_traded_at": "2021-01-19T05:38:24+00:00",
-            "last_fetch_at": "2021-01-19T05:38:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/atom/usd",
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATOM",
-            "target": "USD",
-            "market": {
                 "name": "HitBTC",
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 9.38798,
-            "volume": 13838.07,
+            "last": 8.54041,
+            "volume": 1598.73,
             "converted_last": {
-                "btc": 0.00025819,
-                "eth": 0.00711431,
-                "usd": 9.39
+                "btc": 0.00026551,
+                "eth": 0.00678976,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 3.572902,
-                "eth": 98.448,
-                "usd": 129912
+                "btc": 0.42448242,
+                "eth": 10.854985,
+                "usd": 13653.81
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.435633,
-            "timestamp": "2021-01-19T05:42:59+00:00",
-            "last_traded_at": "2021-01-19T05:42:59+00:00",
-            "last_fetch_at": "2021-01-19T05:42:59+00:00",
+            "bid_ask_spread_percentage": 0.383037,
+            "timestamp": "2021-01-23T18:23:55+00:00",
+            "last_traded_at": "2021-01-23T18:23:55+00:00",
+            "last_fetch_at": "2021-01-23T18:23:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/ATOM-to-USD",
@@ -581,26 +519,58 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 9.468,
-            "volume": 88940.29,
+            "last": 8.557,
+            "volume": 21287.01,
             "converted_last": {
-                "btc": 0.00025971,
-                "eth": 0.00716846,
-                "usd": 9.47
+                "btc": 0.00026628,
+                "eth": 0.00682235,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 23.09844,
-                "eth": 637.565,
-                "usd": 841969
+                "btc": 5.668408,
+                "eth": 145.227,
+                "usd": 182259
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184495,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "bid_ask_spread_percentage": 0.146729,
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 8.545,
+            "volume": 177913.59,
+            "converted_last": {
+                "btc": 0.00026591,
+                "eth": 0.00681278,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 47.309257,
+                "eth": 1212,
+                "usd": 1521249
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198668,
+            "timestamp": "2021-01-23T18:22:13+00:00",
+            "last_traded_at": "2021-01-23T18:22:13+00:00",
+            "last_fetch_at": "2021-01-23T18:22:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
@@ -613,23 +583,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.00026,
-            "volume": 89681.65,
+            "last": 0.000266,
+            "volume": 41655.62,
             "converted_last": {
-                "btc": 0.00026,
-                "eth": 0.00717654,
-                "usd": 9.48
+                "btc": 0.000266,
+                "eth": 0.00681505,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 23.317229,
-                "eth": 643.604,
-                "usd": 849944
+                "btc": 11.080395,
+                "eth": 283.885,
+                "usd": 356274
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176894,
-            "timestamp": "2021-01-19T05:37:04+00:00",
-            "last_traded_at": "2021-01-19T05:37:04+00:00",
-            "last_fetch_at": "2021-01-19T05:37:04+00:00",
+            "bid_ask_spread_percentage": 0.137594,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_BTC",
@@ -639,64 +609,32 @@
         },
         {
             "base": "ATOM",
-            "target": "BTC",
+            "target": "KRW",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Upbit",
+                "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00025962,
-            "volume": 2135391.3011,
+            "last": 9460.0,
+            "volume": 1591161.21384441,
             "converted_last": {
-                "btc": 0.00025962,
-                "eth": 0.00716605,
-                "usd": 9.46
+                "btc": 0.00026612,
+                "eth": 0.00680536,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 554.39,
-                "eth": 15302,
-                "usd": 20208261
+                "btc": 423.444,
+                "eth": 10828,
+                "usd": 13615414
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.261579,
-            "timestamp": "2021-01-19T05:37:58+00:00",
-            "last_traded_at": "2021-01-19T05:37:58+00:00",
-            "last_fetch_at": "2021-01-19T05:37:58+00:00",
+            "bid_ask_spread_percentage": 0.152743,
+            "timestamp": "2021-01-23T18:26:03+00:00",
+            "last_traded_at": "2021-01-23T18:26:03+00:00",
+            "last_fetch_at": "2021-01-23T18:26:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=atom_btc",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "EUR",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 7.8326,
-            "volume": 284825.97209232,
-            "converted_last": {
-                "btc": 0.00025986,
-                "eth": 0.00717264,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 74.015,
-                "eth": 2043,
-                "usd": 2697860
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.114759,
-            "timestamp": "2021-01-19T05:38:24+00:00",
-            "last_traded_at": "2021-01-19T05:38:24+00:00",
-            "last_fetch_at": "2021-01-19T05:38:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/atom/eur",
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ATOM",
             "token_info_url": null,
             "coin_id": "cosmos"
         },
@@ -708,23 +646,23 @@
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 9.389,
-            "volume": 22103.8853,
+            "last": 8.561,
+            "volume": 33465.9444,
             "converted_last": {
-                "btc": 0.00025837,
-                "eth": 0.0071191,
-                "usd": 9.39
+                "btc": 0.00026645,
+                "eth": 0.0068137,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 5.710929,
-                "eth": 157.36,
-                "usd": 207651
+                "btc": 8.916961,
+                "eth": 228.027,
+                "usd": 286825
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106462,
-            "timestamp": "2021-01-19T05:42:32+00:00",
-            "last_traded_at": "2021-01-19T05:42:32+00:00",
-            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "bid_ask_spread_percentage": 0.151745,
+            "timestamp": "2021-01-23T18:25:43+00:00",
+            "last_traded_at": "2021-01-23T18:25:43+00:00",
+            "last_fetch_at": "2021-01-23T18:25:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -734,96 +672,94 @@
         },
         {
             "base": "ATOM",
-            "target": "USDT",
+            "target": "EUR",
             "market": {
-                "name": "BW.com",
-                "identifier": "bw",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 9.456,
-            "volume": 4209270.17,
+            "last": 7.0308,
+            "volume": 124523.40182695,
             "converted_last": {
-                "btc": 0.00025938,
-                "eth": 0.00715937,
-                "usd": 9.46
+                "btc": 0.00026621,
+                "eth": 0.00682048,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 1092,
-                "eth": 30136,
-                "usd": 39818382
+                "btc": 33.149606,
+                "eth": 849.309,
+                "usd": 1065876
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.43217,
-            "timestamp": "2021-01-19T05:35:44+00:00",
-            "last_traded_at": "2021-01-19T05:35:44+00:00",
-            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "bid_ask_spread_percentage": 0.147635,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/atom_usdt",
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/eur",
             "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
+            "coin_id": "cosmos"
         },
         {
             "base": "ATOM",
-            "target": "BCH",
+            "target": "USD",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.0183423,
-            "volume": 107.48,
+            "last": 8.5675,
+            "volume": 128441.89558518,
             "converted_last": {
-                "btc": 0.00025824,
-                "eth": 0.00717878,
-                "usd": 9.38
+                "btc": 0.00026646,
+                "eth": 0.00682673,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 0.02775525,
-                "eth": 0.77157555,
-                "usd": 1008.05
+                "btc": 34.224125,
+                "eth": 876.839,
+                "usd": 1100426
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.515467,
-            "timestamp": "2021-01-19T05:02:20+00:00",
-            "last_traded_at": "2021-01-19T05:02:20+00:00",
-            "last_fetch_at": "2021-01-19T05:43:05+00:00",
+            "bid_ask_spread_percentage": 0.195693,
+            "timestamp": "2021-01-23T18:21:18+00:00",
+            "last_traded_at": "2021-01-23T18:21:18+00:00",
+            "last_fetch_at": "2021-01-23T18:21:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/ATOM-to-BCH",
+            "trade_url": "https://trade.kraken.com/markets/kraken/atom/usd",
             "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin-cash"
+            "coin_id": "cosmos"
         },
         {
             "base": "ATOM",
             "target": "BTC",
             "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.000258,
-            "volume": 267924.5,
+            "last": 0.00026593,
+            "volume": 1146987.5168,
             "converted_last": {
-                "btc": 0.000258,
-                "eth": 0.00710897,
-                "usd": 9.39
+                "btc": 0.00026593,
+                "eth": 0.00681325,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 69.125,
-                "eth": 1905,
-                "usd": 2515422
+                "btc": 305.018,
+                "eth": 7815,
+                "usd": 9808014
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.769231,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "bid_ask_spread_percentage": 0.345009,
+            "timestamp": "2021-01-23T18:20:37+00:00",
+            "last_traded_at": "2021-01-23T18:20:37+00:00",
+            "last_fetch_at": "2021-01-23T18:20:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/ATOM-BTC",
+            "trade_url": "https://www.okex.com/market?product=atom_btc",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "bitcoin"
@@ -836,23 +772,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.00025881,
-            "volume": 361858.07019054744,
+            "last": 0.00026576,
+            "volume": 111637.33960935351,
             "converted_last": {
-                "btc": 0.00025881,
-                "eth": 0.00713129,
-                "usd": 9.41
+                "btc": 0.00026576,
+                "eth": 0.00679609,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 93.652,
-                "eth": 2581,
-                "usd": 3405226
+                "btc": 29.668739,
+                "eth": 758.697,
+                "usd": 954333
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.200873,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.194027,
+            "timestamp": "2021-01-23T18:25:17+00:00",
+            "last_traded_at": "2021-01-23T18:25:17+00:00",
+            "last_fetch_at": "2021-01-23T18:25:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_btc",
@@ -862,32 +798,96 @@
         },
         {
             "base": "ATOM",
-            "target": "USDT",
+            "target": "ETH",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "HitBTC",
+                "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 9.401,
-            "volume": 2382109.8394,
+            "last": 0.0068206,
+            "volume": 594.21,
             "converted_last": {
-                "btc": 0.0002587,
-                "eth": 0.0071282,
-                "usd": 9.41
+                "btc": 0.00026669,
+                "eth": 0.00681976,
+                "usd": 8.58
             },
             "converted_volume": {
-                "btc": 616.247,
-                "eth": 16980,
-                "usd": 22406873
+                "btc": 0.15846717,
+                "eth": 4.052368,
+                "usd": 5095.35
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.199864,
-            "timestamp": "2021-01-19T05:42:27+00:00",
-            "last_traded_at": "2021-01-19T05:42:27+00:00",
-            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "bid_ask_spread_percentage": 0.370002,
+            "timestamp": "2021-01-23T18:26:13+00:00",
+            "last_traded_at": "2021-01-23T18:26:13+00:00",
+            "last_fetch_at": "2021-01-23T18:26:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/ATOM_USDT",
+            "trade_url": "https://hitbtc.com/ATOM-to-ETH",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.000267,
+            "volume": 91132.9,
+            "converted_last": {
+                "btc": 0.000267,
+                "eth": 0.0068278,
+                "usd": 8.59
+            },
+            "converted_volume": {
+                "btc": 24.332484,
+                "eth": 622.237,
+                "usd": 782387
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.746269,
+            "timestamp": "2021-01-23T18:26:59+00:00",
+            "last_traded_at": "2021-01-23T18:26:59+00:00",
+            "last_fetch_at": "2021-01-23T18:26:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ATOM-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 8.55,
+            "volume": 2637628.922,
+            "converted_last": {
+                "btc": 0.00026582,
+                "eth": 0.00681053,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 701.144,
+                "eth": 17964,
+                "usd": 22545572
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.548425,
+            "timestamp": "2021-01-23T18:22:53+00:00",
+            "last_traded_at": "2021-01-23T18:22:53+00:00",
+            "last_fetch_at": "2021-01-23T18:22:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/atom_usdt",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
@@ -900,23 +900,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 9.40884,
-            "volume": 286983.32,
+            "last": 8.54862,
+            "volume": 233609.81,
             "converted_last": {
-                "btc": 0.00025891,
-                "eth": 0.00713414,
-                "usd": 9.41
+                "btc": 0.00026602,
+                "eth": 0.00681567,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 74.304,
-                "eth": 2047,
-                "usd": 2701706
+                "btc": 62.146,
+                "eth": 1592,
+                "usd": 1998326
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.264734,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 0.551693,
+            "timestamp": "2021-01-23T18:22:07+00:00",
+            "last_traded_at": "2021-01-23T18:22:07+00:00",
+            "last_fetch_at": "2021-01-23T18:22:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#ATOM_USDT",
@@ -932,23 +932,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 9.46,
-            "volume": 497982.25915639,
+            "last": 8.5478,
+            "volume": 131800.3366985,
             "converted_last": {
-                "btc": 0.00025949,
-                "eth": 0.0071624,
-                "usd": 9.46
+                "btc": 0.00026576,
+                "eth": 0.00679596,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 129.22,
-                "eth": 3567,
-                "usd": 4711882
+                "btc": 35.026611,
+                "eth": 895.71,
+                "usd": 1126638
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.192928,
-            "timestamp": "2021-01-19T05:36:02+00:00",
-            "last_traded_at": "2021-01-19T05:36:02+00:00",
-            "last_fetch_at": "2021-01-19T05:36:02+00:00",
+            "bid_ask_spread_percentage": 0.185446,
+            "timestamp": "2021-01-23T18:24:31+00:00",
+            "last_traded_at": "2021-01-23T18:24:31+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/ATOM-USDT",
@@ -964,23 +964,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00025908,
-            "volume": 945386.6399,
+            "last": 0.00026595,
+            "volume": 503966.1914,
             "converted_last": {
-                "btc": 0.00025908,
-                "eth": 0.00715114,
-                "usd": 9.44
+                "btc": 0.00026595,
+                "eth": 0.00680095,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 244.931,
-                "eth": 6761,
-                "usd": 8928051
+                "btc": 134.03,
+                "eth": 3427,
+                "usd": 4311239
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.594941,
-            "timestamp": "2021-01-19T05:37:02+00:00",
-            "last_traded_at": "2021-01-19T05:37:02+00:00",
-            "last_fetch_at": "2021-01-19T05:37:02+00:00",
+            "bid_ask_spread_percentage": 0.424365,
+            "timestamp": "2021-01-23T18:25:10+00:00",
+            "last_traded_at": "2021-01-23T18:25:10+00:00",
+            "last_fetch_at": "2021-01-23T18:25:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/ATOM",
@@ -992,65 +992,65 @@
             "base": "ATOM",
             "target": "USDT",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "BiKi",
+                "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 9.4366,
-            "volume": 140412.10876855,
+            "last": 8.5525,
+            "volume": 134856.93,
             "converted_last": {
-                "btc": 0.00025885,
-                "eth": 0.00714468,
-                "usd": 9.44
+                "btc": 0.0002659,
+                "eth": 0.0067997,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 36.345109,
-                "eth": 1003,
-                "usd": 1325286
+                "btc": 35.858622,
+                "eth": 916.987,
+                "usd": 1153421
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.374635,
-            "timestamp": "2021-01-19T05:36:30+00:00",
-            "last_traded_at": "2021-01-19T05:36:30+00:00",
-            "last_fetch_at": "2021-01-19T05:36:30+00:00",
+            "bid_ask_spread_percentage": 0.242015,
+            "timestamp": "2021-01-23T18:23:26+00:00",
+            "last_traded_at": "2021-01-23T18:23:26+00:00",
+            "last_fetch_at": "2021-01-23T18:23:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/ATOM_USDT",
+            "trade_url": "https://www.biki.com/trade/ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
         },
         {
             "base": "ATOM",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "LBank",
+                "identifier": "lbank",
                 "has_trading_incentive": false
             },
-            "last": 0.007152,
-            "volume": 5515.32,
+            "last": 8.5185,
+            "volume": 564703.88,
             "converted_last": {
-                "btc": 0.0002599,
-                "eth": 0.00716142,
-                "usd": 9.46
+                "btc": 0.00026513,
+                "eth": 0.00677988,
+                "usd": 8.53
             },
             "converted_volume": {
-                "btc": 1.433452,
-                "eth": 39.497547,
-                "usd": 52185
+                "btc": 149.718,
+                "eth": 3829,
+                "usd": 4815860
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.410013,
-            "timestamp": "2021-01-19T05:40:15+00:00",
-            "last_traded_at": "2021-01-19T05:40:15+00:00",
-            "last_fetch_at": "2021-01-19T05:40:15+00:00",
+            "bid_ask_spread_percentage": 0.995522,
+            "timestamp": "2021-01-23T18:25:59+00:00",
+            "last_traded_at": "2021-01-23T18:25:59+00:00",
+            "last_fetch_at": "2021-01-23T18:25:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/ATOM-to-ETH",
+            "trade_url": "https://www.lbank.info/exchange.html?asset=atom&post=usdt",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
         },
         {
             "base": "ATOM",
@@ -1060,23 +1060,23 @@
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.00025884,
-            "volume": 1771.6683,
+            "last": 0.00026563,
+            "volume": 776.2355,
             "converted_last": {
-                "btc": 0.00025884,
-                "eth": 0.00713212,
-                "usd": 9.41
+                "btc": 0.00026563,
+                "eth": 0.00679277,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 0.45857862,
-                "eth": 12.635743,
-                "usd": 16674.02
+                "btc": 0.20619144,
+                "eth": 5.272786,
+                "usd": 6632.41
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.293131,
-            "timestamp": "2021-01-19T05:42:32+00:00",
-            "last_traded_at": "2021-01-19T05:42:32+00:00",
-            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "bid_ask_spread_percentage": 0.393701,
+            "timestamp": "2021-01-23T18:25:43+00:00",
+            "last_traded_at": "2021-01-23T18:25:43+00:00",
+            "last_fetch_at": "2021-01-23T18:25:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -1086,96 +1086,63 @@
         },
         {
             "base": "ATOM",
-            "target": "USDT",
+            "target": "KRW",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Coinone",
+                "identifier": "coinone",
                 "has_trading_incentive": false
             },
-            "last": 9.461844,
-            "volume": 999479.17,
+            "last": 9470.0,
+            "volume": 154577.3596,
             "converted_last": {
-                "btc": 0.00025954,
-                "eth": 0.0071638,
-                "usd": 9.46
+                "btc": 0.00026631,
+                "eth": 0.00681006,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 259.403,
-                "eth": 7160,
-                "usd": 9455592
+                "btc": 41.164919,
+                "eth": 1053,
+                "usd": 1324102
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.152036,
-            "timestamp": "2021-01-19T05:37:22+00:00",
-            "last_traded_at": "2021-01-19T05:37:22+00:00",
-            "last_fetch_at": "2021-01-19T05:37:22+00:00",
+            "bid_ask_spread_percentage": 0.316623,
+            "timestamp": "2021-01-23T18:23:55+00:00",
+            "last_traded_at": "2021-01-23T18:23:55+00:00",
+            "last_fetch_at": "2021-01-23T18:23:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_USDT",
+            "trade_url": "https://coinone.co.kr/exchange/trade/atom/krw",
             "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "CNC",
-            "market": {
-                "name": "AEX",
-                "identifier": "aex",
-                "has_trading_incentive": false
-            },
-            "last": 60.16,
-            "volume": 209102.66884379,
-            "converted_last": {
-                "btc": 0.00026058,
-                "eth": 0.00717998,
-                "usd": 9.49
-            },
-            "converted_volume": {
-                "btc": 54.487,
-                "eth": 1501,
-                "usd": 1983618
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1665,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "global-china-cash"
+            "coin_id": "cosmos"
         },
         {
             "base": "ATOM",
             "target": "USDT",
             "market": {
-                "name": "BiKi",
-                "identifier": "biki",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 9.4227,
-            "volume": 145857.05,
+            "last": 8.5514,
+            "volume": 72272.20216762,
             "converted_last": {
-                "btc": 0.00025896,
-                "eth": 0.00713538,
-                "usd": 9.43
+                "btc": 0.00026587,
+                "eth": 0.00679883,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 37.770935,
-                "eth": 1041,
-                "usd": 1375056
+                "btc": 19.214795,
+                "eth": 491.366,
+                "usd": 618059
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.277689,
-            "timestamp": "2021-01-19T05:40:40+00:00",
-            "last_traded_at": "2021-01-19T05:40:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "bid_ask_spread_percentage": 0.223295,
+            "timestamp": "2021-01-23T18:23:19+00:00",
+            "last_traded_at": "2021-01-23T18:23:19+00:00",
+            "last_fetch_at": "2021-01-23T18:23:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.biki.com/trade/ATOM_USDT",
+            "trade_url": "https://gate.io/trade/ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
@@ -1188,23 +1155,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.007137,
-            "volume": 41165.7613531,
+            "last": 0.006811,
+            "volume": 7132.17172585,
             "converted_last": {
-                "btc": 0.00025872,
-                "eth": 0.0071465,
-                "usd": 9.44
+                "btc": 0.00026563,
+                "eth": 0.00684872,
+                "usd": 8.58
             },
             "converted_volume": {
-                "btc": 10.650251,
-                "eth": 294.191,
-                "usd": 388532
+                "btc": 1.894512,
+                "eth": 48.84627,
+                "usd": 61197
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.30821,
-            "timestamp": "2021-01-19T05:31:09+00:00",
-            "last_traded_at": "2021-01-19T05:31:09+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.220232,
+            "timestamp": "2021-01-23T18:07:34+00:00",
+            "last_traded_at": "2021-01-23T18:07:34+00:00",
+            "last_fetch_at": "2021-01-23T18:21:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/atom/eth",
@@ -1214,157 +1181,29 @@
         },
         {
             "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025912,
-            "volume": 232151.4,
-            "converted_last": {
-                "btc": 0.00025912,
-                "eth": 0.00715225,
-                "usd": 9.45
-            },
-            "converted_volume": {
-                "btc": 60.155,
-                "eth": 1660,
-                "usd": 2194919
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.273371,
-            "timestamp": "2021-01-19T05:34:37+00:00",
-            "last_traded_at": "2021-01-19T05:34:37+00:00",
-            "last_fetch_at": "2021-01-19T05:34:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/atom",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 9.4572,
-            "volume": 441815.6,
-            "converted_last": {
-                "btc": 0.00025915,
-                "eth": 0.00715316,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 114.498,
-                "eth": 3160,
-                "usd": 4177761
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.313688,
-            "timestamp": "2021-01-19T05:34:38+00:00",
-            "last_traded_at": "2021-01-19T05:34:38+00:00",
-            "last_fetch_at": "2021-01-19T05:34:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/atom",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 9.448,
-            "volume": 289838.90946496616,
-            "converted_last": {
-                "btc": 0.00025962,
-                "eth": 0.00715363,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 75.248,
-                "eth": 2073,
-                "usd": 2736044
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116785,
-            "timestamp": "2021-01-19T05:42:10+00:00",
-            "last_traded_at": "2021-01-19T05:42:10+00:00",
-            "last_fetch_at": "2021-01-19T05:42:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ATOM_BUSD",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025972,
-            "volume": 62751.10053877,
-            "converted_last": {
-                "btc": 0.00025972,
-                "eth": 0.00715636,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 16.297716,
-                "eth": 449.07,
-                "usd": 593320
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.211498,
-            "timestamp": "2021-01-19T05:40:57+00:00",
-            "last_traded_at": "2021-01-19T05:40:57+00:00",
-            "last_fetch_at": "2021-01-19T05:40:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#atom_btc",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
             "target": "USDT",
             "market": {
                 "name": "Bilaxy",
                 "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 9.45,
-            "volume": 657349.95,
+            "last": 8.543,
+            "volume": 647203.806,
             "converted_last": {
-                "btc": 0.00025971,
-                "eth": 0.00715606,
-                "usd": 9.46
+                "btc": 0.00026561,
+                "eth": 0.00679215,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 170.72,
-                "eth": 4704,
-                "usd": 6217698
+                "btc": 171.901,
+                "eth": 4396,
+                "usd": 5529232
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.401861,
-            "timestamp": "2021-01-19T05:39:57+00:00",
-            "last_traded_at": "2021-01-19T05:39:57+00:00",
-            "last_fetch_at": "2021-01-19T05:39:57+00:00",
+            "bid_ask_spread_percentage": 0.327371,
+            "timestamp": "2021-01-23T18:24:47+00:00",
+            "last_traded_at": "2021-01-23T18:24:47+00:00",
+            "last_fetch_at": "2021-01-23T18:24:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bilaxy.com/trade/ATOM_USDT",
@@ -1374,29 +1213,220 @@
         },
         {
             "base": "ATOM",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 54.99,
+            "volume": 152451.91769404,
+            "converted_last": {
+                "btc": 0.00026611,
+                "eth": 0.0068179,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 40.569186,
+                "eth": 1039,
+                "usd": 1304519
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.218103,
+            "timestamp": "2021-01-23T18:22:23+00:00",
+            "last_traded_at": "2021-01-23T18:22:23+00:00",
+            "last_fetch_at": "2021-01-23T18:22:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "ATOM",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 9480.0,
+            "volume": 220438.09853677,
+            "converted_last": {
+                "btc": 0.00026669,
+                "eth": 0.00683271,
+                "usd": 8.57
+            },
+            "converted_volume": {
+                "btc": 58.788,
+                "eth": 1506,
+                "usd": 1890256
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.263713,
+            "timestamp": "2021-01-23T18:21:14+00:00",
+            "last_traded_at": "2021-01-23T18:21:14+00:00",
+            "last_fetch_at": "2021-01-23T18:21:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/ATOM_KRW",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 8.554,
+            "volume": 1130541.5732,
+            "converted_last": {
+                "btc": 0.00026619,
+                "eth": 0.00681995,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 300.941,
+                "eth": 7710,
+                "usd": 9676297
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.200897,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 8.5639,
+            "volume": 115253.2,
+            "converted_last": {
+                "btc": 0.0002665,
+                "eth": 0.00682785,
+                "usd": 8.57
+            },
+            "converted_volume": {
+                "btc": 30.714929,
+                "eth": 786.931,
+                "usd": 987593
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.18324,
+            "timestamp": "2021-01-23T18:21:44+00:00",
+            "last_traded_at": "2021-01-23T18:21:44+00:00",
+            "last_fetch_at": "2021-01-23T18:21:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026608,
+            "volume": 166135.0,
+            "converted_last": {
+                "btc": 0.00026608,
+                "eth": 0.0068171,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 44.205201,
+                "eth": 1133,
+                "usd": 1421353
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.206394,
+            "timestamp": "2021-01-23T18:21:43+00:00",
+            "last_traded_at": "2021-01-23T18:21:43+00:00",
+            "last_fetch_at": "2021-01-23T18:21:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/atom",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026682,
+            "volume": 134689.34,
+            "converted_last": {
+                "btc": 0.00026682,
+                "eth": 0.00683606,
+                "usd": 8.58
+            },
+            "converted_volume": {
+                "btc": 35.93781,
+                "eth": 920.744,
+                "usd": 1155595
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.178099,
+            "timestamp": "2021-01-23T18:22:11+00:00",
+            "last_traded_at": "2021-01-23T18:22:11+00:00",
+            "last_fetch_at": "2021-01-23T18:22:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
             "target": "USDT",
             "market": {
                 "name": "Hoo.com",
                 "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 9.428,
-            "volume": 70833.35218722544,
+            "last": 8.565,
+            "volume": 69247.3309711617,
             "converted_last": {
-                "btc": 0.00025944,
-                "eth": 0.00714867,
-                "usd": 9.43
+                "btc": 0.00026493,
+                "eth": 0.00683062,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 18.377065,
-                "eth": 506.364,
-                "usd": 668194
+                "btc": 18.345477,
+                "eth": 473.002,
+                "usd": 592766
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.488323,
-            "timestamp": "2021-01-19T05:42:35+00:00",
-            "last_traded_at": "2021-01-19T05:42:35+00:00",
-            "last_fetch_at": "2021-01-19T05:42:35+00:00",
+            "bid_ask_spread_percentage": 0.501049,
+            "timestamp": "2021-01-23T18:04:25+00:00",
+            "last_traded_at": "2021-01-23T18:04:25+00:00",
+            "last_fetch_at": "2021-01-23T18:04:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hoo.com/spot/atom-usdt",
@@ -1408,27 +1438,155 @@
             "base": "ATOM",
             "target": "USDT",
             "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 8.568,
+            "volume": 28104.773,
+            "converted_last": {
+                "btc": 0.00026667,
+                "eth": 0.00681928,
+                "usd": 8.57
+            },
+            "converted_volume": {
+                "btc": 7.494606,
+                "eth": 191.654,
+                "usd": 240982
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.181709,
+            "timestamp": "2021-01-23T18:26:29+00:00",
+            "last_traded_at": "2021-01-23T18:26:29+00:00",
+            "last_fetch_at": "2021-01-23T18:26:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=atomusdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 119.49,
+            "volume": 5560.42,
+            "converted_last": {
+                "btc": 0.00026611,
+                "eth": 0.0068178,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 1.479669,
+                "eth": 37.909839,
+                "usd": 47577
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.41855,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_CRO",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "crypto-com-chain"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026748,
+            "volume": 22442.3814904,
+            "converted_last": {
+                "btc": 0.00026748,
+                "eth": 0.00687446,
+                "usd": 8.61
+            },
+            "converted_volume": {
+                "btc": 6.002888,
+                "eth": 154.279,
+                "usd": 193325
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.527971,
+            "timestamp": "2021-01-23T18:14:45+00:00",
+            "last_traded_at": "2021-01-23T18:14:45+00:00",
+            "last_fetch_at": "2021-01-23T18:21:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_btc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 8.57,
+            "volume": 176691.9161527421,
+            "converted_last": {
+                "btc": 0.00026617,
+                "eth": 0.0068066,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 47.030289,
+                "eth": 1203,
+                "usd": 1512738
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.21033,
+            "timestamp": "2021-01-23T18:24:54+00:00",
+            "last_traded_at": "2021-01-23T18:24:54+00:00",
+            "last_fetch_at": "2021-01-23T18:24:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_BUSD",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
                 "name": "Bibox",
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 9.3991,
-            "volume": 740403.03,
+            "last": 8.5613,
+            "volume": 580288.47,
             "converted_last": {
-                "btc": 0.00025865,
-                "eth": 0.00712676,
-                "usd": 9.4
+                "btc": 0.00026646,
+                "eth": 0.00681394,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 191.502,
-                "eth": 5277,
-                "usd": 6963056
+                "btc": 154.623,
+                "eth": 3954,
+                "usd": 4973631
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.154251,
-            "timestamp": "2021-01-19T05:42:32+00:00",
-            "last_traded_at": "2021-01-19T05:42:32+00:00",
-            "last_fetch_at": "2021-01-19T05:42:32+00:00",
+            "bid_ask_spread_percentage": 0.131909,
+            "timestamp": "2021-01-23T18:25:57+00:00",
+            "last_traded_at": "2021-01-23T18:25:57+00:00",
+            "last_fetch_at": "2021-01-23T18:25:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_USDT",
@@ -1444,23 +1602,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.007118,
-            "volume": 51544.41045465928,
+            "last": 0.006795,
+            "volume": 42382.52085856476,
             "converted_last": {
-                "btc": 0.00025902,
-                "eth": 0.0071496,
-                "usd": 9.45
+                "btc": 0.00026568,
+                "eth": 0.00679416,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 13.35124,
-                "eth": 368.522,
-                "usd": 486928
+                "btc": 11.260379,
+                "eth": 287.954,
+                "usd": 362204
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.251467,
-            "timestamp": "2021-01-19T05:35:59+00:00",
-            "last_traded_at": "2021-01-19T05:35:59+00:00",
-            "last_fetch_at": "2021-01-19T05:35:59+00:00",
+            "bid_ask_spread_percentage": 0.381791,
+            "timestamp": "2021-01-23T18:25:05+00:00",
+            "last_traded_at": "2021-01-23T18:25:05+00:00",
+            "last_fetch_at": "2021-01-23T18:25:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=atom_eth",
@@ -1470,162 +1628,35 @@
         },
         {
             "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 9.428,
-            "volume": 57071.852,
-            "converted_last": {
-                "btc": 0.0002591,
-                "eth": 0.0071394,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 14.787559,
-                "eth": 407.459,
-                "usd": 538343
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1848,
-            "timestamp": "2021-01-19T05:40:25+00:00",
-            "last_traded_at": "2021-01-19T05:40:25+00:00",
-            "last_fetch_at": "2021-01-19T05:40:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=atomusdt",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
                 "name": "LATOKEN",
                 "identifier": "latoken",
                 "has_trading_incentive": false
             },
-            "last": 9.46,
-            "volume": 748228.5588002114,
+            "last": 0.0002658,
+            "volume": 814825.1023841234,
             "converted_last": {
-                "btc": 0.00025998,
-                "eth": 0.00716363,
-                "usd": 9.46
+                "btc": 0.0002658,
+                "eth": 0.00680992,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 194.527,
-                "eth": 5360,
-                "usd": 7081787
+                "btc": 216.581,
+                "eth": 5549,
+                "usd": 6964238
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.153022,
-            "timestamp": "2021-01-19T05:40:30+00:00",
-            "last_traded_at": "2021-01-19T05:40:30+00:00",
-            "last_fetch_at": "2021-01-19T05:40:30+00:00",
+            "bid_ask_spread_percentage": 0.150263,
+            "timestamp": "2021-01-23T18:22:02+00:00",
+            "last_traded_at": "2021-01-23T18:22:02+00:00",
+            "last_fetch_at": "2021-01-23T18:22:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/USDT-ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025961,
-            "volume": 26098.7487485,
-            "converted_last": {
-                "btc": 0.00025961,
-                "eth": 0.00716577,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 6.775496,
-                "eth": 187.018,
-                "usd": 247061
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.503962,
-            "timestamp": "2021-01-19T05:36:37+00:00",
-            "last_traded_at": "2021-01-19T05:36:37+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-ATOM",
+            "trade_url": "https://latoken.com/exchange/BTC-ATOM",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 112.6,
-            "volume": 14528.35,
-            "converted_last": {
-                "btc": 0.00026074,
-                "eth": 0.00719704,
-                "usd": 9.5
-            },
-            "converted_volume": {
-                "btc": 3.788161,
-                "eth": 104.561,
-                "usd": 138083
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.568485,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/ATOM_CRO",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "crypto-com-chain"
-        },
-        {
-            "base": "ATOM",
-            "target": "KRW",
-            "market": {
-                "name": "GDAC",
-                "identifier": "gdac",
-                "has_trading_incentive": false
-            },
-            "last": 10320.0,
-            "volume": 63942.0845034,
-            "converted_last": {
-                "btc": 0.00025701,
-                "eth": 0.00708171,
-                "usd": 9.35
-            },
-            "converted_volume": {
-                "btc": 16.433787,
-                "eth": 452.819,
-                "usd": 598021
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.147228,
-            "timestamp": "2021-01-19T05:41:57+00:00",
-            "last_traded_at": "2021-01-19T05:41:57+00:00",
-            "last_fetch_at": "2021-01-19T05:41:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.gdac.com/exchange/ATOM/KRW",
-            "token_info_url": null,
-            "coin_id": "cosmos"
         },
         {
             "base": "ATO",
@@ -1635,26 +1666,121 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 9.4298,
-            "volume": 112687.81879348,
+            "last": 8.5657,
+            "volume": 15114.82204335,
             "converted_last": {
-                "btc": 0.00025934,
-                "eth": 0.007146,
-                "usd": 9.43
+                "btc": 0.00026629,
+                "eth": 0.00680976,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 29.224886,
-                "eth": 805.267,
-                "usd": 1062624
+                "btc": 4.024994,
+                "eth": 102.928,
+                "usd": 129469
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.275482,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.193349,
+            "timestamp": "2021-01-23T18:25:02+00:00",
+            "last_traded_at": "2021-01-23T18:25:02+00:00",
+            "last_fetch_at": "2021-01-23T18:25:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ATOUSD",
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 8.572,
+            "volume": 2576.48,
+            "converted_last": {
+                "btc": 0.00026679,
+                "eth": 0.00682246,
+                "usd": 8.58
+            },
+            "converted_volume": {
+                "btc": 0.68738209,
+                "eth": 17.577931,
+                "usd": 22111
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.343454,
+            "timestamp": "2021-01-23T18:25:34+00:00",
+            "last_traded_at": "2021-01-23T18:25:34+00:00",
+            "last_fetch_at": "2021-01-23T18:25:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.000265,
+            "volume": 4717.18,
+            "converted_last": {
+                "btc": 0.000265,
+                "eth": 0.00677666,
+                "usd": 8.52
+            },
+            "converted_volume": {
+                "btc": 1.250053,
+                "eth": 31.966704,
+                "usd": 40210
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.562641,
+            "timestamp": "2021-01-23T18:25:25+00:00",
+            "last_traded_at": "2021-01-23T18:25:25+00:00",
+            "last_fetch_at": "2021-01-23T18:25:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 8.563,
+            "volume": 54805.43502277239,
+            "converted_last": {
+                "btc": 0.0002663,
+                "eth": 0.00682274,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 14.594707,
+                "eth": 373.923,
+                "usd": 469299
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.140056,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/ATOM_USD",
             "token_info_url": null,
             "coin_id": "cosmos"
         },
@@ -1666,23 +1792,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.00025952,
-            "volume": 86547.20018457,
+            "last": 0.00026616,
+            "volume": 47477.72618923,
             "converted_last": {
-                "btc": 0.00025952,
-                "eth": 0.00715085,
-                "usd": 9.44
+                "btc": 0.00026616,
+                "eth": 0.00681915,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 22.460729,
-                "eth": 618.886,
-                "usd": 817340
+                "btc": 12.636672,
+                "eth": 323.758,
+                "usd": 406313
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.188707,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
+            "bid_ask_spread_percentage": 0.175148,
+            "timestamp": "2021-01-23T18:21:50+00:00",
+            "last_traded_at": "2021-01-23T18:21:50+00:00",
+            "last_fetch_at": "2021-01-23T18:21:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/ATOM-BTC",
@@ -1694,94 +1820,156 @@
             "base": "ATOM",
             "target": "USDT",
             "market": {
-                "name": "Bitforex",
-                "identifier": "bitforex",
+                "name": "Binance US",
+                "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 9.45823668,
-            "volume": 142905.5971,
+            "last": 8.555,
+            "volume": 38792.50177662186,
             "converted_last": {
-                "btc": 0.00025944,
-                "eth": 0.00716107,
-                "usd": 9.46
+                "btc": 0.00026622,
+                "eth": 0.00682075,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 37.075352,
-                "eth": 1023,
-                "usd": 1351412
+                "btc": 10.327441,
+                "eth": 264.594,
+                "usd": 332083
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.192601,
-            "timestamp": "2021-01-19T05:38:12+00:00",
-            "last_traded_at": "2021-01-19T05:38:12+00:00",
-            "last_fetch_at": "2021-01-19T05:38:12+00:00",
+            "bid_ask_spread_percentage": 0.12852,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitforex.com/en/spot/atom_usdt",
+            "trade_url": "https://www.binance.us/en/trade/ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
         },
         {
             "base": "ATOM",
-            "target": "BTC",
+            "target": "TRY",
             "market": {
-                "name": "MXC",
-                "identifier": "mxc",
+                "name": "Paribu",
+                "identifier": "paribu",
                 "has_trading_incentive": false
             },
-            "last": 0.00025991,
-            "volume": 202238.03,
+            "last": 62.9,
+            "volume": 138528.6527783,
             "converted_last": {
-                "btc": 0.00025991,
-                "eth": 0.0071616,
-                "usd": 9.45
+                "btc": 0.00026374,
+                "eth": 0.00674454,
+                "usd": 8.48
             },
             "converted_volume": {
-                "btc": 52.564,
-                "eth": 1448,
-                "usd": 1911228
+                "btc": 36.536109,
+                "eth": 934.312,
+                "usd": 1175191
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.136625,
-            "timestamp": "2021-01-19T05:42:37+00:00",
-            "last_traded_at": "2021-01-19T05:42:37+00:00",
-            "last_fetch_at": "2021-01-19T05:42:37+00:00",
+            "bid_ask_spread_percentage": 0.131797,
+            "timestamp": "2021-01-23T18:24:55+00:00",
+            "last_traded_at": "2021-01-23T18:24:55+00:00",
+            "last_fetch_at": "2021-01-23T18:24:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#ATOM_BTC",
+            "trade_url": null,
             "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
+            "coin_id": "cosmos"
         },
         {
             "base": "ATOM",
             "target": "USD",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "CEX.IO",
+                "identifier": "cex",
                 "has_trading_incentive": false
             },
-            "last": 9.48,
-            "volume": 101012.88278481012,
+            "last": 8.6115,
+            "volume": 4321.633322,
             "converted_last": {
-                "btc": 0.0002604,
-                "eth": 0.00717518,
-                "usd": 9.48
+                "btc": 0.00026781,
+                "eth": 0.00686139,
+                "usd": 8.61
             },
             "converted_volume": {
-                "btc": 26.304047,
-                "eth": 724.786,
-                "usd": 957602
+                "btc": 1.157371,
+                "eth": 29.652397,
+                "usd": 37216
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.110547,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "bid_ask_spread_percentage": 0.906316,
+            "timestamp": "2021-01-23T18:22:48+00:00",
+            "last_traded_at": "2021-01-23T18:22:48+00:00",
+            "last_fetch_at": "2021-01-23T18:22:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/ATOM_USD",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 8.549,
+            "volume": 17567.137,
+            "converted_last": {
+                "btc": 0.00026608,
+                "eth": 0.00680415,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 4.674182,
+                "eth": 119.53,
+                "usd": 150294
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.745399,
+            "timestamp": "2021-01-23T18:27:00+00:00",
+            "last_traded_at": "2021-01-23T18:27:00+00:00",
+            "last_fetch_at": "2021-01-23T18:27:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "GBP",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 6.2885,
+            "volume": 1051.202081,
+            "converted_last": {
+                "btc": 0.00026774,
+                "eth": 0.00692068,
+                "usd": 8.6
+            },
+            "converted_volume": {
+                "btc": 0.28144897,
+                "eth": 7.275035,
+                "usd": 9044.2
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.132153,
+            "timestamp": "2021-01-23T17:37:40+00:00",
+            "last_traded_at": "2021-01-23T17:37:40+00:00",
+            "last_fetch_at": "2021-01-23T18:22:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "cosmos"
         },
@@ -1793,90 +1981,26 @@
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.00025921,
-            "volume": 12271.0,
+            "last": 0.00026621,
+            "volume": 6732.0,
             "converted_last": {
-                "btc": 0.00025921,
-                "eth": 0.00714231,
-                "usd": 9.43
+                "btc": 0.00026621,
+                "eth": 0.00682043,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 3.180766,
-                "eth": 87.643,
-                "usd": 115747
+                "btc": 1.792126,
+                "eth": 45.915125,
+                "usd": 57623
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.546091,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:41:46+00:00",
+            "bid_ask_spread_percentage": 0.711984,
+            "timestamp": "2021-01-23T18:21:03+00:00",
+            "last_traded_at": "2021-01-23T18:21:03+00:00",
+            "last_fetch_at": "2021-01-23T18:21:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "ETH",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00714,
-            "volume": 37993.7859,
-            "converted_last": {
-                "btc": 0.00025982,
-                "eth": 0.0071717,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 9.87172,
-                "eth": 272.48,
-                "usd": 359837
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.321274,
-            "timestamp": "2021-01-19T05:37:31+00:00",
-            "last_traded_at": "2021-01-19T05:37:31+00:00",
-            "last_fetch_at": "2021-01-19T05:37:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=atom_eth",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025959,
-            "volume": 6417.17,
-            "converted_last": {
-                "btc": 0.00025959,
-                "eth": 0.00716522,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 1.665833,
-                "eth": 45.980444,
-                "usd": 60722
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.786948,
-            "timestamp": "2021-01-19T05:37:24+00:00",
-            "last_traded_at": "2021-01-19T05:37:24+00:00",
-            "last_fetch_at": "2021-01-19T05:37:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=ATOM_BTC",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "bitcoin"
@@ -1889,23 +2013,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.007138,
-            "volume": 31278.91315991,
+            "last": 0.006791,
+            "volume": 8247.53490583,
             "converted_last": {
-                "btc": 0.00025939,
-                "eth": 0.00714741,
-                "usd": 9.44
+                "btc": 0.0002658,
+                "eth": 0.00679711,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 8.113591,
-                "eth": 223.563,
-                "usd": 295251
+                "btc": 2.192193,
+                "eth": 56.059,
+                "usd": 70512
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.307434,
-            "timestamp": "2021-01-19T05:41:30+00:00",
-            "last_traded_at": "2021-01-19T05:41:30+00:00",
-            "last_fetch_at": "2021-01-19T05:41:30+00:00",
+            "bid_ask_spread_percentage": 0.176471,
+            "timestamp": "2021-01-23T18:24:29+00:00",
+            "last_traded_at": "2021-01-23T18:24:29+00:00",
+            "last_fetch_at": "2021-01-23T18:24:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/ATOM-ETH",
@@ -1917,59 +2041,347 @@
             "base": "ATOM",
             "target": "USDT",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "CoinEx",
+                "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 9.436,
-            "volume": 85390.16120082662,
+            "last": 8.5415,
+            "volume": 63916.86977469,
             "converted_last": {
-                "btc": 0.00025932,
-                "eth": 0.00714545,
-                "usd": 9.44
+                "btc": 0.0002658,
+                "eth": 0.00680999,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 22.143726,
-                "eth": 610.152,
-                "usd": 806145
+                "btc": 16.989265,
+                "eth": 435.273,
+                "usd": 546265
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.296642,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "bid_ask_spread_percentage": 0.470113,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/ATOM_USDT",
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=ATOM#limit",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
         },
         {
             "base": "ATOM",
-            "target": "EUR",
+            "target": "BNB",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.2098,
+            "volume": 20787.209318398476,
+            "converted_last": {
+                "btc": 0.00026596,
+                "eth": 0.00680129,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 5.528638,
+                "eth": 141.38,
+                "usd": 177768
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.42735,
+            "timestamp": "2021-01-23T18:26:27+00:00",
+            "last_traded_at": "2021-01-23T18:26:27+00:00",
+            "last_fetch_at": "2021-01-23T18:26:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_BNB",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "binancecoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00026646,
+            "volume": 10484.2492847,
+            "converted_last": {
+                "btc": 0.00026646,
+                "eth": 0.00681399,
+                "usd": 8.57
+            },
+            "converted_volume": {
+                "btc": 2.793633,
+                "eth": 71.44,
+                "usd": 89858
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.40498,
+            "timestamp": "2021-01-23T18:24:31+00:00",
+            "last_traded_at": "2021-01-23T18:24:31+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 8.58044415,
+            "volume": 8434.83146868,
+            "converted_last": {
+                "btc": 0.00026701,
+                "eth": 0.00684104,
+                "usd": 8.59
+            },
+            "converted_volume": {
+                "btc": 2.252222,
+                "eth": 57.703,
+                "usd": 72417
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.690129,
+            "timestamp": "2021-01-23T18:21:42+00:00",
+            "last_traded_at": "2021-01-23T18:21:42+00:00",
+            "last_fetch_at": "2021-01-23T18:21:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
             "market": {
                 "name": "CEX.IO",
                 "identifier": "cex",
                 "has_trading_incentive": false
             },
-            "last": 7.8755,
-            "volume": 493.298955,
+            "last": 8.497,
+            "volume": 96.146672,
             "converted_last": {
-                "btc": 0.00026212,
-                "eth": 0.00728688,
-                "usd": 9.53
+                "btc": 0.00026323,
+                "eth": 0.0068062,
+                "usd": 8.5
             },
             "converted_volume": {
-                "btc": 0.12930125,
-                "eth": 3.594609,
-                "usd": 4699.07
+                "btc": 0.02530903,
+                "eth": 0.65439302,
+                "usd": 817.5
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.862091,
-            "timestamp": "2021-01-19T05:09:46+00:00",
-            "last_traded_at": "2021-01-19T05:09:46+00:00",
-            "last_fetch_at": "2021-01-19T05:38:01+00:00",
+            "bid_ask_spread_percentage": 1.727116,
+            "timestamp": "2021-01-23T17:53:02+00:00",
+            "last_traded_at": "2021-01-23T17:53:02+00:00",
+            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "Bitforex",
+                "identifier": "bitforex",
+                "has_trading_incentive": false
+            },
+            "last": 8.5301245,
+            "volume": 138167.2489,
+            "converted_last": {
+                "btc": 0.00026521,
+                "eth": 0.00678191,
+                "usd": 8.53
+            },
+            "converted_volume": {
+                "btc": 36.642722,
+                "eth": 937.038,
+                "usd": 1178642
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.240669,
+            "timestamp": "2021-01-23T18:24:00+00:00",
+            "last_traded_at": "2021-01-23T18:24:00+00:00",
+            "last_fetch_at": "2021-01-23T18:24:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitforex.com/en/spot/atom_usdt",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 8.556,
+            "volume": 328961.69,
+            "converted_last": {
+                "btc": 0.00026625,
+                "eth": 0.00682155,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 87.587,
+                "eth": 2244,
+                "usd": 2816239
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.392097,
+            "timestamp": "2021-01-23T18:21:28+00:00",
+            "last_traded_at": "2021-01-23T18:21:28+00:00",
+            "last_fetch_at": "2021-01-23T18:21:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/ATOM-USDT",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 8.564,
+            "volume": 12082.045459131246,
+            "converted_last": {
+                "btc": 0.0002663,
+                "eth": 0.00682271,
+                "usd": 8.56
+            },
+            "converted_volume": {
+                "btc": 3.217436,
+                "eth": 82.432,
+                "usd": 103457
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.162115,
+            "timestamp": "2021-01-23T18:19:33+00:00",
+            "last_traded_at": "2021-01-23T18:19:33+00:00",
+            "last_fetch_at": "2021-01-23T18:25:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ATOM_USDC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ATO",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.000266,
+            "volume": 3379.39686247,
+            "converted_last": {
+                "btc": 0.000266,
+                "eth": 0.00681505,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 0.89891957,
+                "eth": 23.030753,
+                "usd": 28903
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.300752,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/ATOBTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 0.000266,
+            "volume": 327449.04,
+            "converted_last": {
+                "btc": 0.000266,
+                "eth": 0.00681505,
+                "usd": 8.55
+            },
+            "converted_volume": {
+                "btc": 87.101,
+                "eth": 2232,
+                "usd": 2800618
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.484781,
+            "timestamp": "2021-01-23T18:21:25+00:00",
+            "last_traded_at": "2021-01-23T18:21:25+00:00",
+            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/ATOM-BTC",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 120431.0,
+            "volume": 6900.96095349,
+            "converted_last": {
+                "btc": 0.00026704,
+                "eth": 0.00682872,
+                "usd": 8.59
+            },
+            "converted_volume": {
+                "btc": 1.842805,
+                "eth": 47.124734,
+                "usd": 59274
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.17678,
+            "timestamp": "2021-01-23T18:24:41+00:00",
+            "last_traded_at": "2021-01-23T18:24:41+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1984,23 +2396,23 @@
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.00714,
-            "volume": 386.7943,
+            "last": 0.006821,
+            "volume": 322.1067,
             "converted_last": {
-                "btc": 0.00025982,
-                "eth": 0.0071717,
-                "usd": 9.48
+                "btc": 0.00026534,
+                "eth": 0.0068598,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 0.10049867,
-                "eth": 2.773971,
-                "usd": 3665.25
+                "btc": 0.08546679,
+                "eth": 2.209587,
+                "usd": 2756.39
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.404915,
-            "timestamp": "2021-01-19T05:35:50+00:00",
-            "last_traded_at": "2021-01-19T05:35:50+00:00",
-            "last_fetch_at": "2021-01-19T05:35:50+00:00",
+            "bid_ask_spread_percentage": 0.512295,
+            "timestamp": "2021-01-23T18:02:23+00:00",
+            "last_traded_at": "2021-01-23T18:02:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -2010,252 +2422,29 @@
         },
         {
             "base": "ATOM",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.2094,
-            "volume": 50987.62640401146,
-            "converted_last": {
-                "btc": 0.00026001,
-                "eth": 0.00716441,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 13.257394,
-                "eth": 365.296,
-                "usd": 482433
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.430005,
-            "timestamp": "2021-01-19T05:41:24+00:00",
-            "last_traded_at": "2021-01-19T05:41:24+00:00",
-            "last_fetch_at": "2021-01-19T05:41:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ATOM_BNB",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "binancecoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "TRY",
-            "market": {
-                "name": "Paribu",
-                "identifier": "paribu",
-                "has_trading_incentive": false
-            },
-            "last": 70.89,
-            "volume": 543276.10136264,
-            "converted_last": {
-                "btc": 0.00026082,
-                "eth": 0.00718678,
-                "usd": 9.49
-            },
-            "converted_volume": {
-                "btc": 141.699,
-                "eth": 3904,
-                "usd": 5156400
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.734463,
-            "timestamp": "2021-01-19T05:41:23+00:00",
-            "last_traded_at": "2021-01-19T05:41:23+00:00",
-            "last_fetch_at": "2021-01-19T05:41:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 9.416,
-            "volume": 35813.855,
-            "converted_last": {
-                "btc": 0.00025877,
-                "eth": 0.00713031,
-                "usd": 9.42
-            },
-            "converted_volume": {
-                "btc": 9.267711,
-                "eth": 255.364,
-                "usd": 337249
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.824786,
-            "timestamp": "2021-01-19T05:41:43+00:00",
-            "last_traded_at": "2021-01-19T05:41:43+00:00",
-            "last_fetch_at": "2021-01-19T05:41:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 9.48264743,
-            "volume": 26403.61362126,
-            "converted_last": {
-                "btc": 0.00026061,
-                "eth": 0.00718078,
-                "usd": 9.48
-            },
-            "converted_volume": {
-                "btc": 6.880942,
-                "eth": 189.598,
-                "usd": 250396
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.476804,
-            "timestamp": "2021-01-19T05:41:00+00:00",
-            "last_traded_at": "2021-01-19T05:41:00+00:00",
-            "last_fetch_at": "2021-01-19T05:41:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#atom_usdt",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00714177,
-            "volume": 4536.0702461,
-            "converted_last": {
-                "btc": 0.00025989,
-                "eth": 0.00717347,
-                "usd": 9.48
-            },
-            "converted_volume": {
-                "btc": 1.178875,
-                "eth": 32.539385,
-                "usd": 42986
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.381718,
-            "timestamp": "2021-01-19T05:36:37+00:00",
-            "last_traded_at": "2021-01-19T05:36:37+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
-                "has_trading_incentive": false
-            },
-            "last": 9.3881,
-            "volume": 71174.2071171,
-            "converted_last": {
-                "btc": 0.00025834,
-                "eth": 0.00711842,
-                "usd": 9.39
-            },
-            "converted_volume": {
-                "btc": 18.387349,
-                "eth": 506.648,
-                "usd": 668568
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.272937,
-            "timestamp": "2021-01-19T05:42:24+00:00",
-            "last_traded_at": "2021-01-19T05:42:24+00:00",
-            "last_fetch_at": "2021-01-19T05:42:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=ATOM#limit",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002597,
-            "volume": 245235.45195494802,
-            "converted_last": {
-                "btc": 0.0002597,
-                "eth": 0.00715581,
-                "usd": 9.45
-            },
-            "converted_volume": {
-                "btc": 63.688,
-                "eth": 1755,
-                "usd": 2318557
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.177101,
-            "timestamp": "2021-01-19T05:40:32+00:00",
-            "last_traded_at": "2021-01-19T05:40:32+00:00",
-            "last_fetch_at": "2021-01-19T05:40:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
             "target": "USD",
             "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 9.48999818,
-            "volume": 9640.91067941,
+            "last": 8.5527248,
+            "volume": 7071.55819408,
             "converted_last": {
-                "btc": 0.00026026,
-                "eth": 0.00718364,
-                "usd": 9.49
+                "btc": 0.00026598,
+                "eth": 0.00681458,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 2.509116,
-                "eth": 69.257,
-                "usd": 91492
+                "btc": 1.880905,
+                "eth": 48.189691,
+                "usd": 60481
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.912748,
-            "timestamp": "2021-01-19T05:36:38+00:00",
-            "last_traded_at": "2021-01-19T05:36:38+00:00",
-            "last_fetch_at": "2021-01-19T05:36:38+00:00",
+            "bid_ask_spread_percentage": 1.136372,
+            "timestamp": "2021-01-23T18:18:01+00:00",
+            "last_traded_at": "2021-01-23T18:18:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-ATOM",
@@ -2266,127 +2455,65 @@
             "base": "ATOM",
             "target": "ETH",
             "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.00716,
-            "volume": 35144.561,
+            "last": 0.006821,
+            "volume": 4402.7465,
             "converted_last": {
-                "btc": 0.00026055,
-                "eth": 0.00719179,
-                "usd": 9.5
+                "btc": 0.00026697,
+                "eth": 0.00682713,
+                "usd": 8.59
             },
             "converted_volume": {
-                "btc": 9.157,
-                "eth": 252.752,
-                "usd": 333900
+                "btc": 1.175419,
+                "eth": 30.058139,
+                "usd": 37808
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.438252,
-            "timestamp": "2021-01-19T05:37:00+00:00",
-            "last_traded_at": "2021-01-19T05:37:00+00:00",
-            "last_fetch_at": "2021-01-19T05:37:00+00:00",
+            "bid_ask_spread_percentage": 0.687939,
+            "timestamp": "2021-01-23T18:23:57+00:00",
+            "last_traded_at": "2021-01-23T18:23:57+00:00",
+            "last_fetch_at": "2021-01-23T18:23:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/ATOM",
+            "trade_url": "https://www.okex.com/market?product=atom_eth",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "ethereum"
         },
         {
             "base": "ATOM",
-            "target": "USD",
+            "target": "ETH",
             "market": {
-                "name": "CEX.IO",
-                "identifier": "cex",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 9.4893,
-            "volume": 8284.277577,
+            "last": 0.00676982,
+            "volume": 416.9191085,
             "converted_last": {
-                "btc": 0.00026073,
-                "eth": 0.00721075,
-                "usd": 9.49
+                "btc": 0.00026497,
+                "eth": 0.00677591,
+                "usd": 8.52
             },
             "converted_volume": {
-                "btc": 2.15999,
-                "eth": 59.736,
-                "usd": 78612
+                "btc": 0.11047137,
+                "eth": 2.825005,
+                "usd": 3553.33
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.019706,
-            "timestamp": "2021-01-19T05:24:46+00:00",
-            "last_traded_at": "2021-01-19T05:24:46+00:00",
-            "last_fetch_at": "2021-01-19T05:38:01+00:00",
+            "bid_ask_spread_percentage": 1.137301,
+            "timestamp": "2021-01-23T18:24:35+00:00",
+            "last_traded_at": "2021-01-23T18:24:35+00:00",
+            "last_fetch_at": "2021-01-23T18:24:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos"
-        },
-        {
-            "base": "ATO",
-            "target": "BTC",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00025942,
-            "volume": 8440.77125939,
-            "converted_last": {
-                "btc": 0.00025942,
-                "eth": 0.0071481,
-                "usd": 9.45
-            },
-            "converted_volume": {
-                "btc": 2.189705,
-                "eth": 60.335,
-                "usd": 79750
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.269854,
-            "timestamp": "2021-01-19T05:39:10+00:00",
-            "last_traded_at": "2021-01-19T05:39:10+00:00",
-            "last_fetch_at": "2021-01-19T05:42:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/ATOBTC",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-ATOM",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "IDR",
-            "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
-                "has_trading_incentive": false
-            },
-            "last": 133973.0,
-            "volume": 14468.42360265,
-            "converted_last": {
-                "btc": 0.00026087,
-                "eth": 0.00718794,
-                "usd": 9.49
-            },
-            "converted_volume": {
-                "btc": 3.774322,
-                "eth": 103.998,
-                "usd": 137347
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.288305,
-            "timestamp": "2021-01-19T05:41:09+00:00",
-            "last_traded_at": "2021-01-19T05:41:09+00:00",
-            "last_fetch_at": "2021-01-19T05:41:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ATOM",
@@ -2396,23 +2523,23 @@
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.00714881,
-            "volume": 31534.1392,
+            "last": 0.00679458,
+            "volume": 6360.8486,
             "converted_last": {
-                "btc": 0.00026015,
-                "eth": 0.00716808,
-                "usd": 9.47
+                "btc": 0.00026594,
+                "eth": 0.00680069,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 8.203455,
-                "eth": 226.039,
-                "usd": 298774
+                "btc": 1.691603,
+                "eth": 43.258159,
+                "usd": 54411
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.246464,
-            "timestamp": "2021-01-19T05:39:18+00:00",
-            "last_traded_at": "2021-01-19T05:39:18+00:00",
-            "last_fetch_at": "2021-01-19T05:42:19+00:00",
+            "bid_ask_spread_percentage": 1.195627,
+            "timestamp": "2021-01-23T18:24:12+00:00",
+            "last_traded_at": "2021-01-23T18:24:12+00:00",
+            "last_fetch_at": "2021-01-23T18:24:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_ETH",
@@ -2422,61 +2549,29 @@
         },
         {
             "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 9.36241884,
-            "volume": 43168.33849214,
-            "converted_last": {
-                "btc": 0.00025681,
-                "eth": 0.00708852,
-                "usd": 9.36
-            },
-            "converted_volume": {
-                "btc": 11.086112,
-                "eth": 306.0,
-                "usd": 404243
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.198737,
-            "timestamp": "2021-01-19T05:36:39+00:00",
-            "last_traded_at": "2021-01-19T05:36:39+00:00",
-            "last_fetch_at": "2021-01-19T05:36:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-ATOM",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
             "target": "BTC",
             "market": {
                 "name": "Gate.io",
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.00026,
-            "volume": 8604.33477438,
+            "last": 0.0002659,
+            "volume": 4152.93533067,
             "converted_last": {
-                "btc": 0.00026,
-                "eth": 0.00717654,
-                "usd": 9.48
+                "btc": 0.0002659,
+                "eth": 0.00681249,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 2.237127,
-                "eth": 61.749,
-                "usd": 81574
+                "btc": 1.104266,
+                "eth": 28.291815,
+                "usd": 35506
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.576701,
-            "timestamp": "2021-01-19T05:36:28+00:00",
-            "last_traded_at": "2021-01-19T05:36:28+00:00",
-            "last_fetch_at": "2021-01-19T05:36:28+00:00",
+            "bid_ask_spread_percentage": 0.262763,
+            "timestamp": "2021-01-23T18:21:41+00:00",
+            "last_traded_at": "2021-01-23T18:21:41+00:00",
+            "last_fetch_at": "2021-01-23T18:21:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/ATOM_BTC",
@@ -2486,99 +2581,35 @@
         },
         {
             "base": "ATOM",
-            "target": "BTC",
+            "target": "ETH",
             "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
+                "name": "Digifinex",
+                "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.0002612,
-            "volume": 473.44,
+            "last": 0.006849,
+            "volume": 3607.7052,
             "converted_last": {
-                "btc": 0.0002612,
-                "eth": 0.00726143,
-                "usd": 9.49
+                "btc": 0.00026643,
+                "eth": 0.00688796,
+                "usd": 8.59
             },
             "converted_volume": {
-                "btc": 0.12366253,
-                "eth": 3.437851,
-                "usd": 4491.59
+                "btc": 0.96118683,
+                "eth": 24.849719,
+                "usd": 30999
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.997315,
-            "timestamp": "2021-01-19T05:05:15+00:00",
-            "last_traded_at": "2021-01-19T05:05:15+00:00",
-            "last_fetch_at": "2021-01-19T05:40:48+00:00",
+            "bid_ask_spread_percentage": 0.906565,
+            "timestamp": "2021-01-23T18:02:23+00:00",
+            "last_traded_at": "2021-01-23T18:02:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/ATOM",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "UST",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 9.4425,
-            "volume": 4243.0796,
-            "converted_last": {
-                "btc": 0.00025684,
-                "eth": 0.0070769,
-                "usd": 9.35
-            },
-            "converted_volume": {
-                "btc": 1.089776,
-                "eth": 30.027837,
-                "usd": 39657
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.657534,
-            "timestamp": "2021-01-19T05:41:29+00:00",
-            "last_traded_at": "2021-01-19T05:41:29+00:00",
-            "last_fetch_at": "2021-01-19T05:41:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/ATOM-UST",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "terrausd"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDC",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 9.487,
-            "volume": 33853.35629988405,
-            "converted_last": {
-                "btc": 0.00026059,
-                "eth": 0.0071802,
-                "usd": 9.48
-            },
-            "converted_volume": {
-                "btc": 8.821683,
-                "eth": 243.074,
-                "usd": 321019
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.335766,
-            "timestamp": "2021-01-19T05:41:49+00:00",
-            "last_traded_at": "2021-01-19T05:41:49+00:00",
-            "last_fetch_at": "2021-01-19T05:41:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ATOM_USDC",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "usd-coin"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ATOM",
@@ -2588,23 +2619,23 @@
                 "identifier": "oceanex",
                 "has_trading_incentive": false
             },
-            "last": 9.44443,
-            "volume": 95882.1,
+            "last": 8.55154,
+            "volume": 81674.3,
             "converted_last": {
-                "btc": 0.00025956,
-                "eth": 0.00715184,
-                "usd": 9.45
+                "btc": 0.00026587,
+                "eth": 0.00679894,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 24.886753,
-                "eth": 685.733,
-                "usd": 906005
+                "btc": 21.714858,
+                "eth": 555.299,
+                "usd": 698475
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.13384,
-            "timestamp": "2021-01-19T05:40:51+00:00",
-            "last_traded_at": "2021-01-19T05:40:51+00:00",
-            "last_fetch_at": "2021-01-19T05:40:51+00:00",
+            "bid_ask_spread_percentage": 0.147927,
+            "timestamp": "2021-01-23T18:23:29+00:00",
+            "last_traded_at": "2021-01-23T18:23:29+00:00",
+            "last_fetch_at": "2021-01-23T18:23:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://oceanex.pro/trades/atomusdt",
@@ -2614,29 +2645,61 @@
         },
         {
             "base": "ATOM",
+            "target": "BTC",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 0.000266,
+            "volume": 310.33,
+            "converted_last": {
+                "btc": 0.000266,
+                "eth": 0.0068698,
+                "usd": 8.57
+            },
+            "converted_volume": {
+                "btc": 0.08254778,
+                "eth": 2.131906,
+                "usd": 2658.66
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.084518,
+            "timestamp": "2021-01-23T17:40:07+00:00",
+            "last_traded_at": "2021-01-23T17:40:07+00:00",
+            "last_fetch_at": "2021-01-23T18:24:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ATOM",
             "target": "VET",
             "market": {
                 "name": "Oceanex",
                 "identifier": "oceanex",
                 "has_trading_incentive": false
             },
-            "last": 321.0,
-            "volume": 95708.05,
+            "last": 277.0,
+            "volume": 109465.005,
             "converted_last": {
-                "btc": 0.0002599,
-                "eth": 0.0071613,
-                "usd": 9.46
+                "btc": 0.00026573,
+                "eth": 0.00679538,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 24.874457,
-                "eth": 685.394,
-                "usd": 905558
+                "btc": 29.088358,
+                "eth": 743.856,
+                "usd": 935650
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.931677,
-            "timestamp": "2021-01-19T05:40:51+00:00",
-            "last_traded_at": "2021-01-19T05:40:51+00:00",
-            "last_fetch_at": "2021-01-19T05:40:51+00:00",
+            "bid_ask_spread_percentage": 1.075269,
+            "timestamp": "2021-01-23T18:23:29+00:00",
+            "last_traded_at": "2021-01-23T18:23:29+00:00",
+            "last_fetch_at": "2021-01-23T18:23:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://oceanex.pro/trades/atomvet",
@@ -2652,23 +2715,23 @@
                 "identifier": "wazirx",
                 "has_trading_incentive": false
             },
-            "last": 9.474,
-            "volume": 24993.05,
+            "last": 8.597,
+            "volume": 5561.52,
             "converted_last": {
-                "btc": 0.00026037,
-                "eth": 0.00717423,
-                "usd": 9.48
+                "btc": 0.00026728,
+                "eth": 0.00683508,
+                "usd": 8.6
             },
             "converted_volume": {
-                "btc": 6.507401,
-                "eth": 179.306,
-                "usd": 236903
+                "btc": 1.486509,
+                "eth": 38.013443,
+                "usd": 47814
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.959713,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 0.862571,
+            "timestamp": "2021-01-23T18:24:58+00:00",
+            "last_traded_at": "2021-01-23T18:24:58+00:00",
+            "last_fetch_at": "2021-01-23T18:24:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2678,67 +2741,99 @@
         },
         {
             "base": "ATOM",
-            "target": "BTC",
+            "target": "USDT",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 8.48258444,
+            "volume": 4075.77865284,
+            "converted_last": {
+                "btc": 0.0002632,
+                "eth": 0.0067719,
+                "usd": 8.49
+            },
+            "converted_volume": {
+                "btc": 1.072762,
+                "eth": 27.600747,
+                "usd": 34593
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.164028,
+            "timestamp": "2021-01-23T18:10:21+00:00",
+            "last_traded_at": "2021-01-23T18:10:21+00:00",
+            "last_fetch_at": "2021-01-23T18:24:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-ATOM",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ATOM",
+            "target": "USDT",
             "market": {
                 "name": "BitMart",
                 "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 0.0002596,
-            "volume": 6034.9,
+            "last": 8.5892,
+            "volume": 7003.2,
             "converted_last": {
-                "btc": 0.0002596,
-                "eth": 0.0071655,
-                "usd": 9.47
+                "btc": 0.00026651,
+                "eth": 0.00685701,
+                "usd": 8.59
             },
             "converted_volume": {
-                "btc": 1.56666,
-                "eth": 43.243061,
-                "usd": 57162
+                "btc": 1.866439,
+                "eth": 48.021011,
+                "usd": 60170
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.30704,
-            "timestamp": "2021-01-19T05:33:33+00:00",
-            "last_traded_at": "2021-01-19T05:33:33+00:00",
-            "last_fetch_at": "2021-01-19T05:40:36+00:00",
+            "bid_ask_spread_percentage": 0.69169,
+            "timestamp": "2021-01-23T18:11:01+00:00",
+            "last_traded_at": "2021-01-23T18:11:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=ATOM_BTC",
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
         },
         {
-            "base": "ATOM",
-            "target": "BIX",
+            "base": "ATO",
+            "target": "ETH",
             "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 145.607652,
-            "volume": 91269.7393,
+            "last": 0.006803,
+            "volume": 113.11963757,
             "converted_last": {
-                "btc": 0.0002607,
-                "eth": 0.00722543,
-                "usd": 9.48
+                "btc": 0.00026627,
+                "eth": 0.00682195,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 23.79385,
-                "eth": 659.463,
-                "usd": 865346
+                "btc": 0.0301203,
+                "eth": 0.77169661,
+                "usd": 968.47
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.99255,
-            "timestamp": "2021-01-19T05:11:21+00:00",
-            "last_traded_at": "2021-01-19T05:11:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
+            "bid_ask_spread_percentage": 0.173486,
+            "timestamp": "2021-01-23T18:21:13+00:00",
+            "last_traded_at": "2021-01-23T18:21:13+00:00",
+            "last_fetch_at": "2021-01-23T18:24:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=ATOM_BIX",
+            "trade_url": "https://www.bitfinex.com/t/ATOETH",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "bibox-token"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ATOM",
@@ -2748,23 +2843,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.01822212,
-            "volume": 19083.04471945,
+            "last": 0.01989157,
+            "volume": 19119.81810457,
             "converted_last": {
-                "btc": 0.00026062,
-                "eth": 0.00718105,
-                "usd": 9.48
+                "btc": 0.00026605,
+                "eth": 0.00681642,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 4.973346,
-                "eth": 137.036,
-                "usd": 180832
+                "btc": 5.086894,
+                "eth": 130.329,
+                "usd": 163562
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.717391,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "bid_ask_spread_percentage": 1.5,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BCH&dest=ATOM#limit",
@@ -2774,29 +2869,92 @@
         },
         {
             "base": "ATOM",
+            "target": "USDC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 8.41122136,
+            "volume": 835.54230114,
+            "converted_last": {
+                "btc": 0.00026113,
+                "eth": 0.00671137,
+                "usd": 8.41
+            },
+            "converted_volume": {
+                "btc": 0.21818894,
+                "eth": 5.607636,
+                "usd": 7026.84
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.313299,
+            "timestamp": "2021-01-23T18:14:46+00:00",
+            "last_traded_at": "2021-01-23T18:14:46+00:00",
+            "last_fetch_at": "2021-01-23T18:21:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#atom_usdc",
+            "token_info_url": null,
+            "coin_id": "cosmos",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ATOM",
+            "target": "EUR",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 7.0,
+            "volume": 408.579621,
+            "converted_last": {
+                "btc": 0.00026541,
+                "eth": 0.00686477,
+                "usd": 8.52
+            },
+            "converted_volume": {
+                "btc": 0.10844181,
+                "eth": 2.804806,
+                "usd": 3481.98
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.136637,
+            "timestamp": "2021-01-23T17:30:34+00:00",
+            "last_traded_at": "2021-01-23T17:30:34+00:00",
+            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "cosmos"
+        },
+        {
+            "base": "ATOM",
             "target": "KRW",
             "market": {
                 "name": "ProBit",
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 10340.0,
-            "volume": 50879.8997,
+            "last": 9475.0,
+            "volume": 2174.0232,
             "converted_last": {
-                "btc": 0.00025714,
-                "eth": 0.00709773,
-                "usd": 9.38
+                "btc": 0.00026654,
+                "eth": 0.00681615,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 13.08351,
-                "eth": 361.132,
-                "usd": 477076
+                "btc": 0.5794738,
+                "eth": 14.818469,
+                "usd": 18632.41
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.865385,
-            "timestamp": "2021-01-19T05:36:34+00:00",
-            "last_traded_at": "2021-01-19T05:36:34+00:00",
-            "last_fetch_at": "2021-01-19T05:36:34+00:00",
+            "bid_ask_spread_percentage": 0.840336,
+            "timestamp": "2021-01-23T18:26:07+00:00",
+            "last_traded_at": "2021-01-23T18:26:07+00:00",
+            "last_fetch_at": "2021-01-23T18:26:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/ATOM-KRW",
@@ -2811,23 +2969,23 @@
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 9.428,
-            "volume": 60008.3866,
+            "last": 8.538,
+            "volume": 2241.9397,
             "converted_last": {
-                "btc": 0.0002591,
-                "eth": 0.0071394,
-                "usd": 9.43
+                "btc": 0.00026573,
+                "eth": 0.0067954,
+                "usd": 8.54
             },
             "converted_volume": {
-                "btc": 15.548427,
-                "eth": 428.424,
-                "usd": 565803
+                "btc": 0.59575727,
+                "eth": 15.234875,
+                "usd": 19155.98
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.107128,
-            "timestamp": "2021-01-19T05:41:15+00:00",
-            "last_traded_at": "2021-01-19T05:41:15+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "bid_ask_spread_percentage": 0.88475,
+            "timestamp": "2021-01-23T18:26:06+00:00",
+            "last_traded_at": "2021-01-23T18:26:06+00:00",
+            "last_fetch_at": "2021-01-23T18:26:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/ATOM-USDT",
@@ -2836,68 +2994,67 @@
             "target_coin_id": "tether"
         },
         {
-            "base": "ATO",
-            "target": "ETH",
+            "base": "ATOM",
+            "target": "USD",
             "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
+                "name": "EXMO",
+                "identifier": "exmo",
                 "has_trading_incentive": false
             },
-            "last": 0.0071303,
-            "volume": 219.89577656,
+            "last": 8.517183,
+            "volume": 2408.31808696,
             "converted_last": {
-                "btc": 0.00025947,
-                "eth": 0.00716195,
-                "usd": 9.47
+                "btc": 0.00026466,
+                "eth": 0.00680198,
+                "usd": 8.52
             },
             "converted_volume": {
-                "btc": 0.05705671,
-                "eth": 1.574883,
-                "usd": 2081.87
+                "btc": 0.63738512,
+                "eth": 16.381324,
+                "usd": 20512
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.890497,
-            "timestamp": "2021-01-19T05:34:53+00:00",
-            "last_traded_at": "2021-01-19T05:34:53+00:00",
-            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "bid_ask_spread_percentage": 2.963743,
+            "timestamp": "2021-01-23T18:16:51+00:00",
+            "last_traded_at": "2021-01-23T18:16:51+00:00",
+            "last_fetch_at": "2021-01-23T18:26:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/ATOETH",
+            "trade_url": "https://exmo.com/en/trade/ATOM_USD",
             "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "ethereum"
+            "coin_id": "cosmos"
         },
         {
             "base": "ATOM",
-            "target": "USDC",
+            "target": "USDT",
             "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
+                "name": "Huobi Indonesia",
+                "identifier": "huobi_id",
                 "has_trading_incentive": false
             },
-            "last": 9.42820512,
-            "volume": 8185.69180506,
+            "last": 8.5633,
+            "volume": 472.34999999999997,
             "converted_last": {
-                "btc": 0.00025857,
-                "eth": 0.00712455,
-                "usd": 9.41
+                "btc": 0.00026652,
+                "eth": 0.00681554,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 2.116536,
-                "eth": 58.319,
-                "usd": 77053
+                "btc": 0.1258909,
+                "eth": 3.219318,
+                "usd": 4047.9
             },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.269359,
-            "timestamp": "2021-01-19T05:41:00+00:00",
-            "last_traded_at": "2021-01-19T05:41:00+00:00",
-            "last_fetch_at": "2021-01-19T05:41:00+00:00",
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.108523,
+            "timestamp": "2021-01-23T18:26:21+00:00",
+            "last_traded_at": "2021-01-23T18:26:21+00:00",
+            "last_fetch_at": "2021-01-23T18:26:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#atom_usdc",
+            "trade_url": "https://www.huobi.com.co/exchange/#s=atom_usdt",
             "token_info_url": null,
             "coin_id": "cosmos",
-            "target_coin_id": "usd-coin"
+            "target_coin_id": "tether"
         },
         {
             "base": "ATOM",
@@ -2907,23 +3064,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 9.46,
-            "volume": 4347765.584,
+            "last": 8.544,
+            "volume": 2175384.846,
             "converted_last": {
-                "btc": 0.00025949,
-                "eth": 0.0071624,
-                "usd": 9.46
+                "btc": 0.0002659,
+                "eth": 0.00681239,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 1128,
-                "eth": 31140,
-                "usd": 41138329
+                "btc": 578.427,
+                "eth": 14820,
+                "usd": 18599488
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.131702,
-            "timestamp": "2021-01-19T05:36:41+00:00",
-            "last_traded_at": "2021-01-19T05:36:41+00:00",
-            "last_fetch_at": "2021-01-19T05:36:41+00:00",
+            "bid_ask_spread_percentage": 0.146795,
+            "timestamp": "2021-01-23T18:18:58+00:00",
+            "last_traded_at": "2021-01-23T18:18:58+00:00",
+            "last_fetch_at": "2021-01-23T18:18:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=atom",
@@ -2939,23 +3096,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.0002596,
-            "volume": 1015825.43,
+            "last": 0.0002658,
+            "volume": 444933.95,
             "converted_last": {
-                "btc": 0.0002596,
-                "eth": 0.0071655,
-                "usd": 9.47
+                "btc": 0.0002658,
+                "eth": 0.00680992,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 263.708,
-                "eth": 7279,
-                "usd": 9615842
+                "btc": 118.263,
+                "eth": 3030,
+                "usd": 3802780
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.176953,
-            "timestamp": "2021-01-19T05:36:41+00:00",
-            "last_traded_at": "2021-01-19T05:36:41+00:00",
-            "last_fetch_at": "2021-01-19T05:36:41+00:00",
+            "bid_ask_spread_percentage": 0.149645,
+            "timestamp": "2021-01-23T18:19:01+00:00",
+            "last_traded_at": "2021-01-23T18:19:01+00:00",
+            "last_fetch_at": "2021-01-23T18:19:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=atom",
@@ -2971,23 +3128,23 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 9.4674,
-            "volume": 13758.38,
+            "last": 8.54611,
+            "volume": 1580.56,
             "converted_last": {
-                "btc": 0.00025973,
-                "eth": 0.00716919,
-                "usd": 9.47
+                "btc": 0.00026578,
+                "eth": 0.00680931,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 3.573515,
-                "eth": 98.636,
-                "usd": 130256
+                "btc": 0.42007487,
+                "eth": 10.762521,
+                "usd": 13507.64
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.427432,
-            "timestamp": "2021-01-19T05:38:37+00:00",
-            "last_traded_at": "2021-01-19T05:38:37+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "bid_ask_spread_percentage": 0.345198,
+            "timestamp": "2021-01-23T18:18:50+00:00",
+            "last_traded_at": "2021-01-23T18:18:50+00:00",
+            "last_fetch_at": "2021-01-23T18:18:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-USD",
@@ -3002,90 +3159,26 @@
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 9.4055,
-            "volume": 4001968.24,
+            "last": 8.5342,
+            "volume": 3803467.76,
             "converted_last": {
-                "btc": 0.00025849,
-                "eth": 0.00712236,
-                "usd": 9.41
+                "btc": 0.00026533,
+                "eth": 0.00679794,
+                "usd": 8.53
             },
             "converted_volume": {
-                "btc": 1034,
-                "eth": 28503,
-                "usd": 37659365
+                "btc": 1009,
+                "eth": 25856,
+                "usd": 32450695
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.390737,
-            "timestamp": "2021-01-19T05:40:58+00:00",
-            "last_traded_at": "2021-01-19T05:40:58+00:00",
-            "last_fetch_at": "2021-01-19T05:40:58+00:00",
+            "bid_ask_spread_percentage": 0.394855,
+            "timestamp": "2021-01-23T18:22:43+00:00",
+            "last_traded_at": "2021-01-23T18:22:43+00:00",
+            "last_fetch_at": "2021-01-23T18:22:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/atom_usdt",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "BCH",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.0183423,
-            "volume": 107.48,
-            "converted_last": {
-                "btc": 0.00025964,
-                "eth": 0.00721748,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 0.0279056,
-                "eth": 0.77573472,
-                "usd": 1013.74
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.388814,
-            "timestamp": "2021-01-19T04:59:58+00:00",
-            "last_traded_at": "2021-01-19T04:59:58+00:00",
-            "last_fetch_at": "2021-01-19T05:40:34+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-BCH",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin-cash"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Binance JEX",
-                "identifier": "jex",
-                "has_trading_incentive": false
-            },
-            "last": 9.4569,
-            "volume": 4137159.66,
-            "converted_last": {
-                "btc": 0.00025914,
-                "eth": 0.00715293,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 1072,
-                "eth": 29593,
-                "usd": 39119297
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.641306,
-            "timestamp": "2021-01-19T05:34:19+00:00",
-            "last_traded_at": "2021-01-19T05:34:19+00:00",
-            "last_fetch_at": "2021-01-19T05:34:19+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
@@ -3098,23 +3191,23 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.007146,
-            "volume": 5574.45,
+            "last": 0.0068078,
+            "volume": 591.03,
             "converted_last": {
-                "btc": 0.00026004,
-                "eth": 0.00717772,
-                "usd": 9.48
+                "btc": 0.00026646,
+                "eth": 0.00682676,
+                "usd": 8.57
             },
             "converted_volume": {
-                "btc": 1.449596,
-                "eth": 40.011861,
-                "usd": 52838
+                "btc": 0.15748425,
+                "eth": 4.034822,
+                "usd": 5063.96
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.357362,
-            "timestamp": "2021-01-19T05:38:37+00:00",
-            "last_traded_at": "2021-01-19T05:38:37+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "bid_ask_spread_percentage": 0.510122,
+            "timestamp": "2021-01-23T18:18:44+00:00",
+            "last_traded_at": "2021-01-23T18:18:44+00:00",
+            "last_fetch_at": "2021-01-23T18:18:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/ATOM-to-ETH",
@@ -3130,23 +3223,23 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.00025909,
-            "volume": 1252398.4,
+            "last": 0.00026702,
+            "volume": 1436384.82,
             "converted_last": {
-                "btc": 0.00025909,
-                "eth": 0.00715142,
-                "usd": 9.45
+                "btc": 0.00026702,
+                "eth": 0.00682831,
+                "usd": 8.59
             },
             "converted_volume": {
-                "btc": 324.484,
-                "eth": 8956,
-                "usd": 11834138
+                "btc": 383.543,
+                "eth": 9808,
+                "usd": 12337162
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.622,
-            "timestamp": "2021-01-19T05:35:44+00:00",
-            "last_traded_at": "2021-01-19T05:35:44+00:00",
-            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "bid_ask_spread_percentage": 0.695613,
+            "timestamp": "2021-01-23T18:25:51+00:00",
+            "last_traded_at": "2021-01-23T18:25:51+00:00",
+            "last_fetch_at": "2021-01-23T18:25:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/ATOM/BTC",
@@ -3158,30 +3251,30 @@
             "base": "ATOM",
             "target": "BTC",
             "market": {
-                "name": "Bidesk",
-                "identifier": "bidesk",
+                "name": "BiONE",
+                "identifier": "bione",
                 "has_trading_incentive": false
             },
-            "last": 0.00025988,
-            "volume": 1251487.91,
+            "last": 0.00026584,
+            "volume": 72235.289,
             "converted_last": {
-                "btc": 0.00025988,
-                "eth": 0.00716077,
-                "usd": 9.46
+                "btc": 0.00026584,
+                "eth": 0.00679814,
+                "usd": 8.55
             },
             "converted_volume": {
-                "btc": 325.237,
-                "eth": 8962,
-                "usd": 11835271
+                "btc": 19.203029,
+                "eth": 491.065,
+                "usd": 617669
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.58862,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
+            "bid_ask_spread_percentage": 0.289213,
+            "timestamp": "2021-01-23T18:24:04+00:00",
+            "last_traded_at": "2021-01-23T18:24:04+00:00",
+            "last_fetch_at": "2021-01-23T18:24:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bidesk.com/exchange/ATOM/BTC",
+            "trade_url": "https://www.bione.me/zh_CN/trade/ATOM_BTC",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "bitcoin"
@@ -3190,126 +3283,30 @@
             "base": "ATOM",
             "target": "USDT",
             "market": {
-                "name": "DragonEx",
-                "identifier": "dragonex",
+                "name": "BiONE",
+                "identifier": "bione",
                 "has_trading_incentive": false
             },
-            "last": 9.482,
-            "volume": 472015.417,
+            "last": 8.5321,
+            "volume": 240374.675,
             "converted_last": {
-                "btc": 0.00026059,
-                "eth": 0.00718029,
-                "usd": 9.49
+                "btc": 0.00026527,
+                "eth": 0.00678348,
+                "usd": 8.53
             },
             "converted_volume": {
-                "btc": 123.002,
-                "eth": 3389,
-                "usd": 4477892
+                "btc": 63.763,
+                "eth": 1631,
+                "usd": 2051002
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.076778,
-            "timestamp": "2021-01-19T05:40:09+00:00",
-            "last_traded_at": "2021-01-19T05:40:09+00:00",
-            "last_fetch_at": "2021-01-19T05:40:09+00:00",
+            "bid_ask_spread_percentage": 0.347336,
+            "timestamp": "2021-01-23T18:23:58+00:00",
+            "last_traded_at": "2021-01-23T18:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:23:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://dragonex.io/en-us/trade/index/atom_usdt",
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "BTC",
-            "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002593,
-            "volume": 79770.9969,
-            "converted_last": {
-                "btc": 0.0002593,
-                "eth": 0.00715722,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 20.684619,
-                "eth": 570.938,
-                "usd": 754734
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.715275,
-            "timestamp": "2021-01-19T05:34:12+00:00",
-            "last_traded_at": "2021-01-19T05:34:12+00:00",
-            "last_fetch_at": "2021-01-19T05:34:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
-                "has_trading_incentive": false
-            },
-            "last": 9.415,
-            "volume": 50959.6253,
-            "converted_last": {
-                "btc": 0.00025908,
-                "eth": 0.00713881,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 13.202778,
-                "eth": 363.791,
-                "usd": 480445
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.540025,
-            "timestamp": "2021-01-19T05:42:00+00:00",
-            "last_traded_at": "2021-01-19T05:42:00+00:00",
-            "last_fetch_at": "2021-01-19T05:42:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "cosmos",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ATOM",
-            "target": "USDT",
-            "market": {
-                "name": "Bidesk",
-                "identifier": "bidesk",
-                "has_trading_incentive": false
-            },
-            "last": 9.4215,
-            "volume": 10337258.7,
-            "converted_last": {
-                "btc": 0.00025926,
-                "eth": 0.00714374,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 2680,
-                "eth": 73847,
-                "usd": 97526559
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 0.234555,
-            "timestamp": "2021-01-19T05:41:47+00:00",
-            "last_traded_at": "2021-01-19T05:41:47+00:00",
-            "last_fetch_at": "2021-01-19T05:41:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bidesk.com/exchange/ATOM/USDT",
+            "trade_url": "https://www.bione.me/zh_CN/trade/ATOM_USDT",
             "token_info_url": null,
             "coin_id": "cosmos",
             "target_coin_id": "tether"
@@ -3322,23 +3319,23 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 9.4746,
-            "volume": 10353465.58,
+            "last": 8.5502,
+            "volume": 13367757.03,
             "converted_last": {
-                "btc": 0.00025989,
-                "eth": 0.00717346,
-                "usd": 9.48
+                "btc": 0.00026611,
+                "eth": 0.00680511,
+                "usd": 8.56
             },
             "converted_volume": {
-                "btc": 2691,
-                "eth": 74270,
-                "usd": 98133201
+                "btc": 3557,
+                "eth": 90969,
+                "usd": 114426012
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.332401,
-            "timestamp": "2021-01-19T05:35:44+00:00",
-            "last_traded_at": "2021-01-19T05:35:44+00:00",
-            "last_fetch_at": "2021-01-19T05:35:44+00:00",
+            "bid_ask_spread_percentage": 0.105177,
+            "timestamp": "2021-01-23T18:25:51+00:00",
+            "last_traded_at": "2021-01-23T18:25:51+00:00",
+            "last_fetch_at": "2021-01-23T18:25:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/ATOM/USDT",

@@ -104,8 +104,8 @@
     "country_origin": "",
     "genesis_date": "2017-10-02",
     "contract_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-    "sentiment_votes_up_percentage": 95.24,
-    "sentiment_votes_down_percentage": 4.76,
+    "sentiment_votes_up_percentage": 93.12,
+    "sentiment_votes_down_percentage": 6.88,
     "ico_data": {
         "ico_start_date": "2017-10-30T00:00:00.000Z",
         "ico_end_date": "2017-11-29T00:00:00.000Z",
@@ -147,18 +147,37 @@
         "pre_sale_available": null,
         "pre_sale_ended": false
     },
-    "market_cap_rank": 90,
-    "coingecko_rank": 73,
-    "coingecko_score": 46.803,
-    "developer_score": 52.109,
-    "community_score": 42.591,
-    "liquidity_score": 51.394,
+    "market_cap_rank": 76,
+    "coingecko_rank": 54,
+    "coingecko_score": 49.703,
+    "developer_score": 52.142,
+    "community_score": 44.226,
+    "liquidity_score": 62.386,
     "public_interest_score": 0.025,
     "public_interest_stats": {
         "alexa_rank": 80924,
         "bing_matches": null
     },
     "status_updates": [
+        {
+            "description": "\"Enjin Coin (ENJ) has jumped over Japan\u2019s strict regulatory hurdles to become the first gaming cryptocurrency to be whitelisted for use in the nation.\"\r\n\r\nhttps://www.coindesk.com/enjin-coin-becomes-first-gaming-cryptocurrency-whitelisted-for-use-in-japan",
+            "category": "milestone",
+            "created_at": "2021-01-19T10:58:02.420Z",
+            "user": "Maxim Blagov",
+            "user_title": "CEO",
+            "pin": false,
+            "project": {
+                "type": "Coin",
+                "id": "enjincoin",
+                "name": "Enjin Coin",
+                "symbol": "enj",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png?1547035078",
+                    "small": "https://assets.coingecko.com/coins/images/1102/small/enjin-coin-logo.png?1547035078",
+                    "large": "https://assets.coingecko.com/coins/images/1102/large/enjin-coin-logo.png?1547035078"
+                }
+            }
+        },
         {
             "description": "ENJ has been approved by the Japanese finance regulators and will be listed on Coincheck JP! This makes Enjin Coin the first gaming crypto approved for use in Japan: https://enj.in/japan",
             "category": "exchange_listing",
@@ -272,28 +291,9 @@
                     "large": "https://assets.coingecko.com/coins/images/1102/large/enjin-coin-logo.png?1547035078"
                 }
             }
-        },
-        {
-            "description": "We\u2019ve partnered with CoinCodex to give away a series of NFTs backed by over 5,000 ENJ! Collect points and NF-keys to unlock the crypto treasure: https://coincodex.com/article/10107/coincodex-enjin-erc-1155-giveaway/preview/",
-            "category": "general",
-            "created_at": "2020-12-07T20:58:12.939Z",
-            "user": "Maxim Blagov",
-            "user_title": "CEO",
-            "pin": false,
-            "project": {
-                "type": "Coin",
-                "id": "enjincoin",
-                "name": "Enjin Coin",
-                "symbol": "enj",
-                "image": {
-                    "thumb": "https://assets.coingecko.com/coins/images/1102/thumb/enjin-coin-logo.png?1547035078",
-                    "small": "https://assets.coingecko.com/coins/images/1102/small/enjin-coin-logo.png?1547035078",
-                    "large": "https://assets.coingecko.com/coins/images/1102/large/enjin-coin-logo.png?1547035078"
-                }
-            }
         }
     ],
-    "last_updated": "2021-01-19T05:42:15.575Z",
+    "last_updated": "2021-01-23T18:24:48.512Z",
     "tickers": [
         {
             "base": "ENJ",
@@ -303,23 +303,23 @@
                 "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 311.0,
-            "volume": 179943764.12708938,
+            "last": 467.0,
+            "volume": 228334104.40077537,
             "converted_last": {
-                "btc": 7.75e-06,
-                "eth": 0.00021341,
-                "usd": 0.281845
+                "btc": 1.313e-05,
+                "eth": 0.00033583,
+                "usd": 0.422418
             },
             "converted_volume": {
-                "btc": 1394,
-                "eth": 38402,
-                "usd": 50716240
+                "btc": 2999,
+                "eth": 76681,
+                "usd": 96452437
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.638978,
-            "timestamp": "2021-01-19T05:41:37+00:00",
-            "last_traded_at": "2021-01-19T05:41:37+00:00",
-            "last_fetch_at": "2021-01-19T05:41:37+00:00",
+            "bid_ask_spread_percentage": 0.213675,
+            "timestamp": "2021-01-23T18:23:09+00:00",
+            "last_traded_at": "2021-01-23T18:23:09+00:00",
+            "last_fetch_at": "2021-01-23T18:23:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ENJ",
@@ -334,23 +334,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.28631,
-            "volume": 121906467.97434948,
+            "last": 0.42263,
+            "volume": 96141801.46052575,
             "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021681,
-                "usd": 0.286332
+                "btc": 1.314e-05,
+                "eth": 0.00033601,
+                "usd": 0.422651
             },
             "converted_volume": {
-                "btc": 959.22,
-                "eth": 26430,
-                "usd": 34905743
+                "btc": 1263,
+                "eth": 32305,
+                "usd": 40634410
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176583,
-            "timestamp": "2021-01-19T05:41:08+00:00",
-            "last_traded_at": "2021-01-19T05:41:08+00:00",
-            "last_fetch_at": "2021-01-19T05:41:08+00:00",
+            "bid_ask_spread_percentage": 0.154376,
+            "timestamp": "2021-01-23T18:23:11+00:00",
+            "last_traded_at": "2021-01-23T18:23:11+00:00",
+            "last_fetch_at": "2021-01-23T18:23:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ENJ_USDT",
@@ -366,23 +366,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 7.88e-06,
-            "volume": 47710614.808375634,
+            "last": 1.314e-05,
+            "volume": 43419243.74048706,
             "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.00021713,
-                "usd": 0.286751
+                "btc": 1.314e-05,
+                "eth": 0.00033602,
+                "usd": 0.422658
             },
             "converted_volume": {
-                "btc": 375.96,
-                "eth": 10359,
-                "usd": 13681065
+                "btc": 570.529,
+                "eth": 14590,
+                "usd": 18351508
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.127065,
-            "timestamp": "2021-01-19T05:41:24+00:00",
-            "last_traded_at": "2021-01-19T05:41:24+00:00",
-            "last_fetch_at": "2021-01-19T05:41:24+00:00",
+            "bid_ask_spread_percentage": 0.15186,
+            "timestamp": "2021-01-23T18:23:30+00:00",
+            "last_traded_at": "2021-01-23T18:23:30+00:00",
+            "last_fetch_at": "2021-01-23T18:23:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ENJ_BTC",
@@ -392,29 +392,61 @@
         },
         {
             "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.42276,
+            "volume": 1869919.1,
+            "converted_last": {
+                "btc": 1.316e-05,
+                "eth": 0.00033706,
+                "usd": 0.423007
+            },
+            "converted_volume": {
+                "btc": 24.60037,
+                "eth": 630.273,
+                "usd": 790988
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.202634,
+            "timestamp": "2021-01-23T18:21:11+00:00",
+            "last_traded_at": "2021-01-23T18:21:11+00:00",
+            "last_fetch_at": "2021-01-23T18:21:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ENJ_USDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
             "target": "BTC",
             "market": {
                 "name": "Tokenize",
                 "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 7.85e-06,
-            "volume": 710.700636943,
+            "last": 1.315e-05,
+            "volume": 296.139163498,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021668,
-                "usd": 0.286418
+                "btc": 1.315e-05,
+                "eth": 0.00033691,
+                "usd": 0.422819
             },
             "converted_volume": {
-                "btc": 0.005579,
-                "eth": 0.15399195,
-                "usd": 203.56
+                "btc": 0.00389423,
+                "eth": 0.09977205,
+                "usd": 125.21
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.505051,
-            "timestamp": "2021-01-19T05:33:43+00:00",
-            "last_traded_at": "2021-01-19T05:33:43+00:00",
-            "last_fetch_at": "2021-01-19T05:33:43+00:00",
+            "bid_ask_spread_percentage": 0.379939,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://tokenize.exchange/market/BTC-ENJ",
@@ -430,23 +462,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 7.8506e-06,
-            "volume": 8965271.0,
+            "last": 1.31343e-05,
+            "volume": 606158.0,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021632,
-                "usd": 0.285802
+                "btc": 1.313e-05,
+                "eth": 0.00033651,
+                "usd": 0.422314
             },
             "converted_volume": {
-                "btc": 70.383,
-                "eth": 1939,
-                "usd": 2562293
+                "btc": 7.961461,
+                "eth": 203.976,
+                "usd": 255989
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.368553,
-            "timestamp": "2021-01-19T05:40:09+00:00",
-            "last_traded_at": "2021-01-19T05:40:09+00:00",
-            "last_fetch_at": "2021-01-19T05:40:09+00:00",
+            "bid_ask_spread_percentage": 0.329177,
+            "timestamp": "2021-01-23T18:21:45+00:00",
+            "last_traded_at": "2021-01-23T18:21:45+00:00",
+            "last_fetch_at": "2021-01-23T18:21:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/ENJ-to-BTC",
@@ -462,123 +494,28 @@
                 "identifier": "bithumb",
                 "has_trading_incentive": false
             },
-            "last": 311.2,
-            "volume": 21406767.27252934,
+            "last": 468.0,
+            "volume": 18891343.31106878,
             "converted_last": {
-                "btc": 7.75e-06,
-                "eth": 0.00021359,
-                "usd": 0.282202
+                "btc": 1.317e-05,
+                "eth": 0.00033731,
+                "usd": 0.423323
             },
             "converted_volume": {
-                "btc": 165.939,
-                "eth": 4572,
-                "usd": 6041040
+                "btc": 248.717,
+                "eth": 6372,
+                "usd": 7997131
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.765306,
-            "timestamp": "2021-01-19T05:40:10+00:00",
-            "last_traded_at": "2021-01-19T05:40:10+00:00",
-            "last_fetch_at": "2021-01-19T05:40:10+00:00",
+            "bid_ask_spread_percentage": 0.598163,
+            "timestamp": "2021-01-23T18:21:14+00:00",
+            "last_traded_at": "2021-01-23T18:21:14+00:00",
+            "last_fetch_at": "2021-01-23T18:21:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bithumb.com/trade/order/ENJ_KRW",
             "token_info_url": null,
             "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
-                "has_trading_incentive": false
-            },
-            "last": 0.28561,
-            "volume": 445218.37838,
-            "converted_last": {
-                "btc": 7.86e-06,
-                "eth": 0.00021656,
-                "usd": 0.285771
-            },
-            "converted_volume": {
-                "btc": 3.499172,
-                "eth": 96.417,
-                "usd": 127231
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.440806,
-            "timestamp": "2021-01-19T05:42:18+00:00",
-            "last_traded_at": "2021-01-19T05:42:18+00:00",
-            "last_fetch_at": "2021-01-19T05:42:18+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.2856204,
-            "volume": 881723.0,
-            "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021618,
-                "usd": 0.28562
-            },
-            "converted_volume": {
-                "btc": 6.917654,
-                "eth": 190.61,
-                "usd": 251838
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.566191,
-            "timestamp": "2021-01-19T05:40:05+00:00",
-            "last_traded_at": "2021-01-19T05:40:05+00:00",
-            "last_fetch_at": "2021-01-19T05:40:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ENJ-to-USD",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
-                "has_trading_incentive": false
-            },
-            "last": 0.28622,
-            "volume": 40334630.542,
-            "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.0002167,
-                "usd": 0.286279
-            },
-            "converted_volume": {
-                "btc": 316.668,
-                "eth": 8741,
-                "usd": 11546954
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.869145,
-            "timestamp": "2021-01-19T05:36:09+00:00",
-            "last_traded_at": "2021-01-19T05:36:09+00:00",
-            "last_fetch_at": "2021-01-19T05:36:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/ENJ_USDT",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -588,23 +525,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 3.419,
-            "volume": 354627.88,
+            "last": 5.92,
+            "volume": 271042.64,
             "converted_last": {
-                "btc": 7.92e-06,
-                "eth": 0.00021853,
-                "usd": 0.288593
+                "btc": 1.318e-05,
+                "eth": 0.00033778,
+                "usd": 0.423912
             },
             "converted_volume": {
-                "btc": 2.807668,
-                "eth": 77.497,
-                "usd": 102343
+                "btc": 3.573426,
+                "eth": 91.553,
+                "usd": 114898
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.351185,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "bid_ask_spread_percentage": 0.388514,
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/ENJ_CRO",
@@ -614,35 +551,34 @@
         },
         {
             "base": "ENJ",
-            "target": "USDT",
+            "target": "USD",
             "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
+                "name": "HitBTC",
+                "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.287,
-            "volume": 1224932.4,
+            "last": 0.42175,
+            "volume": 89531.0,
             "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021729,
-                "usd": 0.28696
+                "btc": 1.312e-05,
+                "eth": 0.00033606,
+                "usd": 0.42175
             },
             "converted_volume": {
-                "btc": 9.643171,
-                "eth": 266.171,
-                "usd": 351506
+                "btc": 1.174357,
+                "eth": 30.087587,
+                "usd": 37760
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.773527,
-            "timestamp": "2021-01-19T05:37:02+00:00",
-            "last_traded_at": "2021-01-19T05:37:02+00:00",
-            "last_fetch_at": "2021-01-19T05:37:02+00:00",
+            "bid_ask_spread_percentage": 0.176887,
+            "timestamp": "2021-01-23T18:21:42+00:00",
+            "last_traded_at": "2021-01-23T18:21:42+00:00",
+            "last_fetch_at": "2021-01-23T18:21:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/ENJ_USDT",
+            "trade_url": "https://hitbtc.com/ENJ-to-USD",
             "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
+            "coin_id": "enjincoin"
         },
         {
             "base": "ENJ",
@@ -652,23 +588,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.00021877,
-            "volume": 12821803.723545276,
+            "last": 0.00033627,
+            "volume": 7379399.557468701,
             "converted_last": {
-                "btc": 7.95e-06,
-                "eth": 0.00021906,
-                "usd": 0.289302
+                "btc": 1.316e-05,
+                "eth": 0.00033657,
+                "usd": 0.423353
             },
             "converted_volume": {
-                "btc": 101.935,
-                "eth": 2809,
-                "usd": 3709373
+                "btc": 97.125,
+                "eth": 2484,
+                "usd": 3124094
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.722616,
-            "timestamp": "2021-01-19T05:41:13+00:00",
-            "last_traded_at": "2021-01-19T05:41:13+00:00",
-            "last_fetch_at": "2021-01-19T05:41:13+00:00",
+            "bid_ask_spread_percentage": 0.198872,
+            "timestamp": "2021-01-23T18:23:55+00:00",
+            "last_traded_at": "2021-01-23T18:23:55+00:00",
+            "last_fetch_at": "2021-01-23T18:23:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ENJ_ETH",
@@ -678,67 +614,35 @@
         },
         {
             "base": "ENJ",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "CoinTiger",
+                "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 7.82e-06,
-            "volume": 2910452.10503262,
+            "last": 0.42259,
+            "volume": 273384.6,
             "converted_last": {
-                "btc": 7.82e-06,
-                "eth": 0.00021585,
-                "usd": 0.285148
+                "btc": 1.314e-05,
+                "eth": 0.00033662,
+                "usd": 0.422475
             },
             "converted_volume": {
-                "btc": 22.759735,
-                "eth": 628.216,
-                "usd": 829910
+                "btc": 3.591869,
+                "eth": 92.025,
+                "usd": 115498
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.629723,
-            "timestamp": "2021-01-19T05:36:37+00:00",
-            "last_traded_at": "2021-01-19T05:36:37+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "bid_ask_spread_percentage": 0.547299,
+            "timestamp": "2021-01-23T18:22:35+00:00",
+            "last_traded_at": "2021-01-23T18:22:35+00:00",
+            "last_fetch_at": "2021-01-23T18:22:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-ENJ",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.28801,
-            "volume": 8066199.641446478,
-            "converted_last": {
-                "btc": 7.9e-06,
-                "eth": 0.00021774,
-                "usd": 0.287563
-            },
-            "converted_volume": {
-                "btc": 63.742,
-                "eth": 1756,
-                "usd": 2319539
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.949291,
-            "timestamp": "2021-01-19T05:41:08+00:00",
-            "last_traded_at": "2021-01-19T05:41:08+00:00",
-            "last_fetch_at": "2021-01-19T05:41:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ENJ_BUSD",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "binance-usd"
+            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -748,23 +652,23 @@
                 "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 0.00021624,
-            "volume": 76031.77501849797,
+            "last": 0.00033596,
+            "volume": 110.22208001,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021666,
-                "usd": 0.2864
+                "btc": 1.315e-05,
+                "eth": 0.0003369,
+                "usd": 0.422802
             },
             "converted_volume": {
-                "btc": 0.59681233,
-                "eth": 16.473256,
-                "usd": 21776
+                "btc": 0.00144936,
+                "eth": 0.03713336,
+                "usd": 46.6
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.613581,
-            "timestamp": "2021-01-19T05:33:43+00:00",
-            "last_traded_at": "2021-01-19T05:33:43+00:00",
-            "last_fetch_at": "2021-01-19T05:33:43+00:00",
+            "bid_ask_spread_percentage": 0.576574,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://tokenize.exchange/market/ETH-ENJ",
@@ -774,193 +678,130 @@
         },
         {
             "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 0.42257,
+            "volume": 30170280.6281,
+            "converted_last": {
+                "btc": 1.315e-05,
+                "eth": 0.00033691,
+                "usd": 0.422817
+            },
+            "converted_volume": {
+                "btc": 396.737,
+                "eth": 10165,
+                "usd": 12756497
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.443635,
+            "timestamp": "2021-01-23T18:21:17+00:00",
+            "last_traded_at": "2021-01-23T18:21:17+00:00",
+            "last_fetch_at": "2021-01-23T18:21:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/ENJ_USDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.42499,
+            "volume": 6019494.135532601,
+            "converted_last": {
+                "btc": 1.321e-05,
+                "eth": 0.00033784,
+                "usd": 0.424959
+            },
+            "converted_volume": {
+                "btc": 79.526,
+                "eth": 2034,
+                "usd": 2558040
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.402391,
+            "timestamp": "2021-01-23T18:25:32+00:00",
+            "last_traded_at": "2021-01-23T18:25:32+00:00",
+            "last_fetch_at": "2021-01-23T18:25:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ENJ_BUSD",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 1.317e-05,
+            "volume": 1263137.89384714,
+            "converted_last": {
+                "btc": 1.317e-05,
+                "eth": 0.00033679,
+                "usd": 0.423616
+            },
+            "converted_volume": {
+                "btc": 16.635526,
+                "eth": 425.408,
+                "usd": 535085
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.530303,
+            "timestamp": "2021-01-23T18:24:40+00:00",
+            "last_traded_at": "2021-01-23T18:24:40+00:00",
+            "last_fetch_at": "2021-01-23T18:24:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-ENJ",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
             "target": "USD",
             "market": {
                 "name": "Binance US",
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 0.288,
-            "volume": 2762194.920138889,
+            "last": 0.423,
+            "volume": 2787752.467612293,
             "converted_last": {
-                "btc": 7.91e-06,
-                "eth": 0.00021798,
-                "usd": 0.288
+                "btc": 1.315e-05,
+                "eth": 0.00033703,
+                "usd": 0.423
             },
             "converted_volume": {
-                "btc": 21.851652,
-                "eth": 602.104,
-                "usd": 795512
+                "btc": 36.672488,
+                "eth": 939.567,
+                "usd": 1179219
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.485605,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
+            "bid_ask_spread_percentage": 0.260047,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.us/en/trade/ENJ_USD",
             "token_info_url": null,
             "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USD",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.28761,
-            "volume": 213131.51189398,
-            "converted_last": {
-                "btc": 7.9e-06,
-                "eth": 0.00021759,
-                "usd": 0.28761
-            },
-            "converted_volume": {
-                "btc": 1.683082,
-                "eth": 46.375903,
-                "usd": 61299
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.835655,
-            "timestamp": "2021-01-19T05:39:10+00:00",
-            "last_traded_at": "2021-01-19T05:39:10+00:00",
-            "last_fetch_at": "2021-01-19T05:42:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/ENJUSD",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
-                "has_trading_incentive": false
-            },
-            "last": 0.28776,
-            "volume": 2286501.6,
-            "converted_last": {
-                "btc": 7.91e-06,
-                "eth": 0.00021791,
-                "usd": 0.288026
-            },
-            "converted_volume": {
-                "btc": 18.082434,
-                "eth": 498.246,
-                "usd": 658572
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.917559,
-            "timestamp": "2021-01-19T05:39:52+00:00",
-            "last_traded_at": "2021-01-19T05:39:52+00:00",
-            "last_fetch_at": "2021-01-19T05:39:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/ENJ_USDT",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
-            "target": "ETH",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 0.000216902320799392,
-            "volume": 816963.238191162,
-            "converted_last": {
-                "btc": 7.86e-06,
-                "eth": 0.00021727,
-                "usd": 0.286152
-            },
-            "converted_volume": {
-                "btc": 6.418228,
-                "eth": 177.5,
-                "usd": 233776
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602987,
-            "timestamp": "2021-01-19T05:22:13+00:00",
-            "last_traded_at": "2021-01-19T05:22:13+00:00",
-            "last_fetch_at": "2021-01-19T05:38:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 7.89e-06,
-            "volume": 1033645.96295668,
-            "converted_last": {
-                "btc": 7.89e-06,
-                "eth": 0.0002174,
-                "usd": 0.287115
-            },
-            "converted_volume": {
-                "btc": 8.155467,
-                "eth": 224.717,
-                "usd": 296775
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.507614,
-            "timestamp": "2021-01-19T05:41:31+00:00",
-            "last_traded_at": "2021-01-19T05:41:31+00:00",
-            "last_fetch_at": "2021-01-19T05:41:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/ENJ-BTC",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
-            "target": "ETH",
-            "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.000216779511368293,
-            "volume": 2441033.59838737,
-            "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.00021707,
-                "usd": 0.286791
-            },
-            "converted_volume": {
-                "btc": 19.229895,
-                "eth": 529.863,
-                "usd": 700067
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.603507,
-            "timestamp": "2021-01-19T05:40:28+00:00",
-            "last_traded_at": "2021-01-19T05:40:28+00:00",
-            "last_fetch_at": "2021-01-19T05:40:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-            "token_info_url": "https://info.uniswap.org/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "ENJ",
@@ -970,23 +811,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.006388,
-            "volume": 5607465.160926738,
+            "last": 0.010372,
+            "volume": 4178125.281141535,
             "converted_last": {
-                "btc": 7.93e-06,
-                "eth": 0.00021856,
-                "usd": 0.288642
+                "btc": 1.313e-05,
+                "eth": 0.00033639,
+                "usd": 0.422198
             },
             "converted_volume": {
-                "btc": 44.478299,
-                "eth": 1226,
-                "usd": 1618553
+                "btc": 54.858,
+                "eth": 1405,
+                "usd": 1763996
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.922452,
-            "timestamp": "2021-01-19T05:41:07+00:00",
-            "last_traded_at": "2021-01-19T05:41:07+00:00",
-            "last_fetch_at": "2021-01-19T05:41:07+00:00",
+            "bid_ask_spread_percentage": 0.163619,
+            "timestamp": "2021-01-23T18:22:59+00:00",
+            "last_traded_at": "2021-01-23T18:22:59+00:00",
+            "last_fetch_at": "2021-01-23T18:22:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ENJ_BNB",
@@ -998,30 +839,126 @@
             "base": "ENJ",
             "target": "USDT",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Atomars",
+                "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.286731,
-            "volume": 225816.78,
+            "last": 0.42228,
+            "volume": 272375.845,
             "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021709,
-                "usd": 0.286691
+                "btc": 1.314e-05,
+                "eth": 0.00033668,
+                "usd": 0.422552
             },
             "converted_volume": {
-                "btc": 1.776056,
-                "eth": 49.02283,
-                "usd": 64740
+                "btc": 3.579267,
+                "eth": 91.703,
+                "usd": 115093
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.535466,
-            "timestamp": "2021-01-19T05:37:26+00:00",
-            "last_traded_at": "2021-01-19T05:37:26+00:00",
-            "last_fetch_at": "2021-01-19T05:37:26+00:00",
+            "bid_ask_spread_percentage": 0.669732,
+            "timestamp": "2021-01-23T18:20:57+00:00",
+            "last_traded_at": "2021-01-23T18:20:57+00:00",
+            "last_fetch_at": "2021-01-23T18:20:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=ENJ_USDT",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.4219,
+            "volume": 184612.96852385,
+            "converted_last": {
+                "btc": 1.313e-05,
+                "eth": 0.00033637,
+                "usd": 0.422146
+            },
+            "converted_volume": {
+                "btc": 2.423799,
+                "eth": 62.099,
+                "usd": 77934
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.424729,
+            "timestamp": "2021-01-23T18:21:28+00:00",
+            "last_traded_at": "2021-01-23T18:21:28+00:00",
+            "last_fetch_at": "2021-01-23T18:21:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/ENJ_USDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "Blockchain.com",
+                "identifier": "blockchain_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.4398,
+            "volume": 118.730778,
+            "converted_last": {
+                "btc": 1.367e-05,
+                "eth": 0.00035168,
+                "usd": 0.440651
+            },
+            "converted_volume": {
+                "btc": 0.0016229,
+                "eth": 0.04175514,
+                "usd": 52.32
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.901408,
+            "timestamp": "2021-01-23T18:11:52+00:00",
+            "last_traded_at": "2021-01-23T18:11:52+00:00",
+            "last_fetch_at": "2021-01-23T18:19:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.blockchain.com/trade/ENJ-USDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 0.42267,
+            "volume": 2381990.0,
+            "converted_last": {
+                "btc": 1.308e-05,
+                "eth": 0.00033716,
+                "usd": 0.422281
+            },
+            "converted_volume": {
+                "btc": 31.148612,
+                "eth": 803.106,
+                "usd": 1005870
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.493452,
+            "timestamp": "2021-01-23T18:06:41+00:00",
+            "last_traded_at": "2021-01-23T18:06:41+00:00",
+            "last_fetch_at": "2021-01-23T18:06:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/ENJ_USDT",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
@@ -1030,30 +967,62 @@
             "base": "ENJ",
             "target": "BTC",
             "market": {
-                "name": "NiceHash",
-                "identifier": "nice_hash",
+                "name": "Atomars",
+                "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 8.05e-06,
-            "volume": 2618.45969842,
+            "last": 1.313e-05,
+            "volume": 130429.03,
             "converted_last": {
-                "btc": 8.05e-06,
-                "eth": 0.00022379,
-                "usd": 0.292553
+                "btc": 1.313e-05,
+                "eth": 0.00033576,
+                "usd": 0.422337
             },
             "converted_volume": {
-                "btc": 0.0210786,
-                "eth": 0.58599075,
-                "usd": 766.04
+                "btc": 1.712533,
+                "eth": 43.793386,
+                "usd": 55085
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.381194,
-            "timestamp": "2021-01-19T05:09:56+00:00",
-            "last_traded_at": "2021-01-19T05:09:56+00:00",
-            "last_fetch_at": "2021-01-19T05:40:05+00:00",
+            "bid_ask_spread_percentage": 0.832702,
+            "timestamp": "2021-01-23T18:23:38+00:00",
+            "last_traded_at": "2021-01-23T18:23:38+00:00",
+            "last_fetch_at": "2021-01-23T18:23:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.nicehash.com/my/tradeview/ENJBTC",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 1.312e-05,
+            "volume": 949373.73277495,
+            "converted_last": {
+                "btc": 1.312e-05,
+                "eth": 0.00033614,
+                "usd": 0.421854
+            },
+            "converted_volume": {
+                "btc": 12.455783,
+                "eth": 319.123,
+                "usd": 400497
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.227964,
+            "timestamp": "2021-01-23T18:21:46+00:00",
+            "last_traded_at": "2021-01-23T18:21:46+00:00",
+            "last_fetch_at": "2021-01-23T18:21:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ENJ-BTC",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "bitcoin"
@@ -1066,23 +1035,23 @@
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00021643,
-            "volume": 213873.46,
+            "last": 0.00033676,
+            "volume": 66364.75,
             "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.00021739,
-                "usd": 0.287087
+                "btc": 1.317e-05,
+                "eth": 0.00033672,
+                "usd": 0.423543
             },
             "converted_volume": {
-                "btc": 1.684443,
-                "eth": 46.494124,
-                "usd": 61400
+                "btc": 0.87384563,
+                "eth": 22.34623,
+                "usd": 28108
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.243062,
-            "timestamp": "2021-01-19T05:37:28+00:00",
-            "last_traded_at": "2021-01-19T05:37:28+00:00",
-            "last_fetch_at": "2021-01-19T05:37:28+00:00",
+            "bid_ask_spread_percentage": 0.736621,
+            "timestamp": "2021-01-23T18:25:09+00:00",
+            "last_traded_at": "2021-01-23T18:25:09+00:00",
+            "last_fetch_at": "2021-01-23T18:25:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hotbit.io/exchange?symbol=ENJ_ETH",
@@ -1094,58 +1063,90 @@
             "base": "ENJ",
             "target": "USD",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "Blockchain.com",
+                "identifier": "blockchain_com",
                 "has_trading_incentive": false
             },
-            "last": 0.28709,
-            "volume": 298343.2,
+            "last": 0.3568,
+            "volume": 4565.402486,
             "converted_last": {
-                "btc": 7.89e-06,
-                "eth": 0.00021729,
-                "usd": 0.28709
+                "btc": 1.107e-05,
+                "eth": 0.00028476,
+                "usd": 0.3568
             },
             "converted_volume": {
-                "btc": 2.352728,
-                "eth": 64.827,
-                "usd": 85651
+                "btc": 0.05052869,
+                "eth": 1.300037,
+                "usd": 1628.94
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.482669,
-            "timestamp": "2021-01-19T05:40:04+00:00",
-            "last_traded_at": "2021-01-19T05:40:04+00:00",
-            "last_fetch_at": "2021-01-19T05:40:04+00:00",
+            "bid_ask_spread_percentage": 2.19986,
+            "timestamp": "2021-01-23T18:11:51+00:00",
+            "last_traded_at": "2021-01-23T18:11:51+00:00",
+            "last_fetch_at": "2021-01-23T18:19:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://exchange.blockchain.com/trade/ENJ-USD",
             "token_info_url": null,
             "coin_id": "enjincoin"
         },
         {
             "base": "ENJ",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "Hotbit",
+                "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00021879,
-            "volume": 89052.0,
+            "last": 0.422061,
+            "volume": 94209.57,
             "converted_last": {
-                "btc": 7.95e-06,
-                "eth": 0.00021908,
-                "usd": 0.289451
+                "btc": 1.312e-05,
+                "eth": 0.00033556,
+                "usd": 0.422088
             },
             "converted_volume": {
-                "btc": 0.70803719,
-                "eth": 19.509361,
-                "usd": 25776
+                "btc": 1.236225,
+                "eth": 31.613096,
+                "usd": 39765
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.82719,
-            "timestamp": "2021-01-19T05:40:42+00:00",
-            "last_traded_at": "2021-01-19T05:40:42+00:00",
-            "last_fetch_at": "2021-01-19T05:40:42+00:00",
+            "bid_ask_spread_percentage": 0.426334,
+            "timestamp": "2021-01-23T18:25:16+00:00",
+            "last_traded_at": "2021-01-23T18:25:16+00:00",
+            "last_fetch_at": "2021-01-23T18:25:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ENJ_USDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033528,
+            "volume": 117855.0,
+            "converted_last": {
+                "btc": 1.312e-05,
+                "eth": 0.00033621,
+                "usd": 0.421946
+            },
+            "converted_volume": {
+                "btc": 1.546595,
+                "eth": 39.624498,
+                "usd": 49728
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.831008,
+            "timestamp": "2021-01-23T18:21:01+00:00",
+            "last_traded_at": "2021-01-23T18:21:01+00:00",
+            "last_fetch_at": "2021-01-23T18:21:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1154,163 +1155,36 @@
             "target_coin_id": "ethereum"
         },
         {
-            "base": "ENJ",
+            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
             "target": "ETH",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "Balancer",
+                "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 0.0002152,
-            "volume": 534459.35487992,
+            "last": 0.000341130157737039,
+            "volume": 347312.26625893,
             "converted_last": {
-                "btc": 7.83e-06,
-                "eth": 0.00021616,
-                "usd": 0.285606
+                "btc": 1.335e-05,
+                "eth": 0.00034315,
+                "usd": 0.429425
             },
             "converted_volume": {
-                "btc": 4.18542,
-                "eth": 115.526,
-                "usd": 152645
+                "btc": 4.637256,
+                "eth": 119.181,
+                "usd": 149145
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.137237,
-            "timestamp": "2021-01-19T05:36:00+00:00",
-            "last_traded_at": "2021-01-19T05:36:00+00:00",
-            "last_fetch_at": "2021-01-19T05:36:00+00:00",
+            "bid_ask_spread_percentage": 0.602965,
+            "timestamp": "2021-01-23T18:17:46+00:00",
+            "last_traded_at": "2021-01-23T18:17:46+00:00",
+            "last_fetch_at": "2021-01-23T18:24:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/ENJ-ETH",
-            "token_info_url": null,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
             "coin_id": "enjincoin",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 7.82e-06,
-            "volume": 222389.0,
-            "converted_last": {
-                "btc": 7.82e-06,
-                "eth": 0.00021585,
-                "usd": 0.285323
-            },
-            "converted_volume": {
-                "btc": 1.739082,
-                "eth": 48.002263,
-                "usd": 63453
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.256281,
-            "timestamp": "2021-01-19T05:33:40+00:00",
-            "last_traded_at": "2021-01-19T05:33:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "AUD",
-            "market": {
-                "name": "BTCMarkets",
-                "identifier": "btcmarkets",
-                "has_trading_incentive": false
-            },
-            "last": 0.367,
-            "volume": 440096.53,
-            "converted_last": {
-                "btc": 7.76e-06,
-                "eth": 0.00021422,
-                "usd": 0.282993
-            },
-            "converted_volume": {
-                "btc": 3.415548,
-                "eth": 94.276,
-                "usd": 124544
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.162162,
-            "timestamp": "2021-01-19T05:36:04+00:00",
-            "last_traded_at": "2021-01-19T05:36:04+00:00",
-            "last_fetch_at": "2021-01-19T05:36:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "VB",
-                "identifier": "vb",
-                "has_trading_incentive": false
-            },
-            "last": 0.28568,
-            "volume": 521600.41,
-            "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021633,
-                "usd": 0.285702
-            },
-            "converted_volume": {
-                "btc": 4.095177,
-                "eth": 112.839,
-                "usd": 149022
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.56077,
-            "timestamp": "2021-01-19T05:41:05+00:00",
-            "last_traded_at": "2021-01-19T05:41:05+00:00",
-            "last_fetch_at": "2021-01-19T05:41:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://vb.co/exchange",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "AEX",
-                "identifier": "aex",
-                "has_trading_incentive": false
-            },
-            "last": 0.2847,
-            "volume": 921114.47356413,
-            "converted_last": {
-                "btc": 7.81e-06,
-                "eth": 0.00021606,
-                "usd": 0.284584
-            },
-            "converted_volume": {
-                "btc": 7.196227,
-                "eth": 199.016,
-                "usd": 262134
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.981079,
-            "timestamp": "2021-01-19T05:21:47+00:00",
-            "last_traded_at": "2021-01-19T05:21:47+00:00",
-            "last_fetch_at": "2021-01-19T05:30:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=ENJ",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -1320,23 +1194,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.28876404,
-            "volume": 2397986.17747172,
+            "last": 0.42173121,
+            "volume": 981947.89965523,
             "converted_last": {
-                "btc": 7.92e-06,
-                "eth": 0.00021863,
-                "usd": 0.288823
+                "btc": 1.311e-05,
+                "eth": 0.0003353,
+                "usd": 0.421744
             },
             "converted_volume": {
-                "btc": 18.993966,
-                "eth": 524.273,
-                "usd": 692595
+                "btc": 12.875124,
+                "eth": 329.246,
+                "usd": 414131
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.303698,
-            "timestamp": "2021-01-19T05:36:39+00:00",
-            "last_traded_at": "2021-01-19T05:36:39+00:00",
-            "last_fetch_at": "2021-01-19T05:36:39+00:00",
+            "bid_ask_spread_percentage": 0.327083,
+            "timestamp": "2021-01-23T18:24:31+00:00",
+            "last_traded_at": "2021-01-23T18:24:31+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-ENJ",
@@ -1346,161 +1220,65 @@
         },
         {
             "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
-                "has_trading_incentive": false
-            },
-            "last": 0.28692,
-            "volume": 754103.4,
-            "converted_last": {
-                "btc": 7.89e-06,
-                "eth": 0.00021765,
-                "usd": 0.287421
-            },
-            "converted_volume": {
-                "btc": 5.946298,
-                "eth": 164.13,
-                "usd": 216745
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.916408,
-            "timestamp": "2021-01-19T05:38:56+00:00",
-            "last_traded_at": "2021-01-19T05:38:56+00:00",
-            "last_fetch_at": "2021-01-19T05:38:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://emirex.com/trading/ENJUSDT",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.285072,
-            "volume": 712455.82,
-            "converted_last": {
-                "btc": 7.83e-06,
-                "eth": 0.00021587,
-                "usd": 0.285094
-            },
-            "converted_volume": {
-                "btc": 5.581712,
-                "eth": 153.799,
-                "usd": 203117
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.997108,
-            "timestamp": "2021-01-19T05:41:43+00:00",
-            "last_traded_at": "2021-01-19T05:41:43+00:00",
-            "last_fetch_at": "2021-01-19T05:41:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 0.2859,
-            "volume": 63827.1,
-            "converted_last": {
-                "btc": 7.86e-06,
-                "eth": 0.0002165,
-                "usd": 0.286043
-            },
-            "converted_volume": {
-                "btc": 0.50150378,
-                "eth": 13.818509,
-                "usd": 18257.31
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.89526,
-            "timestamp": "2021-01-19T05:40:48+00:00",
-            "last_traded_at": "2021-01-19T05:40:48+00:00",
-            "last_fetch_at": "2021-01-19T05:40:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 7.88e-06,
-            "volume": 308528.04,
-            "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.00021713,
-                "usd": 0.286751
-            },
-            "converted_volume": {
-                "btc": 2.431201,
-                "eth": 66.99,
-                "usd": 88471
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.63522,
-            "timestamp": "2021-01-19T05:41:42+00:00",
-            "last_traded_at": "2021-01-19T05:41:42+00:00",
-            "last_fetch_at": "2021-01-19T05:41:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
             "target": "ETH",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.00021731,
-            "volume": 445411.49604041,
+            "last": 0.00033606,
+            "volume": 152998.0,
             "converted_last": {
-                "btc": 7.91e-06,
-                "eth": 0.00021827,
-                "usd": 0.288354
+                "btc": 1.315e-05,
+                "eth": 0.00033636,
+                "usd": 0.423081
             },
             "converted_volume": {
-                "btc": 3.522274,
-                "eth": 97.222,
-                "usd": 128436
+                "btc": 2.012442,
+                "eth": 51.463,
+                "usd": 64731
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.859024,
-            "timestamp": "2021-01-19T05:36:35+00:00",
-            "last_traded_at": "2021-01-19T05:36:35+00:00",
-            "last_fetch_at": "2021-01-19T05:36:35+00:00",
+            "bid_ask_spread_percentage": 0.893465,
+            "timestamp": "2021-01-23T18:24:33+00:00",
+            "last_traded_at": "2021-01-23T18:24:33+00:00",
+            "last_fetch_at": "2021-01-23T18:24:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-ENJ",
+            "trade_url": null,
             "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.000340408966757688,
+            "volume": 1291102.63522499,
+            "converted_last": {
+                "btc": 1.332e-05,
+                "eth": 0.00034136,
+                "usd": 0.428426
+            },
+            "converted_volume": {
+                "btc": 17.202144,
+                "eth": 440.727,
+                "usd": 553142
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.603418,
+            "timestamp": "2021-01-23T18:22:25+00:00",
+            "last_traded_at": "2021-01-23T18:22:25+00:00",
+            "last_fetch_at": "2021-01-23T18:22:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+            "token_info_url": "https://info.uniswap.org/token/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
             "coin_id": "enjincoin",
             "target_coin_id": "ethereum"
         },
@@ -1512,23 +1290,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.28607,
-            "volume": 417129.29899668,
+            "last": 0.42489,
+            "volume": 170726.78528905,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021655,
-                "usd": 0.28607
+                "btc": 1.318e-05,
+                "eth": 0.00033901,
+                "usd": 0.42489
             },
             "converted_volume": {
-                "btc": 3.272499,
-                "eth": 90.328,
-                "usd": 119328
+                "btc": 2.249545,
+                "eth": 57.878,
+                "usd": 72540
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.697653,
-            "timestamp": "2021-01-19T05:36:37+00:00",
-            "last_traded_at": "2021-01-19T05:36:37+00:00",
-            "last_fetch_at": "2021-01-19T05:36:37+00:00",
+            "bid_ask_spread_percentage": 1.557815,
+            "timestamp": "2021-01-23T18:10:25+00:00",
+            "last_traded_at": "2021-01-23T18:10:25+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-ENJ",
@@ -1539,27 +1317,123 @@
             "base": "ENJ",
             "target": "BTC",
             "market": {
+                "name": "NiceHash",
+                "identifier": "nice_hash",
+                "has_trading_incentive": false
+            },
+            "last": 1.313e-05,
+            "volume": 10723.27662109,
+            "converted_last": {
+                "btc": 1.313e-05,
+                "eth": 0.00033782,
+                "usd": 0.423028
+            },
+            "converted_volume": {
+                "btc": 0.14079662,
+                "eth": 3.622512,
+                "usd": 4536.25
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.303951,
+            "timestamp": "2021-01-23T18:12:39+00:00",
+            "last_traded_at": "2021-01-23T18:12:39+00:00",
+            "last_fetch_at": "2021-01-23T18:20:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.nicehash.com/my/tradeview/ENJBTC",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
                 "name": "Emirex",
                 "identifier": "emirex",
                 "has_trading_incentive": false
             },
-            "last": 7.88e-06,
-            "volume": 313791.0,
+            "last": 0.41601,
+            "volume": 579286.9,
             "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.0002175,
-                "usd": 0.287229
+                "btc": 1.296e-05,
+                "eth": 0.00033495,
+                "usd": 0.416455
             },
             "converted_volume": {
-                "btc": 2.472673,
-                "eth": 68.251,
-                "usd": 90130
+                "btc": 7.507663,
+                "eth": 194.031,
+                "usd": 241247
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.643489,
-            "timestamp": "2021-01-19T05:38:59+00:00",
-            "last_traded_at": "2021-01-19T05:38:59+00:00",
-            "last_fetch_at": "2021-01-19T05:38:59+00:00",
+            "bid_ask_spread_percentage": 0.513506,
+            "timestamp": "2021-01-23T17:19:35+00:00",
+            "last_traded_at": "2021-01-23T17:19:35+00:00",
+            "last_fetch_at": "2021-01-23T17:19:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://emirex.com/trading/ENJUSDT",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.0003354,
+            "volume": 271278.53128985,
+            "converted_last": {
+                "btc": 1.313e-05,
+                "eth": 0.0003357,
+                "usd": 0.42225
+            },
+            "converted_volume": {
+                "btc": 3.561224,
+                "eth": 91.069,
+                "usd": 114547
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.474355,
+            "timestamp": "2021-01-23T18:24:28+00:00",
+            "last_traded_at": "2021-01-23T18:24:28+00:00",
+            "last_fetch_at": "2021-01-23T18:24:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/ENJ-ETH",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
+                "name": "Emirex",
+                "identifier": "emirex",
+                "has_trading_incentive": false
+            },
+            "last": 1.299e-05,
+            "volume": 250692.0,
+            "converted_last": {
+                "btc": 1.299e-05,
+                "eth": 0.00033572,
+                "usd": 0.417413
+            },
+            "converted_volume": {
+                "btc": 3.256489,
+                "eth": 84.162,
+                "usd": 104642
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.460123,
+            "timestamp": "2021-01-23T17:19:34+00:00",
+            "last_traded_at": "2021-01-23T17:19:34+00:00",
+            "last_fetch_at": "2021-01-23T17:19:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://emirex.com/trading/ENJBTC",
@@ -1571,33 +1445,223 @@
             "base": "ENJ",
             "target": "USDT",
             "market": {
+                "name": "VB",
+                "identifier": "vb",
+                "has_trading_incentive": false
+            },
+            "last": 0.42273,
+            "volume": 476070.24,
+            "converted_last": {
+                "btc": 1.314e-05,
+                "eth": 0.00033609,
+                "usd": 0.422751
+            },
+            "converted_volume": {
+                "btc": 6.256931,
+                "eth": 160.004,
+                "usd": 201259
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.554415,
+            "timestamp": "2021-01-23T18:23:56+00:00",
+            "last_traded_at": "2021-01-23T18:23:56+00:00",
+            "last_fetch_at": "2021-01-23T18:23:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vb.co/exchange",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.42215,
+            "volume": 79375.86174558,
+            "converted_last": {
+                "btc": 1.309e-05,
+                "eth": 0.00033682,
+                "usd": 0.42215
+            },
+            "converted_volume": {
+                "btc": 1.039135,
+                "eth": 26.735565,
+                "usd": 33509
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.564175,
+            "timestamp": "2021-01-23T18:10:24+00:00",
+            "last_traded_at": "2021-01-23T18:10:24+00:00",
+            "last_fetch_at": "2021-01-23T18:25:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/ENJUSD",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033863,
+            "volume": 174667.39228249,
+            "converted_last": {
+                "btc": 1.311e-05,
+                "eth": 0.00033893,
+                "usd": 0.423411
+            },
+            "converted_volume": {
+                "btc": 2.289604,
+                "eth": 59.2,
+                "usd": 73956
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.317383,
+            "timestamp": "2021-01-23T17:53:38+00:00",
+            "last_traded_at": "2021-01-23T17:53:38+00:00",
+            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-ENJ",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 0.4187,
+            "volume": 471369.5684312,
+            "converted_last": {
+                "btc": 1.295e-05,
+                "eth": 0.00033482,
+                "usd": 0.418438
+            },
+            "converted_volume": {
+                "btc": 6.104683,
+                "eth": 157.825,
+                "usd": 197239
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.92264,
+            "timestamp": "2021-01-23T18:03:52+00:00",
+            "last_traded_at": "2021-01-23T18:03:52+00:00",
+            "last_fetch_at": "2021-01-23T18:19:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=ENJ",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
                 "name": "P2PB2B",
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.28909,
-            "volume": 284982.7,
+            "last": 1.307e-05,
+            "volume": 129514.0,
             "converted_last": {
-                "btc": 7.94e-06,
-                "eth": 0.00021891,
-                "usd": 0.289235
+                "btc": 1.307e-05,
+                "eth": 0.00033808,
+                "usd": 0.421967
             },
             "converted_volume": {
-                "btc": 2.264157,
-                "eth": 62.387,
-                "usd": 82427
+                "btc": 1.692748,
+                "eth": 43.78546,
+                "usd": 54651
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.204819,
-            "timestamp": "2021-01-19T05:40:37+00:00",
-            "last_traded_at": "2021-01-19T05:40:37+00:00",
-            "last_fetch_at": "2021-01-19T05:40:37+00:00",
+            "bid_ask_spread_percentage": 0.839054,
+            "timestamp": "2021-01-23T17:57:14+00:00",
+            "last_traded_at": "2021-01-23T17:57:14+00:00",
+            "last_fetch_at": "2021-01-23T17:57:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 0.42351,
+            "volume": 92093.0,
+            "converted_last": {
+                "btc": 1.318e-05,
+                "eth": 0.00033874,
+                "usd": 0.424464
+            },
+            "converted_volume": {
+                "btc": 1.213783,
+                "eth": 31.195235,
+                "usd": 39090
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.947366,
+            "timestamp": "2021-01-23T18:16:00+00:00",
+            "last_traded_at": "2021-01-23T18:16:00+00:00",
+            "last_fetch_at": "2021-01-23T18:24:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USD",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.42152,
+            "volume": 83937.1,
+            "converted_last": {
+                "btc": 1.311e-05,
+                "eth": 0.00033586,
+                "usd": 0.42152
+            },
+            "converted_volume": {
+                "btc": 1.100321,
+                "eth": 28.190753,
+                "usd": 35381
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.255821,
+            "timestamp": "2021-01-23T18:18:07+00:00",
+            "last_traded_at": "2021-01-23T18:18:07+00:00",
+            "last_fetch_at": "2021-01-23T18:18:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin"
         },
         {
             "base": "ENJ",
@@ -1607,23 +1671,23 @@
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 0.2862,
-            "volume": 285063.6148,
+            "last": 0.4215,
+            "volume": 285329.9591,
             "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021673,
-                "usd": 0.286222
+                "btc": 1.312e-05,
+                "eth": 0.00033607,
+                "usd": 0.421793
             },
             "converted_volume": {
-                "btc": 2.242159,
-                "eth": 61.781,
-                "usd": 81592
+                "btc": 3.742793,
+                "eth": 95.892,
+                "usd": 120350
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.902464,
-            "timestamp": "2021-01-19T05:41:19+00:00",
-            "last_traded_at": "2021-01-19T05:41:19+00:00",
-            "last_fetch_at": "2021-01-19T05:41:19+00:00",
+            "bid_ask_spread_percentage": 0.37843,
+            "timestamp": "2021-01-23T18:19:15+00:00",
+            "last_traded_at": "2021-01-23T18:19:15+00:00",
+            "last_fetch_at": "2021-01-23T18:19:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/ENJ-USDT",
@@ -1633,32 +1697,63 @@
         },
         {
             "base": "ENJ",
-            "target": "ETH",
+            "target": "EUR",
             "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
+                "name": "Coinmetro",
+                "identifier": "coin_metro",
                 "has_trading_incentive": false
             },
-            "last": 0.00021667,
-            "volume": 328648.0,
+            "last": 0.35013189448441245,
+            "volume": 12677.840100007941,
             "converted_last": {
-                "btc": 7.86e-06,
-                "eth": 0.00021666,
-                "usd": 0.286131
+                "btc": 1.325e-05,
+                "eth": 0.0003389,
+                "usd": 0.426268
             },
             "converted_volume": {
-                "btc": 2.584144,
-                "eth": 71.204,
-                "usd": 94036
+                "btc": 0.16801264,
+                "eth": 4.296467,
+                "usd": 5404.16
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.466423,
-            "timestamp": "2021-01-19T05:41:45+00:00",
-            "last_traded_at": "2021-01-19T05:41:45+00:00",
-            "last_fetch_at": "2021-01-19T05:41:45+00:00",
+            "bid_ask_spread_percentage": 0.299525,
+            "timestamp": "2021-01-23T18:24:21+00:00",
+            "last_traded_at": "2021-01-23T18:24:21+00:00",
+            "last_fetch_at": "2021-01-23T18:24:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://go.coinmetro.com/#/trade",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033758,
+            "volume": 15165.17652112092,
+            "converted_last": {
+                "btc": 1.317e-05,
+                "eth": 0.00033945,
+                "usd": 0.425282
+            },
+            "converted_volume": {
+                "btc": 0.19965895,
+                "eth": 5.147815,
+                "usd": 6449.48
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.330092,
+            "timestamp": "2021-01-23T18:07:49+00:00",
+            "last_traded_at": "2021-01-23T18:07:49+00:00",
+            "last_fetch_at": "2021-01-23T18:22:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/ETH-ENJ",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "ethereum"
@@ -1671,26 +1766,58 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.28521,
-            "volume": 319283.8848457,
+            "last": 0.42264,
+            "volume": 217609.7443746,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021626,
-                "usd": 0.285371
+                "btc": 1.315e-05,
+                "eth": 0.00033696,
+                "usd": 0.422887
             },
             "converted_volume": {
-                "btc": 2.505881,
-                "eth": 69.047,
-                "usd": 91114
+                "btc": 2.862028,
+                "eth": 73.327,
+                "usd": 92024
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.098383,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "bid_ask_spread_percentage": 0.754361,
+            "timestamp": "2021-01-23T18:21:07+00:00",
+            "last_traded_at": "2021-01-23T18:21:07+00:00",
+            "last_fetch_at": "2021-01-23T18:21:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=ENJ#limit",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.42191,
+            "volume": 108735.9,
+            "converted_last": {
+                "btc": 1.307e-05,
+                "eth": 0.00033816,
+                "usd": 0.422075
+            },
+            "converted_volume": {
+                "btc": 1.421543,
+                "eth": 36.77034,
+                "usd": 45895
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.360557,
+            "timestamp": "2021-01-23T17:57:22+00:00",
+            "last_traded_at": "2021-01-23T17:57:22+00:00",
+            "last_fetch_at": "2021-01-23T17:57:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
@@ -1703,23 +1830,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.00021708,
-            "volume": 22506.08729222,
+            "last": 0.000337,
+            "volume": 33649.44373519,
             "converted_last": {
-                "btc": 7.9e-06,
-                "eth": 0.00021804,
-                "usd": 0.288048
+                "btc": 1.317e-05,
+                "eth": 0.00033839,
+                "usd": 0.424034
             },
             "converted_volume": {
-                "btc": 0.17778776,
-                "eth": 4.90731,
-                "usd": 6482.84
+                "btc": 0.44304843,
+                "eth": 11.38671,
+                "usd": 14268.5
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.488899,
-            "timestamp": "2021-01-19T05:36:23+00:00",
-            "last_traded_at": "2021-01-19T05:36:23+00:00",
-            "last_fetch_at": "2021-01-19T05:36:23+00:00",
+            "bid_ask_spread_percentage": 1.878485,
+            "timestamp": "2021-01-23T18:14:56+00:00",
+            "last_traded_at": "2021-01-23T18:14:56+00:00",
+            "last_fetch_at": "2021-01-23T18:21:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/ENJ_ETH",
@@ -1729,66 +1856,35 @@
         },
         {
             "base": "ENJ",
-            "target": "KRW",
+            "target": "BTC",
             "market": {
-                "name": "GoPax",
-                "identifier": "gopax",
+                "name": "LATOKEN",
+                "identifier": "latoken",
                 "has_trading_incentive": false
             },
-            "last": 315.6,
-            "volume": 14646.93805955,
+            "last": 1.314e-05,
+            "volume": 14114.977929985,
             "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.00021816,
-                "usd": 0.286472
+                "btc": 1.314e-05,
+                "eth": 0.00033665,
+                "usd": 0.422522
             },
             "converted_volume": {
-                "btc": 0.1153608,
-                "eth": 3.195435,
-                "usd": 4195.94
+                "btc": 0.18547081,
+                "eth": 4.751852,
+                "usd": 5963.89
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.795066,
-            "timestamp": "2021-01-19T05:16:16+00:00",
-            "last_traded_at": "2021-01-19T05:16:16+00:00",
-            "last_fetch_at": "2021-01-19T05:36:52+00:00",
+            "bid_ask_spread_percentage": 0.151976,
+            "timestamp": "2021-01-23T18:22:10+00:00",
+            "last_traded_at": "2021-01-23T18:22:10+00:00",
+            "last_fetch_at": "2021-01-23T18:22:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.gopax.co.kr/exchange/ENJ-KRW",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.28696,
-            "volume": 94494.81158961,
-            "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021726,
-                "usd": 0.287019
-            },
-            "converted_volume": {
-                "btc": 0.74379831,
-                "eth": 20.530373,
-                "usd": 27122
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.303989,
-            "timestamp": "2021-01-19T05:36:31+00:00",
-            "last_traded_at": "2021-01-19T05:36:31+00:00",
-            "last_fetch_at": "2021-01-19T05:36:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/ENJ_USDT",
+            "trade_url": "https://latoken.com/exchange/BTC-ENJ",
             "token_info_url": null,
             "coin_id": "enjincoin",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "ENJ",
@@ -1798,28 +1894,92 @@
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 316.0,
-            "volume": 13816.96971567,
+            "last": 467.0,
+            "volume": 13852.95572425,
             "converted_last": {
-                "btc": 7.87e-06,
-                "eth": 0.00021684,
-                "usd": 0.286376
+                "btc": 1.312e-05,
+                "eth": 0.0003371,
+                "usd": 0.422418
             },
             "converted_volume": {
-                "btc": 0.10873543,
-                "eth": 2.996112,
-                "usd": 3956.85
+                "btc": 0.1817016,
+                "eth": 4.669881,
+                "usd": 5851.74
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.892744,
-            "timestamp": "2021-01-19T05:41:20+00:00",
-            "last_traded_at": "2021-01-19T05:41:20+00:00",
-            "last_fetch_at": "2021-01-19T05:41:20+00:00",
+            "bid_ask_spread_percentage": 1.061571,
+            "timestamp": "2021-01-23T18:15:48+00:00",
+            "last_traded_at": "2021-01-23T18:15:48+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/ENJ-KRW",
             "token_info_url": null,
             "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.426972,
+            "volume": 479.97978929,
+            "converted_last": {
+                "btc": 1.332e-05,
+                "eth": 0.00034367,
+                "usd": 0.428065
+            },
+            "converted_volume": {
+                "btc": 0.00639142,
+                "eth": 0.16495238,
+                "usd": 205.46
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.911623,
+            "timestamp": "2021-01-23T17:07:50+00:00",
+            "last_traded_at": "2021-01-23T17:07:50+00:00",
+            "last_fetch_at": "2021-01-23T18:24:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-usdt",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDT",
+            "market": {
+                "name": "VCC Exchange",
+                "identifier": "vcc",
+                "has_trading_incentive": false
+            },
+            "last": 0.42177,
+            "volume": 62764662.7,
+            "converted_last": {
+                "btc": 1.313e-05,
+                "eth": 0.00033629,
+                "usd": 0.422065
+            },
+            "converted_volume": {
+                "btc": 823.838,
+                "eth": 21107,
+                "usd": 26490768
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.175829,
+            "timestamp": "2021-01-23T18:18:59+00:00",
+            "last_traded_at": "2021-01-23T18:18:59+00:00",
+            "last_fetch_at": "2021-01-23T18:18:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=enj",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -1829,23 +1989,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 7.93e-06,
-            "volume": 11761432.0,
+            "last": 1.315e-05,
+            "volume": 13059006.0,
             "converted_last": {
-                "btc": 7.93e-06,
-                "eth": 0.00021888,
-                "usd": 0.289159
+                "btc": 1.315e-05,
+                "eth": 0.00033691,
+                "usd": 0.42284
             },
             "converted_volume": {
-                "btc": 93.268,
-                "eth": 2574,
-                "usd": 3400924
+                "btc": 171.726,
+                "eth": 4400,
+                "usd": 5521874
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.253485,
-            "timestamp": "2021-01-19T05:36:41+00:00",
-            "last_traded_at": "2021-01-19T05:36:41+00:00",
-            "last_fetch_at": "2021-01-19T05:36:41+00:00",
+            "bid_ask_spread_percentage": 0.152672,
+            "timestamp": "2021-01-23T18:19:01+00:00",
+            "last_traded_at": "2021-01-23T18:19:01+00:00",
+            "last_fetch_at": "2021-01-23T18:19:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=enj",
@@ -1857,93 +2017,94 @@
             "base": "ENJ",
             "target": "USDT",
             "market": {
-                "name": "VCC Exchange",
-                "identifier": "vcc",
+                "name": "BiKi",
+                "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 0.28843,
-            "volume": 75321732.8,
+            "last": 0.41956,
+            "volume": 188533.87405687,
             "converted_last": {
-                "btc": 7.91e-06,
-                "eth": 0.00021838,
-                "usd": 0.288489
+                "btc": 1.306e-05,
+                "eth": 0.00033629,
+                "usd": 0.420253
             },
             "converted_volume": {
-                "btc": 595.918,
-                "eth": 16449,
-                "usd": 21729519
+                "btc": 2.462744,
+                "eth": 63.402,
+                "usd": 79232
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.188094,
-            "timestamp": "2021-01-19T05:36:44+00:00",
-            "last_traded_at": "2021-01-19T05:36:44+00:00",
-            "last_fetch_at": "2021-01-19T05:36:44+00:00",
+            "bid_ask_spread_percentage": 0.229092,
+            "timestamp": "2021-01-23T16:37:16+00:00",
+            "last_traded_at": "2021-01-23T16:37:16+00:00",
+            "last_fetch_at": "2021-01-23T18:23:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=enj",
+            "trade_url": "https://www.biki.com/trade/ENJ_USDT",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
-            "target": "USD",
+            "target": "WETH",
             "market": {
-                "name": "Blockchain.com",
-                "identifier": "blockchain_com",
+                "name": "Bamboo Relay",
+                "identifier": "bamboo_relay",
                 "has_trading_incentive": false
             },
-            "last": 0.2888,
-            "volume": 11427.44785,
+            "last": 0.0003380459349857253,
+            "volume": 40792.13944651061,
             "converted_last": {
-                "btc": 7.93e-06,
-                "eth": 0.00021971,
-                "usd": 0.2888
+                "btc": 1.305e-05,
+                "eth": 0.00033826,
+                "usd": 0.415852
             },
             "converted_volume": {
-                "btc": 0.09063959,
-                "eth": 2.51067,
-                "usd": 3300.25
+                "btc": 0.53227921,
+                "eth": 13.798475,
+                "usd": 16963.48
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.320748,
-            "timestamp": "2021-01-19T05:19:35+00:00",
-            "last_traded_at": "2021-01-19T05:19:35+00:00",
-            "last_fetch_at": "2021-01-19T05:40:28+00:00",
+            "bid_ask_spread_percentage": 0.639172,
+            "timestamp": "2021-01-23T16:04:48+00:00",
+            "last_traded_at": "2021-01-23T16:04:48+00:00",
+            "last_fetch_at": "2021-01-23T18:18:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.blockchain.com/trade/ENJ-USD",
+            "trade_url": "https://bamboorelay.com/trade/ENJ-WETH",
             "token_info_url": null,
-            "coin_id": "enjincoin"
+            "coin_id": "enjincoin",
+            "target_coin_id": "weth"
         },
         {
             "base": "ENJ",
             "target": "USDT",
             "market": {
-                "name": "Blockchain.com",
-                "identifier": "blockchain_com",
+                "name": "ZG.com",
+                "identifier": "zg",
                 "has_trading_incentive": false
             },
-            "last": 0.275,
-            "volume": 3687.664203,
+            "last": 0.41617,
+            "volume": 769999.1,
             "converted_last": {
-                "btc": 7.52e-06,
-                "eth": 0.00020705,
-                "usd": 0.274871
+                "btc": 1.295e-05,
+                "eth": 0.00033181,
+                "usd": 0.416413
             },
             "converted_volume": {
-                "btc": 0.02774015,
-                "eth": 0.76353854,
-                "usd": 1013.63
+                "btc": 9.972084,
+                "eth": 255.49,
+                "usd": 320638
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 3.007519,
-            "timestamp": "2021-01-19T04:24:08+00:00",
-            "last_traded_at": "2021-01-19T04:24:08+00:00",
-            "last_fetch_at": "2021-01-19T05:40:28+00:00",
+            "bid_ask_spread_percentage": 2.091793,
+            "timestamp": "2021-01-23T18:21:52+00:00",
+            "last_traded_at": "2021-01-23T18:21:52+00:00",
+            "last_fetch_at": "2021-01-23T18:21:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.blockchain.com/trade/ENJ-USDT",
+            "trade_url": "https://www.zg.com/exchange/737/ENJ/USDT",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
@@ -1956,58 +2117,26 @@
                 "identifier": "bitasset",
                 "has_trading_incentive": false
             },
-            "last": 0.287146,
-            "volume": 5577512.0,
+            "last": 0.421161,
+            "volume": 389027.0,
             "converted_last": {
-                "btc": 7.89e-06,
-                "eth": 0.00021744,
-                "usd": 0.287168
+                "btc": 1.306e-05,
+                "eth": 0.00033731,
+                "usd": 0.421376
             },
             "converted_volume": {
-                "btc": 44.014749,
-                "eth": 1213,
-                "usd": 1601684
+                "btc": 5.081033,
+                "eth": 131.224,
+                "usd": 163927
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.253105,
-            "timestamp": "2021-01-19T05:41:16+00:00",
-            "last_traded_at": "2021-01-19T05:41:16+00:00",
-            "last_fetch_at": "2021-01-19T05:41:16+00:00",
+            "bid_ask_spread_percentage": 2.12955,
+            "timestamp": "2021-01-23T17:43:54+00:00",
+            "last_traded_at": "2021-01-23T17:43:54+00:00",
+            "last_fetch_at": "2021-01-23T17:43:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitasset.com/ktrade/ENJ-USDT",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "ZG.com",
-                "identifier": "zg",
-                "has_trading_incentive": false
-            },
-            "last": 0.28327,
-            "volume": 760459.5,
-            "converted_last": {
-                "btc": 7.77e-06,
-                "eth": 0.00021451,
-                "usd": 0.283342
-            },
-            "converted_volume": {
-                "btc": 5.905459,
-                "eth": 163.126,
-                "usd": 215470
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.091793,
-            "timestamp": "2021-01-19T05:30:14+00:00",
-            "last_traded_at": "2021-01-19T05:30:14+00:00",
-            "last_fetch_at": "2021-01-19T05:30:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.zg.com/exchange/737/ENJ/USDT",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "tether"
@@ -2020,23 +2149,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 0.0543,
-            "volume": 205415.8333,
+            "last": 0.1032,
+            "volume": 187439.1421,
             "converted_last": {
-                "btc": 7.98e-06,
-                "eth": 0.00022037,
-                "usd": 0.291312
+                "btc": 1.327e-05,
+                "eth": 0.00033994,
+                "usd": 0.426647
             },
             "converted_volume": {
-                "btc": 1.64001,
-                "eth": 45.267684,
-                "usd": 59840
+                "btc": 2.486996,
+                "eth": 63.718,
+                "usd": 79970
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 0.878004,
-            "timestamp": "2021-01-19T05:34:36+00:00",
-            "last_traded_at": "2021-01-19T05:34:36+00:00",
-            "last_fetch_at": "2021-01-19T05:34:36+00:00",
+            "timestamp": "2021-01-23T18:22:02+00:00",
+            "last_traded_at": "2021-01-23T18:22:02+00:00",
+            "last_fetch_at": "2021-01-23T18:22:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/ENJUQC",
@@ -2052,23 +2181,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 7.88e-06,
-            "volume": 133329.0,
+            "last": 1.312e-05,
+            "volume": 143646.0,
             "converted_last": {
-                "btc": 7.88e-06,
-                "eth": 0.0002175,
-                "usd": 0.287523
+                "btc": 1.312e-05,
+                "eth": 0.00033614,
+                "usd": 0.421879
             },
             "converted_volume": {
-                "btc": 1.050633,
-                "eth": 28.999633,
-                "usd": 38335
+                "btc": 1.884636,
+                "eth": 48.28527,
+                "usd": 60601
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 0.791367,
-            "timestamp": "2021-01-19T05:34:37+00:00",
-            "last_traded_at": "2021-01-19T05:34:37+00:00",
-            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "timestamp": "2021-01-23T18:22:04+00:00",
+            "last_traded_at": "2021-01-23T18:22:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/ENJBTC",
@@ -2084,23 +2213,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 0.28907,
-            "volume": 62035.0,
+            "last": 0.421,
+            "volume": 63582.0,
             "converted_last": {
-                "btc": 7.92e-06,
-                "eth": 0.00021864,
-                "usd": 0.28903
+                "btc": 1.31e-05,
+                "eth": 0.00033566,
+                "usd": 0.421271
             },
             "converted_volume": {
-                "btc": 0.49139808,
-                "eth": 13.563604,
-                "usd": 17929.98
+                "btc": 0.83299275,
+                "eth": 21.341676,
+                "usd": 26785
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 1.118568,
-            "timestamp": "2021-01-19T05:34:37+00:00",
-            "last_traded_at": "2021-01-19T05:34:37+00:00",
-            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "timestamp": "2021-01-23T18:22:04+00:00",
+            "last_traded_at": "2021-01-23T18:22:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/ENJUSDT",
@@ -2110,32 +2239,188 @@
         },
         {
             "base": "ENJ",
+            "target": "EUR",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.371815,
+            "volume": 0.532033141,
+            "converted_last": {
+                "btc": 1.408e-05,
+                "eth": 0.00036301,
+                "usd": 0.452666
+            },
+            "converted_volume": {
+                "btc": 7.49e-06,
+                "eth": 0.00019313,
+                "usd": 0.240833
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.841434,
+            "timestamp": "2021-01-23T17:06:02+00:00",
+            "last_traded_at": "2021-01-23T17:06:02+00:00",
+            "last_fetch_at": "2021-01-23T18:24:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-eur",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
             "target": "ETH",
             "market": {
                 "name": "Omgfin",
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 0.00021999,
-            "volume": 76975.0,
+            "last": 0.00033558,
+            "volume": 74010.0,
             "converted_last": {
-                "btc": 8.01e-06,
-                "eth": 0.00022097,
-                "usd": 0.2921
+                "btc": 1.313e-05,
+                "eth": 0.00033651,
+                "usd": 0.422349
             },
             "converted_volume": {
-                "btc": 0.61621844,
-                "eth": 17.008905,
-                "usd": 22484
+                "btc": 0.97209183,
+                "eth": 24.905461,
+                "usd": 31258
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 2.196047,
-            "timestamp": "2021-01-19T05:34:37+00:00",
-            "last_traded_at": "2021-01-19T05:34:37+00:00",
-            "last_fetch_at": "2021-01-19T05:34:37+00:00",
+            "timestamp": "2021-01-23T18:22:03+00:00",
+            "last_traded_at": "2021-01-23T18:22:03+00:00",
+            "last_fetch_at": "2021-01-23T18:22:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/ENJETH",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "AUD",
+            "market": {
+                "name": "BTCMarkets",
+                "identifier": "btcmarkets",
+                "has_trading_incentive": false
+            },
+            "last": 0.5601,
+            "volume": 189828.72,
+            "converted_last": {
+                "btc": 1.345e-05,
+                "eth": 0.00034716,
+                "usd": 0.432205
+            },
+            "converted_volume": {
+                "btc": 2.553429,
+                "eth": 65.901,
+                "usd": 82045
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 3.986474,
+            "timestamp": "2021-01-23T17:12:11+00:00",
+            "last_traded_at": "2021-01-23T17:12:11+00:00",
+            "last_fetch_at": "2021-01-23T18:21:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "KRW",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 477.323,
+            "volume": 38.005531284,
+            "converted_last": {
+                "btc": 1.342e-05,
+                "eth": 0.00034606,
+                "usd": 0.431756
+            },
+            "converted_volume": {
+                "btc": 0.00051007,
+                "eth": 0.01315201,
+                "usd": 16.41
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.90985,
+            "timestamp": "2021-01-23T17:01:49+00:00",
+            "last_traded_at": "2021-01-23T17:01:49+00:00",
+            "last_fetch_at": "2021-01-23T18:24:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-krw",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "KRW",
+            "market": {
+                "name": "GoPax",
+                "identifier": "gopax",
+                "has_trading_incentive": false
+            },
+            "last": 464.1,
+            "volume": 138044.08879708,
+            "converted_last": {
+                "btc": 1.301e-05,
+                "eth": 0.00033647,
+                "usd": 0.419795
+            },
+            "converted_volume": {
+                "btc": 1.796605,
+                "eth": 46.447931,
+                "usd": 57950
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 6.801432,
+            "timestamp": "2021-01-23T18:00:48+00:00",
+            "last_traded_at": "2021-01-23T18:00:48+00:00",
+            "last_fetch_at": "2021-01-23T18:25:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.gopax.co.kr/exchange/ENJ-KRW",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00034026,
+            "volume": 58479.0,
+            "converted_last": {
+                "btc": 1.332e-05,
+                "eth": 0.00034121,
+                "usd": 0.428213
+            },
+            "converted_volume": {
+                "btc": 0.77881025,
+                "eth": 19.953494,
+                "usd": 25041
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.024936,
+            "timestamp": "2021-01-23T18:21:56+00:00",
+            "last_traded_at": "2021-01-23T18:21:56+00:00",
+            "last_fetch_at": "2021-01-23T18:21:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ENJ-to-ETH",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "ethereum"
@@ -2148,23 +2433,23 @@
                 "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 8.07e-06,
-            "volume": 82622.51626317,
+            "last": 1.284e-05,
+            "volume": 27956.61331785,
             "converted_last": {
-                "btc": 8.07e-06,
-                "eth": 0.00022353,
-                "usd": 0.293513
+                "btc": 1.284e-05,
+                "eth": 0.00033056,
+                "usd": 0.412783
             },
             "converted_volume": {
-                "btc": 0.66676371,
-                "eth": 18.469015,
-                "usd": 24251
+                "btc": 0.35896292,
+                "eth": 9.241328,
+                "usd": 11540.01
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 17.634409,
-            "timestamp": "2021-01-19T05:17:05+00:00",
-            "last_traded_at": "2021-01-19T05:17:05+00:00",
-            "last_fetch_at": "2021-01-19T05:42:27+00:00",
+            "bid_ask_spread_percentage": 4.447739,
+            "timestamp": "2021-01-23T16:34:54+00:00",
+            "last_traded_at": "2021-01-23T16:34:54+00:00",
+            "last_fetch_at": "2021-01-23T18:23:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-ENJ",
@@ -2174,29 +2459,92 @@
         },
         {
             "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00034806,
+            "volume": 31.40129528,
+            "converted_last": {
+                "btc": 1.354e-05,
+                "eth": 0.00035004,
+                "usd": 0.436663
+            },
+            "converted_volume": {
+                "btc": 0.00042516,
+                "eth": 0.0109917,
+                "usd": 13.71
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 6.806298,
+            "timestamp": "2021-01-23T18:02:02+00:00",
+            "last_traded_at": "2021-01-23T18:02:02+00:00",
+            "last_fetch_at": "2021-01-23T18:02:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/ENJ/ETH",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "TRY",
+            "market": {
+                "name": "Vebitcoin",
+                "identifier": "vebitcoin",
+                "has_trading_incentive": false
+            },
+            "last": 3.17,
+            "volume": 2198708.5331230285,
+            "converted_last": {
+                "btc": 1.328e-05,
+                "eth": 0.00034119,
+                "usd": 0.427541
+            },
+            "converted_volume": {
+                "btc": 29.188982,
+                "eth": 750.181,
+                "usd": 940037
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": -9900.0,
+            "timestamp": "2021-01-23T18:15:02+00:00",
+            "last_traded_at": "2021-01-23T18:15:02+00:00",
+            "last_fetch_at": "2021-01-23T18:21:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.vebitcoin.com/market/ENJ-TRY",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
             "target": "USDT",
             "market": {
                 "name": "DragonEx",
                 "identifier": "dragonex",
                 "has_trading_incentive": false
             },
-            "last": 0.2839,
-            "volume": 3086287.1,
+            "last": 0.4228,
+            "volume": 2568732.6,
             "converted_last": {
-                "btc": 7.8e-06,
-                "eth": 0.00021498,
-                "usd": 0.284042
+                "btc": 1.315e-05,
+                "eth": 0.00033615,
+                "usd": 0.422827
             },
             "converted_volume": {
-                "btc": 24.08001,
-                "eth": 663.504,
-                "usd": 876636
+                "btc": 33.766117,
+                "eth": 863.477,
+                "usd": 1086130
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 9.376043,
-            "timestamp": "2021-01-19T05:40:10+00:00",
-            "last_traded_at": "2021-01-19T05:40:10+00:00",
-            "last_fetch_at": "2021-01-19T05:40:10+00:00",
+            "bid_ask_spread_percentage": 9.352518,
+            "timestamp": "2021-01-23T18:25:03+00:00",
+            "last_traded_at": "2021-01-23T18:25:03+00:00",
+            "last_fetch_at": "2021-01-23T18:25:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://dragonex.io/en-us/trade/index/enj_usdt",
@@ -2212,248 +2560,26 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 7.8469e-06,
-            "volume": 152161.83925872,
+            "last": 1.30731e-05,
+            "volume": 151292.84374439,
             "converted_last": {
-                "btc": 7.85e-06,
-                "eth": 0.00021621,
-                "usd": 0.285315
+                "btc": 1.307e-05,
+                "eth": 0.00033494,
+                "usd": 0.420346
             },
             "converted_volume": {
-                "btc": 1.193999,
-                "eth": 32.899617,
-                "usd": 43414
+                "btc": 1.977866,
+                "eth": 50.674,
+                "usd": 63595
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 100.0,
-            "timestamp": "2021-01-19T05:42:26+00:00",
-            "last_traded_at": "2021-01-19T05:42:26+00:00",
-            "last_fetch_at": "2021-01-19T05:42:26+00:00",
+            "timestamp": "2021-01-23T18:21:06+00:00",
+            "last_traded_at": "2021-01-23T18:21:06+00:00",
+            "last_fetch_at": "2021-01-23T18:21:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=ENJ#limit",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "EUR",
-            "market": {
-                "name": "Coinmetro",
-                "identifier": "coin_metro",
-                "has_trading_incentive": false
-            },
-            "last": 0.2400226596487426,
-            "volume": 4908.430300007659,
-            "converted_last": {
-                "btc": 7.96e-06,
-                "eth": 0.00021972,
-                "usd": 0.290259
-            },
-            "converted_volume": {
-                "btc": 0.03907196,
-                "eth": 1.078467,
-                "usd": 1424.72
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 19.78308,
-            "timestamp": "2021-01-19T05:36:46+00:00",
-            "last_traded_at": "2021-01-19T05:36:46+00:00",
-            "last_fetch_at": "2021-01-19T05:36:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://go.coinmetro.com/#/trade",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "TRY",
-            "market": {
-                "name": "Vebitcoin",
-                "identifier": "vebitcoin",
-                "has_trading_incentive": false
-            },
-            "last": 2.164,
-            "volume": 2450951.252310536,
-            "converted_last": {
-                "btc": 7.95e-06,
-                "eth": 0.00021947,
-                "usd": 0.289821
-            },
-            "converted_volume": {
-                "btc": 19.487801,
-                "eth": 537.904,
-                "usd": 710338
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": -9900.0,
-            "timestamp": "2021-01-19T05:38:08+00:00",
-            "last_traded_at": "2021-01-19T05:38:08+00:00",
-            "last_fetch_at": "2021-01-19T05:38:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.vebitcoin.com/market/ENJ-TRY",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 8e-06,
-            "volume": 577.05601773,
-            "converted_last": {
-                "btc": 8e-06,
-                "eth": 0.00022124,
-                "usd": 0.291157
-            },
-            "converted_volume": {
-                "btc": 0.00461645,
-                "eth": 0.12767071,
-                "usd": 168.01
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 16.395494,
-            "timestamp": "2021-01-19T05:24:37+00:00",
-            "last_traded_at": "2021-01-19T05:24:37+00:00",
-            "last_fetch_at": "2021-01-19T05:24:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/ENJ/BTC",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "WhaleEx",
-                "identifier": "whale_ex",
-                "has_trading_incentive": false
-            },
-            "last": 0.28709,
-            "volume": 4474335.2,
-            "converted_last": {
-                "btc": 7.9e-06,
-                "eth": 0.00021768,
-                "usd": 0.287252
-            },
-            "converted_volume": {
-                "btc": 35.348042,
-                "eth": 973.985,
-                "usd": 1285263
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:11+00:00",
-            "last_traded_at": "2021-01-19T05:42:11+00:00",
-            "last_fetch_at": "2021-01-19T05:42:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.whaleex.com/trade/ENJ_USDT",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
-            "target": "ETH",
-            "market": {
-                "name": "1inch",
-                "identifier": "one_inch",
-                "has_trading_incentive": false
-            },
-            "last": 0.000197752280759751,
-            "volume": 621006.375902142,
-            "converted_last": {
-                "btc": 7.16e-06,
-                "eth": 0.00019809,
-                "usd": 0.26068
-            },
-            "converted_volume": {
-                "btc": 4.448013,
-                "eth": 123.013,
-                "usd": 161884
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:24:04+00:00",
-            "last_traded_at": "2021-01-19T05:24:04+00:00",
-            "last_fetch_at": "2021-01-19T05:39:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "ETH",
-            "market": {
-                "name": "Kyber Network",
-                "identifier": "kyber_network",
-                "has_trading_incentive": false
-            },
-            "last": 0.00021559344457484298,
-            "volume": 291957.5499770214,
-            "converted_last": {
-                "btc": 7.82e-06,
-                "eth": 0.00021614,
-                "usd": 0.284433
-            },
-            "converted_volume": {
-                "btc": 2.281725,
-                "eth": 63.103,
-                "usd": 83042
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:24:54+00:00",
-            "last_traded_at": "2021-01-19T05:24:54+00:00",
-            "last_fetch_at": "2021-01-19T05:41:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://kyberswap.com/swap/eth-enj",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit Indonesia ",
-                "identifier": "upbit_indonesia",
-                "has_trading_incentive": false
-            },
-            "last": 8.07e-06,
-            "volume": 85393.53626869,
-            "converted_last": {
-                "btc": 8.07e-06,
-                "eth": 0.00022367,
-                "usd": 0.293345
-            },
-            "converted_volume": {
-                "btc": 0.68912584,
-                "eth": 19.099594,
-                "usd": 25050
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:14:55+00:00",
-            "last_traded_at": "2021-01-19T05:14:55+00:00",
-            "last_fetch_at": "2021-01-19T05:33:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-ENJ",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "bitcoin"
@@ -2466,24 +2592,24 @@
                 "identifier": "yobit",
                 "has_trading_incentive": false
             },
-            "last": 0.25440966,
-            "volume": 69.00083855,
+            "last": 0.39449227,
+            "volume": 7.31313884,
             "converted_last": {
-                "btc": 6.98e-06,
-                "eth": 0.00019254,
-                "usd": 0.25441
+                "btc": 1.227e-05,
+                "eth": 0.00031564,
+                "usd": 0.394492
             },
             "converted_volume": {
-                "btc": 0.00048137,
-                "eth": 0.01328577,
-                "usd": 17.55
+                "btc": 8.972e-05,
+                "eth": 0.00230828,
+                "usd": 2.88
             },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.018793,
-            "timestamp": "2021-01-19T04:47:32+00:00",
-            "last_traded_at": "2021-01-19T04:47:32+00:00",
-            "last_fetch_at": "2021-01-19T04:47:32+00:00",
-            "is_anomaly": true,
+            "trust_score": null,
+            "bid_ask_spread_percentage": 8.529619,
+            "timestamp": "2021-01-23T16:30:39+00:00",
+            "last_traded_at": "2021-01-23T16:30:39+00:00",
+            "last_fetch_at": "2021-01-23T16:30:39+00:00",
+            "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://yobit.net/en/trade/ENJ/USD",
             "token_info_url": null,
@@ -2491,130 +2617,35 @@
         },
         {
             "base": "ENJ",
-            "target": "EUR",
+            "target": "USDT",
             "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
+                "name": "WhaleEx",
+                "identifier": "whale_ex",
                 "has_trading_incentive": false
             },
-            "last": 0.200047,
-            "volume": 1624.599511366,
+            "last": 0.4222,
+            "volume": 6968951.4,
             "converted_last": {
-                "btc": 6.58e-06,
-                "eth": 0.00018177,
-                "usd": 0.241928
+                "btc": 1.314e-05,
+                "eth": 0.00033663,
+                "usd": 0.422495
             },
             "converted_volume": {
-                "btc": 0.01069426,
-                "eth": 0.29530065,
-                "usd": 393.04
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.469582,
-            "timestamp": "2021-01-19T03:14:02+00:00",
-            "last_traded_at": "2021-01-19T03:14:02+00:00",
-            "last_fetch_at": "2021-01-19T03:14:02+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-eur",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "ETH",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.000226172,
-            "volume": 685102.0,
-            "converted_last": {
-                "btc": 8.22e-06,
-                "eth": 0.00022647,
-                "usd": 0.299217
-            },
-            "converted_volume": {
-                "btc": 5.630915,
-                "eth": 155.155,
-                "usd": 204994
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 14.621467,
-            "timestamp": "2021-01-19T05:40:05+00:00",
-            "last_traded_at": "2021-01-19T05:40:05+00:00",
-            "last_fetch_at": "2021-01-19T05:40:05+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ENJ-to-ETH",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "ETH",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 0.00018226,
-            "volume": 8090.75419730056,
-            "converted_last": {
-                "btc": 6.59e-06,
-                "eth": 0.00018271,
-                "usd": 0.239754
-            },
-            "converted_volume": {
-                "btc": 0.05333704,
-                "eth": 1.478272,
-                "usd": 1939.79
+                "btc": 91.566,
+                "eth": 2346,
+                "usd": 2944349
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 95.730392,
-            "timestamp": "2021-01-19T05:12:57+00:00",
-            "last_traded_at": "2021-01-19T05:12:57+00:00",
-            "last_fetch_at": "2021-01-19T05:40:31+00:00",
-            "is_anomaly": true,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:18:30+00:00",
+            "last_traded_at": "2021-01-23T18:18:30+00:00",
+            "last_fetch_at": "2021-01-23T18:18:30+00:00",
+            "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/ETH-ENJ",
+            "trade_url": "https://www.whaleex.com/trade/ENJ_USDT",
             "token_info_url": null,
             "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 6.82e-06,
-            "volume": 4335.021994135,
-            "converted_last": {
-                "btc": 6.82e-06,
-                "eth": 0.00018839,
-                "usd": 0.248789
-            },
-            "converted_volume": {
-                "btc": 0.02956485,
-                "eth": 0.81666816,
-                "usd": 1078.51
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 54.045038,
-            "timestamp": "2021-01-19T05:32:57+00:00",
-            "last_traded_at": "2021-01-19T05:32:57+00:00",
-            "last_fetch_at": "2021-01-19T05:39:28+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-ENJ",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -2624,24 +2655,24 @@
                 "identifier": "coinpark",
                 "has_trading_incentive": false
             },
-            "last": 0.255708,
-            "volume": 1253023.0317,
+            "last": 0.34354,
+            "volume": 770128.6642,
             "converted_last": {
-                "btc": 7.03e-06,
-                "eth": 0.00019364,
-                "usd": 0.255836
+                "btc": 1.069e-05,
+                "eth": 0.00027391,
+                "usd": 0.34378
             },
             "converted_volume": {
-                "btc": 8.805587,
-                "eth": 242.63,
-                "usd": 320568
+                "btc": 8.233633,
+                "eth": 210.95,
+                "usd": 264755
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:40:40+00:00",
-            "last_traded_at": "2021-01-19T05:40:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:40+00:00",
-            "is_anomaly": true,
+            "timestamp": "2021-01-23T18:18:22+00:00",
+            "last_traded_at": "2021-01-23T18:18:22+00:00",
+            "last_fetch_at": "2021-01-23T18:18:22+00:00",
+            "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinpark.com/fullExchange?coinPair=ENJ_USDT",
             "token_info_url": null,
@@ -2652,27 +2683,155 @@
             "base": "ENJ",
             "target": "ETH",
             "market": {
+                "name": "Kyber Network",
+                "identifier": "kyber_network",
+                "has_trading_incentive": false
+            },
+            "last": 0.000337675441672279,
+            "volume": 366493.42407285306,
+            "converted_last": {
+                "btc": 1.319e-05,
+                "eth": 0.00033907,
+                "usd": 0.424883
+            },
+            "converted_volume": {
+                "btc": 4.83514,
+                "eth": 124.267,
+                "usd": 155717
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:15:04+00:00",
+            "last_traded_at": "2021-01-23T18:15:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://kyberswap.com/swap/eth-enj",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
+            "target": "ETH",
+            "market": {
+                "name": "1inch",
+                "identifier": "one_inch",
+                "has_trading_incentive": false
+            },
+            "last": 0.000299581972333689,
+            "volume": 363024.026970178,
+            "converted_last": {
+                "btc": 1.173e-05,
+                "eth": 0.00030042,
+                "usd": 0.37704
+            },
+            "converted_volume": {
+                "btc": 4.256688,
+                "eth": 109.058,
+                "usd": 136874
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:19:49+00:00",
+            "last_traded_at": "2021-01-23T18:19:49+00:00",
+            "last_fetch_at": "2021-01-23T18:19:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
+                "name": "Upbit Indonesia ",
+                "identifier": "upbit_indonesia",
+                "has_trading_incentive": false
+            },
+            "last": 1.284e-05,
+            "volume": 44789.82690048,
+            "converted_last": {
+                "btc": 1.284e-05,
+                "eth": 0.00033375,
+                "usd": 0.412356
+            },
+            "converted_volume": {
+                "btc": 0.57510138,
+                "eth": 14.948507,
+                "usd": 18469.33
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T15:28:11+00:00",
+            "last_traded_at": "2021-01-23T15:28:11+00:00",
+            "last_fetch_at": "2021-01-23T18:21:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-ENJ",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "BTC",
+            "market": {
+                "name": "GoPax",
+                "identifier": "gopax",
+                "has_trading_incentive": false
+            },
+            "last": 1.157e-05,
+            "volume": 21.0676257,
+            "converted_last": {
+                "btc": 1.157e-05,
+                "eth": 0.00030161,
+                "usd": 0.401352
+            },
+            "converted_volume": {
+                "btc": 0.00024375,
+                "eth": 0.00635416,
+                "usd": 8.46
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.550638,
+            "timestamp": "2021-01-21T03:20:51+00:00",
+            "last_traded_at": "2021-01-21T03:20:51+00:00",
+            "last_fetch_at": "2021-01-23T18:25:11+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://www.gopax.co.kr/exchange/ENJ-BTC",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
                 "name": "Dove Wallet",
                 "identifier": "dove_wallet",
                 "has_trading_incentive": false
             },
-            "last": 0.00019307,
-            "volume": 26475.440457067,
+            "last": 0.00035573,
+            "volume": 37.119743195,
             "converted_last": {
-                "btc": 6.66e-06,
-                "eth": 0.00019353,
-                "usd": 0.244749
+                "btc": 1.375e-05,
+                "eth": 0.00035614,
+                "usd": 0.448001
             },
             "converted_volume": {
-                "btc": 0.17640177,
-                "eth": 5.123734,
-                "usd": 6479.84
+                "btc": 0.00051023,
+                "eth": 0.01321967,
+                "usd": 16.63
             },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.79837,
-            "timestamp": "2021-01-19T01:14:08+00:00",
-            "last_traded_at": "2021-01-19T01:14:08+00:00",
-            "last_fetch_at": "2021-01-19T02:56:43+00:00",
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.996305,
+            "timestamp": "2021-01-23T09:53:07+00:00",
+            "last_traded_at": "2021-01-23T09:53:07+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": "https://dovewallet.com/trade/spot/enj-eth",
@@ -2682,193 +2841,99 @@
         },
         {
             "base": "ENJ",
-            "target": "KRW",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 262.655,
-            "volume": 32762.215214126,
-            "converted_last": {
-                "btc": 6.49e-06,
-                "eth": 0.00018848,
-                "usd": 0.238371
-            },
-            "converted_volume": {
-                "btc": 0.21260123,
-                "eth": 6.175176,
-                "usd": 7809.57
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.255793,
-            "timestamp": "2021-01-19T01:14:04+00:00",
-            "last_traded_at": "2021-01-19T01:14:04+00:00",
-            "last_fetch_at": "2021-01-19T03:07:02+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-krw",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "PAX",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 0.2511,
-            "volume": 0.18338685,
-            "converted_last": {
-                "btc": 6.86e-06,
-                "eth": 0.00019959,
-                "usd": 0.250284
-            },
-            "converted_volume": {
-                "btc": 1.26e-06,
-                "eth": 3.66e-05,
-                "usd": 0.04589875
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.310621,
-            "timestamp": "2021-01-19T00:43:33+00:00",
-            "last_traded_at": "2021-01-19T00:43:33+00:00",
-            "last_fetch_at": "2021-01-19T02:48:39+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-pax",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "paxos-standard"
-        },
-        {
-            "base": "ENJ",
-            "target": "WETH",
-            "market": {
-                "name": "Bamboo Relay",
-                "identifier": "bamboo_relay",
-                "has_trading_incentive": false
-            },
-            "last": 0.00019113711475166978,
-            "volume": 16182.576377334935,
-            "converted_last": {
-                "btc": 6.58e-06,
-                "eth": 0.00019195,
-                "usd": 0.240461
-            },
-            "converted_volume": {
-                "btc": 0.10649512,
-                "eth": 3.10631,
-                "usd": 3891.27
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 99.99963,
-            "timestamp": "2021-01-19T00:28:13+00:00",
-            "last_traded_at": "2021-01-19T00:28:13+00:00",
-            "last_fetch_at": "2021-01-19T05:37:57+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://bamboorelay.com/trade/ENJ-WETH",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "weth"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDC",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 0.258988,
-            "volume": 0.068814321,
-            "converted_last": {
-                "btc": 7.08e-06,
-                "eth": 0.00020603,
-                "usd": 0.258219
-            },
-            "converted_volume": {
-                "btc": 4.872e-07,
-                "eth": 1.418e-05,
-                "usd": 0.01776914
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 1.285328,
-            "timestamp": "2021-01-19T00:50:17+00:00",
-            "last_traded_at": "2021-01-19T00:50:17+00:00",
-            "last_fetch_at": "2021-01-19T03:06:54+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-usdc",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "usd-coin"
-        },
-        {
-            "base": "ENJ",
-            "target": "GBP",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 0.186055,
-            "volume": 12.035740286,
-            "converted_last": {
-                "btc": 6.94e-06,
-                "eth": 0.00020183,
-                "usd": 0.252962
-            },
-            "converted_volume": {
-                "btc": 8.347e-05,
-                "eth": 0.00242923,
-                "usd": 3.04
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 6.432175,
-            "timestamp": "2021-01-19T00:50:19+00:00",
-            "last_traded_at": "2021-01-19T00:50:19+00:00",
-            "last_fetch_at": "2021-01-19T03:14:54+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-gbp",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "ETH",
+            "target": "BTC",
             "market": {
                 "name": "YoBit",
                 "identifier": "yobit",
                 "has_trading_incentive": false
             },
-            "last": 0.0001922,
-            "volume": 18.0,
+            "last": 1.308e-05,
+            "volume": 186.56379619,
             "converted_last": {
-                "btc": 6.51e-06,
-                "eth": 0.00019278,
-                "usd": 0.239487
+                "btc": 1.308e-05,
+                "eth": 0.00033937,
+                "usd": 0.415113
             },
             "converted_volume": {
-                "btc": 0.00011711,
-                "eth": 0.00347008,
-                "usd": 4.31
+                "btc": 0.00244025,
+                "eth": 0.06331337,
+                "usd": 77.45
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 10.816188,
-            "timestamp": "2021-01-18T14:00:00+00:00",
-            "last_traded_at": "2021-01-18T14:00:00+00:00",
-            "last_fetch_at": "2021-01-18T19:22:13+00:00",
+            "bid_ask_spread_percentage": 10.172027,
+            "timestamp": "2021-01-23T12:33:47+00:00",
+            "last_traded_at": "2021-01-23T12:33:47+00:00",
+            "last_fetch_at": "2021-01-23T17:02:47+00:00",
             "is_anomaly": false,
             "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/ENJ/ETH",
+            "trade_url": "https://yobit.net/en/trade/ENJ/BTC",
             "token_info_url": null,
             "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "DOGE",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 45.41273931,
+            "volume": 24.43588183,
+            "converted_last": {
+                "btc": 1.23e-05,
+                "eth": 0.00031821,
+                "usd": 0.392949
+            },
+            "converted_volume": {
+                "btc": 0.0003005,
+                "eth": 0.00777565,
+                "usd": 9.6
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 8.825904,
+            "timestamp": "2021-01-23T13:39:23+00:00",
+            "last_traded_at": "2021-01-23T13:39:23+00:00",
+            "last_fetch_at": "2021-01-23T17:47:39+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://yobit.net/en/trade/ENJ/DOGE",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "dogecoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "WETH",
+            "market": {
+                "name": "Radar Relay",
+                "identifier": "radar_relay",
+                "has_trading_incentive": false
+            },
+            "last": 0.0003,
+            "volume": 7999.92,
+            "converted_last": {
+                "btc": 1.159e-05,
+                "eth": 0.00029929,
+                "usd": 0.405307
+            },
+            "converted_volume": {
+                "btc": 0.09273507,
+                "eth": 2.394318,
+                "usd": 3242.43
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": -13.172345,
+            "timestamp": "2021-01-21T01:41:44+00:00",
+            "last_traded_at": "2021-01-21T01:41:44+00:00",
+            "last_fetch_at": "2021-01-21T08:51:59+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://app.radarrelay.com/ENJ/WETH",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "weth"
         },
         {
             "base": "ENJ",
@@ -2878,92 +2943,29 @@
                 "identifier": "yobit",
                 "has_trading_incentive": false
             },
-            "last": 0.03064727,
-            "volume": 13.5676462,
+            "last": 0.06148538,
+            "volume": 16.19858871,
             "converted_last": {
-                "btc": 6.18e-06,
-                "eth": 0.00018158,
-                "usd": 0.224686
+                "btc": 1.256e-05,
+                "eth": 0.0003253,
+                "usd": 0.399882
             },
             "converted_volume": {
-                "btc": 8.383e-05,
-                "eth": 0.00246367,
-                "usd": 3.05
+                "btc": 0.00020349,
+                "eth": 0.00526946,
+                "usd": 6.48
             },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 9.41213,
-            "timestamp": "2021-01-18T15:11:13+00:00",
-            "last_traded_at": "2021-01-18T15:11:13+00:00",
-            "last_fetch_at": "2021-01-18T15:11:13+00:00",
+            "trust_score": null,
+            "bid_ask_spread_percentage": 2.091672,
+            "timestamp": "2021-01-23T14:27:44+00:00",
+            "last_traded_at": "2021-01-23T14:27:44+00:00",
+            "last_fetch_at": "2021-01-23T15:41:04+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": "https://yobit.net/en/trade/ENJ/WAVES",
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "waves"
-        },
-        {
-            "base": "ENJ",
-            "target": "TUSD",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 0.250614,
-            "volume": 50.438476365,
-            "converted_last": {
-                "btc": 6.87e-06,
-                "eth": 0.00020004,
-                "usd": 0.250711
-            },
-            "converted_volume": {
-                "btc": 0.00034669,
-                "eth": 0.01008965,
-                "usd": 12.65
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 1.205447,
-            "timestamp": "2021-01-19T00:50:24+00:00",
-            "last_traded_at": "2021-01-19T00:50:24+00:00",
-            "last_fetch_at": "2021-01-19T02:56:41+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-tusd",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "true-usd"
-        },
-        {
-            "base": "ENJ",
-            "target": "NGN",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 121.227,
-            "volume": 390.456434596,
-            "converted_last": {
-                "btc": 8.72e-06,
-                "eth": 0.00025374,
-                "usd": 0.318014
-            },
-            "converted_volume": {
-                "btc": 0.00340429,
-                "eth": 0.09907391,
-                "usd": 124.17
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 1.453845,
-            "timestamp": "2021-01-19T00:50:12+00:00",
-            "last_traded_at": "2021-01-19T00:50:12+00:00",
-            "last_fetch_at": "2021-01-19T02:41:49+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-ngn",
-            "token_info_url": null,
-            "coin_id": "enjincoin"
         },
         {
             "base": "0XF629CBD94D3791C9250152BD8DFBDF380E2A3B9C",
@@ -2973,23 +2975,23 @@
                 "identifier": "paraswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000155868250141635,
-            "volume": 5908.7211746853,
+            "last": 0.000301189653581379,
+            "volume": 21881.0866100809,
             "converted_last": {
-                "btc": 4.78e-06,
-                "eth": 0.00015542,
-                "usd": 0.184256
+                "btc": 1.133e-05,
+                "eth": 0.00030057,
+                "usd": 0.360631
             },
             "converted_volume": {
-                "btc": 0.0282281,
-                "eth": 0.91831151,
-                "usd": 1088.72
+                "btc": 0.24792923,
+                "eth": 6.576706,
+                "usd": 7891.01
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-14T13:36:43+00:00",
-            "last_traded_at": "2021-01-14T13:36:43+00:00",
-            "last_fetch_at": "2021-01-15T08:34:50+00:00",
+            "timestamp": "2021-01-21T18:29:01+00:00",
+            "last_traded_at": "2021-01-21T18:29:01+00:00",
+            "last_fetch_at": "2021-01-22T00:54:53+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": null,
@@ -3005,125 +3007,29 @@
                 "identifier": "paraswap",
                 "has_trading_incentive": false
             },
-            "last": 0.252276342373801,
-            "volume": 1109.89400498411,
+            "last": 0.424265260560186,
+            "volume": 1178.50799129727,
             "converted_last": {
-                "btc": 6.97e-06,
-                "eth": 0.00020279,
-                "usd": 0.252649
+                "btc": 1.181e-05,
+                "eth": 0.00030533,
+                "usd": 0.425124
             },
             "converted_volume": {
-                "btc": 0.00773091,
-                "eth": 0.22507421,
-                "usd": 280.41
+                "btc": 0.0139137,
+                "eth": 0.35982962,
+                "usd": 501.01
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-17T04:10:51+00:00",
-            "last_traded_at": "2021-01-17T04:10:51+00:00",
-            "last_fetch_at": "2021-01-18T03:23:02+00:00",
+            "timestamp": "2021-01-20T02:49:04+00:00",
+            "last_traded_at": "2021-01-20T02:49:04+00:00",
+            "last_fetch_at": "2021-01-21T02:00:22+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "enjincoin",
             "target_coin_id": "dai"
-        },
-        {
-            "base": "ENJ",
-            "target": "ETH",
-            "market": {
-                "name": "Uniswap (v1)",
-                "identifier": "uniswap_v1",
-                "has_trading_incentive": false
-            },
-            "last": 0.0008051868538986845,
-            "volume": 4.3898980605,
-            "converted_last": {
-                "btc": 2.6e-05,
-                "eth": 0.00080709,
-                "usd": 0.945971
-            },
-            "converted_volume": {
-                "btc": 0.00011414,
-                "eth": 0.00354306,
-                "usd": 4.15
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-16T04:21:52+00:00",
-            "last_traded_at": "2021-01-16T04:21:52+00:00",
-            "last_fetch_at": "2021-01-17T03:57:50+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ENJ",
-            "target": "BTC",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 6.5e-06,
-            "volume": 11883.381261331,
-            "converted_last": {
-                "btc": 6.5e-06,
-                "eth": 0.00018312,
-                "usd": 0.239907
-            },
-            "converted_volume": {
-                "btc": 0.07724198,
-                "eth": 2.176122,
-                "usd": 2850.91
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.067073,
-            "timestamp": "2021-01-19T02:05:00+00:00",
-            "last_traded_at": "2021-01-19T02:05:00+00:00",
-            "last_fetch_at": "2021-01-19T02:56:41+00:00",
-            "is_anomaly": true,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-btc",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ENJ",
-            "target": "USDT",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 0.239987,
-            "volume": 112.099535014,
-            "converted_last": {
-                "btc": 6.53e-06,
-                "eth": 0.00018967,
-                "usd": 0.239699
-            },
-            "converted_volume": {
-                "btc": 0.00073232,
-                "eth": 0.02126235,
-                "usd": 26.87
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.743058,
-            "timestamp": "2021-01-19T01:07:03+00:00",
-            "last_traded_at": "2021-01-19T01:07:03+00:00",
-            "last_fetch_at": "2021-01-19T03:14:52+00:00",
-            "is_anomaly": true,
-            "is_stale": true,
-            "trade_url": "https://dovewallet.com/trade/spot/enj-usdt",
-            "token_info_url": null,
-            "coin_id": "enjincoin",
-            "target_coin_id": "tether"
         },
         {
             "base": "ENJ",
@@ -3146,7 +3052,7 @@
                 "usd": 1127.23
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 4.090909,
+            "bid_ask_spread_percentage": 2.339181,
             "timestamp": "2021-01-17T00:03:05+00:00",
             "last_traded_at": "2021-01-17T00:03:05+00:00",
             "last_fetch_at": "2021-01-17T23:57:34+00:00",
@@ -3159,35 +3065,257 @@
         },
         {
             "base": "ENJ",
-            "target": "DOGE",
+            "target": "BTC",
             "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
                 "has_trading_incentive": false
             },
-            "last": 27.69918158,
-            "volume": 7.58145143,
+            "last": 1.171e-05,
+            "volume": 28.171772953,
             "converted_last": {
-                "btc": 7.18e-06,
-                "eth": 0.00020856,
-                "usd": 0.258346
+                "btc": 1.171e-05,
+                "eth": 0.00030529,
+                "usd": 0.371424
             },
             "converted_volume": {
-                "btc": 5.447e-05,
-                "eth": 0.00158119,
-                "usd": 1.96
+                "btc": 0.00032989,
+                "eth": 0.00860063,
+                "usd": 10.46
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 13.22892,
-            "timestamp": "2021-01-18T01:48:22+00:00",
-            "last_traded_at": "2021-01-18T01:48:22+00:00",
-            "last_fetch_at": "2021-01-18T13:05:11+00:00",
+            "bid_ask_spread_percentage": 1.058201,
+            "timestamp": "2021-01-23T13:23:58+00:00",
+            "last_traded_at": "2021-01-23T13:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:24:11+00:00",
             "is_anomaly": true,
             "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/ENJ/DOGE",
+            "trade_url": "https://dovewallet.com/trade/spot/enj-btc",
             "token_info_url": null,
             "coin_id": "enjincoin",
-            "target_coin_id": "dogecoin"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "NGN",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 215.456,
+            "volume": 0.011970771,
+            "converted_last": {
+                "btc": 1.77e-05,
+                "eth": 0.00045849,
+                "usd": 0.56476
+            },
+            "converted_volume": {
+                "btc": 2.119e-07,
+                "eth": 5.49e-06,
+                "usd": 0.00676061
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 2.24207,
+            "timestamp": "2021-01-23T12:10:47+00:00",
+            "last_traded_at": "2021-01-23T12:10:47+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-ngn",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "TUSD",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.430501,
+            "volume": 20.933772841,
+            "converted_last": {
+                "btc": 1.379e-05,
+                "eth": 0.00035692,
+                "usd": 0.440754
+            },
+            "converted_volume": {
+                "btc": 0.00028875,
+                "eth": 0.00747165,
+                "usd": 9.23
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 2.244361,
+            "timestamp": "2021-01-23T13:40:01+00:00",
+            "last_traded_at": "2021-01-23T13:40:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:14+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-tusd",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "true-usd"
+        },
+        {
+            "base": "ENJ",
+            "target": "PAX",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.446256,
+            "volume": 0.172681088,
+            "converted_last": {
+                "btc": 1.41e-05,
+                "eth": 0.00036616,
+                "usd": 0.449025
+            },
+            "converted_volume": {
+                "btc": 2.44e-06,
+                "eth": 6.323e-05,
+                "usd": 0.077538
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.773718,
+            "timestamp": "2021-01-23T12:43:40+00:00",
+            "last_traded_at": "2021-01-23T12:43:40+00:00",
+            "last_fetch_at": "2021-01-23T18:24:07+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-pax",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "paxos-standard"
+        },
+        {
+            "base": "ENJ",
+            "target": "USDC",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.450141,
+            "volume": 0.303560346,
+            "converted_last": {
+                "btc": 1.416e-05,
+                "eth": 0.00036757,
+                "usd": 0.45076
+            },
+            "converted_volume": {
+                "btc": 4.3e-06,
+                "eth": 0.00011158,
+                "usd": 0.136833
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.78888,
+            "timestamp": "2021-01-23T12:43:36+00:00",
+            "last_traded_at": "2021-01-23T12:43:36+00:00",
+            "last_fetch_at": "2021-01-23T18:24:15+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-usdc",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "STEX",
+                "identifier": "stocks_exchange",
+                "has_trading_incentive": false
+            },
+            "last": 7.5e-05,
+            "volume": 297.15773553,
+            "converted_last": {
+                "btc": 2.8e-06,
+                "eth": 7.498e-05,
+                "usd": 0.093846
+            },
+            "converted_volume": {
+                "btc": 0.0008333,
+                "eth": 0.02228155,
+                "usd": 27.89
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 88.333139,
+            "timestamp": "2021-01-22T21:50:13+00:00",
+            "last_traded_at": "2021-01-22T21:50:13+00:00",
+            "last_fetch_at": "2021-01-23T18:19:53+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://app.stex.com/en/basic-trade/pair/ETH/ENJ/240",
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ENJ",
+            "target": "GBP",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.329789,
+            "volume": 0.0,
+            "converted_last": {
+                "btc": 1.394e-05,
+                "eth": 0.00036811,
+                "usd": 0.452664
+            },
+            "converted_volume": {
+                "btc": 2.04e-06,
+                "eth": 5.341e-05,
+                "usd": 0.07173
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 99.75367,
+            "timestamp": "2021-01-21T20:19:48+00:00",
+            "last_traded_at": "2021-01-21T20:19:48+00:00",
+            "last_fetch_at": "2021-01-23T18:24:15+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/enj-gbp",
+            "token_info_url": null,
+            "coin_id": "enjincoin"
+        },
+        {
+            "base": "ENJ",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v1)",
+                "identifier": "uniswap_v1",
+                "has_trading_incentive": false
+            },
+            "last": 0.0008053948011720436,
+            "volume": 5.1163143762,
+            "converted_last": {
+                "btc": 3.049e-05,
+                "eth": 0.00080857,
+                "usd": 0.950903
+            },
+            "converted_volume": {
+                "btc": 0.00015601,
+                "eth": 0.0041369,
+                "usd": 4.87
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-22T04:33:43+00:00",
+            "last_traded_at": "2021-01-22T04:33:43+00:00",
+            "last_fetch_at": "2021-01-22T10:38:18+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "enjincoin",
+            "target_coin_id": "ethereum"
         }
     ]
 }

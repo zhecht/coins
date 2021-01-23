@@ -109,8 +109,8 @@
     "country_origin": "CN",
     "genesis_date": "2017-08-01",
     "contract_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-    "sentiment_votes_up_percentage": 92.59,
-    "sentiment_votes_down_percentage": 7.41,
+    "sentiment_votes_up_percentage": 93.33,
+    "sentiment_votes_down_percentage": 6.67,
     "ico_data": {
         "ico_start_date": "2017-08-01T00:00:00.000Z",
         "ico_end_date": "2017-08-16T00:00:00.000Z",
@@ -143,51 +143,20 @@
         "pre_sale_available": null,
         "pre_sale_ended": false
     },
-    "market_cap_rank": 61,
+    "market_cap_rank": 63,
     "coingecko_rank": 29,
-    "coingecko_score": 54.366,
-    "developer_score": 77.88,
-    "community_score": 39.268,
-    "liquidity_score": 57.662,
+    "coingecko_score": 55.021,
+    "developer_score": 78.382,
+    "community_score": 40.983,
+    "liquidity_score": 58.294,
     "public_interest_score": 0.01,
     "public_interest_stats": {
         "alexa_rank": 195654,
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-19T05:42:03.444Z",
+    "last_updated": "2021-01-23T18:25:11.004Z",
     "tickers": [
-        {
-            "base": "LRC",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 0.4447,
-            "volume": 44202627.639335,
-            "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.00033673,
-                "usd": 0.4447
-            },
-            "converted_volume": {
-                "btc": 540.178,
-                "eth": 14884,
-                "usd": 19656909
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179574,
-            "timestamp": "2021-01-19T05:41:32+00:00",
-            "last_traded_at": "2021-01-19T05:41:32+00:00",
-            "last_fetch_at": "2021-01-19T05:41:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/LRC-USD",
-            "token_info_url": null,
-            "coin_id": "loopring"
-        },
         {
             "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
             "target": "ETH",
@@ -196,23 +165,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000337438241116379,
-            "volume": 11752996.4614711,
+            "last": 0.00033145271941311,
+            "volume": 4940447.9939729,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.00033788,
-                "usd": 0.446418
+                "btc": 1.297e-05,
+                "eth": 0.00033175,
+                "usd": 0.417281
             },
             "converted_volume": {
-                "btc": 144.121,
-                "eth": 3971,
-                "usd": 5246750
+                "btc": 64.093,
+                "eth": 1639,
+                "usd": 2061555
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602726,
-            "timestamp": "2021-01-19T05:40:15+00:00",
-            "last_traded_at": "2021-01-19T05:40:15+00:00",
-            "last_fetch_at": "2021-01-19T05:40:15+00:00",
+            "bid_ask_spread_percentage": 0.602727,
+            "timestamp": "2021-01-23T18:24:28+00:00",
+            "last_traded_at": "2021-01-23T18:24:28+00:00",
+            "last_fetch_at": "2021-01-23T18:24:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
@@ -222,29 +191,60 @@
         },
         {
             "base": "LRC",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 0.4149,
+            "volume": 20984103.751949,
+            "converted_last": {
+                "btc": 1.29e-05,
+                "eth": 0.00032986,
+                "usd": 0.4149
+            },
+            "converted_volume": {
+                "btc": 270.675,
+                "eth": 6922,
+                "usd": 8706305
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.196386,
+            "timestamp": "2021-01-23T18:24:48+00:00",
+            "last_traded_at": "2021-01-23T18:24:48+00:00",
+            "last_fetch_at": "2021-01-23T18:24:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LRC-USD",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
             "target": "USDT",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.44563,
-            "volume": 31414760.07592397,
+            "last": 0.41478,
+            "volume": 24861915.974562418,
             "converted_last": {
-                "btc": 1.225e-05,
-                "eth": 0.00033746,
-                "usd": 0.445853
+                "btc": 1.29e-05,
+                "eth": 0.00032977,
+                "usd": 0.4148
             },
             "converted_volume": {
-                "btc": 384.736,
-                "eth": 10601,
-                "usd": 14006371
+                "btc": 320.612,
+                "eth": 8199,
+                "usd": 10312733
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.159307,
-            "timestamp": "2021-01-19T05:40:59+00:00",
-            "last_traded_at": "2021-01-19T05:40:59+00:00",
-            "last_fetch_at": "2021-01-19T05:40:59+00:00",
+            "bid_ask_spread_percentage": 0.180819,
+            "timestamp": "2021-01-23T18:23:25+00:00",
+            "last_traded_at": "2021-01-23T18:23:25+00:00",
+            "last_fetch_at": "2021-01-23T18:23:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/LRC_USDT",
@@ -256,91 +256,27 @@
             "base": "LRC",
             "target": "BTC",
             "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 1.224e-05,
-            "volume": 3926034.0,
-            "converted_last": {
-                "btc": 1.224e-05,
-                "eth": 0.00033726,
-                "usd": 0.445599
-            },
-            "converted_volume": {
-                "btc": 48.054656,
-                "eth": 1324,
-                "usd": 1749436
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.244499,
-            "timestamp": "2021-01-19T05:40:06+00:00",
-            "last_traded_at": "2021-01-19T05:40:06+00:00",
-            "last_fetch_at": "2021-01-19T05:41:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/LRC-BTC",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.448,
-            "volume": 8337722.825425475,
-            "converted_last": {
-                "btc": 1.229e-05,
-                "eth": 0.00033919,
-                "usd": 0.448175
-            },
-            "converted_volume": {
-                "btc": 102.459,
-                "eth": 2828,
-                "usd": 3736757
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.178571,
-            "timestamp": "2021-01-19T05:35:59+00:00",
-            "last_traded_at": "2021-01-19T05:35:59+00:00",
-            "last_fetch_at": "2021-01-19T05:35:59+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_usdt",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 1.223e-05,
-            "volume": 10723401.002452984,
+            "last": 1.291e-05,
+            "volume": 7410105.44771495,
             "converted_last": {
-                "btc": 1.223e-05,
-                "eth": 0.00033699,
-                "usd": 0.444686
+                "btc": 1.291e-05,
+                "eth": 0.00033014,
+                "usd": 0.41526
             },
             "converted_volume": {
-                "btc": 131.147,
-                "eth": 3614,
-                "usd": 4768542
+                "btc": 95.664,
+                "eth": 2446,
+                "usd": 3077122
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.244898,
-            "timestamp": "2021-01-19T05:42:06+00:00",
-            "last_traded_at": "2021-01-19T05:42:06+00:00",
-            "last_fetch_at": "2021-01-19T05:42:06+00:00",
+            "bid_ask_spread_percentage": 0.232198,
+            "timestamp": "2021-01-23T18:23:09+00:00",
+            "last_traded_at": "2021-01-23T18:23:09+00:00",
+            "last_fetch_at": "2021-01-23T18:23:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/LRC_BTC",
@@ -356,26 +292,122 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.44879,
-            "volume": 91369.63,
+            "last": 0.41443,
+            "volume": 25746.66,
             "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.00033979,
-                "usd": 0.448727
+                "btc": 1.29e-05,
+                "eth": 0.00033042,
+                "usd": 0.414672
             },
             "converted_volume": {
-                "btc": 1.124789,
-                "eth": 31.046494,
-                "usd": 41000
+                "btc": 0.33204506,
+                "eth": 8.507154,
+                "usd": 10676.42
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.345435,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "bid_ask_spread_percentage": 0.129911,
+            "timestamp": "2021-01-23T18:21:10+00:00",
+            "last_traded_at": "2021-01-23T18:21:10+00:00",
+            "last_fetch_at": "2021-01-23T18:21:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/LRC_USDT",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 1.287e-05,
+            "volume": 1833271.0,
+            "converted_last": {
+                "btc": 1.287e-05,
+                "eth": 0.00032912,
+                "usd": 0.413966
+            },
+            "converted_volume": {
+                "btc": 23.594198,
+                "eth": 603.358,
+                "usd": 758912
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.309598,
+            "timestamp": "2021-01-23T18:24:47+00:00",
+            "last_traded_at": "2021-01-23T18:24:47+00:00",
+            "last_fetch_at": "2021-01-23T18:24:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/LRC-BTC",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.4156,
+            "volume": 5012680.239879086,
+            "converted_last": {
+                "btc": 1.292e-05,
+                "eth": 0.00033042,
+                "usd": 0.415627
+            },
+            "converted_volume": {
+                "btc": 64.77,
+                "eth": 1656,
+                "usd": 2083404
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.14437,
+            "timestamp": "2021-01-23T18:25:05+00:00",
+            "last_traded_at": "2021-01-23T18:25:05+00:00",
+            "last_fetch_at": "2021-01-23T18:25:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_usdt",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 0.41617,
+            "volume": 189727.7469262,
+            "converted_last": {
+                "btc": 1.288e-05,
+                "eth": 0.00033197,
+                "usd": 0.415787
+            },
+            "converted_volume": {
+                "btc": 2.442862,
+                "eth": 62.984,
+                "usd": 78886
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.277229,
+            "timestamp": "2021-01-23T18:06:17+00:00",
+            "last_traded_at": "2021-01-23T18:06:17+00:00",
+            "last_fetch_at": "2021-01-23T18:23:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -388,23 +420,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 1.218e-05,
-            "volume": 43859.0,
+            "last": 1.2909e-05,
+            "volume": 49653.0,
             "converted_last": {
-                "btc": 1.218e-05,
-                "eth": 0.00033645,
-                "usd": 0.444159
+                "btc": 1.291e-05,
+                "eth": 0.00033374,
+                "usd": 0.416328
             },
             "converted_volume": {
-                "btc": 0.53420262,
-                "eth": 14.756248,
-                "usd": 19480.38
+                "btc": 0.64097058,
+                "eth": 16.571116,
+                "usd": 20672
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.548731,
-            "timestamp": "2021-01-19T05:29:35+00:00",
-            "last_traded_at": "2021-01-19T05:29:35+00:00",
-            "last_fetch_at": "2021-01-19T05:43:34+00:00",
+            "bid_ask_spread_percentage": 0.479542,
+            "timestamp": "2021-01-23T18:02:19+00:00",
+            "last_traded_at": "2021-01-23T18:02:19+00:00",
+            "last_fetch_at": "2021-01-23T18:21:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/LRC-to-BTC",
@@ -416,30 +448,30 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
+                "name": "Loopring",
+                "identifier": "loopring",
                 "has_trading_incentive": false
             },
-            "last": 0.44703,
-            "volume": 355467.89185,
+            "last": 0.4136,
+            "volume": 1062835.115,
             "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.00033896,
-                "usd": 0.447283
+                "btc": 1.287e-05,
+                "eth": 0.00032976,
+                "usd": 0.413841
             },
             "converted_volume": {
-                "btc": 4.372762,
-                "eth": 120.488,
-                "usd": 158995
+                "btc": 13.679536,
+                "eth": 350.476,
+                "usd": 439845
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.195712,
-            "timestamp": "2021-01-19T05:42:17+00:00",
-            "last_traded_at": "2021-01-19T05:42:17+00:00",
-            "last_fetch_at": "2021-01-19T05:42:17+00:00",
+            "bid_ask_spread_percentage": 0.336943,
+            "timestamp": "2021-01-23T18:21:06+00:00",
+            "last_traded_at": "2021-01-23T18:21:06+00:00",
+            "last_fetch_at": "2021-01-23T18:21:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://exchange.loopring.io/trade/LRC-USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -452,90 +484,26 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.4465,
-            "volume": 25401515.133,
+            "last": 0.4144,
+            "volume": 20920867.703,
             "converted_last": {
-                "btc": 1.225e-05,
-                "eth": 0.00033806,
-                "usd": 0.446437
+                "btc": 1.29e-05,
+                "eth": 0.00033039,
+                "usd": 0.414667
             },
             "converted_volume": {
-                "btc": 311.105,
-                "eth": 8587,
-                "usd": 11340188
+                "btc": 269.789,
+                "eth": 6912,
+                "usd": 8675199
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.424866,
-            "timestamp": "2021-01-19T05:37:33+00:00",
-            "last_traded_at": "2021-01-19T05:37:33+00:00",
-            "last_fetch_at": "2021-01-19T05:37:33+00:00",
+            "bid_ask_spread_percentage": 0.264933,
+            "timestamp": "2021-01-23T18:20:36+00:00",
+            "last_traded_at": "2021-01-23T18:20:36+00:00",
+            "last_fetch_at": "2021-01-23T18:20:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=lrc_usdt",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Loopring",
-                "identifier": "loopring",
-                "has_trading_incentive": false
-            },
-            "last": 0.4477,
-            "volume": 1298004.491,
-            "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.00033961,
-                "usd": 0.448481
-            },
-            "converted_volume": {
-                "btc": 15.97049,
-                "eth": 440.819,
-                "usd": 582131
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.401786,
-            "timestamp": "2021-01-19T05:38:43+00:00",
-            "last_traded_at": "2021-01-19T05:38:43+00:00",
-            "last_fetch_at": "2021-01-19T05:38:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.loopring.io/trade/LRC-USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "MXC",
-                "identifier": "mxc",
-                "has_trading_incentive": false
-            },
-            "last": 0.44513,
-            "volume": 4201215.05,
-            "converted_last": {
-                "btc": 1.225e-05,
-                "eth": 0.00033751,
-                "usd": 0.445382
-            },
-            "converted_volume": {
-                "btc": 51.461,
-                "eth": 1418,
-                "usd": 1871144
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.39555,
-            "timestamp": "2021-01-19T05:42:31+00:00",
-            "last_traded_at": "2021-01-19T05:42:31+00:00",
-            "last_fetch_at": "2021-01-19T05:42:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -548,23 +516,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 2.833,
-            "volume": 2813878.05371542,
+            "last": 2.667,
+            "volume": 2719605.19532718,
             "converted_last": {
-                "btc": 1.224e-05,
-                "eth": 0.00033722,
-                "usd": 0.445543
+                "btc": 1.291e-05,
+                "eth": 0.00033067,
+                "usd": 0.415008
             },
             "converted_volume": {
-                "btc": 34.437558,
-                "eth": 948.898,
-                "usd": 1253704
+                "btc": 35.100116,
+                "eth": 899.282,
+                "usd": 1128659
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.21164,
-            "timestamp": "2021-01-19T05:40:43+00:00",
-            "last_traded_at": "2021-01-19T05:40:43+00:00",
-            "last_fetch_at": "2021-01-19T05:40:43+00:00",
+            "bid_ask_spread_percentage": 0.224888,
+            "timestamp": "2021-01-23T18:22:21+00:00",
+            "last_traded_at": "2021-01-23T18:22:21+00:00",
+            "last_fetch_at": "2021-01-23T18:22:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=LRC",
@@ -574,29 +542,61 @@
         },
         {
             "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 0.41491,
+            "volume": 4357100.29,
+            "converted_last": {
+                "btc": 1.291e-05,
+                "eth": 0.0003308,
+                "usd": 0.415177
+            },
+            "converted_volume": {
+                "btc": 56.257,
+                "eth": 1441,
+                "usd": 1808967
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.361341,
+            "timestamp": "2021-01-23T18:22:02+00:00",
+            "last_traded_at": "2021-01-23T18:22:02+00:00",
+            "last_fetch_at": "2021-01-23T18:22:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#LRC_USDT",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
             "target": "KRW",
             "market": {
                 "name": "Bithumb",
                 "identifier": "bithumb",
                 "has_trading_incentive": false
             },
-            "last": 488.4,
-            "volume": 2858198.10511947,
+            "last": 459.1,
+            "volume": 1719520.85505432,
             "converted_last": {
-                "btc": 1.217e-05,
-                "eth": 0.00033521,
-                "usd": 0.442891
+                "btc": 1.289e-05,
+                "eth": 0.00033162,
+                "usd": 0.415272
             },
             "converted_volume": {
-                "btc": 34.771744,
-                "eth": 958.106,
-                "usd": 1265870
+                "btc": 22.16337,
+                "eth": 570.234,
+                "usd": 714069
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.635116,
-            "timestamp": "2021-01-19T05:40:14+00:00",
-            "last_traded_at": "2021-01-19T05:40:14+00:00",
-            "last_fetch_at": "2021-01-19T05:40:14+00:00",
+            "bid_ask_spread_percentage": 0.413133,
+            "timestamp": "2021-01-23T18:12:35+00:00",
+            "last_traded_at": "2021-01-23T18:12:35+00:00",
+            "last_fetch_at": "2021-01-23T18:21:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bithumb.com/trade/order/LRC_KRW",
@@ -611,23 +611,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 1.226e-05,
-            "volume": 7043486.427,
+            "last": 1.287e-05,
+            "volume": 4657934.247,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.0003384,
-                "usd": 0.446882
+                "btc": 1.287e-05,
+                "eth": 0.00032912,
+                "usd": 0.413974
             },
             "converted_volume": {
-                "btc": 86.353,
-                "eth": 2384,
-                "usd": 3147608
+                "btc": 59.948,
+                "eth": 1533,
+                "usd": 1928262
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.569106,
-            "timestamp": "2021-01-19T05:38:42+00:00",
-            "last_traded_at": "2021-01-19T05:38:42+00:00",
-            "last_fetch_at": "2021-01-19T05:38:42+00:00",
+            "bid_ask_spread_percentage": 0.464396,
+            "timestamp": "2021-01-23T18:23:52+00:00",
+            "last_traded_at": "2021-01-23T18:23:52+00:00",
+            "last_fetch_at": "2021-01-23T18:23:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=lrc_btc",
@@ -637,93 +637,29 @@
         },
         {
             "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "BiKi",
-                "identifier": "biki",
-                "has_trading_incentive": false
-            },
-            "last": 0.4451,
-            "volume": 218742.74701013,
-            "converted_last": {
-                "btc": 1.223e-05,
-                "eth": 0.00033705,
-                "usd": 0.445323
-            },
-            "converted_volume": {
-                "btc": 2.675754,
-                "eth": 73.728,
-                "usd": 97411
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.425723,
-            "timestamp": "2021-01-19T05:40:39+00:00",
-            "last_traded_at": "2021-01-19T05:40:39+00:00",
-            "last_fetch_at": "2021-01-19T05:40:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.biki.com/trade/LRC_USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.44842,
-            "volume": 2287926.07694763,
-            "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.00033951,
-                "usd": 0.448512
-            },
-            "converted_volume": {
-                "btc": 28.141862,
-                "eth": 776.774,
-                "usd": 1026163
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.490305,
-            "timestamp": "2021-01-19T05:36:27+00:00",
-            "last_traded_at": "2021-01-19T05:36:27+00:00",
-            "last_fetch_at": "2021-01-19T05:36:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/LRC_USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
             "target": "ETH",
             "market": {
                 "name": "Coinsbit",
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00033912,
-            "volume": 100101.73975078,
+            "last": 0.00033109,
+            "volume": 100538.25838261,
             "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.0003391,
-                "usd": 0.447836
+                "btc": 1.294e-05,
+                "eth": 0.00033282,
+                "usd": 0.416722
             },
             "converted_volume": {
-                "btc": 1.231919,
-                "eth": 33.944466,
-                "usd": 44829
+                "btc": 1.300531,
+                "eth": 33.46096,
+                "usd": 41897
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.666391,
-            "timestamp": "2021-01-19T05:41:39+00:00",
-            "last_traded_at": "2021-01-19T05:41:39+00:00",
-            "last_fetch_at": "2021-01-19T05:41:39+00:00",
+            "bid_ask_spread_percentage": 0.772737,
+            "timestamp": "2021-01-23T18:13:37+00:00",
+            "last_traded_at": "2021-01-23T18:13:37+00:00",
+            "last_fetch_at": "2021-01-23T18:13:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/LRC_ETH",
@@ -735,30 +671,30 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.44213,
-            "volume": 284034.6,
+            "last": 0.4151,
+            "volume": 1431107.88805561,
             "converted_last": {
-                "btc": 1.215e-05,
-                "eth": 0.0003348,
-                "usd": 0.442351
+                "btc": 1.292e-05,
+                "eth": 0.00033095,
+                "usd": 0.415342
             },
             "converted_volume": {
-                "btc": 3.451248,
-                "eth": 95.096,
-                "usd": 125643
+                "btc": 18.486302,
+                "eth": 473.628,
+                "usd": 594400
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.358736,
-            "timestamp": "2021-01-19T05:40:43+00:00",
-            "last_traded_at": "2021-01-19T05:40:43+00:00",
-            "last_fetch_at": "2021-01-19T05:40:43+00:00",
+            "bid_ask_spread_percentage": 0.433944,
+            "timestamp": "2021-01-23T18:21:43+00:00",
+            "last_traded_at": "2021-01-23T18:21:43+00:00",
+            "last_fetch_at": "2021-01-23T18:21:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://gate.io/trade/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -771,23 +707,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.000337685,
-            "volume": 36848.0,
+            "last": 0.000329111,
+            "volume": 6163.0,
             "converted_last": {
-                "btc": 1.225e-05,
-                "eth": 0.00033766,
-                "usd": 0.445124
+                "btc": 1.288e-05,
+                "eth": 0.00033003,
+                "usd": 0.414204
             },
             "converted_volume": {
-                "btc": 0.45155708,
-                "eth": 12.44227,
-                "usd": 16401.92
+                "btc": 0.0793881,
+                "eth": 2.033961,
+                "usd": 2552.74
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.804706,
-            "timestamp": "2021-01-19T05:43:25+00:00",
-            "last_traded_at": "2021-01-19T05:43:25+00:00",
-            "last_fetch_at": "2021-01-19T05:43:25+00:00",
+            "bid_ask_spread_percentage": 0.249976,
+            "timestamp": "2021-01-23T18:20:01+00:00",
+            "last_traded_at": "2021-01-23T18:20:01+00:00",
+            "last_fetch_at": "2021-01-23T18:23:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/LRC-to-ETH",
@@ -803,23 +739,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.44223,
-            "volume": 297266.8,
+            "last": 0.41549,
+            "volume": 137910.3,
             "converted_last": {
-                "btc": 1.215e-05,
-                "eth": 0.00033471,
-                "usd": 0.44223
+                "btc": 1.292e-05,
+                "eth": 0.00033033,
+                "usd": 0.41549
             },
             "converted_volume": {
-                "btc": 3.611038,
-                "eth": 99.499,
-                "usd": 131460
+                "btc": 1.78144,
+                "eth": 45.55549,
+                "usd": 57300
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.363221,
-            "timestamp": "2021-01-19T05:40:52+00:00",
-            "last_traded_at": "2021-01-19T05:40:52+00:00",
-            "last_fetch_at": "2021-01-19T05:40:52+00:00",
+            "bid_ask_spread_percentage": 0.387382,
+            "timestamp": "2021-01-23T18:24:44+00:00",
+            "last_traded_at": "2021-01-23T18:24:44+00:00",
+            "last_fetch_at": "2021-01-23T18:24:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -830,27 +766,59 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.41301,
+            "volume": 183170.9,
+            "converted_last": {
+                "btc": 1.28e-05,
+                "eth": 0.00033103,
+                "usd": 0.413172
+            },
+            "converted_volume": {
+                "btc": 2.344144,
+                "eth": 60.635,
+                "usd": 75681
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.486735,
+            "timestamp": "2021-01-23T17:57:24+00:00",
+            "last_traded_at": "2021-01-23T17:57:24+00:00",
+            "last_fetch_at": "2021-01-23T17:57:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
                 "name": "Coinsbit",
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.44568,
-            "volume": 503290.57727893,
+            "last": 0.41485,
+            "volume": 500035.239128,
             "converted_last": {
-                "btc": 1.225e-05,
-                "eth": 0.00033749,
-                "usd": 0.445715
+                "btc": 1.291e-05,
+                "eth": 0.00033075,
+                "usd": 0.415118
             },
             "converted_volume": {
-                "btc": 6.164486,
-                "eth": 169.857,
-                "usd": 224324
+                "btc": 6.455303,
+                "eth": 165.388,
+                "usd": 207573
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.384816,
-            "timestamp": "2021-01-19T05:41:40+00:00",
-            "last_traded_at": "2021-01-19T05:41:40+00:00",
-            "last_fetch_at": "2021-01-19T05:41:40+00:00",
+            "bid_ask_spread_percentage": 0.328324,
+            "timestamp": "2021-01-23T18:20:15+00:00",
+            "last_traded_at": "2021-01-23T18:20:15+00:00",
+            "last_fetch_at": "2021-01-23T18:20:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/LRC_USDT",
@@ -866,23 +834,23 @@
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 1.223e-05,
-            "volume": 296922.22238034,
+            "last": 1.291e-05,
+            "volume": 296012.29831839,
             "converted_last": {
-                "btc": 1.223e-05,
-                "eth": 0.00033699,
-                "usd": 0.445046
+                "btc": 1.291e-05,
+                "eth": 0.00033076,
+                "usd": 0.415127
             },
             "converted_volume": {
-                "btc": 3.631359,
-                "eth": 100.059,
-                "usd": 132144
+                "btc": 3.821519,
+                "eth": 97.909,
+                "usd": 122883
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.326264,
-            "timestamp": "2021-01-19T05:41:35+00:00",
-            "last_traded_at": "2021-01-19T05:41:35+00:00",
-            "last_fetch_at": "2021-01-19T05:41:35+00:00",
+            "bid_ask_spread_percentage": 0.309358,
+            "timestamp": "2021-01-23T18:20:18+00:00",
+            "last_traded_at": "2021-01-23T18:20:18+00:00",
+            "last_fetch_at": "2021-01-23T18:20:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/LRC_BTC",
@@ -892,67 +860,35 @@
         },
         {
             "base": "LRC",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "BiKi",
+                "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 0.00033912,
-            "volume": 1950606.7165310215,
+            "last": 0.4146,
+            "volume": 198682.4566,
             "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.0003391,
-                "usd": 0.447836
+                "btc": 1.289e-05,
+                "eth": 0.00033025,
+                "usd": 0.414487
             },
             "converted_volume": {
-                "btc": 24.005463,
-                "eth": 661.45,
-                "usd": 873552
+                "btc": 2.561038,
+                "eth": 65.615,
+                "usd": 82351
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.893911,
-            "timestamp": "2021-01-19T05:41:39+00:00",
-            "last_traded_at": "2021-01-19T05:41:39+00:00",
-            "last_fetch_at": "2021-01-19T05:41:39+00:00",
+            "bid_ask_spread_percentage": 0.337106,
+            "timestamp": "2021-01-23T18:22:38+00:00",
+            "last_traded_at": "2021-01-23T18:22:38+00:00",
+            "last_fetch_at": "2021-01-23T18:22:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/LRC_ETH",
+            "trade_url": "https://www.biki.com/trade/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 1.223e-05,
-            "volume": 5669172.0,
-            "converted_last": {
-                "btc": 1.223e-05,
-                "eth": 0.00033699,
-                "usd": 0.445235
-            },
-            "converted_volume": {
-                "btc": 69.334,
-                "eth": 1910,
-                "usd": 2524112
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.325998,
-            "timestamp": "2021-01-19T05:40:25+00:00",
-            "last_traded_at": "2021-01-19T05:40:25+00:00",
-            "last_fetch_at": "2021-01-19T05:40:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=lrcbtc",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
         },
         {
             "base": "LRC",
@@ -962,23 +898,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.4427,
-            "volume": 1600652.152,
+            "last": 0.4141,
+            "volume": 1337007.945,
             "converted_last": {
-                "btc": 1.218e-05,
-                "eth": 0.00033567,
-                "usd": 0.442497
+                "btc": 1.287e-05,
+                "eth": 0.00032923,
+                "usd": 0.414127
             },
             "converted_volume": {
-                "btc": 19.49958,
-                "eth": 537.294,
-                "usd": 708284
+                "btc": 17.213392,
+                "eth": 440.186,
+                "usd": 553691
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.225938,
-            "timestamp": "2021-01-19T05:43:45+00:00",
-            "last_traded_at": "2021-01-19T05:43:45+00:00",
-            "last_fetch_at": "2021-01-19T05:43:45+00:00",
+            "bid_ask_spread_percentage": 0.505172,
+            "timestamp": "2021-01-23T18:25:04+00:00",
+            "last_traded_at": "2021-01-23T18:25:04+00:00",
+            "last_fetch_at": "2021-01-23T18:25:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/LRC",
@@ -988,124 +924,29 @@
         },
         {
             "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.44756,
-            "volume": 115217.81,
-            "converted_last": {
-                "btc": 1.228e-05,
-                "eth": 0.00033886,
-                "usd": 0.447497
-            },
-            "converted_volume": {
-                "btc": 1.41448,
-                "eth": 39.04257,
-                "usd": 51560
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.060157,
-            "timestamp": "2021-01-19T05:37:22+00:00",
-            "last_traded_at": "2021-01-19T05:37:22+00:00",
-            "last_fetch_at": "2021-01-19T05:37:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=LRC_USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.000338,
-            "volume": 79534.0,
-            "converted_last": {
-                "btc": 1.228e-05,
-                "eth": 0.00033845,
-                "usd": 0.447161
-            },
-            "converted_volume": {
-                "btc": 0.97690976,
-                "eth": 26.917916,
-                "usd": 35565
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.787332,
-            "timestamp": "2021-01-19T05:40:25+00:00",
-            "last_traded_at": "2021-01-19T05:40:25+00:00",
-            "last_fetch_at": "2021-01-19T05:40:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=lrceth",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "USD",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.44759,
-            "volume": 29516.367060829998,
-            "converted_last": {
-                "btc": 1.227e-05,
-                "eth": 0.00033859,
-                "usd": 0.44759
-            },
-            "converted_volume": {
-                "btc": 0.36207368,
-                "eth": 9.993983,
-                "usd": 13211.23
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.98324,
-            "timestamp": "2021-01-19T05:34:52+00:00",
-            "last_traded_at": "2021-01-19T05:34:52+00:00",
-            "last_fetch_at": "2021-01-19T05:42:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/LRCUSD",
-            "token_info_url": null,
-            "coin_id": "loopring"
-        },
-        {
-            "base": "LRC",
             "target": "BUSD",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.44604,
-            "volume": 613109.6891355035,
+            "last": 0.41544,
+            "volume": 674454.9589495475,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.00033772,
-                "usd": 0.445656
+                "btc": 1.291e-05,
+                "eth": 0.00033088,
+                "usd": 0.415282
             },
             "converted_volume": {
-                "btc": 7.514702,
-                "eth": 207.061,
-                "usd": 273236
+                "btc": 8.710471,
+                "eth": 223.166,
+                "usd": 280089
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.421062,
-            "timestamp": "2021-01-19T05:42:17+00:00",
-            "last_traded_at": "2021-01-19T05:42:17+00:00",
-            "last_fetch_at": "2021-01-19T05:42:17+00:00",
+            "bid_ask_spread_percentage": 0.305457,
+            "timestamp": "2021-01-23T18:22:20+00:00",
+            "last_traded_at": "2021-01-23T18:22:20+00:00",
+            "last_fetch_at": "2021-01-23T18:22:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/LRC_BUSD",
@@ -1117,27 +958,155 @@
             "base": "LRC",
             "target": "BTC",
             "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 1.291e-05,
+            "volume": 3606695.0,
+            "converted_last": {
+                "btc": 1.291e-05,
+                "eth": 0.00033076,
+                "usd": 0.415123
+            },
+            "converted_volume": {
+                "btc": 46.562432,
+                "eth": 1193,
+                "usd": 1497222
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.232019,
+            "timestamp": "2021-01-23T18:19:40+00:00",
+            "last_traded_at": "2021-01-23T18:19:40+00:00",
+            "last_fetch_at": "2021-01-23T18:19:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=lrcbtc",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033049,
+            "volume": 952460.3514478501,
+            "converted_last": {
+                "btc": 1.294e-05,
+                "eth": 0.00033079,
+                "usd": 0.416077
+            },
+            "converted_volume": {
+                "btc": 12.320435,
+                "eth": 315.062,
+                "usd": 396296
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.520471,
+            "timestamp": "2021-01-23T18:23:28+00:00",
+            "last_traded_at": "2021-01-23T18:23:28+00:00",
+            "last_fetch_at": "2021-01-23T18:23:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/LRC_ETH",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LRC",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 1.295e-05,
+            "volume": 7008.84091225,
+            "converted_last": {
+                "btc": 1.295e-05,
+                "eth": 0.00033116,
+                "usd": 0.416553
+            },
+            "converted_volume": {
+                "btc": 0.09076449,
+                "eth": 2.321055,
+                "usd": 2919.55
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.617761,
+            "timestamp": "2021-01-23T18:25:02+00:00",
+            "last_traded_at": "2021-01-23T18:25:02+00:00",
+            "last_fetch_at": "2021-01-23T18:25:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LRCBTC",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033109,
+            "volume": 16815.0,
+            "converted_last": {
+                "btc": 1.294e-05,
+                "eth": 0.00033282,
+                "usd": 0.416768
+            },
+            "converted_volume": {
+                "btc": 0.21751357,
+                "eth": 5.596338,
+                "usd": 7007.95
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.59911,
+            "timestamp": "2021-01-23T18:12:39+00:00",
+            "last_traded_at": "2021-01-23T18:12:39+00:00",
+            "last_fetch_at": "2021-01-23T18:19:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=lrceth",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LRC",
+            "target": "BTC",
+            "market": {
                 "name": "Bilaxy",
                 "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 1.228e-05,
-            "volume": 2466997.0,
+            "last": 1.28e-05,
+            "volume": 2470488.0,
             "converted_last": {
-                "btc": 1.228e-05,
-                "eth": 0.00033836,
-                "usd": 0.447244
+                "btc": 1.28e-05,
+                "eth": 0.00032733,
+                "usd": 0.411714
             },
             "converted_volume": {
-                "btc": 30.294723,
-                "eth": 834.745,
-                "usd": 1103350
+                "btc": 31.622246,
+                "eth": 808.653,
+                "usd": 1017135
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.659146,
-            "timestamp": "2021-01-19T05:40:00+00:00",
-            "last_traded_at": "2021-01-19T05:40:00+00:00",
-            "last_fetch_at": "2021-01-19T05:40:00+00:00",
+            "bid_ask_spread_percentage": 2.453988,
+            "timestamp": "2021-01-23T18:24:48+00:00",
+            "last_traded_at": "2021-01-23T18:24:48+00:00",
+            "last_fetch_at": "2021-01-23T18:24:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bilaxy.com/trade/LRC_BTC",
@@ -1147,35 +1116,130 @@
         },
         {
             "base": "LRC",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "BTC-Alpha",
-                "identifier": "btc_alpha",
+                "name": "Huobi Global",
+                "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.44305,
-            "volume": 897047.4,
+            "last": 1.292e-05,
+            "volume": 321662.0132382263,
             "converted_last": {
-                "btc": 1.219e-05,
-                "eth": 0.00033594,
-                "usd": 0.442847
+                "btc": 1.292e-05,
+                "eth": 0.00033039,
+                "usd": 0.415588
             },
             "converted_volume": {
-                "btc": 10.936715,
-                "eth": 301.352,
-                "usd": 397255
+                "btc": 4.155873,
+                "eth": 106.275,
+                "usd": 133679
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.230103,
-            "timestamp": "2021-01-19T05:43:21+00:00",
-            "last_traded_at": "2021-01-19T05:43:21+00:00",
-            "last_fetch_at": "2021-01-19T05:43:21+00:00",
+            "bid_ask_spread_percentage": 0.309119,
+            "timestamp": "2021-01-23T18:25:26+00:00",
+            "last_traded_at": "2021-01-23T18:25:26+00:00",
+            "last_fetch_at": "2021-01-23T18:25:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://btc-alpha.com/exchange/LRC_USDT",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_btc",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.4154,
+            "volume": 5453.6,
+            "converted_last": {
+                "btc": 1.289e-05,
+                "eth": 0.00033233,
+                "usd": 0.416352
+            },
+            "converted_volume": {
+                "btc": 0.07029335,
+                "eth": 1.812376,
+                "usd": 2270.61
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.185657,
+            "timestamp": "2021-01-23T18:08:59+00:00",
+            "last_traded_at": "2021-01-23T18:08:59+00:00",
+            "last_fetch_at": "2021-01-23T18:25:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.41523,
+            "volume": 5577.87531374,
+            "converted_last": {
+                "btc": 1.291e-05,
+                "eth": 0.00033011,
+                "usd": 0.41523
+            },
+            "converted_volume": {
+                "btc": 0.07200404,
+                "eth": 1.841308,
+                "usd": 2316.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.742515,
+            "timestamp": "2021-01-23T18:25:05+00:00",
+            "last_traded_at": "2021-01-23T18:25:05+00:00",
+            "last_fetch_at": "2021-01-23T18:25:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/LRCUSD",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.000329,
+            "volume": 916862.465,
+            "converted_last": {
+                "btc": 1.288e-05,
+                "eth": 0.0003293,
+                "usd": 0.414193
+            },
+            "converted_volume": {
+                "btc": 11.806493,
+                "eth": 301.919,
+                "usd": 379758
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.606061,
+            "timestamp": "2021-01-23T18:24:03+00:00",
+            "last_traded_at": "2021-01-23T18:24:03+00:00",
+            "last_fetch_at": "2021-01-23T18:24:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=lrc_eth",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "LRC",
@@ -1185,23 +1249,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.00033586,
-            "volume": 25510.0,
+            "last": 0.00033057,
+            "volume": 36465.0,
             "converted_last": {
-                "btc": 1.221e-05,
-                "eth": 0.0003363,
-                "usd": 0.44433
+                "btc": 1.293e-05,
+                "eth": 0.00033053,
+                "usd": 0.415744
             },
             "converted_volume": {
-                "btc": 0.31135344,
-                "eth": 8.579079,
-                "usd": 11334.86
+                "btc": 0.47132059,
+                "eth": 12.052744,
+                "usd": 15160.12
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.476427,
-            "timestamp": "2021-01-19T05:40:41+00:00",
-            "last_traded_at": "2021-01-19T05:40:41+00:00",
-            "last_fetch_at": "2021-01-19T05:40:41+00:00",
+            "bid_ask_spread_percentage": 1.512003,
+            "timestamp": "2021-01-23T18:24:47+00:00",
+            "last_traded_at": "2021-01-23T18:24:47+00:00",
+            "last_fetch_at": "2021-01-23T18:24:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1217,23 +1281,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.44347,
-            "volume": 782691.70803988,
+            "last": 0.41527,
+            "volume": 831243.34894593,
             "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033626,
-                "usd": 0.443267
+                "btc": 1.292e-05,
+                "eth": 0.00033109,
+                "usd": 0.415512
             },
             "converted_volume": {
-                "btc": 9.551548,
-                "eth": 263.185,
-                "usd": 346941
+                "btc": 10.741964,
+                "eth": 275.214,
+                "usd": 345392
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.631057,
-            "timestamp": "2021-01-19T05:43:37+00:00",
-            "last_traded_at": "2021-01-19T05:43:37+00:00",
-            "last_fetch_at": "2021-01-19T05:43:37+00:00",
+            "bid_ask_spread_percentage": 0.95648,
+            "timestamp": "2021-01-23T18:21:11+00:00",
+            "last_traded_at": "2021-01-23T18:21:11+00:00",
+            "last_fetch_at": "2021-01-23T18:21:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=LRC#limit",
@@ -1243,35 +1307,35 @@
         },
         {
             "base": "LRC",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "BTC-Alpha",
+                "identifier": "btc_alpha",
                 "has_trading_incentive": false
             },
-            "last": 0.000338,
-            "volume": 1961739.336,
+            "last": 0.4141,
+            "volume": 667510.3,
             "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.0003395,
-                "usd": 0.448333
+                "btc": 1.289e-05,
+                "eth": 0.00033015,
+                "usd": 0.414363
             },
             "converted_volume": {
-                "btc": 24.129041,
-                "eth": 666.011,
-                "usd": 879513
+                "btc": 8.601776,
+                "eth": 220.382,
+                "usd": 276591
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.884956,
-            "timestamp": "2021-01-19T05:38:41+00:00",
-            "last_traded_at": "2021-01-19T05:38:41+00:00",
-            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "bid_ask_spread_percentage": 0.433495,
+            "timestamp": "2021-01-23T18:19:45+00:00",
+            "last_traded_at": "2021-01-23T18:19:45+00:00",
+            "last_fetch_at": "2021-01-23T18:24:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=lrc_eth",
+            "trade_url": "https://btc-alpha.com/exchange/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
         },
         {
             "base": "LRC",
@@ -1281,23 +1345,23 @@
                 "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 0.44879,
-            "volume": 2607275.8693,
+            "last": 0.41471,
+            "volume": 2043604.3969,
             "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.00033979,
-                "usd": 0.448882
+                "btc": 1.289e-05,
+                "eth": 0.00032972,
+                "usd": 0.41473
             },
             "converted_volume": {
-                "btc": 32.096377,
-                "eth": 885.926,
-                "usd": 1170360
+                "btc": 26.34927,
+                "eth": 673.811,
+                "usd": 847545
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.400864,
-            "timestamp": "2021-01-19T05:36:08+00:00",
-            "last_traded_at": "2021-01-19T05:36:08+00:00",
-            "last_fetch_at": "2021-01-19T05:36:08+00:00",
+            "bid_ask_spread_percentage": 0.399778,
+            "timestamp": "2021-01-23T18:23:26+00:00",
+            "last_traded_at": "2021-01-23T18:23:26+00:00",
+            "last_fetch_at": "2021-01-23T18:23:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bkex.com/#/trade/LRC_USDT",
@@ -1307,64 +1371,32 @@
         },
         {
             "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00033598,
-            "volume": 111139.85,
-            "converted_last": {
-                "btc": 1.223e-05,
-                "eth": 0.00033747,
-                "usd": 0.445665
-            },
-            "converted_volume": {
-                "btc": 1.358831,
-                "eth": 37.506535,
-                "usd": 49531
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.536699,
-            "timestamp": "2021-01-19T05:37:18+00:00",
-            "last_traded_at": "2021-01-19T05:37:18+00:00",
-            "last_fetch_at": "2021-01-19T05:37:18+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=LRC_ETH",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
             "target": "BTC",
             "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
+                "name": "Emirex",
+                "identifier": "emirex",
                 "has_trading_incentive": false
             },
-            "last": 1.249e-05,
-            "volume": 19091.3616597,
+            "last": 1.289e-05,
+            "volume": 46857.0,
             "converted_last": {
-                "btc": 1.249e-05,
-                "eth": 0.00034415,
-                "usd": 0.454892
+                "btc": 1.289e-05,
+                "eth": 0.00033128,
+                "usd": 0.415126
             },
             "converted_volume": {
-                "btc": 0.23845111,
-                "eth": 6.570317,
-                "usd": 8684.52
+                "btc": 0.60398673,
+                "eth": 15.522958,
+                "usd": 19451.57
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.81367,
-            "timestamp": "2021-01-19T05:39:12+00:00",
-            "last_traded_at": "2021-01-19T05:39:12+00:00",
-            "last_fetch_at": "2021-01-19T05:42:30+00:00",
+            "bid_ask_spread_percentage": 0.619195,
+            "timestamp": "2021-01-23T18:14:27+00:00",
+            "last_traded_at": "2021-01-23T18:14:27+00:00",
+            "last_fetch_at": "2021-01-23T18:14:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/LRCBTC",
+            "trade_url": "https://emirex.com/trading/LRCBTC",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "bitcoin"
@@ -1377,23 +1409,23 @@
                 "identifier": "emirex",
                 "has_trading_incentive": false
             },
-            "last": 0.44653,
-            "volume": 198978.1,
+            "last": 0.41046,
+            "volume": 161445.0,
             "converted_last": {
-                "btc": 1.227e-05,
-                "eth": 0.00033872,
-                "usd": 0.447309
+                "btc": 1.279e-05,
+                "eth": 0.00033048,
+                "usd": 0.410899
             },
             "converted_volume": {
-                "btc": 2.441804,
-                "eth": 67.399,
-                "usd": 89005
+                "btc": 2.064442,
+                "eth": 53.354,
+                "usd": 66338
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.758066,
-            "timestamp": "2021-01-19T05:39:05+00:00",
-            "last_traded_at": "2021-01-19T05:39:05+00:00",
-            "last_fetch_at": "2021-01-19T05:39:05+00:00",
+            "bid_ask_spread_percentage": 0.98565,
+            "timestamp": "2021-01-23T17:19:34+00:00",
+            "last_traded_at": "2021-01-23T17:19:34+00:00",
+            "last_fetch_at": "2021-01-23T17:19:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://emirex.com/trading/LRCUSDT",
@@ -1402,34 +1434,34 @@
             "target_coin_id": "tether"
         },
         {
-            "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
+            "base": "LRC",
             "target": "ETH",
             "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
+                "name": "Huobi Global",
+                "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.000342768125284333,
-            "volume": 34931.694792942,
+            "last": 0.00033171,
+            "volume": 155390.67,
             "converted_last": {
-                "btc": 1.241e-05,
-                "eth": 0.0003437,
-                "usd": 0.45111
+                "btc": 1.297e-05,
+                "eth": 0.00033167,
+                "usd": 0.417192
             },
             "converted_volume": {
-                "btc": 0.43343967,
-                "eth": 12.006058,
-                "usd": 15758.03
+                "btc": 2.015395,
+                "eth": 51.538,
+                "usd": 64828
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.60351,
-            "timestamp": "2021-01-19T05:15:50+00:00",
-            "last_traded_at": "2021-01-19T05:15:50+00:00",
-            "last_fetch_at": "2021-01-19T05:38:34+00:00",
+            "bid_ask_spread_percentage": 0.584919,
+            "timestamp": "2021-01-23T18:25:23+00:00",
+            "last_traded_at": "2021-01-23T18:25:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_eth",
+            "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "ethereum"
         },
@@ -1441,23 +1473,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 1.215e-05,
-            "volume": 53739.53417023,
+            "last": 1.29e-05,
+            "volume": 42070.87662344,
             "converted_last": {
-                "btc": 1.215e-05,
-                "eth": 0.00033537,
-                "usd": 0.443037
+                "btc": 1.29e-05,
+                "eth": 0.0003305,
+                "usd": 0.41478
             },
             "converted_volume": {
-                "btc": 0.65293534,
-                "eth": 18.022367,
-                "usd": 23809
+                "btc": 0.54271431,
+                "eth": 13.904602,
+                "usd": 17450.17
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.946832,
-            "timestamp": "2021-01-19T05:36:25+00:00",
-            "last_traded_at": "2021-01-19T05:36:25+00:00",
-            "last_fetch_at": "2021-01-19T05:36:25+00:00",
+            "bid_ask_spread_percentage": 0.773694,
+            "timestamp": "2021-01-23T18:21:46+00:00",
+            "last_traded_at": "2021-01-23T18:21:46+00:00",
+            "last_fetch_at": "2021-01-23T18:21:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/LRC_BTC",
@@ -1473,23 +1505,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 5.2996,
-            "volume": 6163.7,
+            "last": 5.7788,
+            "volume": 16024.76,
             "converted_last": {
-                "btc": 1.227e-05,
-                "eth": 0.00033873,
-                "usd": 0.447332
+                "btc": 1.288e-05,
+                "eth": 0.00033147,
+                "usd": 0.415031
             },
             "converted_volume": {
-                "btc": 0.07564119,
-                "eth": 2.087853,
-                "usd": 2757.22
+                "btc": 0.20644997,
+                "eth": 5.311686,
+                "usd": 6650.77
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.651166,
-            "timestamp": "2021-01-19T05:37:05+00:00",
-            "last_traded_at": "2021-01-19T05:37:05+00:00",
-            "last_fetch_at": "2021-01-19T05:37:05+00:00",
+            "bid_ask_spread_percentage": 0.80011,
+            "timestamp": "2021-01-23T18:13:35+00:00",
+            "last_traded_at": "2021-01-23T18:13:35+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/LRC_CRO",
@@ -1499,67 +1531,99 @@
         },
         {
             "base": "LRC",
-            "target": "BTC",
+            "target": "ETH",
             "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
+                "name": "Hotbit",
+                "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 1.224e-05,
-            "volume": 67304.0,
+            "last": 0.00033035,
+            "volume": 100.81,
             "converted_last": {
-                "btc": 1.224e-05,
-                "eth": 0.00033785,
-                "usd": 0.446153
+                "btc": 1.278e-05,
+                "eth": 0.00033021,
+                "usd": 0.412796
             },
             "converted_volume": {
-                "btc": 0.82380096,
-                "eth": 22.738612,
-                "usd": 30028
+                "btc": 0.00128814,
+                "eth": 0.03328811,
+                "usd": 41.61
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.730519,
-            "timestamp": "2021-01-19T05:38:56+00:00",
-            "last_traded_at": "2021-01-19T05:38:56+00:00",
-            "last_fetch_at": "2021-01-19T05:38:56+00:00",
+            "bid_ask_spread_percentage": 1.750173,
+            "timestamp": "2021-01-23T17:52:16+00:00",
+            "last_traded_at": "2021-01-23T17:52:16+00:00",
+            "last_fetch_at": "2021-01-23T18:25:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://emirex.com/trading/LRCBTC",
+            "trade_url": "https://www.hotbit.io/exchange?symbol=LRC_ETH",
             "token_info_url": null,
             "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "LRC",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "WazirX",
+                "identifier": "wazirx",
                 "has_trading_incentive": false
             },
-            "last": 1.226e-05,
-            "volume": 355679.3295154185,
+            "last": 0.4165,
+            "volume": 12924.0,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.00033781,
-                "usd": 0.445776
+                "btc": 1.293e-05,
+                "eth": 0.00033425,
+                "usd": 0.416971
             },
             "converted_volume": {
-                "btc": 4.360629,
-                "eth": 120.153,
-                "usd": 158553
+                "btc": 0.16709363,
+                "eth": 4.319899,
+                "usd": 5388.94
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.812348,
-            "timestamp": "2021-01-19T05:42:40+00:00",
-            "last_traded_at": "2021-01-19T05:42:40+00:00",
-            "last_fetch_at": "2021-01-19T05:42:40+00:00",
+            "bid_ask_spread_percentage": 1.029641,
+            "timestamp": "2021-01-23T18:02:01+00:00",
+            "last_traded_at": "2021-01-23T18:02:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_btc",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 0.00032858,
+            "volume": 18982.0,
+            "converted_last": {
+                "btc": 1.286e-05,
+                "eth": 0.00032888,
+                "usd": 0.413672
+            },
+            "converted_volume": {
+                "btc": 0.24412031,
+                "eth": 6.242714,
+                "usd": 7852.32
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.035534,
+            "timestamp": "2021-01-23T18:23:58+00:00",
+            "last_traded_at": "2021-01-23T18:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:23:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "LRC",
@@ -1569,23 +1633,23 @@
                 "identifier": "dextrade",
                 "has_trading_incentive": false
             },
-            "last": 1.222e-05,
-            "volume": 7866.0,
+            "last": 1.288e-05,
+            "volume": 4961.0,
             "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.00033671,
-                "usd": 0.444682
+                "btc": 1.288e-05,
+                "eth": 0.00032937,
+                "usd": 0.414288
             },
             "converted_volume": {
-                "btc": 0.09612252,
-                "eth": 2.648574,
-                "usd": 3497.87
+                "btc": 0.06389768,
+                "eth": 1.63401,
+                "usd": 2055.28
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.651466,
-            "timestamp": "2021-01-19T05:41:17+00:00",
-            "last_traded_at": "2021-01-19T05:41:17+00:00",
-            "last_fetch_at": "2021-01-19T05:41:17+00:00",
+            "bid_ask_spread_percentage": 0.386997,
+            "timestamp": "2021-01-23T18:24:39+00:00",
+            "last_traded_at": "2021-01-23T18:24:39+00:00",
+            "last_fetch_at": "2021-01-23T18:24:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1597,30 +1661,62 @@
             "base": "LRC",
             "target": "ETH",
             "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
+                "name": "Loopring",
+                "identifier": "loopring",
                 "has_trading_incentive": false
             },
-            "last": 0.00033931,
-            "volume": 34759.0,
+            "last": 0.00032,
+            "volume": 322665.426,
             "converted_last": {
-                "btc": 1.233e-05,
-                "eth": 0.00033976,
-                "usd": 0.448894
+                "btc": 1.252e-05,
+                "eth": 0.00032089,
+                "usd": 0.402716
             },
             "converted_volume": {
-                "btc": 0.42859673,
-                "eth": 11.809618,
-                "usd": 15603.12
+                "btc": 4.04132,
+                "eth": 103.541,
+                "usd": 129943
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.253494,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
+            "bid_ask_spread_percentage": 3.352461,
+            "timestamp": "2021-01-23T18:21:06+00:00",
+            "last_traded_at": "2021-01-23T18:21:06+00:00",
+            "last_fetch_at": "2021-01-23T18:21:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://exchange.loopring.io/trade/LRC-ETH",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.0003324,
+            "volume": 26384.4586706,
+            "converted_last": {
+                "btc": 1.301e-05,
+                "eth": 0.00033333,
+                "usd": 0.418346
+            },
+            "converted_volume": {
+                "btc": 0.3432654,
+                "eth": 8.794625,
+                "usd": 11037.84
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.873757,
+            "timestamp": "2021-01-23T18:22:01+00:00",
+            "last_traded_at": "2021-01-23T18:22:01+00:00",
+            "last_fetch_at": "2021-01-23T18:22:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/LRC_ETH",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "ethereum"
@@ -1633,23 +1729,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 1.214e-05,
-            "volume": 26784.95596729,
+            "last": 1.257e-05,
+            "volume": 14571.86284483,
             "converted_last": {
-                "btc": 1.214e-05,
-                "eth": 0.00033509,
-                "usd": 0.442672
+                "btc": 1.257e-05,
+                "eth": 0.00032341,
+                "usd": 0.405339
             },
             "converted_volume": {
-                "btc": 0.32516937,
-                "eth": 8.975348,
-                "usd": 11856.95
+                "btc": 0.18316832,
+                "eth": 4.71268,
+                "usd": 5906.55
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.295547,
-            "timestamp": "2021-01-19T05:36:38+00:00",
-            "last_traded_at": "2021-01-19T05:36:38+00:00",
-            "last_fetch_at": "2021-01-19T05:36:38+00:00",
+            "bid_ask_spread_percentage": 1.920123,
+            "timestamp": "2021-01-23T18:10:29+00:00",
+            "last_traded_at": "2021-01-23T18:10:29+00:00",
+            "last_fetch_at": "2021-01-23T18:24:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-LRC",
@@ -1661,27 +1757,27 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
+                "name": "Atomars",
+                "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.4437,
-            "volume": 46772.0,
+            "last": 0.41393,
+            "volume": 72791.8,
             "converted_last": {
-                "btc": 1.219e-05,
-                "eth": 0.00033599,
-                "usd": 0.443922
+                "btc": 1.287e-05,
+                "eth": 0.0003291,
+                "usd": 0.41395
             },
             "converted_volume": {
-                "btc": 0.57033538,
-                "eth": 15.715105,
-                "usd": 20763
+                "btc": 0.93677784,
+                "eth": 23.95555,
+                "usd": 30132
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.071955,
-            "timestamp": "2021-01-19T05:40:47+00:00",
-            "last_traded_at": "2021-01-19T05:40:47+00:00",
-            "last_fetch_at": "2021-01-19T05:40:47+00:00",
+            "bid_ask_spread_percentage": 1.529184,
+            "timestamp": "2021-01-23T18:23:33+00:00",
+            "last_traded_at": "2021-01-23T18:23:33+00:00",
+            "last_fetch_at": "2021-01-23T18:23:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1691,93 +1787,29 @@
         },
         {
             "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.00033525,
-            "volume": 49149.53751153,
-            "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033674,
-                "usd": 0.444851
-            },
-            "converted_volume": {
-                "btc": 0.59961195,
-                "eth": 16.550531,
-                "usd": 21864
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.058824,
-            "timestamp": "2021-01-19T05:36:31+00:00",
-            "last_traded_at": "2021-01-19T05:36:31+00:00",
-            "last_fetch_at": "2021-01-19T05:36:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/LRC_ETH",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.00033915,
-            "volume": 223695.25,
-            "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.00033913,
-                "usd": 0.447513
-            },
-            "converted_volume": {
-                "btc": 2.753186,
-                "eth": 75.862,
-                "usd": 100106
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.849257,
-            "timestamp": "2021-01-19T05:42:41+00:00",
-            "last_traded_at": "2021-01-19T05:42:41+00:00",
-            "last_fetch_at": "2021-01-19T05:42:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=lrc_eth",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
             "target": "BTC",
             "market": {
                 "name": "Atomars",
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 1.222e-05,
-            "volume": 32470.0,
+            "last": 1.294e-05,
+            "volume": 22652.0,
             "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.00033671,
-                "usd": 0.444682
+                "btc": 1.294e-05,
+                "eth": 0.00033153,
+                "usd": 0.416092
             },
             "converted_volume": {
-                "btc": 0.3967834,
-                "eth": 10.933028,
-                "usd": 14438.84
+                "btc": 0.29311688,
+                "eth": 7.509796,
+                "usd": 9425.32
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.811688,
-            "timestamp": "2021-01-19T05:41:40+00:00",
-            "last_traded_at": "2021-01-19T05:41:40+00:00",
-            "last_fetch_at": "2021-01-19T05:41:40+00:00",
+            "bid_ask_spread_percentage": 1.537279,
+            "timestamp": "2021-01-23T18:20:55+00:00",
+            "last_traded_at": "2021-01-23T18:20:55+00:00",
+            "last_fetch_at": "2021-01-23T18:20:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1789,30 +1821,30 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
+                "name": "ProBit",
+                "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 0.44407,
-            "volume": 90847.4,
+            "last": 0.4145,
+            "volume": 383164.632,
             "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033627,
-                "usd": 0.444104
+                "btc": 1.289e-05,
+                "eth": 0.00032955,
+                "usd": 0.414513
             },
             "converted_volume": {
-                "btc": 1.108712,
-                "eth": 30.549623,
-                "usd": 40346
+                "btc": 4.937842,
+                "eth": 126.272,
+                "usd": 158827
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.361334,
-            "timestamp": "2021-01-19T05:41:40+00:00",
-            "last_traded_at": "2021-01-19T05:41:40+00:00",
-            "last_fetch_at": "2021-01-19T05:41:40+00:00",
+            "bid_ask_spread_percentage": 1.438159,
+            "timestamp": "2021-01-23T18:24:35+00:00",
+            "last_traded_at": "2021-01-23T18:24:35+00:00",
+            "last_fetch_at": "2021-01-23T18:24:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.probit.com/app/exchange/LRC-USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -1825,92 +1857,28 @@
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 485.8,
-            "volume": 590538.3496,
+            "last": 459.2,
+            "volume": 374621.6762,
             "converted_last": {
-                "btc": 1.212e-05,
-                "eth": 0.00033397,
-                "usd": 0.440258
+                "btc": 1.292e-05,
+                "eth": 0.00033095,
+                "usd": 0.415363
             },
             "converted_volume": {
-                "btc": 7.1577,
-                "eth": 197.224,
-                "usd": 259989
+                "btc": 4.839157,
+                "eth": 123.982,
+                "usd": 155604
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.597573,
-            "timestamp": "2021-01-19T05:43:47+00:00",
-            "last_traded_at": "2021-01-19T05:43:47+00:00",
-            "last_fetch_at": "2021-01-19T05:43:47+00:00",
+            "bid_ask_spread_percentage": 1.383485,
+            "timestamp": "2021-01-23T18:19:13+00:00",
+            "last_traded_at": "2021-01-23T18:19:13+00:00",
+            "last_fetch_at": "2021-01-23T18:19:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/LRC-KRW",
             "token_info_url": null,
             "coin_id": "loopring"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "ProBit",
-                "identifier": "probit",
-                "has_trading_incentive": false
-            },
-            "last": 0.4433,
-            "volume": 396106.7286,
-            "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033613,
-                "usd": 0.443097
-            },
-            "converted_volume": {
-                "btc": 4.83202,
-                "eth": 133.142,
-                "usd": 175514
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.634206,
-            "timestamp": "2021-01-19T05:43:43+00:00",
-            "last_traded_at": "2021-01-19T05:43:43+00:00",
-            "last_fetch_at": "2021-01-19T05:43:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/LRC-USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "ProBit",
-                "identifier": "probit",
-                "has_trading_incentive": false
-            },
-            "last": 1.23e-05,
-            "volume": 327779.1324,
-            "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.00033892,
-                "usd": 0.447594
-            },
-            "converted_volume": {
-                "btc": 4.031683,
-                "eth": 111.09,
-                "usd": 146712
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.535974,
-            "timestamp": "2021-01-19T05:41:14+00:00",
-            "last_traded_at": "2021-01-19T05:41:14+00:00",
-            "last_fetch_at": "2021-01-19T05:41:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/LRC-BTC",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "LRC",
@@ -1920,23 +1888,23 @@
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.00033586,
-            "volume": 6108.0,
+            "last": 0.00032973,
+            "volume": 3362.0,
             "converted_last": {
-                "btc": 1.219e-05,
-                "eth": 0.00033584,
-                "usd": 0.443531
+                "btc": 1.291e-05,
+                "eth": 0.00033065,
+                "usd": 0.414961
             },
             "converted_volume": {
-                "btc": 0.0744465,
-                "eth": 2.05131,
-                "usd": 2709.09
+                "btc": 0.04338874,
+                "eth": 1.11164,
+                "usd": 1395.1
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.851146,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:41:46+00:00",
+            "bid_ask_spread_percentage": 1.518621,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1948,27 +1916,91 @@
             "base": "LRC",
             "target": "BTC",
             "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 1.291e-05,
+            "volume": 278947.6163,
+            "converted_last": {
+                "btc": 1.291e-05,
+                "eth": 0.00033076,
+                "usd": 0.415123
+            },
+            "converted_volume": {
+                "btc": 3.601214,
+                "eth": 92.265,
+                "usd": 115798
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.619121,
+            "timestamp": "2021-01-23T18:19:16+00:00",
+            "last_traded_at": "2021-01-23T18:19:16+00:00",
+            "last_fetch_at": "2021-01-23T18:19:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/LRC-BTC",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 0.42047242,
+            "volume": 12939.8379335,
+            "converted_last": {
+                "btc": 1.309e-05,
+                "eth": 0.00033631,
+                "usd": 0.421111
+            },
+            "converted_volume": {
+                "btc": 0.1693235,
+                "eth": 4.351754,
+                "usd": 5449.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.917656,
+            "timestamp": "2021-01-23T18:16:18+00:00",
+            "last_traded_at": "2021-01-23T18:16:18+00:00",
+            "last_fetch_at": "2021-01-23T18:23:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#lrc_usdt",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "BTC",
+            "market": {
                 "name": "Hotbit",
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 1.22606e-05,
-            "volume": 122218.67,
+            "last": 1.27981e-05,
+            "volume": 1096.05,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.00033842,
-                "usd": 0.446915
+                "btc": 1.28e-05,
+                "eth": 0.00033073,
+                "usd": 0.413448
             },
             "converted_volume": {
-                "btc": 1.498474,
-                "eth": 41.360991,
-                "usd": 54621
+                "btc": 0.01402736,
+                "eth": 0.36249388,
+                "usd": 453.16
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.478095,
-            "timestamp": "2021-01-19T05:37:20+00:00",
-            "last_traded_at": "2021-01-19T05:37:20+00:00",
-            "last_fetch_at": "2021-01-19T05:37:20+00:00",
+            "bid_ask_spread_percentage": 0.434006,
+            "timestamp": "2021-01-23T17:52:28+00:00",
+            "last_traded_at": "2021-01-23T17:52:28+00:00",
+            "last_fetch_at": "2021-01-23T18:25:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hotbit.io/exchange?symbol=LRC_BTC",
@@ -1984,23 +2016,23 @@
                 "identifier": "dextrade",
                 "has_trading_incentive": false
             },
-            "last": 0.00033888,
-            "volume": 1747.0,
+            "last": 0.00032852,
+            "volume": 1417.0,
             "converted_last": {
-                "btc": 1.231e-05,
-                "eth": 0.00033933,
-                "usd": 0.448136
+                "btc": 1.285e-05,
+                "eth": 0.00032848,
+                "usd": 0.413166
             },
             "converted_volume": {
-                "btc": 0.02151413,
-                "eth": 0.59280348,
-                "usd": 782.89
+                "btc": 0.01820155,
+                "eth": 0.46545528,
+                "usd": 585.46
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.286505,
-            "timestamp": "2021-01-19T05:41:18+00:00",
-            "last_traded_at": "2021-01-19T05:41:18+00:00",
-            "last_fetch_at": "2021-01-19T05:41:18+00:00",
+            "bid_ask_spread_percentage": 1.070438,
+            "timestamp": "2021-01-23T18:24:39+00:00",
+            "last_traded_at": "2021-01-23T18:24:39+00:00",
+            "last_fetch_at": "2021-01-23T18:24:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2016,26 +2048,26 @@
                 "identifier": "coinbene",
                 "has_trading_incentive": false
             },
-            "last": 0.4419,
-            "volume": 77338101.84747681,
+            "last": 0.4143,
+            "volume": 79467312.21023414,
             "converted_last": {
-                "btc": 1.215e-05,
-                "eth": 0.000336,
-                "usd": 0.442155
+                "btc": 1.288e-05,
+                "eth": 0.00032939,
+                "usd": 0.41432
             },
             "converted_volume": {
-                "btc": 939.624,
-                "eth": 25986,
-                "usd": 34195414
+                "btc": 1024,
+                "eth": 26176,
+                "usd": 32924928
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.698041,
-            "timestamp": "2021-01-19T05:23:35+00:00",
-            "last_traded_at": "2021-01-19T05:23:35+00:00",
-            "last_fetch_at": "2021-01-19T05:23:35+00:00",
+            "bid_ask_spread_percentage": 0.842967,
+            "timestamp": "2021-01-23T18:23:36+00:00",
+            "last_traded_at": "2021-01-23T18:23:36+00:00",
+            "last_fetch_at": "2021-01-23T18:23:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinbene.com/#/market?pairId=LRCUSDT",
+            "trade_url": "https://www.coinbene.com/spot/exchange/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -2048,23 +2080,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 1.23e-05,
-            "volume": 3181102.0,
+            "last": 1.291e-05,
+            "volume": 2115812.0,
             "converted_last": {
-                "btc": 1.23e-05,
-                "eth": 0.00033951,
-                "usd": 0.448506
+                "btc": 1.291e-05,
+                "eth": 0.00033076,
+                "usd": 0.415123
             },
             "converted_volume": {
-                "btc": 39.127555,
-                "eth": 1080,
-                "usd": 1426745
+                "btc": 27.315133,
+                "eth": 699.827,
+                "usd": 878322
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.182508,
-            "timestamp": "2021-01-19T05:36:43+00:00",
-            "last_traded_at": "2021-01-19T05:36:43+00:00",
-            "last_fetch_at": "2021-01-19T05:36:43+00:00",
+            "bid_ask_spread_percentage": 0.154799,
+            "timestamp": "2021-01-23T18:19:00+00:00",
+            "last_traded_at": "2021-01-23T18:19:00+00:00",
+            "last_fetch_at": "2021-01-23T18:19:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=lrc",
@@ -2080,23 +2112,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.00033899,
-            "volume": 742088.0,
+            "last": 0.00033109,
+            "volume": 575599.0,
             "converted_last": {
-                "btc": 1.234e-05,
-                "eth": 0.00034049,
-                "usd": 0.449813
+                "btc": 1.296e-05,
+                "eth": 0.00033201,
+                "usd": 0.416694
             },
             "converted_volume": {
-                "btc": 9.154283,
-                "eth": 252.677,
-                "usd": 333801
+                "btc": 7.459108,
+                "eth": 191.106,
+                "usd": 239849
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.167154,
-            "timestamp": "2021-01-19T05:36:55+00:00",
-            "last_traded_at": "2021-01-19T05:36:55+00:00",
-            "last_fetch_at": "2021-01-19T05:36:55+00:00",
+            "bid_ask_spread_percentage": 0.454587,
+            "timestamp": "2021-01-23T18:19:00+00:00",
+            "last_traded_at": "2021-01-23T18:19:00+00:00",
+            "last_fetch_at": "2021-01-23T18:19:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=eth&coin=lrc",
@@ -2112,23 +2144,23 @@
                 "identifier": "bvnex",
                 "has_trading_incentive": false
             },
-            "last": 0.445429,
-            "volume": 2365328.44,
+            "last": 0.414262,
+            "volume": 2370539.26,
             "converted_last": {
-                "btc": 1.226e-05,
-                "eth": 0.00033774,
-                "usd": 0.445681
+                "btc": 1.288e-05,
+                "eth": 0.00032936,
+                "usd": 0.414282
             },
             "converted_volume": {
-                "btc": 28.992704,
-                "eth": 798.869,
-                "usd": 1054181
+                "btc": 30.531595,
+                "eth": 780.763,
+                "usd": 982073
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.720375,
-            "timestamp": "2021-01-19T05:42:15+00:00",
-            "last_traded_at": "2021-01-19T05:42:15+00:00",
-            "last_fetch_at": "2021-01-19T05:42:15+00:00",
+            "bid_ask_spread_percentage": 0.659786,
+            "timestamp": "2021-01-23T18:23:53+00:00",
+            "last_traded_at": "2021-01-23T18:23:53+00:00",
+            "last_fetch_at": "2021-01-23T18:23:53+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bvnex.com/#/trade/lrc_usdt",
@@ -2144,23 +2176,23 @@
                 "identifier": "dragonex",
                 "has_trading_incentive": false
             },
-            "last": 0.4445,
-            "volume": 1036400.2379,
+            "last": 0.4125,
+            "volume": 1057284.3864,
             "converted_last": {
-                "btc": 1.219e-05,
-                "eth": 0.00033654,
-                "usd": 0.444427
+                "btc": 1.282e-05,
+                "eth": 0.00032796,
+                "usd": 0.412527
             },
             "converted_volume": {
-                "btc": 12.636451,
-                "eth": 348.792,
-                "usd": 460604
+                "btc": 13.559479,
+                "eth": 346.747,
+                "usd": 436158
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.762332,
-            "timestamp": "2021-01-19T05:38:22+00:00",
-            "last_traded_at": "2021-01-19T05:38:22+00:00",
-            "last_fetch_at": "2021-01-19T05:38:22+00:00",
+            "bid_ask_spread_percentage": 0.701839,
+            "timestamp": "2021-01-23T18:25:01+00:00",
+            "last_traded_at": "2021-01-23T18:25:01+00:00",
+            "last_fetch_at": "2021-01-23T18:25:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://dragonex.io/en-us/trade/index/lrc_usdt",
@@ -2176,23 +2208,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 1.213e-05,
-            "volume": 696703.0,
+            "last": 1.29e-05,
+            "volume": 663266.0,
             "converted_last": {
-                "btc": 1.213e-05,
-                "eth": 0.00033546,
-                "usd": 0.441595
+                "btc": 1.29e-05,
+                "eth": 0.0003305,
+                "usd": 0.414805
             },
             "converted_volume": {
-                "btc": 8.451007,
-                "eth": 233.718,
-                "usd": 307660
+                "btc": 8.556131,
+                "eth": 219.212,
+                "usd": 275126
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 0.458716,
-            "timestamp": "2021-01-19T05:26:14+00:00",
-            "last_traded_at": "2021-01-19T05:26:14+00:00",
-            "last_fetch_at": "2021-01-19T05:26:14+00:00",
+            "timestamp": "2021-01-23T18:22:03+00:00",
+            "last_traded_at": "2021-01-23T18:22:03+00:00",
+            "last_fetch_at": "2021-01-23T18:22:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/LRCBTC",
@@ -2208,23 +2240,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 0.44194,
-            "volume": 1050981.4,
+            "last": 0.4167,
+            "volume": 1067925.4,
             "converted_last": {
-                "btc": 1.211e-05,
-                "eth": 0.00033427,
-                "usd": 0.441879
+                "btc": 1.297e-05,
+                "eth": 0.00033223,
+                "usd": 0.416968
             },
             "converted_volume": {
-                "btc": 12.72776,
-                "eth": 351.313,
-                "usd": 464407
+                "btc": 13.848073,
+                "eth": 354.794,
+                "usd": 445291
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 0.733835,
-            "timestamp": "2021-01-19T05:34:36+00:00",
-            "last_traded_at": "2021-01-19T05:34:36+00:00",
-            "last_fetch_at": "2021-01-19T05:34:36+00:00",
+            "timestamp": "2021-01-23T18:22:04+00:00",
+            "last_traded_at": "2021-01-23T18:22:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/LRCUSDT",
@@ -2240,23 +2272,23 @@
                 "identifier": "omgfin",
                 "has_trading_incentive": false
             },
-            "last": 0.0003342,
-            "volume": 488711.0,
+            "last": 0.00033109,
+            "volume": 435851.0,
             "converted_last": {
-                "btc": 1.216e-05,
-                "eth": 0.00033568,
-                "usd": 0.443746
+                "btc": 1.296e-05,
+                "eth": 0.00033201,
+                "usd": 0.416698
             },
             "converted_volume": {
-                "btc": 5.943477,
-                "eth": 164.052,
-                "usd": 216864
+                "btc": 5.648133,
+                "eth": 144.708,
+                "usd": 181618
             },
             "trust_score": "yellow",
             "bid_ask_spread_percentage": 0.321961,
-            "timestamp": "2021-01-19T05:34:36+00:00",
-            "last_traded_at": "2021-01-19T05:34:36+00:00",
-            "last_fetch_at": "2021-01-19T05:34:36+00:00",
+            "timestamp": "2021-01-23T18:22:03+00:00",
+            "last_traded_at": "2021-01-23T18:22:03+00:00",
+            "last_fetch_at": "2021-01-23T18:22:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://omgfin.com/exchange/trade/market/LRCETH",
@@ -2268,27 +2300,123 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 0.4138,
+            "volume": 270335.33,
+            "converted_last": {
+                "btc": 1.287e-05,
+                "eth": 0.00032899,
+                "usd": 0.413813
+            },
+            "converted_volume": {
+                "btc": 3.477928,
+                "eth": 88.939,
+                "usd": 111868
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.50578,
+            "timestamp": "2021-01-23T18:24:04+00:00",
+            "last_traded_at": "2021-01-23T18:24:04+00:00",
+            "last_fetch_at": "2021-01-23T18:24:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/LRC_USDT",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 0.000329,
+            "volume": 689507.647,
+            "converted_last": {
+                "btc": 1.288e-05,
+                "eth": 0.0003293,
+                "usd": 0.414193
+            },
+            "converted_volume": {
+                "btc": 8.878831,
+                "eth": 227.052,
+                "usd": 285589
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.506024,
+            "timestamp": "2021-01-23T18:24:07+00:00",
+            "last_traded_at": "2021-01-23T18:24:07+00:00",
+            "last_fetch_at": "2021-01-23T18:24:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/LRC_ETH",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "LBank",
+                "identifier": "lbank",
+                "has_trading_incentive": false
+            },
+            "last": 0.402,
+            "volume": 729732.3,
+            "converted_last": {
+                "btc": 1.251e-05,
+                "eth": 0.00032153,
+                "usd": 0.402368
+            },
+            "converted_volume": {
+                "btc": 9.129364,
+                "eth": 234.632,
+                "usd": 293621
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.748475,
+            "timestamp": "2021-01-23T18:17:39+00:00",
+            "last_traded_at": "2021-01-23T18:17:39+00:00",
+            "last_fetch_at": "2021-01-23T18:17:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=lrc&post=usdt",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
                 "name": "Bibox",
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.444849,
-            "volume": 76460.3,
+            "last": 0.394387,
+            "volume": 80158.9408,
             "converted_last": {
-                "btc": 1.224e-05,
-                "eth": 0.0003373,
-                "usd": 0.4451
+                "btc": 1.226e-05,
+                "eth": 0.00031356,
+                "usd": 0.394399
             },
             "converted_volume": {
-                "btc": 0.93598179,
-                "eth": 25.79018,
-                "usd": 34033
+                "btc": 0.98288296,
+                "eth": 25.134563,
+                "usd": 31615
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 4.892525,
-            "timestamp": "2021-01-19T05:42:18+00:00",
-            "last_traded_at": "2021-01-19T05:42:18+00:00",
-            "last_fetch_at": "2021-01-19T05:42:18+00:00",
+            "bid_ask_spread_percentage": 5.01669,
+            "timestamp": "2021-01-23T18:24:12+00:00",
+            "last_traded_at": "2021-01-23T18:24:12+00:00",
+            "last_fetch_at": "2021-01-23T18:24:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=LRC_USDT",
@@ -2304,23 +2432,23 @@
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 1.228e-05,
-            "volume": 10215.33141652,
+            "last": 1.328e-05,
+            "volume": 9866.68631634,
             "converted_last": {
-                "btc": 1.228e-05,
-                "eth": 0.00034092,
-                "usd": 0.446736
+                "btc": 1.328e-05,
+                "eth": 0.0003396,
+                "usd": 0.427162
             },
             "converted_volume": {
-                "btc": 0.12544427,
-                "eth": 3.482611,
-                "usd": 4563.56
+                "btc": 0.13102959,
+                "eth": 3.350726,
+                "usd": 4214.67
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 6.444099,
-            "timestamp": "2021-01-19T04:54:12+00:00",
-            "last_traded_at": "2021-01-19T04:54:12+00:00",
-            "last_fetch_at": "2021-01-19T05:41:03+00:00",
+            "bid_ask_spread_percentage": 5.120482,
+            "timestamp": "2021-01-23T18:23:43+00:00",
+            "last_traded_at": "2021-01-23T18:23:43+00:00",
+            "last_fetch_at": "2021-01-23T18:23:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#lrc_btc",
@@ -2330,29 +2458,186 @@
         },
         {
             "base": "LRC",
+            "target": "KRW",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 456.738,
+            "volume": 4.302332725,
+            "converted_last": {
+                "btc": 1.285e-05,
+                "eth": 0.00033131,
+                "usd": 0.413136
+            },
+            "converted_volume": {
+                "btc": 5.528e-05,
+                "eth": 0.0014254,
+                "usd": 1.78
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.880331,
+            "timestamp": "2021-01-23T17:06:10+00:00",
+            "last_traded_at": "2021-01-23T17:06:10+00:00",
+            "last_fetch_at": "2021-01-23T18:24:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-krw",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.407775,
+            "volume": 7.064363715,
+            "converted_last": {
+                "btc": 1.282e-05,
+                "eth": 0.00033219,
+                "usd": 0.409435
+            },
+            "converted_volume": {
+                "btc": 9.058e-05,
+                "eth": 0.00234669,
+                "usd": 2.89
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.940467,
+            "timestamp": "2021-01-23T16:01:39+00:00",
+            "last_traded_at": "2021-01-23T16:01:39+00:00",
+            "last_fetch_at": "2021-01-23T18:24:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-usdt",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "LRC",
+            "target": "NGN",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 201.945,
+            "volume": 0.002661124,
+            "converted_last": {
+                "btc": 1.647e-05,
+                "eth": 0.00042377,
+                "usd": 0.529345
+            },
+            "converted_volume": {
+                "btc": 4.38e-08,
+                "eth": 1.13e-06,
+                "usd": 0.00140865
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.112985,
+            "timestamp": "2021-01-23T16:53:10+00:00",
+            "last_traded_at": "2021-01-23T16:53:10+00:00",
+            "last_fetch_at": "2021-01-23T18:24:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-ngn",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
+            "target": "TUSD",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.416342,
+            "volume": 0.334311361,
+            "converted_last": {
+                "btc": 1.292e-05,
+                "eth": 0.00033235,
+                "usd": 0.415145
+            },
+            "converted_volume": {
+                "btc": 4.32e-06,
+                "eth": 0.00011111,
+                "usd": 0.138788
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.037764,
+            "timestamp": "2021-01-23T16:53:17+00:00",
+            "last_traded_at": "2021-01-23T16:53:17+00:00",
+            "last_fetch_at": "2021-01-23T18:24:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-tusd",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "true-usd"
+        },
+        {
+            "base": "LRC",
+            "target": "INR",
+            "market": {
+                "name": "BitBNS",
+                "identifier": "bitbns",
+                "has_trading_incentive": false
+            },
+            "last": 31.05,
+            "volume": 2934.25,
+            "converted_last": {
+                "btc": 1.324e-05,
+                "eth": 0.00034247,
+                "usd": 0.425346
+            },
+            "converted_volume": {
+                "btc": 0.03885161,
+                "eth": 1.004882,
+                "usd": 1248.07
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 8.421673,
+            "timestamp": "2021-01-23T17:32:18+00:00",
+            "last_traded_at": "2021-01-23T17:32:18+00:00",
+            "last_fetch_at": "2021-01-23T18:23:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitbns.com/trade/#/lrc",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
             "target": "USDT",
             "market": {
                 "name": "HBTC",
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.44336,
-            "volume": 66346813.75,
+            "last": 0.41488,
+            "volume": 65069033.86,
             "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033617,
-                "usd": 0.443611
+                "btc": 1.291e-05,
+                "eth": 0.0003308,
+                "usd": 0.41517
             },
             "converted_volume": {
-                "btc": 809.46,
-                "eth": 22304,
-                "usd": 29432150
+                "btc": 840.132,
+                "eth": 21525,
+                "usd": 27014723
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.3305,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 0.351748,
+            "timestamp": "2021-01-23T18:18:59+00:00",
+            "last_traded_at": "2021-01-23T18:18:59+00:00",
+            "last_fetch_at": "2021-01-23T18:18:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/LRC/USDT",
@@ -2368,23 +2653,23 @@
                 "identifier": "coinbit",
                 "has_trading_incentive": false
             },
-            "last": 487.0,
-            "volume": 15460882.51,
+            "last": 455.0,
+            "volume": 16216094.426,
             "converted_last": {
-                "btc": 1.213e-05,
-                "eth": 0.00033419,
-                "usd": 0.441346
+                "btc": 1.279e-05,
+                "eth": 0.00032719,
+                "usd": 0.411564
             },
             "converted_volume": {
-                "btc": 187.514,
-                "eth": 5167,
-                "usd": 6823593
+                "btc": 207.483,
+                "eth": 5306,
+                "usd": 6673954
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 2.240326,
-            "timestamp": "2021-01-19T05:41:31+00:00",
-            "last_traded_at": "2021-01-19T05:41:31+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "bid_ask_spread_percentage": 0.219298,
+            "timestamp": "2021-01-23T18:25:27+00:00",
+            "last_traded_at": "2021-01-23T18:25:27+00:00",
+            "last_fetch_at": "2021-01-23T18:25:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinbit.co.kr/exchange/LRC-KRW",
@@ -2399,23 +2684,23 @@
                 "identifier": "dcoin",
                 "has_trading_incentive": false
             },
-            "last": 0.444495,
-            "volume": 3060552.0,
+            "last": 0.414442,
+            "volume": 2884844.0,
             "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.0003366,
-                "usd": 0.444529
+                "btc": 1.29e-05,
+                "eth": 0.00033043,
+                "usd": 0.414684
             },
             "converted_volume": {
-                "btc": 37.387083,
-                "eth": 1030,
-                "usd": 1360505
+                "btc": 37.205833,
+                "eth": 953.231,
+                "usd": 1196298
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 33.870282,
-            "timestamp": "2021-01-19T05:41:38+00:00",
-            "last_traded_at": "2021-01-19T05:41:38+00:00",
-            "last_fetch_at": "2021-01-19T05:41:38+00:00",
+            "bid_ask_spread_percentage": 28.198961,
+            "timestamp": "2021-01-23T18:21:14+00:00",
+            "last_traded_at": "2021-01-23T18:21:14+00:00",
+            "last_fetch_at": "2021-01-23T18:21:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.dcoin.com/currencyTrading/LRC_USDT",
@@ -2431,23 +2716,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00033685,
-            "volume": 299434.38356745,
+            "last": 0.00032885,
+            "volume": 319273.73737431,
             "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.00033683,
-                "usd": 0.444478
+                "btc": 1.287e-05,
+                "eth": 0.00032977,
+                "usd": 0.413854
             },
             "converted_volume": {
-                "btc": 3.660372,
-                "eth": 100.858,
-                "usd": 133092
+                "btc": 4.109433,
+                "eth": 105.286,
+                "usd": 132133
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 25.0,
-            "timestamp": "2021-01-19T05:42:25+00:00",
-            "last_traded_at": "2021-01-19T05:42:25+00:00",
-            "last_fetch_at": "2021-01-19T05:42:25+00:00",
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=ETH&dest=LRC#limit",
@@ -2463,23 +2748,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 1.22028e-05,
-            "volume": 289066.29784159,
+            "last": 1.28864e-05,
+            "volume": 292712.75261833,
             "converted_last": {
-                "btc": 1.22e-05,
-                "eth": 0.00033624,
-                "usd": 0.443697
+                "btc": 1.289e-05,
+                "eth": 0.00033016,
+                "usd": 0.414343
             },
             "converted_volume": {
-                "btc": 3.527418,
-                "eth": 97.195,
-                "usd": 128258
+                "btc": 3.772014,
+                "eth": 96.641,
+                "usd": 121284
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 100.0,
-            "timestamp": "2021-01-19T05:42:20+00:00",
-            "last_traded_at": "2021-01-19T05:42:20+00:00",
-            "last_fetch_at": "2021-01-19T05:42:20+00:00",
+            "timestamp": "2021-01-23T18:21:09+00:00",
+            "last_traded_at": "2021-01-23T18:21:09+00:00",
+            "last_fetch_at": "2021-01-23T18:21:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=LRC#limit",
@@ -2491,30 +2776,30 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "LBank",
-                "identifier": "lbank",
+                "name": "WhaleEx",
+                "identifier": "whale_ex",
                 "has_trading_incentive": false
             },
-            "last": 0.4406,
-            "volume": 919520.64,
+            "last": 0.4144,
+            "volume": 2315392.2,
             "converted_last": {
-                "btc": 1.209e-05,
-                "eth": 0.00033359,
-                "usd": 0.440527
+                "btc": 1.29e-05,
+                "eth": 0.00033041,
+                "usd": 0.41469
             },
             "converted_volume": {
-                "btc": 11.113013,
-                "eth": 306.742,
-                "usd": 405074
+                "btc": 29.860371,
+                "eth": 765.037,
+                "usd": 960170
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 5.489,
-            "timestamp": "2021-01-19T05:38:17+00:00",
-            "last_traded_at": "2021-01-19T05:38:17+00:00",
-            "last_fetch_at": "2021-01-19T05:38:17+00:00",
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-23T18:18:29+00:00",
+            "last_traded_at": "2021-01-23T18:18:29+00:00",
+            "last_fetch_at": "2021-01-23T18:18:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=lrc&post=usdt",
+            "trade_url": "https://www.whaleex.com/trade/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -2523,30 +2808,30 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "WhaleEx",
-                "identifier": "whale_ex",
+                "name": "Yunex.io",
+                "identifier": "yunex",
                 "has_trading_incentive": false
             },
-            "last": 0.44774,
-            "volume": 2404688.2,
+            "last": 0.412,
+            "volume": 346254.3657,
             "converted_last": {
-                "btc": 1.232e-05,
-                "eth": 0.00033949,
-                "usd": 0.447993
+                "btc": 1.282e-05,
+                "eth": 0.00032848,
+                "usd": 0.412262
             },
             "converted_volume": {
-                "btc": 29.628076,
-                "eth": 816.376,
-                "usd": 1077284
+                "btc": 4.43933,
+                "eth": 113.738,
+                "usd": 142747
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:09+00:00",
-            "last_traded_at": "2021-01-19T05:42:09+00:00",
-            "last_fetch_at": "2021-01-19T05:42:09+00:00",
+            "timestamp": "2021-01-23T18:20:07+00:00",
+            "last_traded_at": "2021-01-23T18:20:07+00:00",
+            "last_fetch_at": "2021-01-23T18:20:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.whaleex.com/trade/LRC_USDT",
+            "trade_url": "https://yunex.io/trade/LRC_USDT",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "tether"
@@ -2559,23 +2844,23 @@
                 "identifier": "one_inch",
                 "has_trading_incentive": false
             },
-            "last": 0.00032835,
-            "volume": 712081.652582832,
+            "last": 0.00033,
+            "volume": 237953.377498075,
             "converted_last": {
-                "btc": 1.195e-05,
-                "eth": 0.00032924,
-                "usd": 0.435176
+                "btc": 1.277e-05,
+                "eth": 0.00032991,
+                "usd": 0.411429
             },
             "converted_volume": {
-                "btc": 8.508419,
-                "eth": 234.442,
-                "usd": 309881
+                "btc": 3.039688,
+                "eth": 78.504,
+                "usd": 97901
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:39:43+00:00",
-            "last_traded_at": "2021-01-19T05:39:43+00:00",
-            "last_fetch_at": "2021-01-19T05:39:43+00:00",
+            "timestamp": "2021-01-23T17:40:33+00:00",
+            "last_traded_at": "2021-01-23T17:40:33+00:00",
+            "last_fetch_at": "2021-01-23T18:19:53+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
@@ -2587,59 +2872,27 @@
             "base": "LRC",
             "target": "USDT",
             "market": {
-                "name": "Yunex.io",
-                "identifier": "yunex",
-                "has_trading_incentive": false
-            },
-            "last": 0.445,
-            "volume": 344044.5579,
-            "converted_last": {
-                "btc": 1.221e-05,
-                "eth": 0.00033692,
-                "usd": 0.445174
-            },
-            "converted_volume": {
-                "btc": 4.199529,
-                "eth": 115.916,
-                "usd": 153160
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:35:57+00:00",
-            "last_traded_at": "2021-01-19T05:35:57+00:00",
-            "last_fetch_at": "2021-01-19T05:35:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yunex.io/trade/LRC_USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
                 "name": "ZG.com",
                 "identifier": "zg",
                 "has_trading_incentive": false
             },
-            "last": 0.44023,
-            "volume": 240092.7,
+            "last": 0.41046,
+            "volume": 218010.4,
             "converted_last": {
-                "btc": 1.208e-05,
-                "eth": 0.00033331,
-                "usd": 0.440321
+                "btc": 1.277e-05,
+                "eth": 0.0003283,
+                "usd": 0.411384
             },
             "converted_volume": {
-                "btc": 2.899242,
-                "eth": 80.025,
-                "usd": 105718
+                "btc": 2.784832,
+                "eth": 71.572,
+                "usd": 89686
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:36:02+00:00",
-            "last_traded_at": "2021-01-19T05:36:02+00:00",
-            "last_fetch_at": "2021-01-19T05:36:02+00:00",
+            "timestamp": "2021-01-23T18:15:28+00:00",
+            "last_traded_at": "2021-01-23T18:15:28+00:00",
+            "last_fetch_at": "2021-01-23T18:15:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.zg.com/exchange/737/LRC/USDT",
@@ -2655,23 +2908,23 @@
                 "identifier": "coinpark",
                 "has_trading_incentive": false
             },
-            "last": 0.446849,
-            "volume": 82356.46,
+            "last": 0.4139,
+            "volume": 48578.43,
             "converted_last": {
-                "btc": 1.228e-05,
-                "eth": 0.00033838,
-                "usd": 0.447073
+                "btc": 1.288e-05,
+                "eth": 0.00033001,
+                "usd": 0.414189
             },
             "converted_volume": {
-                "btc": 1.011378,
-                "eth": 27.867652,
-                "usd": 36819
+                "btc": 0.62573405,
+                "eth": 16.031608,
+                "usd": 20121
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:40:40+00:00",
-            "last_traded_at": "2021-01-19T05:40:40+00:00",
-            "last_fetch_at": "2021-01-19T05:40:40+00:00",
+            "timestamp": "2021-01-23T18:18:22+00:00",
+            "last_traded_at": "2021-01-23T18:18:22+00:00",
+            "last_fetch_at": "2021-01-23T18:18:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinpark.com/fullExchange?coinPair=LRC_USDT",
@@ -2687,23 +2940,23 @@
                 "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.4439,
-            "volume": 33836.35019999999,
+            "last": 0.4141,
+            "volume": 46581.8466,
             "converted_last": {
-                "btc": 1.222e-05,
-                "eth": 0.00033658,
-                "usd": 0.444151
+                "btc": 1.287e-05,
+                "eth": 0.00032985,
+                "usd": 0.413987
             },
             "converted_volume": {
-                "btc": 0.41332097,
-                "eth": 11.388707,
-                "usd": 15028.45
+                "btc": 0.59972089,
+                "eth": 15.365138,
+                "usd": 19284.28
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:56+00:00",
-            "last_traded_at": "2021-01-19T05:42:56+00:00",
-            "last_fetch_at": "2021-01-19T05:42:56+00:00",
+            "timestamp": "2021-01-23T18:22:52+00:00",
+            "last_traded_at": "2021-01-23T18:22:52+00:00",
+            "last_fetch_at": "2021-01-23T18:22:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.co.kr/en-US/exchange/lrc_usdt/",
@@ -2713,572 +2966,31 @@
         },
         {
             "base": "LRC",
-            "target": "RUR",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 32.15015829,
-            "volume": 5.86682177,
-            "converted_last": {
-                "btc": 1.193e-05,
-                "eth": 0.00032958,
-                "usd": 0.435202
-            },
-            "converted_volume": {
-                "btc": 7e-05,
-                "eth": 0.0019336,
-                "usd": 2.55
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 12.006642,
-            "timestamp": "2021-01-19T04:39:50+00:00",
-            "last_traded_at": "2021-01-19T04:39:50+00:00",
-            "last_fetch_at": "2021-01-19T05:24:42+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/LRC/RUR",
-            "token_info_url": null,
-            "coin_id": "loopring"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 1.345e-05,
-            "volume": 18414.41814371,
-            "converted_last": {
-                "btc": 1.345e-05,
-                "eth": 0.00037153,
-                "usd": 0.49067
-            },
-            "converted_volume": {
-                "btc": 0.24767392,
-                "eth": 6.841483,
-                "usd": 9035.4
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 14.275093,
-            "timestamp": "2021-01-19T05:31:08+00:00",
-            "last_traded_at": "2021-01-19T05:31:08+00:00",
-            "last_fetch_at": "2021-01-19T05:43:25+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-LRC",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "LRC",
-            "target": "INR",
-            "market": {
-                "name": "BitBNS",
-                "identifier": "bitbns",
-                "has_trading_incentive": false
-            },
-            "last": 32.5,
-            "volume": 5295.14,
-            "converted_last": {
-                "btc": 1.221e-05,
-                "eth": 0.00033653,
-                "usd": 0.444083
-            },
-            "converted_volume": {
-                "btc": 0.06467183,
-                "eth": 1.781977,
-                "usd": 2351.48
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 6.666667,
-            "timestamp": "2021-01-19T05:42:19+00:00",
-            "last_traded_at": "2021-01-19T05:42:19+00:00",
-            "last_fetch_at": "2021-01-19T05:42:19+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://bitbns.com/trade/#/lrc",
-            "token_info_url": null,
-            "coin_id": "loopring"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 0.4593469,
-            "volume": 4583.54872134,
-            "converted_last": {
-                "btc": 1.255e-05,
-                "eth": 0.000347,
-                "usd": 0.459513
-            },
-            "converted_volume": {
-                "btc": 0.05753155,
-                "eth": 1.590497,
-                "usd": 2106.2
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 11.954654,
-            "timestamp": "2021-01-19T03:42:07+00:00",
-            "last_traded_at": "2021-01-19T03:42:07+00:00",
-            "last_fetch_at": "2021-01-19T05:41:01+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#lrc_usdt",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
             "target": "ETH",
             "market": {
-                "name": "Kyber Network",
-                "identifier": "kyber_network",
+                "name": "Uniswap (v1)",
+                "identifier": "uniswap_v1",
                 "has_trading_incentive": false
             },
-            "last": 0.00032965766295094335,
-            "volume": 97420.87041816486,
+            "last": 0.00035722747141119263,
+            "volume": 923.4189162418,
             "converted_last": {
-                "btc": 1.189e-05,
-                "eth": 0.00032869,
-                "usd": 0.433527
+                "btc": 1.38e-05,
+                "eth": 0.00035633,
+                "usd": 0.446074
             },
             "converted_volume": {
-                "btc": 1.158086,
-                "eth": 32.021213,
-                "usd": 42235
+                "btc": 0.0127396,
+                "eth": 0.32904002,
+                "usd": 411.91
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T04:48:40+00:00",
-            "last_traded_at": "2021-01-19T04:48:40+00:00",
-            "last_fetch_at": "2021-01-19T05:41:27+00:00",
-            "is_anomaly": true,
+            "timestamp": "2021-01-23T17:48:27+00:00",
+            "last_traded_at": "2021-01-23T17:48:27+00:00",
+            "last_fetch_at": "2021-01-23T18:25:28+00:00",
+            "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://kyberswap.com/swap/eth-lrc",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Tokenlon",
-                "identifier": "tokenlon",
-                "has_trading_incentive": false
-            },
-            "last": 0.000345604555,
-            "volume": 55412.598377698,
-            "converted_last": {
-                "btc": 1.254e-05,
-                "eth": 0.00034673,
-                "usd": 0.459568
-            },
-            "converted_volume": {
-                "btc": 0.69498422,
-                "eth": 19.213292,
-                "usd": 25466
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T03:44:16+00:00",
-            "last_traded_at": "2021-01-19T03:44:16+00:00",
-            "last_fetch_at": "2021-01-19T05:37:32+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit Indonesia ",
-                "identifier": "upbit_indonesia",
-                "has_trading_incentive": false
-            },
-            "last": 1.345e-05,
-            "volume": 26058.69012198,
-            "converted_last": {
-                "btc": 1.345e-05,
-                "eth": 0.0003706,
-                "usd": 0.489045
-            },
-            "converted_volume": {
-                "btc": 0.35048938,
-                "eth": 9.657436,
-                "usd": 12743.87
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-19T05:42:51+00:00",
-            "last_traded_at": "2021-01-19T05:42:51+00:00",
-            "last_fetch_at": "2021-01-19T05:42:51+00:00",
-            "is_anomaly": true,
-            "is_stale": false,
-            "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-LRC",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Hoo.com",
-                "identifier": "hoo",
-                "has_trading_incentive": false
-            },
-            "last": 0.445789,
-            "volume": 670018.3790626732,
-            "converted_last": {
-                "btc": 1.227e-05,
-                "eth": 0.00033801,
-                "usd": 0.445585
-            },
-            "converted_volume": {
-                "btc": 8.2193,
-                "eth": 226.476,
-                "usd": 298550
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.843728,
-            "timestamp": "2021-01-19T05:43:03+00:00",
-            "last_traded_at": "2021-01-19T05:43:03+00:00",
-            "last_fetch_at": "2021-01-19T05:43:03+00:00",
-            "is_anomaly": null,
-            "is_stale": false,
-            "trade_url": "https://hoo.com/spot/lrc-usdt",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
-            "target": "USDC",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 0.403553325,
-            "volume": 200.0,
-            "converted_last": {
-                "btc": 1.056e-05,
-                "eth": 0.00034874,
-                "usd": 0.403565
-            },
-            "converted_volume": {
-                "btc": 0.00211117,
-                "eth": 0.06974832,
-                "usd": 80.71
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.638746,
-            "timestamp": "2021-01-14T10:10:52+00:00",
-            "last_traded_at": "2021-01-14T10:10:52+00:00",
-            "last_fetch_at": "2021-01-15T09:46:27+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
-            "coin_id": "loopring",
-            "target_coin_id": "usd-coin"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "Zebitex",
-                "identifier": "zebitex",
-                "has_trading_incentive": false
-            },
-            "last": 1.154e-05,
-            "volume": 102.89200454,
-            "converted_last": {
-                "btc": 1.154e-05,
-                "eth": 0.00033559,
-                "usd": 0.418222
-            },
-            "converted_volume": {
-                "btc": 0.00118737,
-                "eth": 0.03452932,
-                "usd": 43.03
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 4.888508,
-            "timestamp": "2021-01-17T23:46:24+00:00",
-            "last_traded_at": "2021-01-17T23:46:24+00:00",
-            "last_fetch_at": "2021-01-19T05:41:00+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://zebitex.com/market/lrcbtc",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "Zebitex",
-                "identifier": "zebitex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00037131,
-            "volume": 157.40217044,
-            "converted_last": {
-                "btc": 1.13e-05,
-                "eth": 0.00037143,
-                "usd": 0.430758
-            },
-            "converted_volume": {
-                "btc": 0.00177907,
-                "eth": 0.05846352,
-                "usd": 67.8
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 13.579063,
-            "timestamp": "2021-01-14T11:38:06+00:00",
-            "last_traded_at": "2021-01-14T11:38:06+00:00",
-            "last_fetch_at": "2021-01-19T05:41:00+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://zebitex.com/market/lrceth",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "DOGE",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 41.37580658,
-            "volume": 51.65499327,
-            "converted_last": {
-                "btc": 1.084e-05,
-                "eth": 0.00030343,
-                "usd": 0.402155
-            },
-            "converted_volume": {
-                "btc": 0.00055968,
-                "eth": 0.01567353,
-                "usd": 20.77
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 18.429086,
-            "timestamp": "2021-01-19T01:51:05+00:00",
-            "last_traded_at": "2021-01-19T01:51:05+00:00",
-            "last_fetch_at": "2021-01-19T05:40:20+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/LRC/DOGE",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "dogecoin"
-        },
-        {
-            "base": "LRC",
-            "target": "BTC",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 1.192e-05,
-            "volume": 14.59739915,
-            "converted_last": {
-                "btc": 1.192e-05,
-                "eth": 0.00034688,
-                "usd": 0.429347
-            },
-            "converted_volume": {
-                "btc": 0.000174,
-                "eth": 0.00506356,
-                "usd": 6.27
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 29.401408,
-            "timestamp": "2021-01-18T02:16:16+00:00",
-            "last_traded_at": "2021-01-18T02:16:16+00:00",
-            "last_fetch_at": "2021-01-19T00:17:45+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/LRC/BTC",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "LRC",
-            "target": "ETH",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002659,
-            "volume": 6.1551765,
-            "converted_last": {
-                "btc": 8.2e-06,
-                "eth": 0.00026427,
-                "usd": 0.276853
-            },
-            "converted_volume": {
-                "btc": 5.047e-05,
-                "eth": 0.00162661,
-                "usd": 1.7
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 10.951752,
-            "timestamp": "2021-01-13T06:21:37+00:00",
-            "last_traded_at": "2021-01-13T06:21:37+00:00",
-            "last_fetch_at": "2021-01-13T12:41:32+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/LRC/ETH",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "Zebitex",
-                "identifier": "zebitex",
-                "has_trading_incentive": false
-            },
-            "last": 0.41280845,
-            "volume": 7.10186347,
-            "converted_last": {
-                "btc": 1.191e-05,
-                "eth": 0.00034435,
-                "usd": 0.412046
-            },
-            "converted_volume": {
-                "btc": 8.458e-05,
-                "eth": 0.00244555,
-                "usd": 2.93
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 29.545552,
-            "timestamp": "2021-01-17T10:26:45+00:00",
-            "last_traded_at": "2021-01-17T10:26:45+00:00",
-            "last_fetch_at": "2021-01-19T05:41:00+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://zebitex.com/market/lrcusdt",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USDT",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 0.342,
-            "volume": 243.0,
-            "converted_last": {
-                "btc": 9.11e-06,
-                "eth": 0.000273,
-                "usd": 0.341813
-            },
-            "converted_volume": {
-                "btc": 0.00221474,
-                "eth": 0.06633836,
-                "usd": 83.06
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.672515,
-            "timestamp": "2021-01-16T15:45:21+00:00",
-            "last_traded_at": "2021-01-16T15:45:21+00:00",
-            "last_fetch_at": "2021-01-16T15:48:56+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=LRC_USDT",
-            "token_info_url": null,
-            "coin_id": "loopring",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "LRC",
-            "target": "USD",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.38,
-            "volume": 51.65499327,
-            "converted_last": {
-                "btc": 1.03e-05,
-                "eth": 0.00028905,
-                "usd": 0.38
-            },
-            "converted_volume": {
-                "btc": 0.00053218,
-                "eth": 0.01493112,
-                "usd": 19.63
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 2.046236,
-            "timestamp": "2021-01-19T02:13:57+00:00",
-            "last_traded_at": "2021-01-19T02:13:57+00:00",
-            "last_fetch_at": "2021-01-19T05:42:59+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://yobit.net/en/trade/LRC/USD",
-            "token_info_url": null,
-            "coin_id": "loopring"
-        },
-        {
-            "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
-            "target": "ETH",
-            "market": {
-                "name": "Paraswap",
-                "identifier": "paraswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.00032,
-            "volume": 15625.0,
-            "converted_last": {
-                "btc": 1.09e-05,
-                "eth": 0.00032036,
-                "usd": 0.403714
-            },
-            "converted_volume": {
-                "btc": 0.1703,
-                "eth": 5.005654,
-                "usd": 6308.03
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-16T17:46:57+00:00",
-            "last_traded_at": "2021-01-16T17:46:57+00:00",
-            "last_fetch_at": "2021-01-17T16:34:11+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "loopring",
@@ -3292,29 +3004,156 @@
                 "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 1.137e-05,
-            "volume": 539.16,
+            "last": 1.288e-05,
+            "volume": 284.32,
             "converted_last": {
-                "btc": 1.137e-05,
-                "eth": 0.00033323,
-                "usd": 0.407916
+                "btc": 1.288e-05,
+                "eth": 0.00032999,
+                "usd": 0.414162
             },
             "converted_volume": {
-                "btc": 0.00613025,
-                "eth": 0.17966187,
-                "usd": 219.93
+                "btc": 0.00366204,
+                "eth": 0.09382327,
+                "usd": 117.75
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-18T20:16:32+00:00",
-            "last_traded_at": "2021-01-18T20:16:32+00:00",
-            "last_fetch_at": "2021-01-18T20:24:22+00:00",
+            "timestamp": "2021-01-23T18:22:51+00:00",
+            "last_traded_at": "2021-01-23T18:22:51+00:00",
+            "last_fetch_at": "2021-01-23T18:22:51+00:00",
             "is_anomaly": false,
-            "is_stale": true,
+            "is_stale": false,
             "trade_url": "https://www.huobi.co.kr/en-US/exchange/lrc_btc/",
             "token_info_url": null,
             "coin_id": "loopring",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "EUR",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.34121,
+            "volume": 0.0,
+            "converted_last": {
+                "btc": 1.292e-05,
+                "eth": 0.00033313,
+                "usd": 0.415406
+            },
+            "converted_volume": {
+                "btc": 3.47e-07,
+                "eth": 8.99e-06,
+                "usd": 0.01105172
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.917215,
+            "timestamp": "2021-01-23T17:06:03+00:00",
+            "last_traded_at": "2021-01-23T17:06:03+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-eur",
+            "token_info_url": null,
+            "coin_id": "loopring"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "Hoo.com",
+                "identifier": "hoo",
+                "has_trading_incentive": false
+            },
+            "last": 0.410378,
+            "volume": 677672.07611987,
+            "converted_last": {
+                "btc": 1.269e-05,
+                "eth": 0.00032785,
+                "usd": 0.410341
+            },
+            "converted_volume": {
+                "btc": 8.597338,
+                "eth": 222.172,
+                "usd": 278076
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.592747,
+            "timestamp": "2021-01-23T17:49:52+00:00",
+            "last_traded_at": "2021-01-23T17:49:52+00:00",
+            "last_fetch_at": "2021-01-23T17:49:52+00:00",
+            "is_anomaly": null,
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/lrc-usdt",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
+            "target": "ETH",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 0.000334024184536514,
+            "volume": 8944.16962185302,
+            "converted_last": {
+                "btc": 1.287e-05,
+                "eth": 0.00033426,
+                "usd": 0.409426
+            },
+            "converted_volume": {
+                "btc": 0.11511103,
+                "eth": 2.989678,
+                "usd": 3661.98
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.603576,
+            "timestamp": "2021-01-23T12:37:14+00:00",
+            "last_traded_at": "2021-01-23T12:37:14+00:00",
+            "last_fetch_at": "2021-01-23T18:24:21+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
+            "target": "USDC",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 0.432255006475263,
+            "volume": 341.081220093254,
+            "converted_last": {
+                "btc": 1.236e-05,
+                "eth": 0.00032862,
+                "usd": 0.432494
+            },
+            "converted_volume": {
+                "btc": 0.0042162,
+                "eth": 0.11208614,
+                "usd": 147.52
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.635358,
+            "timestamp": "2021-01-20T18:30:45+00:00",
+            "last_traded_at": "2021-01-20T18:30:45+00:00",
+            "last_fetch_at": "2021-01-21T18:02:47+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+            "coin_id": "loopring",
+            "target_coin_id": "usd-coin"
         },
         {
             "base": "0XBBBBCA6A901C926F240B89EACB641D8AEC7AEAFD",
@@ -3324,29 +3163,189 @@
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 0.35858378277624,
-            "volume": 736.755356433346,
+            "last": 0.435342177441988,
+            "volume": 775.29785600245,
             "converted_last": {
-                "btc": 9.44e-06,
-                "eth": 0.00031046,
-                "usd": 0.359285
+                "btc": 1.255e-05,
+                "eth": 0.00033037,
+                "usd": 0.436762
             },
             "converted_volume": {
-                "btc": 0.00695451,
-                "eth": 0.22873668,
-                "usd": 264.71
+                "btc": 0.00972825,
+                "eth": 0.25613152,
+                "usd": 338.62
             },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.639512,
-            "timestamp": "2021-01-14T10:47:44+00:00",
-            "last_traded_at": "2021-01-14T10:47:44+00:00",
-            "last_fetch_at": "2021-01-14T19:09:28+00:00",
-            "is_anomaly": true,
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.635767,
+            "timestamp": "2021-01-20T21:14:57+00:00",
+            "last_traded_at": "2021-01-20T21:14:57+00:00",
+            "last_fetch_at": "2021-01-21T13:18:24+00:00",
+            "is_anomaly": false,
             "is_stale": true,
             "trade_url": "https://balancer.exchange/#/swap/ether/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
             "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
             "coin_id": "loopring",
             "target_coin_id": "dai"
+        },
+        {
+            "base": "LRC",
+            "target": "ETH",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.00033502,
+            "volume": 0.581203485,
+            "converted_last": {
+                "btc": 1.294e-05,
+                "eth": 0.00033599,
+                "usd": 0.41348
+            },
+            "converted_volume": {
+                "btc": 7.52e-06,
+                "eth": 0.00019528,
+                "usd": 0.240316
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.472803,
+            "timestamp": "2021-01-23T11:22:46+00:00",
+            "last_traded_at": "2021-01-23T11:22:46+00:00",
+            "last_fetch_at": "2021-01-23T18:24:06+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-eth",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "LRC",
+            "target": "PAX",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.413528,
+            "volume": 0.007984378,
+            "converted_last": {
+                "btc": 1.294e-05,
+                "eth": 0.00033557,
+                "usd": 0.412006
+            },
+            "converted_volume": {
+                "btc": 1.033e-07,
+                "eth": 2.68e-06,
+                "usd": 0.00328961
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 1.821009,
+            "timestamp": "2021-01-23T12:25:20+00:00",
+            "last_traded_at": "2021-01-23T12:25:20+00:00",
+            "last_fetch_at": "2021-01-23T18:24:08+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-pax",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "paxos-standard"
+        },
+        {
+            "base": "LRC",
+            "target": "BTC",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 1.374e-05,
+            "volume": 24942.61229779,
+            "converted_last": {
+                "btc": 1.374e-05,
+                "eth": 0.00035535,
+                "usd": 0.437349
+            },
+            "converted_volume": {
+                "btc": 0.34271149,
+                "eth": 8.863325,
+                "usd": 10908.62
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 11.135371,
+            "timestamp": "2021-01-23T14:19:30+00:00",
+            "last_traded_at": "2021-01-23T14:19:30+00:00",
+            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-LRC",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "LRC",
+            "target": "USDC",
+            "market": {
+                "name": "Dove Wallet",
+                "identifier": "dove_wallet",
+                "has_trading_incentive": false
+            },
+            "last": 0.426714,
+            "volume": 0.005926943,
+            "converted_last": {
+                "btc": 1.342e-05,
+                "eth": 0.00034844,
+                "usd": 0.427301
+            },
+            "converted_volume": {
+                "btc": 7.95e-08,
+                "eth": 2.07e-06,
+                "usd": 0.00253259
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 1.989063,
+            "timestamp": "2021-01-23T12:43:36+00:00",
+            "last_traded_at": "2021-01-23T12:43:36+00:00",
+            "last_fetch_at": "2021-01-23T18:24:05+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://dovewallet.com/trade/spot/lrc-usdc",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "LRC",
+            "target": "USDT",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 0.3566,
+            "volume": 33.0,
+            "converted_last": {
+                "btc": 1.091e-05,
+                "eth": 0.00029081,
+                "usd": 0.356709
+            },
+            "converted_volume": {
+                "btc": 0.0003599,
+                "eth": 0.00959658,
+                "usd": 11.77
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 27.22449,
+            "timestamp": "2021-01-23T01:01:47+00:00",
+            "last_traded_at": "2021-01-23T01:01:47+00:00",
+            "last_fetch_at": "2021-01-23T03:08:50+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=LRC_USDT",
+            "token_info_url": null,
+            "coin_id": "loopring",
+            "target_coin_id": "tether"
         }
     ]
 }

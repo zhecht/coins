@@ -2,77 +2,91 @@
 	"xlm": {
 		"amt": 961,
 		"bought": 150,
-		"full": "stellar"
+		"full": "stellar",
+		"type": "payment"
 	},
 	"link": {
 		"amt": 27,
 		"bought": 369,
-		"full": "chainlink"
+		"full": "chainlink",
+		"type": "Oracle"
 	},
 	"atom": {
 		"amt": 50.2,
 		"bought": 295,
-		"full": "cosmos"
+		"full": "cosmos",
+		"type": "Layer 2,Internet of Blockchains"
 	},
 	"eth": {
 		"amt": 1.1000914,
 		"bought": 0,
-		"full": "ethereum"
+		"full": "ethereum",
+		"type": "blockchain"
 	},
 	"btc": {
 		"amt": 0.009803,
 		"bought": 0,
 		"full": "bitcoin",
-		"exchange": "gemini"
+		"exchange": "gemini",
+		"type": "blockchain"
 	},
 	"ltc": {
 		"amt": 2,
 		"bought": 308,
-		"full": "litecoin"
+		"full": "litecoin",
+		"type": "blockchain"
 	},
 	"fil": {
 		"amt": 5.04,
 		"bought": 114,
-		"full": "filecoin"
+		"full": "filecoin",
+		"type": "Storage"
 	},
 	"lrc": {
 		"amt": 200,
 		"bought": 96,
-		"full": "loopring"
+		"full": "loopring",
+		"type": "DeX"
 	},
 	"uni": {
 		"amt": 15.1,
 		"bought": 132,
-		"full": "uniswap"
+		"full": "uniswap",
+		"type": "Dex"
 	},
 	"enj": {
 		"amt": 1391,
 		"bought": 200,
 		"full": "enjin coin",
-		"gecko": "enjincoin"
+		"gecko": "enjincoin",
+		"type": "gaming"
 	},
 	"qtum": {
 		"amt": 54,
 		"bought": 140,
 		"exchange": "kraken",
-		"full": "qtum"
+		"full": "qtum",
+		"type": "web3"
 	},
 	"algo": {
 		"amt": 300,
 		"bought": 140,
-		"full": "algorand"
+		"full": "algorand",
+		"type": "Layer 2"
 	},
 	"omg": {
 		"amt": 57.85,
 		"bought": 202,
 		"full": "omg network",
-		"gecko": "omisego"
+		"gecko": "omisego",
+		"type": "Layer 2"
 	},
 	"grt": {
 		"amt": 700,
 		"bought": 250,
 		"full": "the graph",
-		"gecko": "the-graph"
+		"gecko": "the-graph",
+		"type": "Analytics"
 	},
 	"vidt": {
 		"amt": 88,
@@ -83,26 +97,39 @@
 	"waves": {
 		"amt": 31.1187,
 		"bought": 190,
-		"full": "waves"
+		"full": "waves",
+		"type": "DeX"
 	},
 	"xtz": {
 		"amt": 91.04,
 		"bought": 210,
-		"full": "tezos"
+		"full": "tezos",
+		"type": "blockchain"
 	},
 	"xmr": {
 		"amt": 2.3438,
-		"bought": 290,
-		"full": "monero"
+		"bought": 339.85,
+		"full": "monero",
+		"type": "Privacy"
 	},
 	"aave": {
 		"amt": 5.494,
 		"bought": 0,
-		"full": "aave"
+		"full": "aave",
+		"type": "Lending"
 	},
 	"dai": {
 		"amt": 135.8,
 		"bought": 0,
-		"full": "dai"
+		"full": "dai",
+		"type": "Stablecoin"
+	},
+	"cover": {
+		"amt": 0.42109866,
+		"bought": 213,
+		"fee": 0.00958796,
+		"full": "cover protocol",
+		"gecko": "cover-protocol",
+		"type": "insurance"
 	}
 }

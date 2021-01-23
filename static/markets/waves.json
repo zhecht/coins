@@ -107,8 +107,8 @@
     },
     "country_origin": "CH",
     "genesis_date": "2016-06-12",
-    "sentiment_votes_up_percentage": 89.06,
-    "sentiment_votes_down_percentage": 10.94,
+    "sentiment_votes_up_percentage": 80.0,
+    "sentiment_votes_down_percentage": 20.0,
     "ico_data": {
         "ico_start_date": "2016-04-12T00:00:00.000Z",
         "ico_end_date": "2016-05-26T00:00:00.000Z",
@@ -141,51 +141,20 @@
         "pre_sale_available": null,
         "pre_sale_ended": false
     },
-    "market_cap_rank": 52,
-    "coingecko_rank": 21,
-    "coingecko_score": 56.407,
-    "developer_score": 76.407,
-    "community_score": 47.401,
-    "liquidity_score": 59.155,
+    "market_cap_rank": 53,
+    "coingecko_rank": 23,
+    "coingecko_score": 56.124,
+    "developer_score": 75.473,
+    "community_score": 48.471,
+    "liquidity_score": 58.354,
     "public_interest_score": 0.014,
     "public_interest_stats": {
         "alexa_rank": 213856,
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-19T05:41:13.732Z",
+    "last_updated": "2021-01-23T18:25:44.976Z",
     "tickers": [
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "Coinsbit",
-                "identifier": "coinsbit",
-                "has_trading_incentive": false
-            },
-            "last": 7.5778,
-            "volume": 225125.89589839,
-            "converted_last": {
-                "btc": 0.00020824,
-                "eth": 0.00573788,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 46.880249,
-                "eth": 1292,
-                "usd": 1705959
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.513415,
-            "timestamp": "2021-01-19T05:41:36+00:00",
-            "last_traded_at": "2021-01-19T05:41:36+00:00",
-            "last_fetch_at": "2021-01-19T05:41:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinsbit.io/trade/WAVES_USD",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
         {
             "base": "WAVES",
             "target": "EUR",
@@ -194,23 +163,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 6.285,
-            "volume": 316646.28653339,
+            "last": 5.5182,
+            "volume": 86683.34565169,
             "converted_last": {
-                "btc": 0.00020877,
-                "eth": 0.00575259,
-                "usd": 7.6
+                "btc": 0.00020894,
+                "eth": 0.00535312,
+                "usd": 6.72
             },
             "converted_volume": {
-                "btc": 66.108,
-                "eth": 1822,
-                "usd": 2406653
+                "btc": 18.111555,
+                "eth": 464.027,
+                "usd": 582350
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.25738,
-            "timestamp": "2021-01-19T05:40:12+00:00",
-            "last_traded_at": "2021-01-19T05:40:12+00:00",
-            "last_fetch_at": "2021-01-19T05:40:12+00:00",
+            "bid_ask_spread_percentage": 0.216006,
+            "timestamp": "2021-01-23T18:21:24+00:00",
+            "last_traded_at": "2021-01-23T18:21:24+00:00",
+            "last_fetch_at": "2021-01-23T18:21:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/waves/eur",
@@ -225,23 +194,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 7.5778,
-            "volume": 2738235.7143304124,
+            "last": 6.6736,
+            "volume": 1606380.387114451,
             "converted_last": {
-                "btc": 0.00020826,
-                "eth": 0.00573832,
-                "usd": 7.58
+                "btc": 0.00020749,
+                "eth": 0.00530587,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 570.255,
-                "eth": 15713,
-                "usd": 20751409
+                "btc": 333.3,
+                "eth": 8523,
+                "usd": 10721029
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.111079,
-            "timestamp": "2021-01-19T05:41:22+00:00",
-            "last_traded_at": "2021-01-19T05:41:22+00:00",
-            "last_fetch_at": "2021-01-19T05:41:22+00:00",
+            "bid_ask_spread_percentage": 0.13179,
+            "timestamp": "2021-01-23T18:25:19+00:00",
+            "last_traded_at": "2021-01-23T18:25:19+00:00",
+            "last_fetch_at": "2021-01-23T18:25:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/WAVES_USDT",
@@ -251,32 +220,64 @@
         },
         {
             "base": "WAVES",
-            "target": "KRW",
+            "target": "BTC",
             "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 8300.0,
-            "volume": 2577312.00950565,
+            "last": 0.0002075,
+            "volume": 530317.3489156626,
             "converted_last": {
-                "btc": 0.00020675,
-                "eth": 0.0056967,
-                "usd": 7.53
+                "btc": 0.0002075,
+                "eth": 0.00530625,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 532.848,
-                "eth": 14682,
-                "usd": 19398409
+                "btc": 110.041,
+                "eth": 2814,
+                "usd": 3539603
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.180723,
-            "timestamp": "2021-01-19T05:40:13+00:00",
-            "last_traded_at": "2021-01-19T05:40:13+00:00",
-            "last_fetch_at": "2021-01-19T05:40:13+00:00",
+            "bid_ask_spread_percentage": 0.14437,
+            "timestamp": "2021-01-23T18:25:22+00:00",
+            "last_traded_at": "2021-01-23T18:25:22+00:00",
+            "last_fetch_at": "2021-01-23T18:25:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/WAVES_KRW",
+            "trade_url": "https://www.binance.com/en/trade/WAVES_BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 6.6854,
+            "volume": 225037.14056311,
+            "converted_last": {
+                "btc": 0.00020791,
+                "eth": 0.00532672,
+                "usd": 6.69
+            },
+            "converted_volume": {
+                "btc": 46.787144,
+                "eth": 1199,
+                "usd": 1504463
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.538969,
+            "timestamp": "2021-01-23T18:20:20+00:00",
+            "last_traded_at": "2021-01-23T18:20:20+00:00",
+            "last_fetch_at": "2021-01-23T18:20:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/WAVES_USD",
             "token_info_url": null,
             "coin_id": "waves"
         },
@@ -288,23 +289,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 541.7919,
-            "volume": 712974.14,
+            "last": 507.9341,
+            "volume": 375556.65,
             "converted_last": {
-                "btc": 0.00020186,
-                "eth": 0.00556212,
-                "usd": 7.34
+                "btc": 0.00020981,
+                "eth": 0.00536527,
+                "usd": 6.75
             },
             "converted_volume": {
-                "btc": 143.922,
-                "eth": 3966,
-                "usd": 5233032
+                "btc": 78.795,
+                "eth": 2015,
+                "usd": 2534495
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.135063,
-            "timestamp": "2021-01-19T05:42:15+00:00",
-            "last_traded_at": "2021-01-19T05:42:15+00:00",
-            "last_fetch_at": "2021-01-19T05:42:15+00:00",
+            "bid_ask_spread_percentage": 0.170093,
+            "timestamp": "2021-01-23T18:23:48+00:00",
+            "last_traded_at": "2021-01-23T18:23:48+00:00",
+            "last_fetch_at": "2021-01-23T18:23:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/WAVES_RUB",
@@ -313,32 +314,95 @@
         },
         {
             "base": "WAVES",
-            "target": "BTC",
+            "target": "USD",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.0002087,
-            "volume": 946655.2504551988,
+            "last": 6.6661,
+            "volume": 140545.60169615,
             "converted_last": {
-                "btc": 0.0002087,
-                "eth": 0.00575055,
-                "usd": 7.59
+                "btc": 0.00020732,
+                "eth": 0.00531166,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 197.567,
-                "eth": 5444,
-                "usd": 7189406
+                "btc": 29.138059,
+                "eth": 746.531,
+                "usd": 936891
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.196015,
-            "timestamp": "2021-01-19T05:41:52+00:00",
-            "last_traded_at": "2021-01-19T05:41:52+00:00",
-            "last_fetch_at": "2021-01-19T05:41:52+00:00",
+            "bid_ask_spread_percentage": 0.256567,
+            "timestamp": "2021-01-23T18:21:24+00:00",
+            "last_traded_at": "2021-01-23T18:21:24+00:00",
+            "last_fetch_at": "2021-01-23T18:21:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/WAVES_BTC",
+            "trade_url": "https://trade.kraken.com/markets/kraken/waves/usd",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 6.68,
+            "volume": 190935.7353448233,
+            "converted_last": {
+                "btc": 0.00020791,
+                "eth": 0.00531662,
+                "usd": 6.69
+            },
+            "converted_volume": {
+                "btc": 39.696567,
+                "eth": 1015,
+                "usd": 1276890
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.263434,
+            "timestamp": "2021-01-23T18:25:23+00:00",
+            "last_traded_at": "2021-01-23T18:25:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=waves_usdt",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.00020724,
+            "volume": 398928.56,
+            "converted_last": {
+                "btc": 0.00020724,
+                "eth": 0.0052996,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 82.674,
+                "eth": 2114,
+                "usd": 2659313
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.418068,
+            "timestamp": "2021-01-23T18:25:55+00:00",
+            "last_traded_at": "2021-01-23T18:25:55+00:00",
+            "last_fetch_at": "2021-01-23T18:25:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/WAVES-to-BTC",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
@@ -351,23 +415,23 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.00020808,
-            "volume": 784238.88,
+            "last": 0.00020724,
+            "volume": 398939.2,
             "converted_last": {
-                "btc": 0.00020808,
-                "eth": 0.00574344,
-                "usd": 7.58
+                "btc": 0.00020724,
+                "eth": 0.00530959,
+                "usd": 6.66
             },
             "converted_volume": {
-                "btc": 163.184,
-                "eth": 4504,
-                "usd": 5948139
+                "btc": 82.676,
+                "eth": 2118,
+                "usd": 2658478
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.201584,
-            "timestamp": "2021-01-19T05:38:37+00:00",
-            "last_traded_at": "2021-01-19T05:38:37+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
+            "bid_ask_spread_percentage": 0.35565,
+            "timestamp": "2021-01-23T18:18:45+00:00",
+            "last_traded_at": "2021-01-23T18:18:45+00:00",
+            "last_fetch_at": "2021-01-23T18:18:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/WAVES-to-BTC",
@@ -377,129 +441,34 @@
         },
         {
             "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 7.556,
-            "volume": 432498.0673208202,
-            "converted_last": {
-                "btc": 0.00020793,
-                "eth": 0.00572925,
-                "usd": 7.56
-            },
-            "converted_volume": {
-                "btc": 89.928,
-                "eth": 2478,
-                "usd": 3269803
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237935,
-            "timestamp": "2021-01-19T05:42:45+00:00",
-            "last_traded_at": "2021-01-19T05:42:45+00:00",
-            "last_fetch_at": "2021-01-19T05:42:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=waves_usdt",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 7.5997,
-            "volume": 460912.76206756,
-            "converted_last": {
-                "btc": 0.00020849,
-                "eth": 0.00575487,
-                "usd": 7.6
-            },
-            "converted_volume": {
-                "btc": 96.098,
-                "eth": 2652,
-                "usd": 3502799
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.257241,
-            "timestamp": "2021-01-19T05:38:24+00:00",
-            "last_traded_at": "2021-01-19T05:38:24+00:00",
-            "last_fetch_at": "2021-01-19T05:38:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/waves/usd",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
             "target": "KRW",
             "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
+                "name": "Bithumb",
+                "identifier": "bithumb",
                 "has_trading_incentive": false
             },
-            "last": 8270.0,
-            "volume": 1426830.51361871,
+            "last": 7380.0,
+            "volume": 282408.94074821,
             "converted_last": {
-                "btc": 0.00020634,
-                "eth": 0.00568539,
-                "usd": 7.49
+                "btc": 0.00020761,
+                "eth": 0.00531913,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 294.405,
-                "eth": 8112,
-                "usd": 10693694
+                "btc": 58.632,
+                "eth": 1502,
+                "usd": 1885213
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.160459,
-            "timestamp": "2021-01-19T05:43:17+00:00",
-            "last_traded_at": "2021-01-19T05:43:17+00:00",
-            "last_fetch_at": "2021-01-19T05:43:17+00:00",
+            "bid_ask_spread_percentage": 0.26936,
+            "timestamp": "2021-01-23T18:21:15+00:00",
+            "last_traded_at": "2021-01-23T18:21:15+00:00",
+            "last_fetch_at": "2021-01-23T18:21:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-WAVES",
+            "trade_url": "https://www.bithumb.com/trade/order/WAVES_KRW",
             "token_info_url": null,
             "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.00020829,
-            "volume": 785996.27,
-            "converted_last": {
-                "btc": 0.00020829,
-                "eth": 0.00573925,
-                "usd": 7.57
-            },
-            "converted_volume": {
-                "btc": 163.715,
-                "eth": 4511,
-                "usd": 5946630
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.460321,
-            "timestamp": "2021-01-19T05:43:13+00:00",
-            "last_traded_at": "2021-01-19T05:43:13+00:00",
-            "last_fetch_at": "2021-01-19T05:43:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/WAVES-to-BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "WAVES",
@@ -509,23 +478,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.00020759,
-            "volume": 120269.83119851,
+            "last": 0.0002077,
+            "volume": 20452.42002124,
             "converted_last": {
-                "btc": 0.00020759,
-                "eth": 0.00573425,
-                "usd": 7.57
+                "btc": 0.0002077,
+                "eth": 0.00532137,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 24.966814,
-                "eth": 689.657,
-                "usd": 910815
+                "btc": 4.247968,
+                "eth": 108.835,
+                "usd": 136587
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.239544,
-            "timestamp": "2021-01-19T05:31:07+00:00",
-            "last_traded_at": "2021-01-19T05:31:07+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "bid_ask_spread_percentage": 0.235226,
+            "timestamp": "2021-01-23T18:21:21+00:00",
+            "last_traded_at": "2021-01-23T18:21:21+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/waves/xbt",
@@ -535,64 +504,220 @@
         },
         {
             "base": "WAVES",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 7390.0,
+            "volume": 240108.56474372,
+            "converted_last": {
+                "btc": 0.00020781,
+                "eth": 0.00531429,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 49.898041,
+                "eth": 1276,
+                "usd": 1605010
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.337154,
+            "timestamp": "2021-01-23T18:23:07+00:00",
+            "last_traded_at": "2021-01-23T18:23:07+00:00",
+            "last_fetch_at": "2021-01-23T18:25:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-WAVES",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 6.667,
+            "volume": 502.04,
+            "converted_last": {
+                "btc": 0.00020729,
+                "eth": 0.00532759,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 0.10406918,
+                "eth": 2.674664,
+                "usd": 3347.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.537224,
+            "timestamp": "2021-01-23T18:17:21+00:00",
+            "last_traded_at": "2021-01-23T18:17:21+00:00",
+            "last_fetch_at": "2021-01-23T18:25:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/WAVES-to-USD",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00020795,
+            "volume": 5085851.20511637,
+            "converted_last": {
+                "btc": 0.00020795,
+                "eth": 0.00534593,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 1058,
+                "eth": 27189,
+                "usd": 34067423
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.010195,
+            "timestamp": "2021-01-23T16:46:15+00:00",
+            "last_traded_at": "2021-01-23T16:46:15+00:00",
+            "last_fetch_at": "2021-01-23T16:46:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/WAVES/BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002078,
+            "volume": 149442.47,
+            "converted_last": {
+                "btc": 0.0002078,
+                "eth": 0.00531392,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 31.054145,
+                "eth": 794.125,
+                "usd": 998881
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.480307,
+            "timestamp": "2021-01-23T18:23:48+00:00",
+            "last_traded_at": "2021-01-23T18:23:48+00:00",
+            "last_fetch_at": "2021-01-23T18:23:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/WAVES_BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 6.6085,
+            "volume": 4653.410456230612,
+            "converted_last": {
+                "btc": 0.00020456,
+                "eth": 0.00528631,
+                "usd": 6.61
+            },
+            "converted_volume": {
+                "btc": 0.95191738,
+                "eth": 24.599375,
+                "usd": 30752
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.336273,
+            "timestamp": "2021-01-23T17:52:46+00:00",
+            "last_traded_at": "2021-01-23T17:52:46+00:00",
+            "last_fetch_at": "2021-01-23T18:22:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/WAVES/USD",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 6.6742,
+            "volume": 43091.1,
+            "converted_last": {
+                "btc": 0.0002075,
+                "eth": 0.00530619,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 8.941301,
+                "eth": 228.649,
+                "usd": 287599
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.261972,
+            "timestamp": "2021-01-23T18:24:43+00:00",
+            "last_traded_at": "2021-01-23T18:24:43+00:00",
+            "last_fetch_at": "2021-01-23T18:24:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
             "target": "USDT",
             "market": {
                 "name": "P2PB2B",
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 7.5601,
-            "volume": 289132.96,
+            "last": 6.6571,
+            "volume": 144910.79,
             "converted_last": {
-                "btc": 0.00020804,
-                "eth": 0.00573236,
-                "usd": 7.56
+                "btc": 0.00020697,
+                "eth": 0.00529276,
+                "usd": 6.66
             },
             "converted_volume": {
-                "btc": 60.151,
-                "eth": 1657,
-                "usd": 2187110
+                "btc": 29.992526,
+                "eth": 766.977,
+                "usd": 964715
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.247525,
-            "timestamp": "2021-01-19T05:42:54+00:00",
-            "last_traded_at": "2021-01-19T05:42:54+00:00",
-            "last_fetch_at": "2021-01-19T05:42:54+00:00",
+            "bid_ask_spread_percentage": 0.193203,
+            "timestamp": "2021-01-23T18:24:46+00:00",
+            "last_traded_at": "2021-01-23T18:24:46+00:00",
+            "last_fetch_at": "2021-01-23T18:24:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 7.592,
-            "volume": 2035960.78246297,
-            "converted_last": {
-                "btc": 0.00020825,
-                "eth": 0.00574809,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 423.986,
-                "eth": 11703,
-                "usd": 15454850
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.355263,
-            "timestamp": "2021-01-19T05:37:33+00:00",
-            "last_traded_at": "2021-01-19T05:37:33+00:00",
-            "last_fetch_at": "2021-01-19T05:37:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=waves_usdt",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "tether"
@@ -605,23 +730,23 @@
                 "identifier": "paribu",
                 "has_trading_incentive": false
             },
-            "last": 56.79,
-            "volume": 1194590.40550132,
+            "last": 49.25,
+            "volume": 634093.24248931,
             "converted_last": {
-                "btc": 0.00020895,
-                "eth": 0.00575733,
-                "usd": 7.6
+                "btc": 0.00020657,
+                "eth": 0.00529248,
+                "usd": 6.64
             },
             "converted_volume": {
-                "btc": 249.605,
-                "eth": 6878,
-                "usd": 9083055
+                "btc": 130.986,
+                "eth": 3356,
+                "usd": 4211895
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.152798,
-            "timestamp": "2021-01-19T05:41:23+00:00",
-            "last_traded_at": "2021-01-19T05:41:23+00:00",
-            "last_fetch_at": "2021-01-19T05:41:23+00:00",
+            "bid_ask_spread_percentage": 0.121827,
+            "timestamp": "2021-01-23T18:18:57+00:00",
+            "last_traded_at": "2021-01-23T18:18:57+00:00",
+            "last_fetch_at": "2021-01-23T18:18:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -630,97 +755,67 @@
         },
         {
             "base": "WAVES",
-            "target": "USD",
+            "target": "USDT",
             "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 7.5925,
-            "volume": 42374.79025353968,
+            "last": 6.684,
+            "volume": 1351442.78767548,
             "converted_last": {
-                "btc": 0.00020864,
-                "eth": 0.00574901,
-                "usd": 7.59
+                "btc": 0.000208,
+                "eth": 0.00532904,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 8.84125,
-                "eth": 243.613,
-                "usd": 321731
+                "btc": 281.099,
+                "eth": 7202,
+                "usd": 9038869
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.309638,
-            "timestamp": "2021-01-19T05:41:21+00:00",
-            "last_traded_at": "2021-01-19T05:41:21+00:00",
-            "last_fetch_at": "2021-01-19T05:41:21+00:00",
+            "bid_ask_spread_percentage": 0.328505,
+            "timestamp": "2021-01-23T18:20:46+00:00",
+            "last_traded_at": "2021-01-23T18:20:46+00:00",
+            "last_fetch_at": "2021-01-23T18:20:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://ftx.com/trade/WAVES/USD",
+            "trade_url": "https://www.okex.com/market?product=waves_usdt",
             "token_info_url": null,
-            "coin_id": "waves"
+            "coin_id": "waves",
+            "target_coin_id": "tether"
         },
         {
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.0002085,
-            "volume": 241429.34,
+            "last": 0.0002081,
+            "volume": 259827.48319607,
             "converted_last": {
-                "btc": 0.0002085,
-                "eth": 0.00574504,
-                "usd": 7.58
+                "btc": 0.0002081,
+                "eth": 0.00533162,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 50.338,
-                "eth": 1387,
-                "usd": 1830302
+                "btc": 54.07,
+                "eth": 1385,
+                "usd": 1738650
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.431241,
-            "timestamp": "2021-01-19T05:42:15+00:00",
-            "last_traded_at": "2021-01-19T05:42:15+00:00",
-            "last_fetch_at": "2021-01-19T05:42:15+00:00",
+            "bid_ask_spread_percentage": 0.288046,
+            "timestamp": "2021-01-23T18:20:37+00:00",
+            "last_traded_at": "2021-01-23T18:20:37+00:00",
+            "last_fetch_at": "2021-01-23T18:20:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/WAVES_BTC",
+            "trade_url": "https://coinsbit.io/trade/WAVES_BTC",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 7.56,
-            "volume": 79135.71,
-            "converted_last": {
-                "btc": 0.00020792,
-                "eth": 0.00572904,
-                "usd": 7.56
-            },
-            "converted_volume": {
-                "btc": 16.453855,
-                "eth": 453.372,
-                "usd": 598266
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.399466,
-            "timestamp": "2021-01-19T05:42:52+00:00",
-            "last_traded_at": "2021-01-19T05:42:52+00:00",
-            "last_fetch_at": "2021-01-19T05:42:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves"
         },
         {
             "base": "WAVES",
@@ -730,23 +825,23 @@
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.005743,
-            "volume": 99764.18497693,
+            "last": 0.005322,
+            "volume": 99285.39092916,
             "converted_last": {
-                "btc": 0.00020841,
-                "eth": 0.00574266,
-                "usd": 7.58
+                "btc": 0.0002083,
+                "eth": 0.00533683,
+                "usd": 6.7
             },
             "converted_volume": {
-                "btc": 20.7922,
-                "eth": 572.911,
-                "usd": 756622
+                "btc": 20.681453,
+                "eth": 529.869,
+                "usd": 665022
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.516683,
-            "timestamp": "2021-01-19T05:41:35+00:00",
-            "last_traded_at": "2021-01-19T05:41:35+00:00",
-            "last_fetch_at": "2021-01-19T05:41:35+00:00",
+            "bid_ask_spread_percentage": 0.921926,
+            "timestamp": "2021-01-23T18:20:16+00:00",
+            "last_traded_at": "2021-01-23T18:20:16+00:00",
+            "last_fetch_at": "2021-01-23T18:20:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/WAVES_ETH",
@@ -762,23 +857,23 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 7.5822,
-            "volume": 115598.21,
+            "last": 6.691,
+            "volume": 106336.96,
             "converted_last": {
-                "btc": 0.00020838,
-                "eth": 0.00574166,
-                "usd": 7.59
+                "btc": 0.00020803,
+                "eth": 0.00531971,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 24.08803,
-                "eth": 663.725,
-                "usd": 876928
+                "btc": 22.120886,
+                "eth": 565.682,
+                "usd": 711536
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.424966,
-            "timestamp": "2021-01-19T05:40:41+00:00",
-            "last_traded_at": "2021-01-19T05:40:41+00:00",
-            "last_fetch_at": "2021-01-19T05:40:41+00:00",
+            "bid_ask_spread_percentage": 0.420225,
+            "timestamp": "2021-01-23T18:23:28+00:00",
+            "last_traded_at": "2021-01-23T18:23:28+00:00",
+            "last_fetch_at": "2021-01-23T18:23:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/WAVES_USDT",
@@ -790,97 +885,33 @@
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.00020804,
-            "volume": 4322847.85757223,
+            "last": 0.00020663,
+            "volume": 12679.92380522,
             "converted_last": {
-                "btc": 0.00020804,
-                "eth": 0.00577565,
-                "usd": 7.57
+                "btc": 0.00020663,
+                "eth": 0.005284,
+                "usd": 6.65
             },
             "converted_volume": {
-                "btc": 899.325,
-                "eth": 24967,
-                "usd": 32708989
+                "btc": 2.620053,
+                "eth": 67.001,
+                "usd": 84274
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.841608,
-            "timestamp": "2021-01-19T04:56:09+00:00",
-            "last_traded_at": "2021-01-19T04:56:09+00:00",
-            "last_fetch_at": "2021-01-19T04:56:09+00:00",
+            "bid_ask_spread_percentage": 0.318318,
+            "timestamp": "2021-01-23T18:24:31+00:00",
+            "last_traded_at": "2021-01-23T18:24:31+00:00",
+            "last_fetch_at": "2021-01-23T18:24:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/WAVES/BTC",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-WAVES",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Coinsbit",
-                "identifier": "coinsbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002086,
-            "volume": 257694.92819828,
-            "converted_last": {
-                "btc": 0.0002086,
-                "eth": 0.0057478,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 53.755,
-                "eth": 1481,
-                "usd": 1956135
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.33541,
-            "timestamp": "2021-01-19T05:41:36+00:00",
-            "last_traded_at": "2021-01-19T05:41:36+00:00",
-            "last_fetch_at": "2021-01-19T05:41:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinsbit.io/trade/WAVES_BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 7.5532,
-            "volume": 213058.01,
-            "converted_last": {
-                "btc": 0.00020785,
-                "eth": 0.00572713,
-                "usd": 7.56
-            },
-            "converted_volume": {
-                "btc": 44.284081,
-                "eth": 1220,
-                "usd": 1610179
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.166642,
-            "timestamp": "2021-01-19T05:42:15+00:00",
-            "last_traded_at": "2021-01-19T05:42:15+00:00",
-            "last_fetch_at": "2021-01-19T05:42:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/WAVES_USDT",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
         },
         {
             "base": "WAVES",
@@ -890,23 +921,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 7.6036,
-            "volume": 158087.34338129306,
+            "last": 6.671,
+            "volume": 78304.74768205667,
             "converted_last": {
-                "btc": 0.00020894,
-                "eth": 0.00575713,
-                "usd": 7.6
+                "btc": 0.00020738,
+                "eth": 0.00530308,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 33.030578,
-                "eth": 910.129,
-                "usd": 1200999
+                "btc": 16.238541,
+                "eth": 415.257,
+                "usd": 522333
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.274515,
-            "timestamp": "2021-01-19T05:42:05+00:00",
-            "last_traded_at": "2021-01-19T05:42:05+00:00",
-            "last_fetch_at": "2021-01-19T05:42:05+00:00",
+            "bid_ask_spread_percentage": 0.237775,
+            "timestamp": "2021-01-23T18:25:31+00:00",
+            "last_traded_at": "2021-01-23T18:25:31+00:00",
+            "last_fetch_at": "2021-01-23T18:25:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/WAVES_BUSD",
@@ -916,32 +947,127 @@
         },
         {
             "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 6.6804,
+            "volume": 201120.37,
+            "converted_last": {
+                "btc": 0.0002077,
+                "eth": 0.00531128,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 41.772048,
+                "eth": 1068,
+                "usd": 1343631
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.289,
+            "timestamp": "2021-01-23T18:23:48+00:00",
+            "last_traded_at": "2021-01-23T18:23:48+00:00",
+            "last_fetch_at": "2021-01-23T18:23:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/WAVES_USDT",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 6.6982,
+            "volume": 20390.996999193812,
+            "converted_last": {
+                "btc": 0.00020831,
+                "eth": 0.00533693,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 4.247588,
+                "eth": 108.825,
+                "usd": 136583
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150928,
+            "timestamp": "2021-01-23T18:22:26+00:00",
+            "last_traded_at": "2021-01-23T18:22:26+00:00",
+            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/WAVES_USD",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002073,
+            "volume": 13607.24851629,
+            "converted_last": {
+                "btc": 0.0002073,
+                "eth": 0.00531113,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 2.820783,
+                "eth": 72.27,
+                "usd": 90698
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.283245,
+            "timestamp": "2021-01-23T18:21:48+00:00",
+            "last_traded_at": "2021-01-23T18:21:48+00:00",
+            "last_fetch_at": "2021-01-23T18:21:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/WAVES-BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
                 "has_trading_incentive": false
             },
             "last": 0.000208,
-            "volume": 748422.18529285,
+            "volume": 740220.6,
             "converted_last": {
                 "btc": 0.000208,
-                "eth": 0.00574123,
-                "usd": 7.58
+                "eth": 0.00532906,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 155.672,
-                "eth": 4297,
-                "usd": 5674302
+                "btc": 153.966,
+                "eth": 3945,
+                "usd": 4950848
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.956938,
-            "timestamp": "2021-01-19T05:38:41+00:00",
-            "last_traded_at": "2021-01-19T05:38:41+00:00",
-            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "bid_ask_spread_percentage": 0.413342,
+            "timestamp": "2021-01-23T18:20:29+00:00",
+            "last_traded_at": "2021-01-23T18:20:29+00:00",
+            "last_fetch_at": "2021-01-23T18:24:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=waves_btc",
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=WAVES_BTC",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
@@ -954,23 +1080,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.00020837,
-            "volume": 120409.62949475386,
+            "last": 0.000208,
+            "volume": 31054.20785511169,
             "converted_last": {
-                "btc": 0.00020837,
-                "eth": 0.00574146,
-                "usd": 7.58
+                "btc": 0.000208,
+                "eth": 0.00531904,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 25.089754,
-                "eth": 691.327,
-                "usd": 912269
+                "btc": 6.459275,
+                "eth": 165.178,
+                "usd": 207771
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.258807,
-            "timestamp": "2021-01-19T05:42:42+00:00",
-            "last_traded_at": "2021-01-19T05:42:42+00:00",
-            "last_fetch_at": "2021-01-19T05:42:42+00:00",
+            "bid_ask_spread_percentage": 0.341363,
+            "timestamp": "2021-01-23T18:25:10+00:00",
+            "last_traded_at": "2021-01-23T18:25:10+00:00",
+            "last_fetch_at": "2021-01-23T18:25:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=waves_btc",
@@ -980,187 +1106,29 @@
         },
         {
             "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.005743,
-            "volume": 116582.78644088455,
-            "converted_last": {
-                "btc": 0.0002087,
-                "eth": 0.00575057,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 24.3309,
-                "eth": 670.417,
-                "usd": 885395
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.382276,
-            "timestamp": "2021-01-19T05:41:15+00:00",
-            "last_traded_at": "2021-01-19T05:41:15+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/WAVES_ETH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002079,
-            "volume": 20120.90026135,
-            "converted_last": {
-                "btc": 0.0002079,
-                "eth": 0.00576209,
-                "usd": 7.56
-            },
-            "converted_volume": {
-                "btc": 4.183135,
-                "eth": 115.938,
-                "usd": 152123
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.417206,
-            "timestamp": "2021-01-19T05:10:43+00:00",
-            "last_traded_at": "2021-01-19T05:10:43+00:00",
-            "last_fetch_at": "2021-01-19T05:36:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-WAVES",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
-                "has_trading_incentive": false
-            },
-            "last": 7.5507,
-            "volume": 34182.19337279987,
-            "converted_last": {
-                "btc": 0.00020741,
-                "eth": 0.00571494,
-                "usd": 7.55
-            },
-            "converted_volume": {
-                "btc": 7.089647,
-                "eth": 195.349,
-                "usd": 258099
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.115221,
-            "timestamp": "2021-01-19T05:40:50+00:00",
-            "last_traded_at": "2021-01-19T05:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:40:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/WAVES_USD",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
-                "has_trading_incentive": false
-            },
-            "last": 7.5773,
-            "volume": 46077.17483619,
-            "converted_last": {
-                "btc": 0.00020785,
-                "eth": 0.00573696,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 9.576927,
-                "eth": 264.343,
-                "usd": 349092
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.327735,
-            "timestamp": "2021-01-19T05:37:30+00:00",
-            "last_traded_at": "2021-01-19T05:37:30+00:00",
-            "last_fetch_at": "2021-01-19T05:37:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "IDR",
-            "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
-                "has_trading_incentive": false
-            },
-            "last": 107300.0,
-            "volume": 29129.73230881,
-            "converted_last": {
-                "btc": 0.00020893,
-                "eth": 0.00575688,
-                "usd": 7.6
-            },
-            "converted_volume": {
-                "btc": 6.086066,
-                "eth": 167.696,
-                "usd": 221470
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.372787,
-            "timestamp": "2021-01-19T05:41:09+00:00",
-            "last_traded_at": "2021-01-19T05:41:09+00:00",
-            "last_fetch_at": "2021-01-19T05:41:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
             "target": "USD",
             "market": {
                 "name": "Exrates",
                 "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 7.5643,
-            "volume": 14273.85,
+            "last": 6.6923,
+            "volume": 9747.26,
             "converted_last": {
-                "btc": 0.00020787,
-                "eth": 0.00572766,
-                "usd": 7.56
+                "btc": 0.00020812,
+                "eth": 0.00533223,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 2.967093,
-                "eth": 81.756,
-                "usd": 107972
+                "btc": 2.028634,
+                "eth": 51.975,
+                "usd": 65232
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.319177,
-            "timestamp": "2021-01-19T05:41:52+00:00",
-            "last_traded_at": "2021-01-19T05:41:52+00:00",
-            "last_fetch_at": "2021-01-19T05:41:52+00:00",
+            "bid_ask_spread_percentage": 0.379928,
+            "timestamp": "2021-01-23T18:22:03+00:00",
+            "last_traded_at": "2021-01-23T18:22:03+00:00",
+            "last_fetch_at": "2021-01-23T18:22:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exrates.me/trading/WAVESUSD",
@@ -1175,23 +1143,23 @@
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00020879,
-            "volume": 4838.38,
+            "last": 0.00020749,
+            "volume": 3152.64,
             "converted_last": {
-                "btc": 0.00020879,
-                "eth": 0.00575239,
-                "usd": 7.58
+                "btc": 0.00020749,
+                "eth": 0.00530599,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 1.010205,
-                "eth": 27.832237,
-                "usd": 36694
+                "btc": 0.65414127,
+                "eth": 16.727887,
+                "usd": 21041
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.003344,
-            "timestamp": "2021-01-19T05:44:09+00:00",
-            "last_traded_at": "2021-01-19T05:44:09+00:00",
-            "last_fetch_at": "2021-01-19T05:44:09+00:00",
+            "bid_ask_spread_percentage": 0.815739,
+            "timestamp": "2021-01-23T18:25:41+00:00",
+            "last_traded_at": "2021-01-23T18:25:41+00:00",
+            "last_fetch_at": "2021-01-23T18:25:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hotbit.io/exchange?symbol=WAVES_BTC",
@@ -1203,30 +1171,62 @@
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.0002089,
-            "volume": 628938.4,
+            "last": 0.000208,
+            "volume": 472665.74733207,
             "converted_last": {
-                "btc": 0.0002089,
-                "eth": 0.00575606,
-                "usd": 7.61
+                "btc": 0.000208,
+                "eth": 0.00532906,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 131.385,
-                "eth": 3620,
-                "usd": 4783096
+                "btc": 98.314,
+                "eth": 2519,
+                "usd": 3161350
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.544933,
-            "timestamp": "2021-01-19T05:40:46+00:00",
-            "last_traded_at": "2021-01-19T05:40:46+00:00",
-            "last_fetch_at": "2021-01-19T05:40:46+00:00",
+            "bid_ask_spread_percentage": 0.956938,
+            "timestamp": "2021-01-23T18:20:39+00:00",
+            "last_traded_at": "2021-01-23T18:20:39+00:00",
+            "last_fetch_at": "2021-01-23T18:20:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=WAVES_BTC",
+            "trade_url": "https://www.okex.com/market?product=waves_btc",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.000208,
+            "volume": 266.88023309,
+            "converted_last": {
+                "btc": 0.000208,
+                "eth": 0.00532906,
+                "usd": 6.69
+            },
+            "converted_volume": {
+                "btc": 0.05551109,
+                "eth": 1.422221,
+                "usd": 1784.98
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.956938,
+            "timestamp": "2021-01-23T18:18:49+00:00",
+            "last_traded_at": "2021-01-23T18:18:49+00:00",
+            "last_fetch_at": "2021-01-23T18:25:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
@@ -1239,23 +1239,23 @@
                 "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 7.5581,
-            "volume": 21254.62,
+            "last": 6.683,
+            "volume": 14669.03,
             "converted_last": {
-                "btc": 0.00020798,
-                "eth": 0.00573084,
-                "usd": 7.57
+                "btc": 0.00020797,
+                "eth": 0.00532824,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 4.420636,
-                "eth": 121.807,
-                "usd": 160866
+                "btc": 3.050688,
+                "eth": 78.16,
+                "usd": 98096
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.291992,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:41:46+00:00",
+            "bid_ask_spread_percentage": 0.362882,
+            "timestamp": "2021-01-23T18:22:05+00:00",
+            "last_traded_at": "2021-01-23T18:22:05+00:00",
+            "last_fetch_at": "2021-01-23T18:22:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exrates.me/trading/WAVESUSDT",
@@ -1265,61 +1265,29 @@
         },
         {
             "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002083,
-            "volume": 27381.93794433,
-            "converted_last": {
-                "btc": 0.0002083,
-                "eth": 0.00573953,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 5.703658,
-                "eth": 157.159,
-                "usd": 207554
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.455068,
-            "timestamp": "2021-01-19T05:41:28+00:00",
-            "last_traded_at": "2021-01-19T05:41:28+00:00",
-            "last_fetch_at": "2021-01-19T05:41:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/WAVES-BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
             "target": "ETH",
             "market": {
                 "name": "BitMart",
                 "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 0.005744,
-            "volume": 412023.56,
+            "last": 0.005315,
+            "volume": 522268.52,
             "converted_last": {
-                "btc": 0.00020845,
-                "eth": 0.00574366,
-                "usd": 7.57
+                "btc": 0.00020782,
+                "eth": 0.00531434,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 85.886,
-                "eth": 2367,
-                "usd": 3119647
+                "btc": 108.536,
+                "eth": 2776,
+                "usd": 3489868
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.643255,
-            "timestamp": "2021-01-19T05:43:36+00:00",
-            "last_traded_at": "2021-01-19T05:43:36+00:00",
-            "last_fetch_at": "2021-01-19T05:43:36+00:00",
+            "bid_ask_spread_percentage": 0.674916,
+            "timestamp": "2021-01-23T18:26:42+00:00",
+            "last_traded_at": "2021-01-23T18:26:42+00:00",
+            "last_fetch_at": "2021-01-23T18:26:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitmart.com/trade/en?symbol=WAVES_ETH",
@@ -1329,66 +1297,35 @@
         },
         {
             "base": "WAVES",
-            "target": "USDT",
+            "target": "ETH",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 7.53976944,
-            "volume": 39176.5,
+            "last": 0.005313,
+            "volume": 22106.961287408245,
             "converted_last": {
-                "btc": 0.00020748,
-                "eth": 0.0057163,
-                "usd": 7.54
+                "btc": 0.00020774,
+                "eth": 0.00531234,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 8.128352,
-                "eth": 223.945,
-                "usd": 295245
+                "btc": 4.592463,
+                "eth": 117.44,
+                "usd": 147666
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.493395,
-            "timestamp": "2021-01-19T05:44:22+00:00",
-            "last_traded_at": "2021-01-19T05:44:22+00:00",
-            "last_fetch_at": "2021-01-19T05:44:22+00:00",
+            "bid_ask_spread_percentage": 0.693014,
+            "timestamp": "2021-01-23T18:26:26+00:00",
+            "last_traded_at": "2021-01-23T18:26:26+00:00",
+            "last_fetch_at": "2021-01-23T18:26:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=WAVES_USDT",
+            "trade_url": "https://www.binance.com/en/trade/WAVES_ETH",
             "token_info_url": null,
             "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "TRY",
-            "market": {
-                "name": "Bitubu Exchange",
-                "identifier": "bitubu",
-                "has_trading_incentive": false
-            },
-            "last": 56.68,
-            "volume": 64613.8172,
-            "converted_last": {
-                "btc": 0.00020815,
-                "eth": 0.00574978,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 13.449517,
-                "eth": 371.515,
-                "usd": 490630
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1235,
-            "timestamp": "2021-01-19T05:32:32+00:00",
-            "last_traded_at": "2021-01-19T05:32:32+00:00",
-            "last_fetch_at": "2021-01-19T05:40:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitubu.com/trading/wavestry",
-            "token_info_url": null,
-            "coin_id": "waves"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "WAVES",
@@ -1398,23 +1335,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 7.5706,
-            "volume": 17498.70717222,
+            "last": 6.6862,
+            "volume": 11765.15464728,
             "converted_last": {
-                "btc": 0.00020806,
-                "eth": 0.00573287,
-                "usd": 7.57
+                "btc": 0.00020807,
+                "eth": 0.00533079,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 3.640753,
-                "eth": 100.318,
-                "usd": 132486
+                "btc": 2.447947,
+                "eth": 62.718,
+                "usd": 78710
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.621781,
-            "timestamp": "2021-01-19T05:41:30+00:00",
-            "last_traded_at": "2021-01-19T05:41:30+00:00",
-            "last_fetch_at": "2021-01-19T05:41:30+00:00",
+            "bid_ask_spread_percentage": 0.291175,
+            "timestamp": "2021-01-23T18:21:49+00:00",
+            "last_traded_at": "2021-01-23T18:21:49+00:00",
+            "last_fetch_at": "2021-01-23T18:21:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/WAVES-USDT",
@@ -1424,29 +1361,123 @@
         },
         {
             "base": "WAVES",
-            "target": "BTC",
+            "target": "IDR",
             "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
+                "name": "Indodax",
+                "identifier": "indodax",
                 "has_trading_incentive": false
             },
-            "last": 0.0002081,
-            "volume": 16266.42661758,
+            "last": 93900.0,
+            "volume": 10223.78349181,
             "converted_last": {
-                "btc": 0.0002081,
-                "eth": 0.00574399,
-                "usd": 7.59
+                "btc": 0.00020821,
+                "eth": 0.00532435,
+                "usd": 6.7
             },
             "converted_volume": {
-                "btc": 3.385043,
-                "eth": 93.434,
-                "usd": 123386
+                "btc": 2.128672,
+                "eth": 54.435,
+                "usd": 68469
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.669536,
-            "timestamp": "2021-01-19T05:38:40+00:00",
-            "last_traded_at": "2021-01-19T05:38:40+00:00",
-            "last_fetch_at": "2021-01-19T05:38:40+00:00",
+            "bid_ask_spread_percentage": 0.529661,
+            "timestamp": "2021-01-23T18:24:41+00:00",
+            "last_traded_at": "2021-01-23T18:24:41+00:00",
+            "last_fetch_at": "2021-01-23T18:24:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 0.00020764,
+            "volume": 24636.91558975,
+            "converted_last": {
+                "btc": 0.00020764,
+                "eth": 0.00531984,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 5.115609,
+                "eth": 131.064,
+                "usd": 164485
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.307707,
+            "timestamp": "2021-01-23T18:21:20+00:00",
+            "last_traded_at": "2021-01-23T18:21:20+00:00",
+            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/WAVES_BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "TRY",
+            "market": {
+                "name": "Bitubu Exchange",
+                "identifier": "bitubu",
+                "has_trading_incentive": false
+            },
+            "last": 49.7,
+            "volume": 36805.2868,
+            "converted_last": {
+                "btc": 0.00020846,
+                "eth": 0.00534081,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 7.672372,
+                "eth": 196.57,
+                "usd": 246709
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12109,
+            "timestamp": "2021-01-23T18:20:08+00:00",
+            "last_traded_at": "2021-01-23T18:20:08+00:00",
+            "last_fetch_at": "2021-01-23T18:20:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitubu.com/trading/wavestry",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002072,
+            "volume": 3033.45,
+            "converted_last": {
+                "btc": 0.0002072,
+                "eth": 0.00530856,
+                "usd": 6.66
+            },
+            "converted_volume": {
+                "btc": 0.62853084,
+                "eth": 16.103263,
+                "usd": 20211
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.672108,
+            "timestamp": "2021-01-23T18:18:35+00:00",
+            "last_traded_at": "2021-01-23T18:18:35+00:00",
+            "last_fetch_at": "2021-01-23T18:18:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1458,286 +1489,62 @@
             "base": "WAVES",
             "target": "USDT",
             "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
+                "name": "AlterDice",
+                "identifier": "alterdice",
                 "has_trading_incentive": false
             },
-            "last": 7.5832,
-            "volume": 1133.35,
+            "last": 6.6728,
+            "volume": 31364.26,
             "converted_last": {
-                "btc": 0.00020867,
-                "eth": 0.0058011,
-                "usd": 7.58
+                "btc": 0.00020746,
+                "eth": 0.00530524,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 0.23649695,
-                "eth": 6.574679,
-                "usd": 8594.77
+                "btc": 6.506844,
+                "eth": 166.395,
+                "usd": 209298
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.593008,
-            "timestamp": "2021-01-19T05:09:15+00:00",
-            "last_traded_at": "2021-01-19T05:09:15+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "bid_ask_spread_percentage": 0.661758,
+            "timestamp": "2021-01-23T18:23:58+00:00",
+            "last_traded_at": "2021-01-23T18:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:23:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_USDT",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "tether"
         },
         {
             "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Bitubu Exchange",
-                "identifier": "bitubu",
-                "has_trading_incentive": false
-            },
-            "last": 0.000208,
-            "volume": 37447.76,
-            "converted_last": {
-                "btc": 0.000208,
-                "eth": 0.00573126,
-                "usd": 7.57
-            },
-            "converted_volume": {
-                "btc": 7.789134,
-                "eth": 214.623,
-                "usd": 283564
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.3367,
-            "timestamp": "2021-01-19T05:40:28+00:00",
-            "last_traded_at": "2021-01-19T05:40:28+00:00",
-            "last_fetch_at": "2021-01-19T05:40:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitubu.com/trading/wavesbtc",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.005749,
-            "volume": 8936.322119773882,
-            "converted_last": {
-                "btc": 0.00020863,
-                "eth": 0.00574866,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 1.864396,
-                "eth": 51.372,
-                "usd": 67790
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.313425,
-            "timestamp": "2021-01-19T05:42:39+00:00",
-            "last_traded_at": "2021-01-19T05:42:39+00:00",
-            "last_fetch_at": "2021-01-19T05:42:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=waves_eth",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00571651,
-            "volume": 4789.76,
-            "converted_last": {
-                "btc": 0.00020745,
-                "eth": 0.00571553,
-                "usd": 7.54
-            },
-            "converted_volume": {
-                "btc": 0.993646,
-                "eth": 27.376009,
-                "usd": 36092
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.401627,
-            "timestamp": "2021-01-19T05:44:17+00:00",
-            "last_traded_at": "2021-01-19T05:44:17+00:00",
-            "last_fetch_at": "2021-01-19T05:44:17+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=WAVES_ETH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002085,
-            "volume": 6831.66,
-            "converted_last": {
-                "btc": 0.0002085,
-                "eth": 0.00574504,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 1.424401,
-                "eth": 39.248158,
-                "usd": 51856
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.716332,
-            "timestamp": "2021-01-19T05:40:38+00:00",
-            "last_traded_at": "2021-01-19T05:40:38+00:00",
-            "last_fetch_at": "2021-01-19T05:40:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.005721,
-            "volume": 1900.02,
-            "converted_last": {
-                "btc": 0.00020762,
-                "eth": 0.00572066,
-                "usd": 7.56
-            },
-            "converted_volume": {
-                "btc": 0.39447282,
-                "eth": 10.869362,
-                "usd": 14354.75
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.866852,
-            "timestamp": "2021-01-19T05:41:44+00:00",
-            "last_traded_at": "2021-01-19T05:41:44+00:00",
-            "last_fetch_at": "2021-01-19T05:41:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.16835,
-            "volume": 7834.608767448767,
-            "converted_last": {
-                "btc": 0.00020904,
-                "eth": 0.00575992,
-                "usd": 7.61
-            },
-            "converted_volume": {
-                "btc": 1.637748,
-                "eth": 45.126754,
-                "usd": 59597
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.901115,
-            "timestamp": "2021-01-19T05:41:10+00:00",
-            "last_traded_at": "2021-01-19T05:41:10+00:00",
-            "last_fetch_at": "2021-01-19T05:41:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/WAVES_BNB",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "binancecoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 0.005748,
-            "volume": 3204.17,
-            "converted_last": {
-                "btc": 0.00020888,
-                "eth": 0.00575557,
-                "usd": 7.6
-            },
-            "converted_volume": {
-                "btc": 0.66929446,
-                "eth": 18.441838,
-                "usd": 24366
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.970369,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
             "target": "USDT",
             "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 7.5516,
-            "volume": 15649.13,
+            "last": 6.675,
+            "volume": 1077.06460537,
             "converted_last": {
-                "btc": 0.00020754,
-                "eth": 0.00571848,
-                "usd": 7.55
+                "btc": 0.00020775,
+                "eth": 0.00531264,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 3.247761,
-                "eth": 89.489,
-                "usd": 118185
+                "btc": 0.22375992,
+                "eth": 5.722052,
+                "usd": 7197.52
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.783482,
-            "timestamp": "2021-01-19T05:41:42+00:00",
-            "last_traded_at": "2021-01-19T05:41:42+00:00",
-            "last_fetch_at": "2021-01-19T05:41:42+00:00",
+            "bid_ask_spread_percentage": 0.254225,
+            "timestamp": "2021-01-23T18:25:45+00:00",
+            "last_traded_at": "2021-01-23T18:25:45+00:00",
+            "last_fetch_at": "2021-01-23T18:25:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "tether"
@@ -1750,23 +1557,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 7.5872,
-            "volume": 9481.24228089,
+            "last": 6.6702,
+            "volume": 7626.07116508,
             "converted_last": {
-                "btc": 0.00020879,
-                "eth": 0.00575291,
-                "usd": 7.59
+                "btc": 0.00020757,
+                "eth": 0.00531803,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 1.979546,
-                "eth": 54.545,
-                "usd": 71977
+                "btc": 1.582941,
+                "eth": 40.555704,
+                "usd": 50897
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.113199,
-            "timestamp": "2021-01-19T05:42:24+00:00",
-            "last_traded_at": "2021-01-19T05:42:24+00:00",
-            "last_fetch_at": "2021-01-19T05:42:24+00:00",
+            "bid_ask_spread_percentage": 0.350966,
+            "timestamp": "2021-01-23T18:21:05+00:00",
+            "last_traded_at": "2021-01-23T18:21:05+00:00",
+            "last_fetch_at": "2021-01-23T18:21:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=WAVES#limit",
@@ -1776,32 +1583,478 @@
         },
         {
             "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 6.6864,
+            "volume": 1399.46,
+            "converted_last": {
+                "btc": 0.00020828,
+                "eth": 0.0053838,
+                "usd": 6.69
+            },
+            "converted_volume": {
+                "btc": 0.29148369,
+                "eth": 7.534417,
+                "usd": 9364.14
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.637847,
+            "timestamp": "2021-01-23T17:34:02+00:00",
+            "last_traded_at": "2021-01-23T17:34:02+00:00",
+            "last_fetch_at": "2021-01-23T18:25:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_USDT",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 6.704357,
+            "volume": 19193.81880179,
+            "converted_last": {
+                "btc": 0.00020851,
+                "eth": 0.00534215,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 4.002119,
+                "eth": 102.536,
+                "usd": 128682
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.69567,
+            "timestamp": "2021-01-23T18:21:22+00:00",
+            "last_traded_at": "2021-01-23T18:21:22+00:00",
+            "last_fetch_at": "2021-01-23T18:21:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/WAVES_USD",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 6.6728,
+            "volume": 9437.5547207,
+            "converted_last": {
+                "btc": 0.00020746,
+                "eth": 0.00530524,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 1.95792,
+                "eth": 50.068,
+                "usd": 62978
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.597086,
+            "timestamp": "2021-01-23T18:23:31+00:00",
+            "last_traded_at": "2021-01-23T18:23:31+00:00",
+            "last_fetch_at": "2021-01-23T18:23:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00020629,
+            "volume": 404.3724,
+            "converted_last": {
+                "btc": 0.00020629,
+                "eth": 0.00530182,
+                "usd": 6.64
+            },
+            "converted_volume": {
+                "btc": 0.08341798,
+                "eth": 2.143911,
+                "usd": 2684.53
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.700542,
+            "timestamp": "2021-01-23T18:16:58+00:00",
+            "last_traded_at": "2021-01-23T18:16:58+00:00",
+            "last_fetch_at": "2021-01-23T18:25:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
             "target": "ETH",
             "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.0057175,
-            "volume": 2139.68296521,
+            "last": 0.00530655,
+            "volume": 2594.00399503,
             "converted_last": {
-                "btc": 0.0002068,
-                "eth": 0.00573166,
-                "usd": 7.52
+                "btc": 0.00020696,
+                "eth": 0.00532469,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 0.44249066,
-                "eth": 12.263932,
-                "usd": 16091.5
+                "btc": 0.53684326,
+                "eth": 13.81227,
+                "usd": 17311.35
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.100415,
-            "timestamp": "2021-01-19T05:10:51+00:00",
-            "last_traded_at": "2021-01-19T05:10:51+00:00",
-            "last_fetch_at": "2021-01-19T05:36:38+00:00",
+            "bid_ask_spread_percentage": 1.293604,
+            "timestamp": "2021-01-23T18:10:21+00:00",
+            "last_traded_at": "2021-01-23T18:10:21+00:00",
+            "last_fetch_at": "2021-01-23T18:24:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-WAVES",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 6.66922218,
+            "volume": 30089.4,
+            "converted_last": {
+                "btc": 0.00020757,
+                "eth": 0.00530804,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 6.245655,
+                "eth": 159.716,
+                "usd": 200899
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.640844,
+            "timestamp": "2021-01-23T18:25:23+00:00",
+            "last_traded_at": "2021-01-23T18:25:23+00:00",
+            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=WAVES_USDT",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.005325,
+            "volume": 6012.2819,
+            "converted_last": {
+                "btc": 0.00020821,
+                "eth": 0.00532434,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 1.251802,
+                "eth": 32.011442,
+                "usd": 40266
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.451213,
+            "timestamp": "2021-01-23T18:25:22+00:00",
+            "last_traded_at": "2021-01-23T18:25:22+00:00",
+            "last_fetch_at": "2021-01-23T18:25:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=waves_eth",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "Tidex",
+                "identifier": "tidex",
+                "has_trading_incentive": false
+            },
+            "last": 6.6735303,
+            "volume": 128078.86677457,
+            "converted_last": {
+                "btc": 0.0002077,
+                "eth": 0.00531147,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 26.602496,
+                "eth": 680.287,
+                "usd": 855377
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.676626,
+            "timestamp": "2021-01-23T18:26:22+00:00",
+            "last_traded_at": "2021-01-23T18:26:22+00:00",
+            "last_fetch_at": "2021-01-23T18:26:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002075,
+            "volume": 9960.3,
+            "converted_last": {
+                "btc": 0.0002075,
+                "eth": 0.00530625,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 2.066762,
+                "eth": 52.852,
+                "usd": 66479
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.671141,
+            "timestamp": "2021-01-23T18:23:46+00:00",
+            "last_traded_at": "2021-01-23T18:23:46+00:00",
+            "last_fetch_at": "2021-01-23T18:23:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.005325,
+            "volume": 3093.28,
+            "converted_last": {
+                "btc": 0.00020842,
+                "eth": 0.00535658,
+                "usd": 6.7
+            },
+            "converted_volume": {
+                "btc": 0.64470296,
+                "eth": 16.569399,
+                "usd": 20735
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.067616,
+            "timestamp": "2021-01-23T18:17:56+00:00",
+            "last_traded_at": "2021-01-23T18:17:56+00:00",
+            "last_fetch_at": "2021-01-23T18:24:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "Tidex",
+                "identifier": "tidex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002078,
+            "volume": 69432.5686,
+            "converted_last": {
+                "btc": 0.0002078,
+                "eth": 0.00532394,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 14.428088,
+                "eth": 369.655,
+                "usd": 463937
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.994264,
+            "timestamp": "2021-01-23T18:19:37+00:00",
+            "last_traded_at": "2021-01-23T18:19:37+00:00",
+            "last_fetch_at": "2021-01-23T18:19:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002077,
+            "volume": 4858.32,
+            "converted_last": {
+                "btc": 0.0002077,
+                "eth": 0.00532137,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 1.009073,
+                "eth": 25.852938,
+                "usd": 32447
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.431862,
+            "timestamp": "2021-01-23T18:22:04+00:00",
+            "last_traded_at": "2021-01-23T18:22:04+00:00",
+            "last_fetch_at": "2021-01-23T18:22:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/WAVESBTC",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "KRW",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 7387.0,
+            "volume": 171163.7505,
+            "converted_last": {
+                "btc": 0.00020781,
+                "eth": 0.00531408,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 35.568889,
+                "eth": 909.578,
+                "usd": 1143682
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.539665,
+            "timestamp": "2021-01-23T18:26:05+00:00",
+            "last_traded_at": "2021-01-23T18:26:05+00:00",
+            "last_fetch_at": "2021-01-23T18:26:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/WAVES-KRW",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.000207,
+            "volume": 3197.87,
+            "converted_last": {
+                "btc": 0.000207,
+                "eth": 0.00532007,
+                "usd": 6.66
+            },
+            "converted_volume": {
+                "btc": 0.66195909,
+                "eth": 17.012895,
+                "usd": 21303
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.956938,
+            "timestamp": "2021-01-23T18:16:29+00:00",
+            "last_traded_at": "2021-01-23T18:16:29+00:00",
+            "last_fetch_at": "2021-01-23T18:16:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00534168,
+            "volume": 3195.2,
+            "converted_last": {
+                "btc": 0.00020886,
+                "eth": 0.00534102,
+                "usd": 6.72
+            },
+            "converted_volume": {
+                "btc": 0.66734848,
+                "eth": 17.065625,
+                "usd": 21466
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.679418,
+            "timestamp": "2021-01-23T18:25:41+00:00",
+            "last_traded_at": "2021-01-23T18:25:41+00:00",
+            "last_fetch_at": "2021-01-23T18:25:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=WAVES_ETH",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "ethereum"
@@ -1814,23 +2067,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 207.3733,
-            "volume": 40579.86,
+            "last": 188.0848,
+            "volume": 37596.32,
             "converted_last": {
-                "btc": 0.00020263,
-                "eth": 0.00558339,
-                "usd": 7.37
+                "btc": 0.00020749,
+                "eth": 0.00530602,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 8.222836,
-                "eth": 226.573,
-                "usd": 298984
+                "btc": 7.800897,
+                "eth": 199.487,
+                "usd": 250922
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.105452,
-            "timestamp": "2021-01-19T05:42:14+00:00",
-            "last_traded_at": "2021-01-19T05:42:14+00:00",
-            "last_fetch_at": "2021-01-19T05:42:14+00:00",
+            "bid_ask_spread_percentage": 1.167407,
+            "timestamp": "2021-01-23T18:23:50+00:00",
+            "last_traded_at": "2021-01-23T18:23:50+00:00",
+            "last_fetch_at": "2021-01-23T18:23:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/WAVES_UAH",
@@ -1839,98 +2092,35 @@
         },
         {
             "base": "WAVES",
-            "target": "BTC",
+            "target": "BNB",
             "market": {
-                "name": "Tidex",
-                "identifier": "tidex",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.00020809,
-            "volume": 182775.2896,
+            "last": 0.16458,
+            "volume": 4082.581862923806,
             "converted_last": {
-                "btc": 0.00020809,
-                "eth": 0.00574371,
-                "usd": 7.59
+                "btc": 0.00020864,
+                "eth": 0.00533535,
+                "usd": 6.71
             },
             "converted_volume": {
-                "btc": 38.03371,
-                "eth": 1050,
-                "usd": 1387762
+                "btc": 0.85178198,
+                "eth": 21.782012,
+                "usd": 27388
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.661807,
-            "timestamp": "2021-01-19T05:34:20+00:00",
-            "last_traded_at": "2021-01-19T05:34:20+00:00",
-            "last_fetch_at": "2021-01-19T05:34:20+00:00",
+            "bid_ask_spread_percentage": 1.068804,
+            "timestamp": "2021-01-23T18:26:52+00:00",
+            "last_traded_at": "2021-01-23T18:26:52+00:00",
+            "last_fetch_at": "2021-01-23T18:26:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.binance.com/en/trade/WAVES_BNB",
             "token_info_url": null,
             "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "Tidex",
-                "identifier": "tidex",
-                "has_trading_incentive": false
-            },
-            "last": 7.5724113,
-            "volume": 69624.68248301,
-            "converted_last": {
-                "btc": 0.0002082,
-                "eth": 0.00575777,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 14.495525,
-                "eth": 400.883,
-                "usd": 527712
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.87514,
-            "timestamp": "2021-01-19T05:26:39+00:00",
-            "last_traded_at": "2021-01-19T05:26:39+00:00",
-            "last_fetch_at": "2021-01-19T05:26:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "KRW",
-            "market": {
-                "name": "ProBit",
-                "identifier": "probit",
-                "has_trading_incentive": false
-            },
-            "last": 8258.0,
-            "volume": 180026.9977,
-            "converted_last": {
-                "btc": 0.00020604,
-                "eth": 0.00567714,
-                "usd": 7.48
-            },
-            "converted_volume": {
-                "btc": 37.092013,
-                "eth": 1022,
-                "usd": 1347294
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.66313,
-            "timestamp": "2021-01-19T05:43:39+00:00",
-            "last_traded_at": "2021-01-19T05:43:39+00:00",
-            "last_fetch_at": "2021-01-19T05:43:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/WAVES-KRW",
-            "token_info_url": null,
-            "coin_id": "waves"
+            "target_coin_id": "binancecoin"
         },
         {
             "base": "WAVES",
@@ -1940,251 +2130,28 @@
                 "identifier": "novadax",
                 "has_trading_incentive": false
             },
-            "last": 40.2385,
-            "volume": 9424.38,
+            "last": 37.0,
+            "volume": 4445.52,
             "converted_last": {
-                "btc": 0.00020878,
-                "eth": 0.00575267,
-                "usd": 7.6
+                "btc": 0.0002103,
+                "eth": 0.00540485,
+                "usd": 6.77
             },
             "converted_volume": {
-                "btc": 1.967592,
-                "eth": 54.215,
-                "usd": 71600
+                "btc": 0.93488753,
+                "eth": 24.027382,
+                "usd": 30086
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.700834,
-            "timestamp": "2021-01-19T05:41:15+00:00",
-            "last_traded_at": "2021-01-19T05:41:15+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
+            "bid_ask_spread_percentage": 0.593751,
+            "timestamp": "2021-01-23T18:16:58+00:00",
+            "last_traded_at": "2021-01-23T18:16:58+00:00",
+            "last_fetch_at": "2021-01-23T18:25:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_BRL",
             "token_info_url": null,
             "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 7.468194,
-            "volume": 22135.50984008,
-            "converted_last": {
-                "btc": 0.00020523,
-                "eth": 0.00565489,
-                "usd": 7.47
-            },
-            "converted_volume": {
-                "btc": 4.542829,
-                "eth": 125.174,
-                "usd": 165312
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.065647,
-            "timestamp": "2021-01-19T05:41:57+00:00",
-            "last_traded_at": "2021-01-19T05:41:57+00:00",
-            "last_fetch_at": "2021-01-19T05:41:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/WAVES_USD",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.00020628,
-            "volume": 823.36266831,
-            "converted_last": {
-                "btc": 0.00020628,
-                "eth": 0.00569376,
-                "usd": 7.52
-            },
-            "converted_volume": {
-                "btc": 0.16984325,
-                "eth": 4.688025,
-                "usd": 6193.15
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.957396,
-            "timestamp": "2021-01-19T05:36:23+00:00",
-            "last_traded_at": "2021-01-19T05:36:23+00:00",
-            "last_fetch_at": "2021-01-19T05:36:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/WAVES_BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 0.00020823,
-            "volume": 29344.48446371,
-            "converted_last": {
-                "btc": 0.00020823,
-                "eth": 0.0057376,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 6.110402,
-                "eth": 168.367,
-                "usd": 222356
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.25221,
-            "timestamp": "2021-01-19T05:41:51+00:00",
-            "last_traded_at": "2021-01-19T05:41:51+00:00",
-            "last_fetch_at": "2021-01-19T05:41:51+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/WAVES_BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.000208,
-            "volume": 5884.29,
-            "converted_last": {
-                "btc": 0.000208,
-                "eth": 0.00573126,
-                "usd": 7.57
-            },
-            "converted_volume": {
-                "btc": 1.223932,
-                "eth": 33.724412,
-                "usd": 44539
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.428571,
-            "timestamp": "2021-01-19T05:41:42+00:00",
-            "last_traded_at": "2021-01-19T05:41:42+00:00",
-            "last_fetch_at": "2021-01-19T05:41:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002085,
-            "volume": 7836.4,
-            "converted_last": {
-                "btc": 0.0002085,
-                "eth": 0.00574504,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 1.633889,
-                "eth": 45.02043,
-                "usd": 59457
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.478698,
-            "timestamp": "2021-01-19T05:41:46+00:00",
-            "last_traded_at": "2021-01-19T05:41:46+00:00",
-            "last_fetch_at": "2021-01-19T05:41:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exrates.me/trading/WAVESBTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 7.5454,
-            "volume": 1660.77,
-            "converted_last": {
-                "btc": 0.00020745,
-                "eth": 0.00573723,
-                "usd": 7.55
-            },
-            "converted_volume": {
-                "btc": 0.34453098,
-                "eth": 9.528216,
-                "usd": 12539.03
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.841682,
-            "timestamp": "2021-01-19T05:25:31+00:00",
-            "last_traded_at": "2021-01-19T05:25:31+00:00",
-            "last_fetch_at": "2021-01-19T05:40:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00573,
-            "volume": 110716.8289299,
-            "converted_last": {
-                "btc": 0.00020851,
-                "eth": 0.00575544,
-                "usd": 7.6
-            },
-            "converted_volume": {
-                "btc": 23.086086,
-                "eth": 637.224,
-                "usd": 841497
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.041667,
-            "timestamp": "2021-01-19T05:38:41+00:00",
-            "last_traded_at": "2021-01-19T05:38:41+00:00",
-            "last_fetch_at": "2021-01-19T05:38:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=waves_eth",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "WAVES",
@@ -2194,23 +2161,23 @@
                 "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 7.5826,
-            "volume": 34544.0,
+            "last": 6.6726,
+            "volume": 71056.4,
             "converted_last": {
-                "btc": 0.00020839,
-                "eth": 0.00574196,
-                "usd": 7.59
+                "btc": 0.00020764,
+                "eth": 0.00531995,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 7.198561,
-                "eth": 198.35,
-                "usd": 262065
+                "btc": 14.754457,
+                "eth": 378.016,
+                "usd": 474437
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.652122,
-            "timestamp": "2021-01-19T05:40:44+00:00",
-            "last_traded_at": "2021-01-19T05:40:44+00:00",
-            "last_fetch_at": "2021-01-19T05:40:44+00:00",
+            "bid_ask_spread_percentage": 0.38602,
+            "timestamp": "2021-01-23T18:20:29+00:00",
+            "last_traded_at": "2021-01-23T18:20:29+00:00",
+            "last_fetch_at": "2021-01-23T18:24:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitmart.com/trade/en?symbol=WAVES_USDT",
@@ -2220,96 +2187,32 @@
         },
         {
             "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "Coinsuper",
-                "identifier": "coinsuper",
-                "has_trading_incentive": true
-            },
-            "last": 0.0002068,
-            "volume": 7258.5682,
-            "converted_last": {
-                "btc": 0.0002068,
-                "eth": 0.0056982,
-                "usd": 7.52
-            },
-            "converted_volume": {
-                "btc": 1.501072,
-                "eth": 41.360757,
-                "usd": 54579
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1,
-            "timestamp": "2021-01-19T05:42:12+00:00",
-            "last_traded_at": "2021-01-19T05:42:12+00:00",
-            "last_fetch_at": "2021-01-19T05:42:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinsuper.com/trade?symbol=WAVES%2FBTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
             "target": "USDT",
             "market": {
-                "name": "LBank",
-                "identifier": "lbank",
+                "name": "WazirX",
+                "identifier": "wazirx",
                 "has_trading_incentive": false
             },
-            "last": 7.671,
-            "volume": 131429.36,
+            "last": 6.57,
+            "volume": 283.04,
             "converted_last": {
-                "btc": 0.00021042,
-                "eth": 0.0058079,
-                "usd": 7.67
+                "btc": 0.00020358,
+                "eth": 0.00526587,
+                "usd": 6.57
             },
             "converted_volume": {
-                "btc": 27.654782,
-                "eth": 763.329,
-                "usd": 1008028
+                "btc": 0.05762095,
+                "eth": 1.490452,
+                "usd": 1860.3
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.955127,
-            "timestamp": "2021-01-19T05:38:17+00:00",
-            "last_traded_at": "2021-01-19T05:38:17+00:00",
-            "last_fetch_at": "2021-01-19T05:38:17+00:00",
+            "bid_ask_spread_percentage": 0.994128,
+            "timestamp": "2021-01-23T17:57:36+00:00",
+            "last_traded_at": "2021-01-23T17:57:36+00:00",
+            "last_fetch_at": "2021-01-23T18:24:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=waves&post=usdt",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 7.5506,
-            "volume": 8790.29678045,
-            "converted_last": {
-                "btc": 0.00020711,
-                "eth": 0.00571675,
-                "usd": 7.55
-            },
-            "converted_volume": {
-                "btc": 1.820585,
-                "eth": 50.252,
-                "usd": 66386
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.921053,
-            "timestamp": "2021-01-19T05:36:27+00:00",
-            "last_traded_at": "2021-01-19T05:36:27+00:00",
-            "last_fetch_at": "2021-01-19T05:36:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/WAVES_USDT",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "tether"
@@ -2318,27 +2221,27 @@
             "base": "WAVES",
             "target": "ETH",
             "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
+                "name": "Atomars",
+                "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.005718,
-            "volume": 1320.69,
+            "last": 0.005328,
+            "volume": 610.12,
             "converted_last": {
-                "btc": 0.00020808,
-                "eth": 0.00574338,
-                "usd": 7.58
+                "btc": 0.00020854,
+                "eth": 0.00533279,
+                "usd": 6.71
             },
             "converted_volume": {
-                "btc": 0.27480656,
-                "eth": 7.58523,
-                "usd": 10016.81
+                "btc": 0.12723316,
+                "eth": 3.253643,
+                "usd": 4092.55
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.007994,
-            "timestamp": "2021-01-19T05:38:41+00:00",
-            "last_traded_at": "2021-01-19T05:38:41+00:00",
-            "last_fetch_at": "2021-01-19T05:38:41+00:00",
+            "bid_ask_spread_percentage": 1.473881,
+            "timestamp": "2021-01-23T18:23:32+00:00",
+            "last_traded_at": "2021-01-23T18:23:32+00:00",
+            "last_fetch_at": "2021-01-23T18:23:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2350,30 +2253,30 @@
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
+                "name": "Coinsuper",
+                "identifier": "coinsuper",
+                "has_trading_incentive": true
             },
-            "last": 0.0002074,
-            "volume": 670.2645091610415,
+            "last": 0.0002071,
+            "volume": 15888.4268,
             "converted_last": {
-                "btc": 0.0002074,
-                "eth": 0.005729,
-                "usd": 7.57
+                "btc": 0.0002071,
+                "eth": 0.005306,
+                "usd": 6.66
             },
             "converted_volume": {
-                "btc": 0.13901286,
-                "eth": 3.839944,
-                "usd": 5071.1
+                "btc": 3.290493,
+                "eth": 84.304,
+                "usd": 105807
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.191571,
-            "timestamp": "2021-01-19T05:32:59+00:00",
-            "last_traded_at": "2021-01-19T05:32:59+00:00",
-            "last_fetch_at": "2021-01-19T05:39:32+00:00",
+            "bid_ask_spread_percentage": 0.1,
+            "timestamp": "2021-01-23T18:18:57+00:00",
+            "last_traded_at": "2021-01-23T18:18:57+00:00",
+            "last_fetch_at": "2021-01-23T18:18:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-WAVES",
+            "trade_url": "https://www.coinsuper.com/trade?symbol=WAVES%2FBTC",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
@@ -2382,30 +2285,30 @@
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.0002085,
-            "volume": 12247.17971194,
+            "last": 0.000207,
+            "volume": 1483.61051529,
             "converted_last": {
-                "btc": 0.0002085,
-                "eth": 0.00574504,
-                "usd": 7.59
+                "btc": 0.000207,
+                "eth": 0.00530344,
+                "usd": 6.66
             },
             "converted_volume": {
-                "btc": 2.553537,
-                "eth": 70.361,
-                "usd": 92922
+                "btc": 0.30710738,
+                "eth": 7.868239,
+                "usd": 9874.58
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.476894,
-            "timestamp": "2021-01-19T05:41:19+00:00",
-            "last_traded_at": "2021-01-19T05:41:19+00:00",
-            "last_fetch_at": "2021-01-19T05:41:19+00:00",
+            "bid_ask_spread_percentage": 1.052128,
+            "timestamp": "2021-01-23T18:21:48+00:00",
+            "last_traded_at": "2021-01-23T18:21:48+00:00",
+            "last_fetch_at": "2021-01-23T18:21:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/WAVES-BTC",
+            "trade_url": "https://gate.io/trade/WAVES_BTC",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "bitcoin"
@@ -2414,444 +2317,30 @@
             "base": "WAVES",
             "target": "USDT",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 7.5766,
-            "volume": 15639.32980541,
+            "last": 6.686,
+            "volume": 3798.76958818,
             "converted_last": {
-                "btc": 0.00020822,
-                "eth": 0.00573742,
-                "usd": 7.58
+                "btc": 0.00020787,
+                "eth": 0.00531573,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 3.256473,
-                "eth": 89.729,
-                "usd": 118502
+                "btc": 0.78965351,
+                "eth": 20.193245,
+                "usd": 25400
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.981924,
-            "timestamp": "2021-01-19T05:41:11+00:00",
-            "last_traded_at": "2021-01-19T05:41:11+00:00",
-            "last_fetch_at": "2021-01-19T05:41:11+00:00",
+            "bid_ask_spread_percentage": 0.552816,
+            "timestamp": "2021-01-23T18:23:21+00:00",
+            "last_traded_at": "2021-01-23T18:23:21+00:00",
+            "last_fetch_at": "2021-01-23T18:23:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/WAVES-USDT",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 0.00569991,
-            "volume": 11937.48984586,
-            "converted_last": {
-                "btc": 0.00020685,
-                "eth": 0.00569957,
-                "usd": 7.53
-            },
-            "converted_volume": {
-                "btc": 2.469267,
-                "eth": 68.039,
-                "usd": 89856
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.861578,
-            "timestamp": "2021-01-19T05:41:50+00:00",
-            "last_traded_at": "2021-01-19T05:41:50+00:00",
-            "last_fetch_at": "2021-01-19T05:41:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/WAVES_ETH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "FinexBox",
-                "identifier": "finexbox",
-                "has_trading_incentive": false
-            },
-            "last": 0.00020995,
-            "volume": 8247.0,
-            "converted_last": {
-                "btc": 0.00020995,
-                "eth": 0.00579944,
-                "usd": 7.66
-            },
-            "converted_volume": {
-                "btc": 1.731458,
-                "eth": 47.827956,
-                "usd": 63165
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.52381,
-            "timestamp": "2021-01-19T05:31:58+00:00",
-            "last_traded_at": "2021-01-19T05:31:58+00:00",
-            "last_fetch_at": "2021-01-19T05:38:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.finexbox.com/Home/Orders/market/pair/WAVES-BTC.html",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 7.5785,
-            "volume": 172.2447605726727,
-            "converted_last": {
-                "btc": 0.00020828,
-                "eth": 0.00573885,
-                "usd": 7.58
-            },
-            "converted_volume": {
-                "btc": 0.03587436,
-                "eth": 0.98848753,
-                "usd": 1306.01
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.193642,
-            "timestamp": "2021-01-19T05:40:28+00:00",
-            "last_traded_at": "2021-01-19T05:40:28+00:00",
-            "last_fetch_at": "2021-01-19T05:40:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/USDT-WAVES",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XRP",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.03677581,
-            "volume": 282.81618584,
-            "converted_last": {
-                "btc": 0.00021798,
-                "eth": 0.00601234,
-                "usd": 7.98
-            },
-            "converted_volume": {
-                "btc": 0.00226717,
-                "eth": 0.06253316,
-                "usd": 82.99
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.236907,
-            "timestamp": "2021-01-19T03:27:25+00:00",
-            "last_traded_at": "2021-01-19T03:27:25+00:00",
-            "last_fetch_at": "2021-01-19T05:31:55+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/XRP/WAVES",
-            "token_info_url": null,
-            "coin_id": "ripple",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "ETC",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.96810455,
-            "volume": 0.3091592,
-            "converted_last": {
-                "btc": 0.00021864,
-                "eth": 0.00605291,
-                "usd": 8.04
-            },
-            "converted_volume": {
-                "btc": 6.544e-05,
-                "eth": 0.00181163,
-                "usd": 2.41
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.967659,
-            "timestamp": "2021-01-19T02:55:35+00:00",
-            "last_traded_at": "2021-01-19T02:55:35+00:00",
-            "last_fetch_at": "2021-01-19T02:55:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/ETC/WAVES",
-            "token_info_url": null,
-            "coin_id": "ethereum-classic",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "BCH",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.0144075,
-            "volume": 0.01,
-            "converted_last": {
-                "btc": 0.00021093,
-                "eth": 0.0058298,
-                "usd": 7.74
-            },
-            "converted_volume": {
-                "btc": 2.11e-06,
-                "eth": 5.83e-05,
-                "usd": 0.077445
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.478485,
-            "timestamp": "2021-01-19T02:58:24+00:00",
-            "last_traded_at": "2021-01-19T02:58:24+00:00",
-            "last_fetch_at": "2021-01-19T05:37:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/WAVES-to-BCH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin-cash"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 7.52074,
-            "volume": 7142.2,
-            "converted_last": {
-                "btc": 0.00020562,
-                "eth": 0.00567161,
-                "usd": 7.52
-            },
-            "converted_volume": {
-                "btc": 1.468576,
-                "eth": 40.507791,
-                "usd": 53715
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.446805,
-            "timestamp": "2021-01-19T03:33:12+00:00",
-            "last_traded_at": "2021-01-19T03:33:12+00:00",
-            "last_fetch_at": "2021-01-19T05:38:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/WAVES-to-USD",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 7.52074,
-            "volume": 7142.2,
-            "converted_last": {
-                "btc": 0.00020583,
-                "eth": 0.00568119,
-                "usd": 7.52
-            },
-            "converted_volume": {
-                "btc": 1.470051,
-                "eth": 40.576221,
-                "usd": 53715
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.653792,
-            "timestamp": "2021-01-19T03:36:54+00:00",
-            "last_traded_at": "2021-01-19T03:36:54+00:00",
-            "last_fetch_at": "2021-01-19T05:43:17+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/WAVES-to-USD",
-            "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "WAVES",
-            "target": "BCH",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.0144075,
-            "volume": 0.01,
-            "converted_last": {
-                "btc": 0.00020478,
-                "eth": 0.0056692,
-                "usd": 7.53
-            },
-            "converted_volume": {
-                "btc": 2.05e-06,
-                "eth": 5.669e-05,
-                "usd": 0.075269
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.697947,
-            "timestamp": "2021-01-19T02:54:09+00:00",
-            "last_traded_at": "2021-01-19T02:54:09+00:00",
-            "last_fetch_at": "2021-01-19T05:43:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/WAVES-to-BCH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin-cash"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "Bitubu Exchange",
-                "identifier": "bitubu",
-                "has_trading_incentive": false
-            },
-            "last": 0.005711,
-            "volume": 33960.0582,
-            "converted_last": {
-                "btc": 0.00020685,
-                "eth": 0.00572063,
-                "usd": 7.53
-            },
-            "converted_volume": {
-                "btc": 7.02472,
-                "eth": 194.273,
-                "usd": 255887
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.330838,
-            "timestamp": "2021-01-19T05:21:48+00:00",
-            "last_traded_at": "2021-01-19T05:21:48+00:00",
-            "last_fetch_at": "2021-01-19T05:40:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitubu.com/trading/waveseth",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "BTC",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00020287,
-            "volume": 3172.5887,
-            "converted_last": {
-                "btc": 0.00020287,
-                "eth": 0.0056085,
-                "usd": 7.42
-            },
-            "converted_volume": {
-                "btc": 0.64362307,
-                "eth": 17.793458,
-                "usd": 23541
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.492375,
-            "timestamp": "2021-01-19T03:56:03+00:00",
-            "last_traded_at": "2021-01-19T03:56:03+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_BTC",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "WAVES",
-            "target": "ETH",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 0.005713,
-            "volume": 177.3522,
-            "converted_last": {
-                "btc": 0.00020761,
-                "eth": 0.00571274,
-                "usd": 7.59
-            },
-            "converted_volume": {
-                "btc": 0.03682016,
-                "eth": 1.013167,
-                "usd": 1345.99
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.900589,
-            "timestamp": "2021-01-19T04:18:41+00:00",
-            "last_traded_at": "2021-01-19T04:18:41+00:00",
-            "last_fetch_at": "2021-01-19T05:41:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=WAVES_ETH",
-            "token_info_url": null,
-            "coin_id": "waves",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "WAVES",
-            "target": "USDT",
-            "market": {
-                "name": "Bitubu Exchange",
-                "identifier": "bitubu",
-                "has_trading_incentive": false
-            },
-            "last": 7.57,
-            "volume": 27534.2262,
-            "converted_last": {
-                "btc": 0.00020744,
-                "eth": 0.00573006,
-                "usd": 7.57
-            },
-            "converted_volume": {
-                "btc": 5.711661,
-                "eth": 157.773,
-                "usd": 208358
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.131926,
-            "timestamp": "2021-01-19T05:32:31+00:00",
-            "last_traded_at": "2021-01-19T05:32:31+00:00",
-            "last_fetch_at": "2021-01-19T05:40:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitubu.com/trading/wavesusdt",
+            "trade_url": "https://gate.io/trade/WAVES_USDT",
             "token_info_url": null,
             "coin_id": "waves",
             "target_coin_id": "tether"
@@ -2864,23 +2353,23 @@
                 "identifier": "crex24",
                 "has_trading_incentive": false
             },
-            "last": 0.0002075,
-            "volume": 91.65851069,
+            "last": 0.0002078,
+            "volume": 47.97353868,
             "converted_last": {
-                "btc": 0.0002075,
-                "eth": 0.0057097,
-                "usd": 7.58
+                "btc": 0.0002078,
+                "eth": 0.00534642,
+                "usd": 6.7
             },
             "converted_volume": {
-                "btc": 0.01901914,
-                "eth": 0.52334261,
-                "usd": 695.14
+                "btc": 0.0099689,
+                "eth": 0.25648671,
+                "usd": 321.38
             },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.571429,
-            "timestamp": "2021-01-19T04:20:30+00:00",
-            "last_traded_at": "2021-01-19T04:20:30+00:00",
-            "last_fetch_at": "2021-01-19T05:41:26+00:00",
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.577478,
+            "timestamp": "2021-01-23T18:11:52+00:00",
+            "last_traded_at": "2021-01-23T18:11:52+00:00",
+            "last_fetch_at": "2021-01-23T18:19:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crex24.com/exchange/WAVES-BTC",
@@ -2890,258 +2379,801 @@
         },
         {
             "base": "WAVES",
-            "target": "UAH",
+            "target": "ETH",
             "market": {
-                "name": "Kuna Exchange",
-                "identifier": "kuna",
+                "name": "EXMO",
+                "identifier": "exmo",
                 "has_trading_incentive": false
             },
-            "last": 209.99,
-            "volume": 534.4132,
+            "last": 0.00530354,
+            "volume": 10109.14712177,
             "converted_last": {
-                "btc": 0.00020483,
-                "eth": 0.00566477,
-                "usd": 7.46
+                "btc": 0.00020758,
+                "eth": 0.00531831,
+                "usd": 6.67
             },
             "converted_volume": {
-                "btc": 0.10946525,
-                "eth": 3.027329,
-                "usd": 3987.13
+                "btc": 2.098462,
+                "eth": 53.764,
+                "usd": 67473
             },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 4.780133,
-            "timestamp": "2021-01-19T05:22:01+00:00",
-            "last_traded_at": "2021-01-19T05:22:01+00:00",
-            "last_fetch_at": "2021-01-19T05:38:23+00:00",
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.442379,
+            "timestamp": "2021-01-23T18:21:21+00:00",
+            "last_traded_at": "2021-01-23T18:21:21+00:00",
+            "last_fetch_at": "2021-01-23T18:21:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://kuna.io/markets/wavesuah",
+            "trade_url": "https://exmo.com/en/trade/WAVES_ETH",
             "token_info_url": null,
-            "coin_id": "waves"
-        },
-        {
-            "base": "TRX",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00418838,
-            "volume": 1421.79699778,
-            "converted_last": {
-                "btc": 0.00021894,
-                "eth": 0.00605375,
-                "usd": 7.98
-            },
-            "converted_volume": {
-                "btc": 0.0013038,
-                "eth": 0.03605021,
-                "usd": 47.55
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.66724,
-            "timestamp": "2021-01-19T04:48:27+00:00",
-            "last_traded_at": "2021-01-19T04:48:27+00:00",
-            "last_fetch_at": "2021-01-19T05:11:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/TRX/WAVES",
-            "token_info_url": null,
-            "coin_id": "tron",
-            "target_coin_id": "waves"
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "WAVES",
-            "target": "USDN",
+            "target": "USDT",
             "market": {
-                "name": "Tidex",
-                "identifier": "tidex",
+                "name": "LBank",
+                "identifier": "lbank",
                 "has_trading_incentive": false
             },
-            "last": 7.329223,
-            "volume": 56.94447206,
+            "last": 6.6185,
+            "volume": 55866.51,
             "converted_last": {
-                "btc": 0.00020103,
-                "eth": 0.00553922,
-                "usd": 7.3
+                "btc": 0.00020599,
+                "eth": 0.00526767,
+                "usd": 6.63
             },
             "converted_volume": {
-                "btc": 0.01144757,
-                "eth": 0.31542809,
-                "usd": 415.81
+                "btc": 11.508014,
+                "eth": 294.286,
+                "usd": 370170
             },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 17.743683,
-            "timestamp": "2021-01-19T05:43:33+00:00",
-            "last_traded_at": "2021-01-19T05:43:33+00:00",
-            "last_fetch_at": "2021-01-19T05:43:33+00:00",
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.980466,
+            "timestamp": "2021-01-23T18:26:02+00:00",
+            "last_traded_at": "2021-01-23T18:26:02+00:00",
+            "last_fetch_at": "2021-01-23T18:26:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=waves&post=usdt",
             "token_info_url": null,
             "coin_id": "waves",
-            "target_coin_id": "neutrino"
-        },
-        {
-            "base": "DGB",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00362726,
-            "volume": 162.78376032,
-            "converted_last": {
-                "btc": 0.00022009,
-                "eth": 0.00607697,
-                "usd": 8.03
-            },
-            "converted_volume": {
-                "btc": 0.00012996,
-                "eth": 0.0035882,
-                "usd": 4.74
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 4.039646,
-            "timestamp": "2021-01-19T04:40:50+00:00",
-            "last_traded_at": "2021-01-19T04:40:50+00:00",
-            "last_fetch_at": "2021-01-19T05:24:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/DGB/WAVES",
-            "token_info_url": null,
-            "coin_id": "digibyte",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "FTM",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00423013,
-            "volume": 168.40782083,
-            "converted_last": {
-                "btc": 0.00021064,
-                "eth": 0.00581856,
-                "usd": 7.68
-            },
-            "converted_volume": {
-                "btc": 0.00015006,
-                "eth": 0.00414507,
-                "usd": 5.47
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 14.184828,
-            "timestamp": "2021-01-19T05:32:53+00:00",
-            "last_traded_at": "2021-01-19T05:32:53+00:00",
-            "last_fetch_at": "2021-01-19T05:32:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/FTM/WAVES",
-            "token_info_url": null,
-            "coin_id": "fantom",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "NEXO",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.08265715,
-            "volume": 0.57630951,
-            "converted_last": {
-                "btc": 0.00021906,
-                "eth": 0.00604608,
-                "usd": 7.99
-            },
-            "converted_volume": {
-                "btc": 1.044e-05,
-                "eth": 0.00028801,
-                "usd": 0.38055
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 5.872607,
-            "timestamp": "2021-01-19T04:47:43+00:00",
-            "last_traded_at": "2021-01-19T04:47:43+00:00",
-            "last_fetch_at": "2021-01-19T04:47:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/NEXO/WAVES",
-            "token_info_url": null,
-            "coin_id": "nexo",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "LBTCX",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 5.1e-05,
-            "volume": 77.81704475,
-            "converted_last": {
-                "btc": 0.00021064,
-                "eth": 0.00581416,
-                "usd": 7.69
-            },
-            "converted_volume": {
-                "btc": 8.36e-07,
-                "eth": 2.307e-05,
-                "usd": 0.0305015
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 16.393443,
-            "timestamp": "2021-01-19T05:33:54+00:00",
-            "last_traded_at": "2021-01-19T05:33:54+00:00",
-            "last_fetch_at": "2021-01-19T05:33:54+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/LBTCX/WAVES",
-            "token_info_url": null,
-            "coin_id": "litebitcoin",
-            "target_coin_id": "waves"
+            "target_coin_id": "tether"
         },
         {
             "base": "WAVES",
             "target": "BTC",
             "market": {
-                "name": "Sistemkoin",
-                "identifier": "sistemkoin",
+                "name": "LATOKEN",
+                "identifier": "latoken",
                 "has_trading_incentive": false
             },
-            "last": 0.00020688,
-            "volume": 316012.37137471,
+            "last": 0.00020767,
+            "volume": 252.48857080945731,
             "converted_last": {
-                "btc": 0.00020688,
-                "eth": 0.00571032,
-                "usd": 7.54
+                "btc": 0.00020767,
+                "eth": 0.00532061,
+                "usd": 6.68
             },
             "converted_volume": {
-                "btc": 65.377,
-                "eth": 1805,
-                "usd": 2383005
+                "btc": 0.0524343,
+                "eth": 1.343392,
+                "usd": 1686.05
             },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 71.257636,
-            "timestamp": "2021-01-19T05:38:21+00:00",
-            "last_traded_at": "2021-01-19T05:38:21+00:00",
-            "last_fetch_at": "2021-01-19T05:38:21+00:00",
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167415,
+            "timestamp": "2021-01-23T18:22:06+00:00",
+            "last_traded_at": "2021-01-23T18:22:06+00:00",
+            "last_fetch_at": "2021-01-23T18:22:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-WAVES",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00531,
+            "volume": 24191.51482697,
+            "converted_last": {
+                "btc": 0.00020783,
+                "eth": 0.00531477,
+                "usd": 6.69
+            },
+            "converted_volume": {
+                "btc": 5.027805,
+                "eth": 128.572,
+                "usd": 161723
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.121495,
+            "timestamp": "2021-01-23T18:23:52+00:00",
+            "last_traded_at": "2021-01-23T18:23:52+00:00",
+            "last_fetch_at": "2021-01-23T18:23:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=waves_eth",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 6.6747,
+            "volume": 15573.97125054,
+            "converted_last": {
+                "btc": 0.00020774,
+                "eth": 0.0053124,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 3.235343,
+                "eth": 82.735,
+                "usd": 104029
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.952239,
+            "timestamp": "2021-01-23T18:26:17+00:00",
+            "last_traded_at": "2021-01-23T18:26:17+00:00",
+            "last_fetch_at": "2021-01-23T18:26:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/WAVES-USDT",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 0.005327,
+            "volume": 431.32,
+            "converted_last": {
+                "btc": 0.0002085,
+                "eth": 0.00533179,
+                "usd": 6.71
+            },
+            "converted_volume": {
+                "btc": 0.08992969,
+                "eth": 2.299708,
+                "usd": 2892.66
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.364231,
+            "timestamp": "2021-01-23T18:23:58+00:00",
+            "last_traded_at": "2021-01-23T18:23:58+00:00",
+            "last_fetch_at": "2021-01-23T18:23:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002075,
+            "volume": 10161.76925462,
+            "converted_last": {
+                "btc": 0.0002075,
+                "eth": 0.00530625,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 2.108567,
+                "eth": 53.921,
+                "usd": 67799
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.76611,
+            "timestamp": "2021-01-23T18:26:17+00:00",
+            "last_traded_at": "2021-01-23T18:26:17+00:00",
+            "last_fetch_at": "2021-01-23T18:26:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/WAVES-BTC",
+            "token_info_url": null,
+            "coin_id": "waves",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 6.6705,
+            "volume": 180.45244029682934,
+            "converted_last": {
+                "btc": 0.00020758,
+                "eth": 0.00531827,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 0.03745813,
+                "eth": 0.95969533,
+                "usd": 1204.48
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.128569,
+            "timestamp": "2021-01-23T18:22:01+00:00",
+            "last_traded_at": "2021-01-23T18:22:01+00:00",
+            "last_fetch_at": "2021-01-23T18:22:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/USDT-WAVES",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "RUR",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 499.75000499,
+            "volume": 499.21923001,
+            "converted_last": {
+                "btc": 0.00020566,
+                "eth": 0.00531981,
+                "usd": 6.64
+            },
+            "converted_volume": {
+                "btc": 0.10267154,
+                "eth": 2.655753,
+                "usd": 3314.77
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.040077,
+            "timestamp": "2021-01-23T17:57:57+00:00",
+            "last_traded_at": "2021-01-23T17:57:57+00:00",
+            "last_fetch_at": "2021-01-23T17:57:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/WAVES/RUR",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "DOGE",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 777.5,
+            "volume": 23.83366261,
+            "converted_last": {
+                "btc": 0.00020942,
+                "eth": 0.00539989,
+                "usd": 6.74
+            },
+            "converted_volume": {
+                "btc": 0.00499127,
+                "eth": 0.12869918,
+                "usd": 160.56
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.564103,
+            "timestamp": "2021-01-23T17:02:37+00:00",
+            "last_traded_at": "2021-01-23T17:02:37+00:00",
+            "last_fetch_at": "2021-01-23T17:02:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/WAVES/DOGE",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "dogecoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "ETH",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00539999,
+            "volume": 26.9675798,
+            "converted_last": {
+                "btc": 0.00021136,
+                "eth": 0.00541503,
+                "usd": 6.8
+            },
+            "converted_volume": {
+                "btc": 0.00569975,
+                "eth": 0.14603032,
+                "usd": 183.28
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.737598,
+            "timestamp": "2021-01-23T18:18:28+00:00",
+            "last_traded_at": "2021-01-23T18:18:28+00:00",
+            "last_fetch_at": "2021-01-23T18:18:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/WAVES/ETH",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "WAVES",
+            "target": "BCH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0154551,
+            "volume": 0.63,
+            "converted_last": {
+                "btc": 0.0002045,
+                "eth": 0.00528528,
+                "usd": 6.57
+            },
+            "converted_volume": {
+                "btc": 0.00012884,
+                "eth": 0.00332973,
+                "usd": 4.14
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.630527,
+            "timestamp": "2021-01-23T17:19:06+00:00",
+            "last_traded_at": "2021-01-23T17:19:06+00:00",
+            "last_fetch_at": "2021-01-23T18:25:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/WAVES-to-BCH",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin-cash"
+        },
+        {
+            "base": "WAVES",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 6.667,
+            "volume": 502.04,
+            "converted_last": {
+                "btc": 0.00020734,
+                "eth": 0.00531208,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 0.10409168,
+                "eth": 2.666879,
+                "usd": 3347.1
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.502437,
+            "timestamp": "2021-01-23T18:18:43+00:00",
+            "last_traded_at": "2021-01-23T18:18:43+00:00",
+            "last_fetch_at": "2021-01-23T18:18:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/WAVES-to-USD",
+            "token_info_url": null,
+            "coin_id": "waves"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
+                "name": "Bitubu Exchange",
+                "identifier": "bitubu",
+                "has_trading_incentive": false
+            },
+            "last": 0.0002074,
+            "volume": 8362.05,
+            "converted_last": {
+                "btc": 0.0002074,
+                "eth": 0.00531369,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 1.734289,
+                "eth": 44.433325,
+                "usd": 55767
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.242365,
+            "timestamp": "2021-01-23T18:20:09+00:00",
+            "last_traded_at": "2021-01-23T18:20:09+00:00",
+            "last_fetch_at": "2021-01-23T18:20:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitubu.com/trading/wavesbtc",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "BiONE",
+                "identifier": "bione",
+                "has_trading_incentive": false
+            },
+            "last": 6.6743,
+            "volume": 16421.82397877,
+            "converted_last": {
+                "btc": 0.00020751,
+                "eth": 0.00530643,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 3.407645,
+                "eth": 87.141,
+                "usd": 109610
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.500845,
+            "timestamp": "2021-01-23T18:24:01+00:00",
+            "last_traded_at": "2021-01-23T18:24:01+00:00",
+            "last_fetch_at": "2021-01-23T18:24:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bione.me/zh_CN/trade/WAVES_USDT",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "WAVES",
+            "target": "USDT",
+            "market": {
+                "name": "Bitubu Exchange",
+                "identifier": "bitubu",
+                "has_trading_incentive": false
+            },
+            "last": 6.67,
+            "volume": 20375.69,
+            "converted_last": {
+                "btc": 0.00020759,
+                "eth": 0.00530866,
+                "usd": 6.67
+            },
+            "converted_volume": {
+                "btc": 4.229874,
+                "eth": 108.168,
+                "usd": 136007
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.298954,
+            "timestamp": "2021-01-23T18:26:13+00:00",
+            "last_traded_at": "2021-01-23T18:26:13+00:00",
+            "last_fetch_at": "2021-01-23T18:26:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitubu.com/trading/wavesusdt",
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "DOGE",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00129,
+            "volume": 6009.23367916,
+            "converted_last": {
+                "btc": 0.00020914,
+                "eth": 0.00538467,
+                "usd": 6.72
+            },
+            "converted_volume": {
+                "btc": 0.00162125,
+                "eth": 0.04174147,
+                "usd": 52.11
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.722481,
+            "timestamp": "2021-01-23T16:55:39+00:00",
+            "last_traded_at": "2021-01-23T16:55:39+00:00",
+            "last_fetch_at": "2021-01-23T18:14:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/DOGE/WAVES",
+            "token_info_url": null,
+            "coin_id": "dogecoin",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "ETH",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 187.59531043,
+            "volume": 0.01096006,
+            "converted_last": {
+                "btc": 0.00020855,
+                "eth": 0.00538639,
+                "usd": 6.74
+            },
+            "converted_volume": {
+                "btc": 0.00042879,
+                "eth": 0.01107473,
+                "usd": 13.86
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 4.543558,
+            "timestamp": "2021-01-23T17:48:15+00:00",
+            "last_traded_at": "2021-01-23T17:48:15+00:00",
+            "last_fetch_at": "2021-01-23T17:48:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/ETH/WAVES",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "ZRC",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.05447512,
+            "volume": 32.02084127,
+            "converted_last": {
+                "btc": 0.00020871,
+                "eth": 0.00539457,
+                "usd": 6.71
+            },
+            "converted_volume": {
+                "btc": 0.00036406,
+                "eth": 0.00940996,
+                "usd": 11.71
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 19.330052,
+            "timestamp": "2021-01-23T17:24:21+00:00",
+            "last_traded_at": "2021-01-23T17:24:21+00:00",
+            "last_fetch_at": "2021-01-23T17:54:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/ZRC/WAVES",
+            "token_info_url": null,
+            "coin_id": "zrcoin",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "BTT",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 5.3e-05,
+            "volume": 4908.84274685,
+            "converted_last": {
+                "btc": 0.00020952,
+                "eth": 0.00539071,
+                "usd": 6.74
+            },
+            "converted_volume": {
+                "btc": 5.451e-05,
+                "eth": 0.00140249,
+                "usd": 1.75
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.306414,
+            "timestamp": "2021-01-23T16:30:06+00:00",
+            "last_traded_at": "2021-01-23T16:30:06+00:00",
+            "last_fetch_at": "2021-01-23T18:03:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/BTT/WAVES",
+            "token_info_url": null,
+            "coin_id": "bittorrent-2",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "MTH",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00134565,
+            "volume": 524.47630676,
+            "converted_last": {
+                "btc": 0.00021114,
+                "eth": 0.00539932,
+                "usd": 6.79
+            },
+            "converted_volume": {
+                "btc": 0.00014901,
+                "eth": 0.00381063,
+                "usd": 4.79
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 16.736432,
+            "timestamp": "2021-01-23T18:25:30+00:00",
+            "last_traded_at": "2021-01-23T18:25:30+00:00",
+            "last_fetch_at": "2021-01-23T18:25:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/MTH/WAVES",
+            "token_info_url": null,
+            "coin_id": "monetha",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "YO",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 380.34816119,
+            "volume": 0.00057987,
+            "converted_last": {
+                "btc": 0.00020909,
+                "eth": 0.00539622,
+                "usd": 6.72
+            },
+            "converted_volume": {
+                "btc": 4.611e-05,
+                "eth": 0.00119015,
+                "usd": 1.48
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 8.38518,
+            "timestamp": "2021-01-23T17:08:05+00:00",
+            "last_traded_at": "2021-01-23T17:08:05+00:00",
+            "last_fetch_at": "2021-01-23T17:08:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/YO/WAVES",
+            "token_info_url": null,
+            "coin_id": "yobit-token",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "REQ",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00553728,
+            "volume": 19.91839147,
+            "converted_last": {
+                "btc": 0.00020564,
+                "eth": 0.00532543,
+                "usd": 6.59
+            },
+            "converted_volume": {
+                "btc": 2.268e-05,
+                "eth": 0.00058736,
+                "usd": 0.726736
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 38.474667,
+            "timestamp": "2021-01-23T16:22:28+00:00",
+            "last_traded_at": "2021-01-23T16:22:28+00:00",
+            "last_fetch_at": "2021-01-23T16:29:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/REQ/WAVES",
+            "token_info_url": null,
+            "coin_id": "request-network",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "HEX",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00125291,
+            "volume": 21.99351328,
+            "converted_last": {
+                "btc": 0.00021114,
+                "eth": 0.00542646,
+                "usd": 6.79
+            },
+            "converted_volume": {
+                "btc": 5.82e-06,
+                "eth": 0.00014953,
+                "usd": 0.187237
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 18.818169,
+            "timestamp": "2021-01-23T18:16:38+00:00",
+            "last_traded_at": "2021-01-23T18:16:38+00:00",
+            "last_fetch_at": "2021-01-23T18:16:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/HEX/WAVES",
+            "token_info_url": null,
+            "coin_id": "hex",
+            "target_coin_id": "waves"
+        },
+        {
+            "base": "XBS",
+            "target": "WAVES",
+            "market": {
+                "name": "YoBit",
+                "identifier": "yobit",
+                "has_trading_incentive": false
+            },
+            "last": 0.25934271,
+            "volume": 0.0367888,
+            "converted_last": {
+                "btc": 0.00020952,
+                "eth": 0.00539277,
+                "usd": 6.74
+            },
+            "converted_volume": {
+                "btc": 2e-06,
+                "eth": 5.145e-05,
+                "usd": 0.064266
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 6.728194,
+            "timestamp": "2021-01-23T16:29:42+00:00",
+            "last_traded_at": "2021-01-23T16:29:42+00:00",
+            "last_fetch_at": "2021-01-23T18:01:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://yobit.net/en/trade/XBS/WAVES",
+            "token_info_url": null,
+            "coin_id": "bitstake",
+            "target_coin_id": "waves"
         },
         {
             "base": "WAVES",
@@ -3151,23 +3183,23 @@
                 "identifier": "sistemkoin",
                 "has_trading_incentive": false
             },
-            "last": 7.56,
-            "volume": 157591.06216931218,
+            "last": 6.69,
+            "volume": 378972.40956651716,
             "converted_last": {
-                "btc": 0.00020737,
-                "eth": 0.00572386,
-                "usd": 7.56
+                "btc": 0.00020822,
+                "eth": 0.00532457,
+                "usd": 6.69
             },
             "converted_volume": {
-                "btc": 32.679789,
-                "eth": 902.03,
-                "usd": 1191192
+                "btc": 78.908,
+                "eth": 2018,
+                "usd": 2537220
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 46.359743,
-            "timestamp": "2021-01-19T05:38:19+00:00",
-            "last_traded_at": "2021-01-19T05:38:19+00:00",
-            "last_fetch_at": "2021-01-19T05:38:19+00:00",
+            "timestamp": "2021-01-23T18:26:01+00:00",
+            "last_traded_at": "2021-01-23T18:26:01+00:00",
+            "last_fetch_at": "2021-01-23T18:26:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3179,27 +3211,59 @@
             "base": "WAVES",
             "target": "BTC",
             "market": {
+                "name": "Sistemkoin",
+                "identifier": "sistemkoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.00020772,
+            "volume": 294193.6025418833,
+            "converted_last": {
+                "btc": 0.00020772,
+                "eth": 0.00531188,
+                "usd": 6.68
+            },
+            "converted_volume": {
+                "btc": 61.11,
+                "eth": 1563,
+                "usd": 1965677
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 71.257636,
+            "timestamp": "2021-01-23T18:25:58+00:00",
+            "last_traded_at": "2021-01-23T18:25:58+00:00",
+            "last_fetch_at": "2021-01-23T18:25:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "waves",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "WAVES",
+            "target": "BTC",
+            "market": {
                 "name": "CoinEx",
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.0002084,
-            "volume": 6250.69708841,
+            "last": 0.00020844,
+            "volume": 3822.22116688,
             "converted_last": {
-                "btc": 0.0002084,
-                "eth": 0.00574228,
-                "usd": 7.58
+                "btc": 0.00020844,
+                "eth": 0.00534033,
+                "usd": 6.7
             },
             "converted_volume": {
-                "btc": 1.302645,
-                "eth": 35.89328,
-                "usd": 47364
+                "btc": 0.79670378,
+                "eth": 20.411935,
+                "usd": 25617
             },
             "trust_score": "red",
             "bid_ask_spread_percentage": 33.333333,
-            "timestamp": "2021-01-19T05:42:21+00:00",
-            "last_traded_at": "2021-01-19T05:42:21+00:00",
-            "last_fetch_at": "2021-01-19T05:42:21+00:00",
+            "timestamp": "2021-01-23T18:21:07+00:00",
+            "last_traded_at": "2021-01-23T18:21:07+00:00",
+            "last_fetch_at": "2021-01-23T18:21:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=WAVES#limit",
@@ -3208,131 +3272,67 @@
             "target_coin_id": "bitcoin"
         },
         {
-            "base": "LOOM",
+            "base": "IETH",
             "target": "WAVES",
             "market": {
                 "name": "YoBit",
                 "identifier": "yobit",
                 "has_trading_incentive": false
             },
-            "last": 0.00757098,
-            "volume": 257.61626003,
+            "last": 0.01210213,
+            "volume": 326.98314521,
             "converted_last": {
-                "btc": 0.00021906,
-                "eth": 0.00604608,
-                "usd": 7.99
+                "btc": 0.00020914,
+                "eth": 0.005406,
+                "usd": 6.72
             },
             "converted_volume": {
-                "btc": 0.00042726,
-                "eth": 0.01179231,
-                "usd": 15.58
+                "btc": 0.00082761,
+                "eth": 0.02139257,
+                "usd": 26.59
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 15.431805,
-            "timestamp": "2021-01-19T04:47:53+00:00",
-            "last_traded_at": "2021-01-19T04:47:53+00:00",
-            "last_fetch_at": "2021-01-19T04:47:53+00:00",
+            "bid_ask_spread_percentage": 29.84412,
+            "timestamp": "2021-01-23T17:37:17+00:00",
+            "last_traded_at": "2021-01-23T17:37:17+00:00",
+            "last_fetch_at": "2021-01-23T18:24:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/LOOM/WAVES",
+            "trade_url": "https://yobit.net/en/trade/IETH/WAVES",
             "token_info_url": null,
-            "coin_id": "loom-network",
+            "coin_id": "iethereum",
             "target_coin_id": "waves"
         },
         {
-            "base": "YFI",
+            "base": "LSK",
             "target": "WAVES",
             "market": {
                 "name": "YoBit",
                 "identifier": "yobit",
                 "has_trading_incentive": false
             },
-            "last": 4518.91596901,
-            "volume": 0.00011901,
+            "last": 0.08700021,
+            "volume": 37.04877105,
             "converted_last": {
-                "btc": 0.00021064,
-                "eth": 0.00581416,
-                "usd": 7.69
+                "btc": 0.00020903,
+                "eth": 0.00540657,
+                "usd": 6.71
             },
             "converted_volume": {
-                "btc": 0.00011328,
-                "eth": 0.00312684,
-                "usd": 4.13
+                "btc": 0.00067377,
+                "eth": 0.01742674,
+                "usd": 21.63
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 47.365614,
-            "timestamp": "2021-01-19T05:33:47+00:00",
-            "last_traded_at": "2021-01-19T05:33:47+00:00",
-            "last_fetch_at": "2021-01-19T05:33:47+00:00",
+            "bid_ask_spread_percentage": 29.157315,
+            "timestamp": "2021-01-23T17:30:10+00:00",
+            "last_traded_at": "2021-01-23T17:30:10+00:00",
+            "last_fetch_at": "2021-01-23T17:30:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/YFI/WAVES",
+            "trade_url": "https://yobit.net/en/trade/LSK/WAVES",
             "token_info_url": null,
-            "coin_id": "yearn-finance",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "LTC",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 20.55747503,
-            "volume": 1.21810845,
-            "converted_last": {
-                "btc": 0.00021018,
-                "eth": 0.00581261,
-                "usd": 7.65
-            },
-            "converted_volume": {
-                "btc": 0.00526312,
-                "eth": 0.1455548,
-                "usd": 191.54
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.953907,
-            "timestamp": "2021-01-19T05:23:58+00:00",
-            "last_traded_at": "2021-01-19T05:23:58+00:00",
-            "last_fetch_at": "2021-01-19T05:23:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/LTC/WAVES",
-            "token_info_url": null,
-            "coin_id": "litecoin",
-            "target_coin_id": "waves"
-        },
-        {
-            "base": "DLT",
-            "target": "WAVES",
-            "market": {
-                "name": "YoBit",
-                "identifier": "yobit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00638898,
-            "volume": 111.70581631,
-            "converted_last": {
-                "btc": 0.0002178,
-                "eth": 0.00600738,
-                "usd": 7.97
-            },
-            "converted_volume": {
-                "btc": 0.00015544,
-                "eth": 0.00428738,
-                "usd": 5.69
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 17.267744,
-            "timestamp": "2021-01-19T03:25:54+00:00",
-            "last_traded_at": "2021-01-19T03:25:54+00:00",
-            "last_fetch_at": "2021-01-19T05:33:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://yobit.net/en/trade/DLT/WAVES",
-            "token_info_url": null,
-            "coin_id": "agrello",
+            "coin_id": "lisk",
             "target_coin_id": "waves"
         }
     ]

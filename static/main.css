@@ -21,7 +21,10 @@ body {
 	
 }
 
-.multiple {
+
+
+.header_row, .row {
+	display: table-row;
 	text-align: center;
 }
 
@@ -29,10 +32,7 @@ body {
 	display: none;
 }
 
-.header_row, .row {
-	display: table-row;
-	text-align: center;
-}
+
 
 .header_row div {
 	font-weight: bold;
@@ -41,6 +41,16 @@ body {
 
 .header_row div, .row div {
 	display: table-cell;
+}
+
+.header_row div.multiple_change {
+	display: none;
+	position: absolute;
+}
+
+.header_row div.multiple {
+	display: flex;
+	justify-content: center;
 }
 
 .row div {
