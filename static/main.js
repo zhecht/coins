@@ -153,9 +153,12 @@ function toggle(id, table=false) {
 	let chart = document.getElementById(id);
 	if (chart.style.display === "" || chart.style.display === "none") {
 		if (table) {
-			chart.style.display = "table";	
+			chart.style.display = "table";
 		} else {
 			chart.style.display = "flex";
+			if (id == "pie_chart") {
+				document.getElementById("type_chart").style.display = "flex";
+			}
 		}
 	} else {
 		chart.style.display = "none";
@@ -197,9 +200,13 @@ window.onload = function() {
 			dataPoints: dataPoints
 		}]
 	});
-	let data = [];
+	let d = [];
+	let tot_types = 0;
 	for (let type in typeData) {
-		//data.push({"type": type, });
+		tot_types += typeData[type].length;
+	}
+	for (let type in typeData) {
+		d.push({"type": type, "y": parseFloat((typeData[type].length / tot_types * 100).toFixed(2)), "coinStr": typeData[type].join(",")});
 	}
 	let chart2 = new CanvasJS.Chart("type_chart", {
 		animationEnabled: true,
@@ -207,14 +214,14 @@ window.onload = function() {
 			//text: ""
 		},
 		data: [{
-			type: "pie",
+			type: "doughnut",
 			//showInLegend: true,
 			//startAngle: 60,
 			indexLabelFontSize: 18,
 			yValueFormatString: "##0.0\"%\"",
-			indexLabel: "{label} #percent%",
-			toolTipContent: "<b>{label}:</b> {y} (${worth})",
-			dataPoints: data
+			indexLabel: "{type} #percent%",
+			toolTipContent: "<b>{type}:</b> {y} {coinStr}",
+			dataPoints: d
 		}]
 	});
 	chart.render();

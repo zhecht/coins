@@ -8,11 +8,15 @@
 	<body>
 		<div style="padding-left: 20px;">
 			<button onclick="toggle('coin_table', true)">Trends</button>
+			<button onclick="toggle('watch_table', true)">Watching</button>
 			<button onclick="toggle('exit_table', true)">Exits</button>
 			<button onclick="toggle('pie_chart')">Chart</button>
 			<button onclick="toggle('exchange_table')">Exchanges</button>
 		</div>
-		<div id="pie_chart" class="table" style="height: 400px; width: 100%;"></div>
+		<div style="display: flex;">
+			<div id="pie_chart" class="table" style="height: 600px; width: 600px;"></div>
+			<div id="type_chart" class="table" style="height: 600px; width: 600px;"></div>
+		</div>
 		<div id="exchange_table" class="table">
 			<div class="header_row">
 				<div>Coin</div>

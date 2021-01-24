@@ -113,8 +113,9 @@ def get_data():
 				amt += profits_in_btc
 				amt = round(amt, 6)
 			elif coin == "eth":
-				amt += profits_in_eth
-				amt = round(amt, 2)
+				pass
+				#amt += profits_in_eth
+				#amt = round(amt, 2)
 			elif coin == "dai":
 				amt = round(amt+profits_in_dai, 2)
 			purchased = coins[coin]["bought"]
