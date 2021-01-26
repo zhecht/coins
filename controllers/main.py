@@ -63,7 +63,10 @@ def get_data():
 	profits_in_btc = 0
 	profits_in_dai = 0
 	profits_in_eth = 0
+	fees_in_eth = 0
 	for coin in coins:
+		if "fee" in coins[coin]:
+			fees_in_eth += coins[coin]["fee"]
 		if coin in sold_coins:
 			sold_data = sold_coins[coin]
 			for row in sold_data:
@@ -113,6 +116,7 @@ def get_data():
 				amt += profits_in_btc
 				amt = round(amt, 6)
 			elif coin == "eth":
+				#amt -= fees_in_eth
 				pass
 				#amt += profits_in_eth
 				#amt = round(amt, 2)
@@ -163,7 +167,7 @@ def get_data():
 			trends[coin]["day"] = round(price_data["percent_change_24h"], 2)
 			trends[coin]["week"] = round(price_data["percent_change_7d"], 2)
 			coinType = coins[coin]["type"].split(",")[0] if "type" in coins[coin] else ""
-			data = {"coin": coin, "type": coinType, "sells": sells, "diff": diff, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "purchased": purchased, "bought_at": bought_at, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 3), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2), "exchanges": exchanges}
+			data = {"coin": coin, "type": coinType, "sells": sells, "diff": diff, "worth": worth, "sold": sold_txt, "profit": profit, "amount": amt, "totAmount": coins[coin]["amt"], "purchased": purchased, "bought_at": bought_at, "btc_price": trends[coin]["btc_price"], "price": round(price_data["price"], 3), "hour": round(price_data["percent_change_1h"], 2), "day": round(price_data["percent_change_24h"], 2), "week": round(price_data["percent_change_7d"], 2), "exchanges": exchanges}
 			makeSlider(data)
 			rows.append(data)
 	rows = sorted(rows, key=operator.itemgetter("worth"), reverse=True)
@@ -185,6 +189,8 @@ def markets_route():
 
 	coin_ids = ",".join([coin for coin in coins])
 	for coin in coins:
+		if coin != "rook":
+			continue
 		gecko_id = coins[coin]["gecko"] if "gecko" in coins[coin] else coins[coin]["full"]
 		url = f"https://api.coingecko.com/api/v3/coins/{gecko_id}?market_data=false&community_data=false&developer_data=false"
 		with open(f"static/markets/{coin}.json", "w") as fh:

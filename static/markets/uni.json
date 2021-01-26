@@ -106,9 +106,9 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-    "sentiment_votes_up_percentage": 92.65,
-    "sentiment_votes_down_percentage": 7.35,
-    "market_cap_rank": 22,
+    "sentiment_votes_up_percentage": 87.05,
+    "sentiment_votes_down_percentage": 12.95,
+    "market_cap_rank": 14,
     "coingecko_rank": 288,
     "coingecko_score": 32.485,
     "developer_score": 0.0,
@@ -120,7 +120,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:24:46.950Z",
+    "last_updated": "2021-01-26T03:02:22.483Z",
     "tickers": [
         {
             "base": "0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984",
@@ -130,23 +130,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.00753633825180721,
-            "volume": 2214414.71423475,
+            "last": 0.00922486854971617,
+            "volume": 5261472.25017215,
             "converted_last": {
-                "btc": 0.00029497,
-                "eth": 0.00755733,
-                "usd": 9.48
+                "btc": 0.00038652,
+                "eth": 0.00925643,
+                "usd": 12.52
             },
             "converted_volume": {
-                "btc": 653.191,
-                "eth": 16735,
-                "usd": 21003630
+                "btc": 2034,
+                "eth": 48702,
+                "usd": 65855170
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602716,
-            "timestamp": "2021-01-23T18:22:50+00:00",
-            "last_traded_at": "2021-01-23T18:22:50+00:00",
-            "last_fetch_at": "2021-01-23T18:22:50+00:00",
+            "timestamp": "2021-01-26T03:06:44+00:00",
+            "last_traded_at": "2021-01-26T03:06:44+00:00",
+            "last_fetch_at": "2021-01-26T03:06:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
@@ -156,91 +156,29 @@
         },
         {
             "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 9.4306,
-            "volume": 727520.07839516,
-            "converted_last": {
-                "btc": 0.00029318,
-                "eth": 0.00749736,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 213.296,
-                "eth": 5454,
-                "usd": 6860951
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116661,
-            "timestamp": "2021-01-23T18:25:04+00:00",
-            "last_traded_at": "2021-01-23T18:25:04+00:00",
-            "last_fetch_at": "2021-01-23T18:25:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/UNIUSD",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 9.4392,
-            "volume": 2429601.411106,
-            "converted_last": {
-                "btc": 0.00029346,
-                "eth": 0.00750445,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 712.991,
-                "eth": 18233,
-                "usd": 22933494
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.132453,
-            "timestamp": "2021-01-23T18:24:47+00:00",
-            "last_traded_at": "2021-01-23T18:24:47+00:00",
-            "last_fetch_at": "2021-01-23T18:24:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/UNI-USD",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
             "target": "USDT",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 9.4011,
-            "volume": 5162103.321263682,
+            "last": 12.5253,
+            "volume": 13684687.750448134,
             "converted_last": {
-                "btc": 0.00029228,
-                "eth": 0.00747438,
-                "usd": 9.4
+                "btc": 0.00038746,
+                "eth": 0.00927898,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 1509,
-                "eth": 38584,
-                "usd": 48530940
+                "btc": 5302,
+                "eth": 126980,
+                "usd": 171701652
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.163769,
-            "timestamp": "2021-01-23T18:24:53+00:00",
-            "last_traded_at": "2021-01-23T18:24:53+00:00",
-            "last_fetch_at": "2021-01-23T18:24:53+00:00",
+            "bid_ask_spread_percentage": 0.169209,
+            "timestamp": "2021-01-26T03:06:44+00:00",
+            "last_traded_at": "2021-01-26T03:06:44+00:00",
+            "last_fetch_at": "2021-01-26T03:06:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/UNI_USDT",
@@ -256,23 +194,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 9.438,
-            "volume": 5626606.17664,
+            "last": 12.52,
+            "volume": 12252936.3654,
             "converted_last": {
-                "btc": 0.0002937,
-                "eth": 0.00752475,
-                "usd": 9.44
+                "btc": 0.00038793,
+                "eth": 0.00929038,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 1653,
-                "eth": 42339,
-                "usd": 53138158
+                "btc": 4753,
+                "eth": 113834,
+                "usd": 153805803
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.195319,
-            "timestamp": "2021-01-23T18:20:38+00:00",
-            "last_traded_at": "2021-01-23T18:20:38+00:00",
-            "last_fetch_at": "2021-01-23T18:20:38+00:00",
+            "bid_ask_spread_percentage": 0.187761,
+            "timestamp": "2021-01-26T03:02:52+00:00",
+            "last_traded_at": "2021-01-26T03:02:52+00:00",
+            "last_fetch_at": "2021-01-26T03:02:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=uni_usdt",
@@ -282,29 +220,91 @@
         },
         {
             "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 12.554,
+            "volume": 6413773.495217,
+            "converted_last": {
+                "btc": 0.00038768,
+                "eth": 0.00928406,
+                "usd": 12.55
+            },
+            "converted_volume": {
+                "btc": 2486,
+                "eth": 59546,
+                "usd": 80518512
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.140639,
+            "timestamp": "2021-01-26T03:07:41+00:00",
+            "last_traded_at": "2021-01-26T03:07:41+00:00",
+            "last_fetch_at": "2021-01-26T03:07:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/UNI-USD",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 12.431,
+            "volume": 1226577.44077875,
+            "converted_last": {
+                "btc": 0.00038366,
+                "eth": 0.00918815,
+                "usd": 12.43
+            },
+            "converted_volume": {
+                "btc": 470.585,
+                "eth": 11270,
+                "usd": 15247584
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.240577,
+            "timestamp": "2021-01-26T03:01:11+00:00",
+            "last_traded_at": "2021-01-26T03:01:11+00:00",
+            "last_fetch_at": "2021-01-26T03:01:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/UNIUSD",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
             "target": "USDT",
             "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 9.4113,
-            "volume": 4471677.167406014,
+            "last": 12.4467,
+            "volume": 10236441.33040079,
             "converted_last": {
-                "btc": 0.0002926,
-                "eth": 0.00748249,
-                "usd": 9.41
+                "btc": 0.00038429,
+                "eth": 0.00920334,
+                "usd": 12.46
             },
             "converted_volume": {
-                "btc": 1308,
-                "eth": 33459,
-                "usd": 42087001
+                "btc": 3934,
+                "eth": 94209,
+                "usd": 127497757
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.192458,
-            "timestamp": "2021-01-23T18:25:08+00:00",
-            "last_traded_at": "2021-01-23T18:25:08+00:00",
-            "last_fetch_at": "2021-01-23T18:25:08+00:00",
+            "bid_ask_spread_percentage": 0.182775,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_usdt",
@@ -320,58 +320,26 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 9.4065,
-            "volume": 1237730.33,
+            "last": 12.4716,
+            "volume": 948957.26,
             "converted_last": {
-                "btc": 0.00029245,
-                "eth": 0.00747868,
-                "usd": 9.41
+                "btc": 0.00038506,
+                "eth": 0.00922175,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 361.977,
-                "eth": 9257,
-                "usd": 11643284
+                "btc": 365.406,
+                "eth": 8751,
+                "usd": 11843175
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.169125,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
+            "bid_ask_spread_percentage": 0.169124,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 9.4026,
-            "volume": 2291810.6956,
-            "converted_last": {
-                "btc": 0.00029233,
-                "eth": 0.00747558,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 669.968,
-                "eth": 17133,
-                "usd": 21550364
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.142397,
-            "timestamp": "2021-01-23T18:25:11+00:00",
-            "last_traded_at": "2021-01-23T18:25:11+00:00",
-            "last_fetch_at": "2021-01-23T18:25:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/UNI",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -384,23 +352,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.00029285,
-            "volume": 883540.4604063514,
+            "last": 0.00038783,
+            "volume": 3209480.6797308098,
             "converted_last": {
-                "btc": 0.00029285,
-                "eth": 0.00748884,
-                "usd": 9.42
+                "btc": 0.00038783,
+                "eth": 0.00928775,
+                "usd": 12.56
             },
             "converted_volume": {
-                "btc": 258.745,
-                "eth": 6617,
-                "usd": 8319683
+                "btc": 1245,
+                "eth": 29809,
+                "usd": 40307861
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.109211,
-            "timestamp": "2021-01-23T18:26:35+00:00",
-            "last_traded_at": "2021-01-23T18:26:35+00:00",
-            "last_fetch_at": "2021-01-23T18:26:35+00:00",
+            "bid_ask_spread_percentage": 0.123683,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/UNI_BTC",
@@ -410,98 +378,35 @@
         },
         {
             "base": "UNI",
-            "target": "UST",
+            "target": "USDT",
             "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
+                "name": "Digifinex",
+                "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 9.3952,
-            "volume": 249817.40649654,
+            "last": 12.5284,
+            "volume": 5039377.5403,
             "converted_last": {
-                "btc": 0.00029773,
-                "eth": 0.00762809,
-                "usd": 9.57
+                "btc": 0.00038756,
+                "eth": 0.00928128,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 74.379,
-                "eth": 1906,
-                "usd": 2391550
+                "btc": 1953,
+                "eth": 46772,
+                "usd": 63244673
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.159439,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
+            "bid_ask_spread_percentage": 0.195621,
+            "timestamp": "2021-01-26T03:06:19+00:00",
+            "last_traded_at": "2021-01-26T03:06:19+00:00",
+            "last_fetch_at": "2021-01-26T03:06:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/UNIUST",
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/UNI",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "EUR",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 7.784,
-            "volume": 122163.6951719,
-            "converted_last": {
-                "btc": 0.00029473,
-                "eth": 0.00755114,
-                "usd": 9.48
-            },
-            "converted_volume": {
-                "btc": 36.0054,
-                "eth": 922.476,
-                "usd": 1157700
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.154739,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/uni/eur",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 132.986,
-            "volume": 1537.97,
-            "converted_last": {
-                "btc": 0.00029701,
-                "eth": 0.0076095,
-                "usd": 9.55
-            },
-            "converted_volume": {
-                "btc": 0.45679025,
-                "eth": 11.703187,
-                "usd": 14687.41
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.661778,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/UNI_CRO",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "crypto-com-chain"
         },
         {
             "base": "UNI",
@@ -511,23 +416,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.00029305,
-            "volume": 133387.9,
+            "last": 0.00038876,
+            "volume": 716982.122967,
             "converted_last": {
-                "btc": 0.00029305,
-                "eth": 0.00749396,
-                "usd": 9.43
+                "btc": 0.00038876,
+                "eth": 0.00931002,
+                "usd": 12.59
             },
             "converted_volume": {
-                "btc": 39.089324,
-                "eth": 999.603,
-                "usd": 1257315
+                "btc": 278.734,
+                "eth": 6675,
+                "usd": 9026170
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.156831,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
+            "bid_ask_spread_percentage": 0.139104,
+            "timestamp": "2021-01-26T03:07:45+00:00",
+            "last_traded_at": "2021-01-26T03:07:45+00:00",
+            "last_fetch_at": "2021-01-26T03:07:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/UNI-BTC",
@@ -543,23 +448,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 9.419,
-            "volume": 269458.23798256,
+            "last": 12.536,
+            "volume": 702898.40928154,
             "converted_last": {
-                "btc": 0.00029284,
-                "eth": 0.00748862,
-                "usd": 9.42
+                "btc": 0.00038811,
+                "eth": 0.00929448,
+                "usd": 12.56
             },
             "converted_volume": {
-                "btc": 78.908,
-                "eth": 2018,
-                "usd": 2538152
+                "btc": 272.803,
+                "eth": 6533,
+                "usd": 8830224
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.174373,
-            "timestamp": "2021-01-23T18:23:14+00:00",
-            "last_traded_at": "2021-01-23T18:23:14+00:00",
-            "last_fetch_at": "2021-01-23T18:23:14+00:00",
+            "bid_ask_spread_percentage": 0.115976,
+            "timestamp": "2021-01-26T03:08:14+00:00",
+            "last_traded_at": "2021-01-26T03:08:14+00:00",
+            "last_fetch_at": "2021-01-26T03:08:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/UNI_USDT",
@@ -569,35 +474,97 @@
         },
         {
             "base": "UNI",
-            "target": "BTC",
+            "target": "EUR",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.00029262,
-            "volume": 90266.69518473443,
+            "last": 10.319,
+            "volume": 370975.98140331,
             "converted_last": {
-                "btc": 0.00029262,
-                "eth": 0.00748296,
-                "usd": 9.41
+                "btc": 0.00038723,
+                "eth": 0.00927371,
+                "usd": 12.53
             },
             "converted_volume": {
-                "btc": 26.41384,
-                "eth": 675.462,
-                "usd": 849635
+                "btc": 143.653,
+                "eth": 3440,
+                "usd": 4648321
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.12975,
-            "timestamp": "2021-01-23T18:25:13+00:00",
-            "last_traded_at": "2021-01-23T18:25:13+00:00",
-            "last_fetch_at": "2021-01-23T18:25:13+00:00",
+            "bid_ask_spread_percentage": 0.194081,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_btc",
+            "trade_url": "https://trade.kraken.com/markets/kraken/uni/eur",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0003872,
+            "volume": 2808787.36597,
+            "converted_last": {
+                "btc": 0.0003872,
+                "eth": 0.00927299,
+                "usd": 12.53
+            },
+            "converted_volume": {
+                "btc": 1088,
+                "eth": 26046,
+                "usd": 35191303
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.592784,
+            "timestamp": "2021-01-26T03:03:14+00:00",
+            "last_traded_at": "2021-01-26T03:03:14+00:00",
+            "last_fetch_at": "2021-01-26T03:03:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=uni_btc",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 12.5965,
+            "volume": 235541.46810981,
+            "converted_last": {
+                "btc": 0.00038899,
+                "eth": 0.00931549,
+                "usd": 12.6
+            },
+            "converted_volume": {
+                "btc": 91.623,
+                "eth": 2194,
+                "usd": 2966998
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.258684,
+            "timestamp": "2021-01-26T03:07:50+00:00",
+            "last_traded_at": "2021-01-26T03:07:50+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap"
         },
         {
             "base": "UNI",
@@ -607,26 +574,58 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 9.4071,
-            "volume": 125489.35851603,
+            "last": 12.5469,
+            "volume": 296139.02183224,
             "converted_last": {
-                "btc": 0.00029247,
-                "eth": 0.00747916,
-                "usd": 9.41
+                "btc": 0.00038813,
+                "eth": 0.00929499,
+                "usd": 12.57
             },
             "converted_volume": {
-                "btc": 36.702015,
-                "eth": 938.554,
-                "usd": 1180527
+                "btc": 114.941,
+                "eth": 2753,
+                "usd": 3722061
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.148832,
-            "timestamp": "2021-01-23T18:24:36+00:00",
-            "last_traded_at": "2021-01-23T18:24:36+00:00",
-            "last_fetch_at": "2021-01-23T18:24:36+00:00",
+            "bid_ask_spread_percentage": 0.177408,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/UNI-USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "UST",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 12.418,
+            "volume": 591485.18958454,
+            "converted_last": {
+                "btc": 0.00038657,
+                "eth": 0.00925796,
+                "usd": 12.53
+            },
+            "converted_volume": {
+                "btc": 228.652,
+                "eth": 5476,
+                "usd": 7408619
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.320513,
+            "timestamp": "2021-01-26T03:01:13+00:00",
+            "last_traded_at": "2021-01-26T03:01:13+00:00",
+            "last_fetch_at": "2021-01-26T03:01:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/UNIUST",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -639,23 +638,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 9.4193,
-            "volume": 307991.7076984489,
+            "last": 12.5179,
+            "volume": 967318.0391608817,
             "converted_last": {
-                "btc": 0.00029255,
-                "eth": 0.00748115,
-                "usd": 9.41
+                "btc": 0.00038687,
+                "eth": 0.00926468,
+                "usd": 12.53
             },
             "converted_volume": {
-                "btc": 90.103,
-                "eth": 2304,
-                "usd": 2898224
+                "btc": 374.223,
+                "eth": 8962,
+                "usd": 12118218
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.102995,
-            "timestamp": "2021-01-23T18:23:51+00:00",
-            "last_traded_at": "2021-01-23T18:23:51+00:00",
-            "last_fetch_at": "2021-01-23T18:23:51+00:00",
+            "bid_ask_spread_percentage": 0.264681,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/UNI_BUSD",
@@ -665,219 +664,29 @@
         },
         {
             "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "Gemini",
-                "identifier": "gemini",
-                "has_trading_incentive": false
-            },
-            "last": 9.4645,
-            "volume": 50594.76748965,
-            "converted_last": {
-                "btc": 0.00029434,
-                "eth": 0.00754109,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 14.891987,
-                "eth": 381.54,
-                "usd": 478854
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.290563,
-            "timestamp": "2021-01-23T18:19:13+00:00",
-            "last_traded_at": "2021-01-23T18:19:13+00:00",
-            "last_fetch_at": "2021-01-23T18:19:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Coinsbit",
-                "identifier": "coinsbit",
-                "has_trading_incentive": false
-            },
-            "last": 9.4679,
-            "volume": 130801.43026048,
-            "converted_last": {
-                "btc": 0.00029463,
-                "eth": 0.00754859,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 38.538171,
-                "eth": 987.367,
-                "usd": 1239214
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.153723,
-            "timestamp": "2021-01-23T18:20:21+00:00",
-            "last_traded_at": "2021-01-23T18:20:21+00:00",
-            "last_fetch_at": "2021-01-23T18:20:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinsbit.io/trade/UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
-                "has_trading_incentive": false
-            },
-            "last": 9.4704,
-            "volume": 10194.23392459,
-            "converted_last": {
-                "btc": 0.00029444,
-                "eth": 0.00752948,
-                "usd": 9.47
-            },
-            "converted_volume": {
-                "btc": 3.001582,
-                "eth": 76.757,
-                "usd": 96548
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.306462,
-            "timestamp": "2021-01-23T18:23:50+00:00",
-            "last_traded_at": "2021-01-23T18:23:50+00:00",
-            "last_fetch_at": "2021-01-23T18:23:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
-                "has_trading_incentive": false
-            },
-            "last": 9.4417,
-            "volume": 137545.23818803817,
-            "converted_last": {
-                "btc": 0.00029363,
-                "eth": 0.00752287,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 40.386996,
-                "eth": 1035,
-                "usd": 1298661
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.167249,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/UNI_USD",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "MXC",
-                "identifier": "mxc",
-                "has_trading_incentive": false
-            },
-            "last": 9.4379,
-            "volume": 248160.16,
-            "converted_last": {
-                "btc": 0.0002937,
-                "eth": 0.00752467,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 72.884,
-                "eth": 1867,
-                "usd": 2343478
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.199393,
-            "timestamp": "2021-01-23T18:21:22+00:00",
-            "last_traded_at": "2021-01-23T18:21:22+00:00",
-            "last_fetch_at": "2021-01-23T18:21:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984",
-            "target": "ETH",
-            "market": {
-                "name": "Sushiswap",
-                "identifier": "sushiswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.00750314692530281,
-            "volume": 276230.484824717,
-            "converted_last": {
-                "btc": 0.00029367,
-                "eth": 0.00752405,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 81.121,
-                "eth": 2078,
-                "usd": 2608474
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602765,
-            "timestamp": "2021-01-23T18:19:28+00:00",
-            "last_traded_at": "2021-01-23T18:19:28+00:00",
-            "last_fetch_at": "2021-01-23T18:19:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "token_info_url": "https://sushiswap.fi/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "UNI",
             "target": "BTC",
             "market": {
                 "name": "Coinsbit",
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00029454,
-            "volume": 89490.20581239,
+            "last": 0.00038809,
+            "volume": 88519.20330987,
             "converted_last": {
-                "btc": 0.00029454,
-                "eth": 0.00754626,
-                "usd": 9.47
+                "btc": 0.00038809,
+                "eth": 0.00929398,
+                "usd": 12.56
             },
             "converted_volume": {
-                "btc": 26.358445,
-                "eth": 675.316,
-                "usd": 847569
+                "btc": 34.353418,
+                "eth": 822.696,
+                "usd": 1111970
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.230384,
-            "timestamp": "2021-01-23T18:20:16+00:00",
-            "last_traded_at": "2021-01-23T18:20:16+00:00",
-            "last_fetch_at": "2021-01-23T18:20:16+00:00",
+            "bid_ask_spread_percentage": 0.161792,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/UNI_BTC",
@@ -887,35 +696,288 @@
         },
         {
             "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 12.4704,
+            "volume": 539257.6121856556,
+            "converted_last": {
+                "btc": 0.00038476,
+                "eth": 0.00921451,
+                "usd": 12.47
+            },
+            "converted_volume": {
+                "btc": 207.484,
+                "eth": 4969,
+                "usd": 6724758
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.240176,
+            "timestamp": "2021-01-26T02:59:48+00:00",
+            "last_traded_at": "2021-01-26T02:59:48+00:00",
+            "last_fetch_at": "2021-01-26T02:59:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/UNI_USD",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984",
             "target": "ETH",
+            "market": {
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.00925980066688394,
+            "volume": 601672.210932493,
+            "converted_last": {
+                "btc": 0.00038799,
+                "eth": 0.00929148,
+                "usd": 12.56
+            },
+            "converted_volume": {
+                "btc": 233.44,
+                "eth": 5590,
+                "usd": 7559342
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602755,
+            "timestamp": "2021-01-26T03:06:57+00:00",
+            "last_traded_at": "2021-01-26T03:06:57+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_info_url": "https://sushiswap.fi/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "coin_id": "uniswap",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 12.4588,
+            "volume": 129279.49686804,
+            "converted_last": {
+                "btc": 0.00038467,
+                "eth": 0.00921229,
+                "usd": 12.47
+            },
+            "converted_volume": {
+                "btc": 49.729347,
+                "eth": 1191,
+                "usd": 1611778
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.271461,
+            "timestamp": "2021-01-26T02:59:14+00:00",
+            "last_traded_at": "2021-01-26T02:59:14+00:00",
+            "last_fetch_at": "2021-01-26T02:59:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
             "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.00749,
-            "volume": 83316.11068178603,
+            "last": 0.00038544,
+            "volume": 599729.8891740467,
             "converted_last": {
-                "btc": 0.00029286,
-                "eth": 0.00748907,
-                "usd": 9.42
+                "btc": 0.00038544,
+                "eth": 0.00924421,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 24.399873,
-                "eth": 623.961,
-                "usd": 784853
+                "btc": 231.16,
+                "eth": 5544,
+                "usd": 7482102
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106809,
-            "timestamp": "2021-01-23T18:25:21+00:00",
-            "last_traded_at": "2021-01-23T18:25:21+00:00",
-            "last_fetch_at": "2021-01-23T18:25:21+00:00",
+            "bid_ask_spread_percentage": 0.171326,
+            "timestamp": "2021-01-26T02:56:40+00:00",
+            "last_traded_at": "2021-01-26T02:56:40+00:00",
+            "last_fetch_at": "2021-01-26T02:56:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_eth",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_btc",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 12.4712,
+            "volume": 481413.55,
+            "converted_last": {
+                "btc": 0.00038579,
+                "eth": 0.00923891,
+                "usd": 12.49
+            },
+            "converted_volume": {
+                "btc": 185.725,
+                "eth": 4448,
+                "usd": 6014105
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.43272,
+            "timestamp": "2021-01-26T03:05:08+00:00",
+            "last_traded_at": "2021-01-26T03:05:08+00:00",
+            "last_fetch_at": "2021-01-26T03:05:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 12.561,
+            "volume": 40906.32,
+            "converted_last": {
+                "btc": 0.00038857,
+                "eth": 0.00930543,
+                "usd": 12.58
+            },
+            "converted_volume": {
+                "btc": 15.894896,
+                "eth": 380.651,
+                "usd": 514720
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.496327,
+            "timestamp": "2021-01-26T03:07:12+00:00",
+            "last_traded_at": "2021-01-26T03:07:12+00:00",
+            "last_fetch_at": "2021-01-26T03:07:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/UNI-USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 14010.0,
+            "volume": 822004.35554433,
+            "converted_last": {
+                "btc": 0.00039264,
+                "eth": 0.00940294,
+                "usd": 12.71
+            },
+            "converted_volume": {
+                "btc": 322.752,
+                "eth": 7729,
+                "usd": 10451588
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.357143,
+            "timestamp": "2021-01-26T03:07:33+00:00",
+            "last_traded_at": "2021-01-26T03:07:33+00:00",
+            "last_fetch_at": "2021-01-26T03:07:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/UNI_KRW",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 12.5151,
+            "volume": 1277985.9082,
+            "converted_last": {
+                "btc": 0.00038746,
+                "eth": 0.00927899,
+                "usd": 12.54
+            },
+            "converted_volume": {
+                "btc": 495.174,
+                "eth": 11858,
+                "usd": 16028045
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.131147,
+            "timestamp": "2021-01-26T03:08:15+00:00",
+            "last_traded_at": "2021-01-26T03:08:15+00:00",
+            "last_fetch_at": "2021-01-26T03:08:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 12.518,
+            "volume": 423307.97594054,
+            "converted_last": {
+                "btc": 0.00038686,
+                "eth": 0.00926485,
+                "usd": 12.52
+            },
+            "converted_volume": {
+                "btc": 163.761,
+                "eth": 3922,
+                "usd": 5298969
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.272131,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/uni/usd",
+            "token_info_url": null,
+            "coin_id": "uniswap"
         },
         {
             "base": "UNI",
@@ -925,26 +987,90 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 9.5172,
-            "volume": 21920.588,
+            "last": 12.5388,
+            "volume": 82494.4893,
             "converted_last": {
-                "btc": 0.00029617,
-                "eth": 0.0075879,
-                "usd": 9.52
+                "btc": 0.00038714,
+                "eth": 0.00927144,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 6.492117,
-                "eth": 166.331,
-                "usd": 208744
+                "btc": 31.936535,
+                "eth": 764.843,
+                "usd": 1035095
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.482635,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.356168,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.00038484,
+            "volume": 15465.37,
+            "converted_last": {
+                "btc": 0.00038484,
+                "eth": 0.00921647,
+                "usd": 12.47
+            },
+            "converted_volume": {
+                "btc": 5.951693,
+                "eth": 142.536,
+                "usd": 192900
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.246843,
+            "timestamp": "2021-01-26T02:59:50+00:00",
+            "last_traded_at": "2021-01-26T02:59:50+00:00",
+            "last_fetch_at": "2021-01-26T02:59:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/UNI-to-BTC",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 12.3789,
+            "volume": 2192860.64,
+            "converted_last": {
+                "btc": 0.00038317,
+                "eth": 0.00918966,
+                "usd": 12.4
+            },
+            "converted_volume": {
+                "btc": 840.228,
+                "eth": 20152,
+                "usd": 27192797
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.228751,
+            "timestamp": "2021-01-26T02:55:50+00:00",
+            "last_traded_at": "2021-01-26T02:55:50+00:00",
+            "last_fetch_at": "2021-01-26T02:59:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=UNI_USDT",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -957,23 +1083,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 0.007506,
-            "volume": 127462.3,
+            "last": 0.009292,
+            "volume": 256600.46,
             "converted_last": {
-                "btc": 0.00029378,
-                "eth": 0.00752691,
-                "usd": 9.45
+                "btc": 0.0003885,
+                "eth": 0.00927866,
+                "usd": 12.61
             },
             "converted_volume": {
-                "btc": 37.446491,
-                "eth": 959.397,
-                "usd": 1204108
+                "btc": 99.689,
+                "eth": 2381,
+                "usd": 3236687
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.506194,
-            "timestamp": "2021-01-23T18:22:02+00:00",
-            "last_traded_at": "2021-01-23T18:22:02+00:00",
-            "last_fetch_at": "2021-01-23T18:22:02+00:00",
+            "bid_ask_spread_percentage": 0.515741,
+            "timestamp": "2021-01-26T02:39:29+00:00",
+            "last_traded_at": "2021-01-26T02:39:29+00:00",
+            "last_fetch_at": "2021-01-26T02:39:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#UNI_ETH",
@@ -985,158 +1111,65 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
+                "name": "CoinTiger",
+                "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 9.4418,
-            "volume": 2456921.92,
+            "last": 12.4949,
+            "volume": 28031.38,
             "converted_last": {
-                "btc": 0.00029382,
-                "eth": 0.00752778,
-                "usd": 9.45
+                "btc": 0.00038652,
+                "eth": 0.00925646,
+                "usd": 12.52
             },
             "converted_volume": {
-                "btc": 721.89,
-                "eth": 18495,
-                "usd": 23212727
+                "btc": 10.834786,
+                "eth": 259.471,
+                "usd": 350850
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.013982,
-            "timestamp": "2021-01-23T18:20:17+00:00",
-            "last_traded_at": "2021-01-23T18:20:17+00:00",
-            "last_fetch_at": "2021-01-23T18:23:33+00:00",
+            "bid_ask_spread_percentage": 0.344246,
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=UNI_USDT",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
         },
         {
             "base": "UNI",
-            "target": "USD",
+            "target": "ETH",
             "market": {
-                "name": "Currency.com",
-                "identifier": "currency",
+                "name": "Huobi Global",
+                "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 9.38893,
-            "volume": 8185.03,
+            "last": 0.009215,
+            "volume": 223221.58978577243,
             "converted_last": {
-                "btc": 0.00029175,
-                "eth": 0.00749817,
-                "usd": 9.39
+                "btc": 0.00038445,
+                "eth": 0.00922046,
+                "usd": 12.44
             },
             "converted_volume": {
-                "btc": 2.387968,
-                "eth": 61.373,
-                "usd": 76849
+                "btc": 85.817,
+                "eth": 2058,
+                "usd": 2777711
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.213594,
-            "timestamp": "2021-01-23T18:16:27+00:00",
-            "last_traded_at": "2021-01-23T18:16:27+00:00",
-            "last_fetch_at": "2021-01-23T18:24:31+00:00",
+            "bid_ask_spread_percentage": 0.162514,
+            "timestamp": "2021-01-26T02:56:42+00:00",
+            "last_traded_at": "2021-01-26T02:56:42+00:00",
+            "last_fetch_at": "2021-01-26T02:56:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.currency.com/uni-to-usd",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 9.461,
-            "volume": 149764.01516103,
-            "converted_last": {
-                "btc": 0.00029424,
-                "eth": 0.00753869,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 44.06726,
-                "eth": 1129,
-                "usd": 1416917
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.285926,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/uni/usd",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "KRW",
-            "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
-                "has_trading_incentive": false
-            },
-            "last": 10500.0,
-            "volume": 196271.06164503,
-            "converted_last": {
-                "btc": 0.00029538,
-                "eth": 0.00756787,
-                "usd": 9.5
-            },
-            "converted_volume": {
-                "btc": 57.975,
-                "eth": 1485,
-                "usd": 1864108
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.383142,
-            "timestamp": "2021-01-23T18:21:15+00:00",
-            "last_traded_at": "2021-01-23T18:21:15+00:00",
-            "last_fetch_at": "2021-01-23T18:21:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/UNI_KRW",
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002935,
-            "volume": 884904.98476,
-            "converted_last": {
-                "btc": 0.0002935,
-                "eth": 0.00751961,
-                "usd": 9.44
-            },
-            "converted_volume": {
-                "btc": 259.72,
-                "eth": 6654,
-                "usd": 8351410
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.543294,
-            "timestamp": "2021-01-23T18:20:37+00:00",
-            "last_traded_at": "2021-01-23T18:20:37+00:00",
-            "last_fetch_at": "2021-01-23T18:20:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=uni_btc",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_eth",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "UNI",
@@ -1146,121 +1179,26 @@
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 9.4361,
-            "volume": 82468.50106304511,
+            "last": 12.4695,
+            "volume": 214502.78021404226,
             "converted_last": {
-                "btc": 0.00029364,
-                "eth": 0.00752324,
-                "usd": 9.44
+                "btc": 0.000385,
+                "eth": 0.0092202,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 24.216177,
-                "eth": 620.43,
-                "usd": 778681
+                "btc": 82.583,
+                "eth": 1978,
+                "usd": 2676587
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.26163,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.239504,
+            "timestamp": "2021-01-26T02:59:47+00:00",
+            "last_traded_at": "2021-01-26T02:59:47+00:00",
+            "last_fetch_at": "2021-01-26T02:59:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.us/en/trade/UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
-                "has_trading_incentive": false
-            },
-            "last": 9.4046,
-            "volume": 900708.7919,
-            "converted_last": {
-                "btc": 0.00029239,
-                "eth": 0.00747717,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 263.361,
-                "eth": 6735,
-                "usd": 8471066
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143573,
-            "timestamp": "2021-01-23T18:24:12+00:00",
-            "last_traded_at": "2021-01-23T18:24:12+00:00",
-            "last_fetch_at": "2021-01-23T18:24:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "IDR",
-            "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
-                "has_trading_incentive": false
-            },
-            "last": 131734.0,
-            "volume": 36123.29643703,
-            "converted_last": {
-                "btc": 0.0002921,
-                "eth": 0.00746963,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 10.551562,
-                "eth": 269.828,
-                "usd": 339393
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.528232,
-            "timestamp": "2021-01-23T18:24:43+00:00",
-            "last_traded_at": "2021-01-23T18:24:43+00:00",
-            "last_fetch_at": "2021-01-23T18:24:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "uniswap"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Serum DEX",
-                "identifier": "serum_dex",
-                "has_trading_incentive": false
-            },
-            "last": 9.4535,
-            "volume": 3133.76,
-            "converted_last": {
-                "btc": 0.00029418,
-                "eth": 0.00753711,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 0.92189891,
-                "eth": 23.619494,
-                "usd": 29642
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.101667,
-            "timestamp": "2021-01-23T18:21:18+00:00",
-            "last_traded_at": "2021-01-23T18:21:18+00:00",
-            "last_fetch_at": "2021-01-23T18:21:18+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://dex.projectserum.com",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -1273,23 +1211,23 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 9.4292,
-            "volume": 558534.57391851,
+            "last": 12.4843,
+            "volume": 616243.76885928,
             "converted_last": {
-                "btc": 0.00029316,
-                "eth": 0.00749673,
-                "usd": 9.43
+                "btc": 0.0003862,
+                "eth": 0.00924861,
+                "usd": 12.51
             },
             "converted_volume": {
-                "btc": 163.739,
-                "eth": 4187,
-                "usd": 5266793
+                "btc": 237.991,
+                "eth": 5699,
+                "usd": 7706787
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.215563,
-            "timestamp": "2021-01-23T18:23:30+00:00",
-            "last_traded_at": "2021-01-23T18:23:30+00:00",
-            "last_fetch_at": "2021-01-23T18:23:30+00:00",
+            "bid_ask_spread_percentage": 0.359489,
+            "timestamp": "2021-01-26T03:07:06+00:00",
+            "last_traded_at": "2021-01-26T03:07:06+00:00",
+            "last_fetch_at": "2021-01-26T03:07:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/UNISWAP_USDT",
@@ -1299,67 +1237,67 @@
         },
         {
             "base": "UNI",
-            "target": "BNB",
+            "target": "USDT",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "BKEX",
+                "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 0.23114,
-            "volume": 24523.860063165183,
+            "last": 12.4671,
+            "volume": 733447.4805,
             "converted_last": {
-                "btc": 0.00029302,
-                "eth": 0.00749309,
-                "usd": 9.43
+                "btc": 0.00038566,
+                "eth": 0.00923587,
+                "usd": 12.49
             },
             "converted_volume": {
-                "btc": 7.185888,
-                "eth": 183.76,
-                "usd": 231143
+                "btc": 282.864,
+                "eth": 6774,
+                "usd": 9159650
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237571,
-            "timestamp": "2021-01-23T18:25:30+00:00",
-            "last_traded_at": "2021-01-23T18:25:30+00:00",
-            "last_fetch_at": "2021-01-23T18:25:30+00:00",
+            "bid_ask_spread_percentage": 0.201209,
+            "timestamp": "2021-01-26T03:05:43+00:00",
+            "last_traded_at": "2021-01-26T03:05:43+00:00",
+            "last_fetch_at": "2021-01-26T03:05:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/UNI_BNB",
+            "trade_url": "https://www.bkex.com/#/trade/UNI_USDT",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "binancecoin"
+            "target_coin_id": "tether"
         },
         {
             "base": "UNI",
-            "target": "USDC",
+            "target": "ETH",
             "market": {
-                "name": "Serum DEX",
-                "identifier": "serum_dex",
+                "name": "Hoo.com",
+                "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 9.412,
-            "volume": 3196.0,
+            "last": 0.009191,
+            "volume": 144610.49539201392,
             "converted_last": {
-                "btc": 0.00029267,
-                "eth": 0.00749829,
-                "usd": 9.41
+                "btc": 0.00038299,
+                "eth": 0.00916602,
+                "usd": 12.54
             },
             "converted_volume": {
-                "btc": 0.93536567,
-                "eth": 23.964519,
-                "usd": 30075
+                "btc": 55.384,
+                "eth": 1326,
+                "usd": 1812854
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.15184,
-            "timestamp": "2021-01-23T18:21:18+00:00",
-            "last_traded_at": "2021-01-23T18:21:18+00:00",
-            "last_fetch_at": "2021-01-23T18:21:18+00:00",
+            "bid_ask_spread_percentage": 0.433839,
+            "timestamp": "2021-01-26T01:48:10+00:00",
+            "last_traded_at": "2021-01-26T01:48:10+00:00",
+            "last_fetch_at": "2021-01-26T01:48:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://dex.projectserum.com",
+            "trade_url": "https://hoo.com/spot/uni-eth",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "usd-coin"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "UNI",
@@ -1369,23 +1307,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 265.8915,
-            "volume": 42292.98,
+            "last": 348.4225,
+            "volume": 88970.85,
             "converted_last": {
-                "btc": 0.00029333,
-                "eth": 0.00750101,
-                "usd": 9.44
+                "btc": 0.00038155,
+                "eth": 0.00913776,
+                "usd": 12.37
             },
             "converted_volume": {
-                "btc": 12.405614,
-                "eth": 317.24,
-                "usd": 399036
+                "btc": 33.947139,
+                "eth": 812.995,
+                "usd": 1100261
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.276872,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
+            "bid_ask_spread_percentage": 0.276868,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/UNI_UAH",
@@ -1400,23 +1338,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.000295,
-            "volume": 11482.5686724,
+            "last": 0.0003867,
+            "volume": 97978.08616541,
             "converted_last": {
-                "btc": 0.000295,
-                "eth": 0.00755804,
-                "usd": 9.49
+                "btc": 0.0003867,
+                "eth": 0.00926102,
+                "usd": 12.51
             },
             "converted_volume": {
-                "btc": 3.387358,
-                "eth": 86.786,
-                "usd": 108915
+                "btc": 37.888126,
+                "eth": 907.377,
+                "usd": 1225982
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.272387,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.336613,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/uni/xbt",
@@ -1432,122 +1370,26 @@
                 "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 9.4347,
-            "volume": 255481.16261029022,
+            "last": 12.4769,
+            "volume": 221670.45497717676,
             "converted_last": {
-                "btc": 0.00029275,
-                "eth": 0.007532,
-                "usd": 9.44
+                "btc": 0.00038522,
+                "eth": 0.00922567,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 74.791,
-                "eth": 1924,
-                "usd": 2411765
+                "btc": 85.393,
+                "eth": 2045,
+                "usd": 2767426
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.459167,
-            "timestamp": "2021-01-23T18:10:51+00:00",
-            "last_traded_at": "2021-01-23T18:10:51+00:00",
-            "last_fetch_at": "2021-01-23T18:10:51+00:00",
+            "bid_ask_spread_percentage": 0.371028,
+            "timestamp": "2021-01-26T03:00:45+00:00",
+            "last_traded_at": "2021-01-26T03:00:45+00:00",
+            "last_fetch_at": "2021-01-26T03:00:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hoo.com/spot/uni-usdt",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
-                "has_trading_incentive": false
-            },
-            "last": 9.4085,
-            "volume": 73153.21,
-            "converted_last": {
-                "btc": 0.00029251,
-                "eth": 0.00748027,
-                "usd": 9.41
-            },
-            "converted_volume": {
-                "btc": 21.398386,
-                "eth": 547.206,
-                "usd": 688283
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.259771,
-            "timestamp": "2021-01-23T18:24:47+00:00",
-            "last_traded_at": "2021-01-23T18:24:47+00:00",
-            "last_fetch_at": "2021-01-23T18:24:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "ETH",
-            "market": {
-                "name": "Hoo.com",
-                "identifier": "hoo",
-                "has_trading_incentive": false
-            },
-            "last": 0.007372,
-            "volume": 187594.7262668611,
-            "converted_last": {
-                "btc": 0.00028721,
-                "eth": 0.00742537,
-                "usd": 9.26
-            },
-            "converted_volume": {
-                "btc": 53.88,
-                "eth": 1393,
-                "usd": 1737673
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.880162,
-            "timestamp": "2021-01-23T18:02:43+00:00",
-            "last_traded_at": "2021-01-23T18:02:43+00:00",
-            "last_fetch_at": "2021-01-23T18:02:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hoo.com/spot/uni-eth",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 9.454,
-            "volume": 35285.76,
-            "converted_last": {
-                "btc": 0.0002942,
-                "eth": 0.00753751,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 10.38102,
-                "eth": 265.967,
-                "usd": 333786
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.423729,
-            "timestamp": "2021-01-23T18:21:47+00:00",
-            "last_traded_at": "2021-01-23T18:21:47+00:00",
-            "last_fetch_at": "2021-01-23T18:21:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/uni",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -1560,23 +1402,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 715.6645,
-            "volume": 35360.21,
+            "last": 946.9468,
+            "volume": 72229.94,
             "converted_last": {
-                "btc": 0.00029561,
-                "eth": 0.00755951,
-                "usd": 9.51
+                "btc": 0.00038794,
+                "eth": 0.00929062,
+                "usd": 12.57
             },
             "converted_volume": {
-                "btc": 10.452949,
-                "eth": 267.306,
-                "usd": 336227
+                "btc": 28.020609,
+                "eth": 671.061,
+                "usd": 908176
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.690749,
-            "timestamp": "2021-01-23T18:23:51+00:00",
-            "last_traded_at": "2021-01-23T18:23:51+00:00",
-            "last_fetch_at": "2021-01-23T18:23:51+00:00",
+            "bid_ask_spread_percentage": 0.415016,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/UNI_RUB",
@@ -1585,95 +1427,64 @@
         },
         {
             "base": "UNI",
-            "target": "USDT",
+            "target": "BNB",
             "market": {
-                "name": "BW.com",
-                "identifier": "bw",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 9.412,
-            "volume": 1147118.28,
+            "last": 0.29551,
+            "volume": 89465.52727488072,
             "converted_last": {
-                "btc": 0.00029262,
-                "eth": 0.00749715,
-                "usd": 9.41
+                "btc": 0.00038579,
+                "eth": 0.00923886,
+                "usd": 12.49
             },
             "converted_volume": {
-                "btc": 335.674,
-                "eth": 8600,
-                "usd": 10793730
+                "btc": 34.514754,
+                "eth": 826.559,
+                "usd": 1117669
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.173228,
-            "timestamp": "2021-01-23T18:22:59+00:00",
-            "last_traded_at": "2021-01-23T18:22:59+00:00",
-            "last_fetch_at": "2021-01-23T18:22:59+00:00",
+            "bid_ask_spread_percentage": 0.343273,
+            "timestamp": "2021-01-26T03:06:40+00:00",
+            "last_traded_at": "2021-01-26T03:06:40+00:00",
+            "last_fetch_at": "2021-01-26T03:06:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/uni_usdt",
+            "trade_url": "https://www.binance.com/en/trade/UNI_BNB",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USD",
-            "market": {
-                "name": "OKCoin",
-                "identifier": "okcoin",
-                "has_trading_incentive": false
-            },
-            "last": 9.457,
-            "volume": 102.8295,
-            "converted_last": {
-                "btc": 0.00029412,
-                "eth": 0.0075355,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 0.03024424,
-                "eth": 0.77487195,
-                "usd": 972.46
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.51819,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okcoin.com/market#product=uni_usd",
-            "token_info_url": null,
-            "coin_id": "uniswap"
+            "target_coin_id": "binancecoin"
         },
         {
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "BitMax",
+                "identifier": "bitmax",
                 "has_trading_incentive": false
             },
-            "last": 9.4073,
-            "volume": 283009.3716,
+            "last": 12.498,
+            "volume": 52332.76,
             "converted_last": {
-                "btc": 0.00029248,
-                "eth": 0.00747931,
-                "usd": 9.41
+                "btc": 0.00038662,
+                "eth": 0.00925876,
+                "usd": 12.52
             },
             "converted_volume": {
-                "btc": 82.774,
-                "eth": 2117,
-                "usd": 2662485
+                "btc": 20.232857,
+                "eth": 484.536,
+                "usd": 655195
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.201724,
-            "timestamp": "2021-01-23T18:23:28+00:00",
-            "last_traded_at": "2021-01-23T18:23:28+00:00",
-            "last_fetch_at": "2021-01-23T18:23:28+00:00",
+            "bid_ask_spread_percentage": 0.476266,
+            "timestamp": "2021-01-26T03:07:18+00:00",
+            "last_traded_at": "2021-01-26T03:07:18+00:00",
+            "last_fetch_at": "2021-01-26T03:07:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/UNI_USDT",
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/uni",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -1686,23 +1497,23 @@
                 "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 9.44,
-            "volume": 23894.74662076271,
+            "last": 12.51,
+            "volume": 51404.92476418865,
             "converted_last": {
-                "btc": 0.00029357,
-                "eth": 0.00752151,
-                "usd": 9.44
+                "btc": 0.00038632,
+                "eth": 0.00925163,
+                "usd": 12.51
             },
             "converted_volume": {
-                "btc": 7.01488,
-                "eth": 179.725,
-                "usd": 225566
+                "btc": 19.85883,
+                "eth": 475.579,
+                "usd": 643076
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.40131,
-            "timestamp": "2021-01-23T18:22:30+00:00",
-            "last_traded_at": "2021-01-23T18:22:30+00:00",
-            "last_fetch_at": "2021-01-23T18:22:30+00:00",
+            "bid_ask_spread_percentage": 0.143187,
+            "timestamp": "2021-01-26T03:06:42+00:00",
+            "last_traded_at": "2021-01-26T03:06:42+00:00",
+            "last_fetch_at": "2021-01-26T03:06:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://ftx.com/trade/UNI/USD",
@@ -1713,30 +1524,30 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
+                "name": "Virgox",
+                "identifier": "virgox",
                 "has_trading_incentive": false
             },
-            "last": 9.4449,
-            "volume": 40842.64894102,
+            "last": 12.4511,
+            "volume": 68128.08,
             "converted_last": {
-                "btc": 0.00029392,
-                "eth": 0.00753025,
-                "usd": 9.45
+                "btc": 0.00038579,
+                "eth": 0.00923893,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 12.004282,
-                "eth": 307.556,
-                "usd": 385980
+                "btc": 26.283217,
+                "eth": 629.43,
+                "usd": 850464
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356546,
-            "timestamp": "2021-01-23T18:21:11+00:00",
-            "last_traded_at": "2021-01-23T18:21:11+00:00",
-            "last_fetch_at": "2021-01-23T18:21:11+00:00",
+            "bid_ask_spread_percentage": 0.296964,
+            "timestamp": "2021-01-26T03:04:47+00:00",
+            "last_traded_at": "2021-01-26T03:04:47+00:00",
+            "last_fetch_at": "2021-01-26T03:04:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=UNI#limit",
+            "trade_url": "https://virgox.com/exchange",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -1745,30 +1556,125 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 9.4338,
-            "volume": 51676.088,
+            "last": 12.499,
+            "volume": 75159.05,
             "converted_last": {
-                "btc": 0.00029361,
-                "eth": 0.00750837,
-                "usd": 9.44
+                "btc": 0.00038665,
+                "eth": 0.0092595,
+                "usd": 12.52
             },
             "converted_volume": {
-                "btc": 15.172794,
-                "eth": 388.003,
-                "usd": 488052
+                "btc": 29.060268,
+                "eth": 695.935,
+                "usd": 941040
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.389051,
-            "timestamp": "2021-01-23T18:25:44+00:00",
-            "last_traded_at": "2021-01-23T18:25:44+00:00",
-            "last_fetch_at": "2021-01-23T18:25:44+00:00",
+            "bid_ask_spread_percentage": 0.247265,
+            "timestamp": "2021-01-26T03:06:50+00:00",
+            "last_traded_at": "2021-01-26T03:06:50+00:00",
+            "last_fetch_at": "2021-01-26T03:06:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=UNI_USDT",
+            "trade_url": "https://bilaxy.com/trade/UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 177142.0,
+            "volume": 110456.17260729,
+            "converted_last": {
+                "btc": 0.00038784,
+                "eth": 0.0092884,
+                "usd": 12.57
+            },
+            "converted_volume": {
+                "btc": 42.839704,
+                "eth": 1026,
+                "usd": 1388478
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.503551,
+            "timestamp": "2021-01-26T02:59:07+00:00",
+            "last_traded_at": "2021-01-26T02:59:07+00:00",
+            "last_fetch_at": "2021-01-26T02:59:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.00038707,
+            "volume": 73963.16870333531,
+            "converted_last": {
+                "btc": 0.00038707,
+                "eth": 0.00926955,
+                "usd": 12.52
+            },
+            "converted_volume": {
+                "btc": 28.628924,
+                "eth": 685.605,
+                "usd": 926366
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.377759,
+            "timestamp": "2021-01-26T03:04:39+00:00",
+            "last_traded_at": "2021-01-26T03:04:39+00:00",
+            "last_fetch_at": "2021-01-26T03:04:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/UNI_BTC",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Serum DEX",
+                "identifier": "serum_dex",
+                "has_trading_incentive": false
+            },
+            "last": 12.4791,
+            "volume": 16347.66,
+            "converted_last": {
+                "btc": 0.00038529,
+                "eth": 0.0092273,
+                "usd": 12.49
+            },
+            "converted_volume": {
+                "btc": 6.298625,
+                "eth": 150.845,
+                "usd": 204127
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.251841,
+            "timestamp": "2021-01-26T03:00:55+00:00",
+            "last_traded_at": "2021-01-26T03:00:55+00:00",
+            "last_fetch_at": "2021-01-26T03:00:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dex.projectserum.com",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -1781,28 +1687,219 @@
                 "identifier": "cex",
                 "has_trading_incentive": false
             },
-            "last": 9.4687,
-            "volume": 2702.687415,
+            "last": 12.4088,
+            "volume": 11376.173783,
             "converted_last": {
-                "btc": 0.00029401,
-                "eth": 0.00755632,
-                "usd": 9.47
+                "btc": 0.00038335,
+                "eth": 0.00919397,
+                "usd": 12.41
             },
             "converted_volume": {
-                "btc": 0.794619,
-                "eth": 20.422365,
-                "usd": 25591
+                "btc": 4.361005,
+                "eth": 104.592,
+                "usd": 141165
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.145103,
-            "timestamp": "2021-01-23T18:14:01+00:00",
-            "last_traded_at": "2021-01-23T18:14:01+00:00",
-            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "bid_ask_spread_percentage": 0.952989,
+            "timestamp": "2021-01-26T02:57:09+00:00",
+            "last_traded_at": "2021-01-26T02:57:09+00:00",
+            "last_fetch_at": "2021-01-26T03:05:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "USD",
+            "market": {
+                "name": "OKCoin",
+                "identifier": "okcoin",
+                "has_trading_incentive": false
+            },
+            "last": 12.511,
+            "volume": 1591.1437,
+            "converted_last": {
+                "btc": 0.00038652,
+                "eth": 0.00925632,
+                "usd": 12.51
+            },
+            "converted_volume": {
+                "btc": 0.61500456,
+                "eth": 14.728129,
+                "usd": 19906.8
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.628131,
+            "timestamp": "2021-01-26T03:08:25+00:00",
+            "last_traded_at": "2021-01-26T03:08:25+00:00",
+            "last_fetch_at": "2021-01-26T03:08:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okcoin.com/market#product=uni_usd",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 12.42,
+            "volume": 38778.567717391306,
+            "converted_last": {
+                "btc": 0.00038421,
+                "eth": 0.00920098,
+                "usd": 12.44
+            },
+            "converted_volume": {
+                "btc": 14.898976,
+                "eth": 356.801,
+                "usd": 482464
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.294094,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/UNI/USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 12.5098,
+            "volume": 54906.98335701,
+            "converted_last": {
+                "btc": 0.00038761,
+                "eth": 0.00928281,
+                "usd": 12.54
+            },
+            "converted_volume": {
+                "btc": 21.282498,
+                "eth": 509.691,
+                "usd": 688658
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.4026,
+            "timestamp": "2021-01-26T03:03:41+00:00",
+            "last_traded_at": "2021-01-26T03:03:41+00:00",
+            "last_fetch_at": "2021-01-26T03:03:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=UNI#limit",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 12.5382,
+            "volume": 48649.229,
+            "converted_last": {
+                "btc": 0.00038786,
+                "eth": 0.00928854,
+                "usd": 12.56
+            },
+            "converted_volume": {
+                "btc": 18.869232,
+                "eth": 451.88,
+                "usd": 611030
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.617899,
+            "timestamp": "2021-01-26T03:06:16+00:00",
+            "last_traded_at": "2021-01-26T03:06:16+00:00",
+            "last_fetch_at": "2021-01-26T03:06:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.00038678,
+            "volume": 14638.0,
+            "converted_last": {
+                "btc": 0.00038678,
+                "eth": 0.00926293,
+                "usd": 12.53
+            },
+            "converted_volume": {
+                "btc": 5.661686,
+                "eth": 135.591,
+                "usd": 183446
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.817031,
+            "timestamp": "2021-01-26T03:01:39+00:00",
+            "last_traded_at": "2021-01-26T03:01:39+00:00",
+            "last_fetch_at": "2021-01-26T03:01:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00038806,
+            "volume": 46967.45421446,
+            "converted_last": {
+                "btc": 0.00038806,
+                "eth": 0.00929326,
+                "usd": 12.56
+            },
+            "converted_volume": {
+                "btc": 18.22619,
+                "eth": 436.481,
+                "usd": 589955
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.56995,
+            "timestamp": "2021-01-26T03:08:23+00:00",
+            "last_traded_at": "2021-01-26T03:08:23+00:00",
+            "last_fetch_at": "2021-01-26T03:08:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-UNI",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "UNI",
@@ -1812,23 +1909,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.007501,
-            "volume": 33908.73241,
+            "last": 0.009203,
+            "volume": 63981.04679,
             "converted_last": {
-                "btc": 0.00029359,
-                "eth": 0.0075219,
-                "usd": 9.44
+                "btc": 0.00038413,
+                "eth": 0.00919954,
+                "usd": 12.43
             },
             "converted_volume": {
-                "btc": 9.955236,
-                "eth": 255.058,
-                "usd": 320115
+                "btc": 24.577246,
+                "eth": 588.596,
+                "usd": 795274
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106596,
-            "timestamp": "2021-01-23T18:20:39+00:00",
-            "last_traded_at": "2021-01-23T18:20:39+00:00",
-            "last_fetch_at": "2021-01-23T18:20:39+00:00",
+            "bid_ask_spread_percentage": 0.452684,
+            "timestamp": "2021-01-26T03:02:49+00:00",
+            "last_traded_at": "2021-01-26T03:02:49+00:00",
+            "last_fetch_at": "2021-01-26T03:02:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=uni_eth",
@@ -1844,23 +1941,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.00748,
-            "volume": 14424.86735046,
+            "last": 0.00928,
+            "volume": 50541.570652,
             "converted_last": {
-                "btc": 0.00029277,
-                "eth": 0.00750084,
-                "usd": 9.41
+                "btc": 0.00038735,
+                "eth": 0.00927652,
+                "usd": 12.53
             },
             "converted_volume": {
-                "btc": 4.223128,
-                "eth": 108.199,
-                "usd": 135788
+                "btc": 19.577136,
+                "eth": 468.85,
+                "usd": 633476
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.266667,
-            "timestamp": "2021-01-23T18:21:44+00:00",
-            "last_traded_at": "2021-01-23T18:21:44+00:00",
-            "last_fetch_at": "2021-01-23T18:21:44+00:00",
+            "bid_ask_spread_percentage": 0.541126,
+            "timestamp": "2021-01-26T03:03:31+00:00",
+            "last_traded_at": "2021-01-26T03:03:31+00:00",
+            "last_fetch_at": "2021-01-26T03:03:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/uni/eth",
@@ -1870,323 +1967,99 @@
         },
         {
             "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 9.394,
-            "volume": 22653.34864807324,
-            "converted_last": {
-                "btc": 0.00029233,
-                "eth": 0.00748967,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 6.622286,
-                "eth": 169.666,
-                "usd": 212942
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.296265,
-            "timestamp": "2021-01-23T18:22:31+00:00",
-            "last_traded_at": "2021-01-23T18:22:31+00:00",
-            "last_fetch_at": "2021-01-23T18:22:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/UNI/USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
-                "has_trading_incentive": false
-            },
-            "last": 0.00029405,
-            "volume": 21608.0106104404,
-            "converted_last": {
-                "btc": 0.00029405,
-                "eth": 0.0075337,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 6.353836,
-                "eth": 162.788,
-                "usd": 204310
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.496869,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/UNI_BTC",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 9.4067,
-            "volume": 165687.28,
-            "converted_last": {
-                "btc": 0.00029246,
-                "eth": 0.00747884,
-                "usd": 9.41
-            },
-            "converted_volume": {
-                "btc": 48.456686,
-                "eth": 1239,
-                "usd": 1558618
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194086,
-            "timestamp": "2021-01-23T18:24:25+00:00",
-            "last_traded_at": "2021-01-23T18:24:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/uni_usdt",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Virgox",
-                "identifier": "virgox",
-                "has_trading_incentive": false
-            },
-            "last": 9.4225,
-            "volume": 14599.46,
-            "converted_last": {
-                "btc": 0.00029322,
-                "eth": 0.00751239,
-                "usd": 9.43
-            },
-            "converted_volume": {
-                "btc": 4.280829,
-                "eth": 109.677,
-                "usd": 137644
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.275689,
-            "timestamp": "2021-01-23T18:21:42+00:00",
-            "last_traded_at": "2021-01-23T18:21:42+00:00",
-            "last_fetch_at": "2021-01-23T18:21:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://virgox.com/exchange",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002926,
-            "volume": 29937.634,
-            "converted_last": {
-                "btc": 0.0002926,
-                "eth": 0.00748245,
-                "usd": 9.41
-            },
-            "converted_volume": {
-                "btc": 8.759752,
-                "eth": 224.007,
-                "usd": 281769
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.856386,
-            "timestamp": "2021-01-23T18:25:30+00:00",
-            "last_traded_at": "2021-01-23T18:25:30+00:00",
-            "last_fetch_at": "2021-01-23T18:25:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=UNI_BTC",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "GokuMarket",
-                "identifier": "goku",
-                "has_trading_incentive": false
-            },
-            "last": 0.00029292,
-            "volume": 172301.67619722796,
-            "converted_last": {
-                "btc": 0.00029292,
-                "eth": 0.00750475,
-                "usd": 9.42
-            },
-            "converted_volume": {
-                "btc": 50.471,
-                "eth": 1293,
-                "usd": 1622904
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.103414,
-            "timestamp": "2021-01-23T18:22:32+00:00",
-            "last_traded_at": "2021-01-23T18:22:32+00:00",
-            "last_fetch_at": "2021-01-23T18:22:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.gokumarket.com/exchange/UNI_BTC",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "UNI",
-            "target": "HUSD",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 9.4072,
-            "volume": 68105.97530278443,
-            "converted_last": {
-                "btc": 0.00029223,
-                "eth": 0.00747306,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 19.902788,
-                "eth": 508.96,
-                "usd": 640198
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.196272,
-            "timestamp": "2021-01-23T18:25:16+00:00",
-            "last_traded_at": "2021-01-23T18:25:16+00:00",
-            "last_fetch_at": "2021-01-23T18:25:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_husd",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "husd"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "BigONE",
-                "identifier": "bigone",
-                "has_trading_incentive": false
-            },
-            "last": 9.4505,
-            "volume": 22531.61,
-            "converted_last": {
-                "btc": 0.00029409,
-                "eth": 0.00753472,
-                "usd": 9.46
-            },
-            "converted_volume": {
-                "btc": 6.626313,
-                "eth": 169.769,
-                "usd": 213059
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.338592,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://big.one/trade/UNI-USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
+            "target": "ETH",
             "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.00029172,
-            "volume": 4417.11439934,
+            "last": 0.00922783,
+            "volume": 2674.23303605,
             "converted_last": {
-                "btc": 0.00029172,
-                "eth": 0.00745995,
-                "usd": 9.38
+                "btc": 0.00038499,
+                "eth": 0.00921995,
+                "usd": 12.46
             },
             "converted_volume": {
-                "btc": 1.288561,
-                "eth": 32.951439,
-                "usd": 41447
+                "btc": 1.02954,
+                "eth": 24.656282,
+                "usd": 33329
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.947755,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
+            "bid_ask_spread_percentage": 1.241576,
+            "timestamp": "2021-01-26T02:58:21+00:00",
+            "last_traded_at": "2021-01-26T02:58:21+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-UNI",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-UNI",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "ethereum"
         },
         {
             "base": "UNI",
-            "target": "BTC",
+            "target": "CRO",
             "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.0002936,
-            "volume": 24985.93225764,
+            "last": 176.731,
+            "volume": 3117.68,
             "converted_last": {
-                "btc": 0.0002936,
-                "eth": 0.00750802,
-                "usd": 9.44
+                "btc": 0.00038358,
+                "eth": 0.00918618,
+                "usd": 12.43
             },
             "converted_volume": {
-                "btc": 7.33587,
-                "eth": 187.595,
-                "usd": 235964
+                "btc": 1.195865,
+                "eth": 28.639581,
+                "usd": 38759
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.870926,
-            "timestamp": "2021-01-23T18:23:31+00:00",
-            "last_traded_at": "2021-01-23T18:23:31+00:00",
-            "last_fetch_at": "2021-01-23T18:25:46+00:00",
+            "bid_ask_spread_percentage": 1.108971,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-UNI",
+            "trade_url": "https://crypto.com/exchange/trade/spot/UNI_CRO",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "crypto-com-chain"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 12.40908002,
+            "volume": 5886.61174082,
+            "converted_last": {
+                "btc": 0.00038387,
+                "eth": 0.00919289,
+                "usd": 12.43
+            },
+            "converted_volume": {
+                "btc": 2.259686,
+                "eth": 54.115,
+                "usd": 73174
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.324421,
+            "timestamp": "2021-01-26T03:06:37+00:00",
+            "last_traded_at": "2021-01-26T03:06:37+00:00",
+            "last_fetch_at": "2021-01-26T03:06:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#uni_usdt",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
         },
         {
             "base": "UNI",
@@ -2196,23 +2069,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.007529,
-            "volume": 8242.56241439,
+            "last": 0.0092481,
+            "volume": 40502.33308173,
             "converted_last": {
-                "btc": 0.00029469,
-                "eth": 0.00754997,
-                "usd": 9.48
+                "btc": 0.00038768,
+                "eth": 0.00928417,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 2.42896,
-                "eth": 62.231,
-                "usd": 78104
+                "btc": 15.701959,
+                "eth": 376.03,
+                "usd": 508249
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.885366,
-            "timestamp": "2021-01-23T18:22:00+00:00",
-            "last_traded_at": "2021-01-23T18:22:00+00:00",
-            "last_fetch_at": "2021-01-23T18:22:00+00:00",
+            "bid_ask_spread_percentage": 0.772051,
+            "timestamp": "2021-01-26T03:08:13+00:00",
+            "last_traded_at": "2021-01-26T03:08:13+00:00",
+            "last_fetch_at": "2021-01-26T03:08:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/UNI_ETH",
@@ -2228,23 +2101,23 @@
                 "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 0.0002924,
-            "volume": 2202.674042408,
+            "last": 0.0003908,
+            "volume": 1498.522082907,
             "converted_last": {
-                "btc": 0.0002924,
-                "eth": 0.00749143,
-                "usd": 9.4
+                "btc": 0.0003908,
+                "eth": 0.00935888,
+                "usd": 12.66
             },
             "converted_volume": {
-                "btc": 0.64406189,
-                "eth": 16.501176,
-                "usd": 20710
+                "btc": 0.58562243,
+                "eth": 14.024485,
+                "usd": 18963.83
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.627119,
-            "timestamp": "2021-01-23T18:22:29+00:00",
-            "last_traded_at": "2021-01-23T18:22:29+00:00",
-            "last_fetch_at": "2021-01-23T18:22:29+00:00",
+            "bid_ask_spread_percentage": 0.128634,
+            "timestamp": "2021-01-26T03:06:42+00:00",
+            "last_traded_at": "2021-01-26T03:06:42+00:00",
+            "last_fetch_at": "2021-01-26T03:06:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://ftx.com/trade/UNI/BTC",
@@ -2254,98 +2127,131 @@
         },
         {
             "base": "UNI",
-            "target": "USD",
+            "target": "BTC",
             "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 9.497,
-            "volume": 2467.65742266,
+            "last": 0.0003819,
+            "volume": 11752.46267225,
             "converted_last": {
-                "btc": 0.00029526,
-                "eth": 0.0075504,
-                "usd": 9.5
+                "btc": 0.0003819,
+                "eth": 0.00914574,
+                "usd": 12.37
             },
             "converted_volume": {
-                "btc": 0.72859337,
-                "eth": 18.631797,
-                "usd": 23435
+                "btc": 4.488265,
+                "eth": 107.485,
+                "usd": 145342
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.390352,
-            "timestamp": "2021-01-23T18:24:37+00:00",
-            "last_traded_at": "2021-01-23T18:24:37+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "bid_ask_spread_percentage": 1.291725,
+            "timestamp": "2021-01-26T03:07:01+00:00",
+            "last_traded_at": "2021-01-26T03:07:01+00:00",
+            "last_fetch_at": "2021-01-26T03:07:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-UNI",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-UNI",
             "token_info_url": null,
-            "coin_id": "uniswap"
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00038588,
+            "volume": 61511.239,
+            "converted_last": {
+                "btc": 0.00038588,
+                "eth": 0.00924105,
+                "usd": 12.5
+            },
+            "converted_volume": {
+                "btc": 23.735957,
+                "eth": 568.429,
+                "usd": 768626
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.493408,
+            "timestamp": "2021-01-26T03:06:30+00:00",
+            "last_traded_at": "2021-01-26T03:06:30+00:00",
+            "last_fetch_at": "2021-01-26T03:06:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=UNI_BTC",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "UNI",
+            "target": "HUSD",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 12.43,
+            "volume": 46640.409211450344,
+            "converted_last": {
+                "btc": 0.00038422,
+                "eth": 0.00921498,
+                "usd": 12.44
+            },
+            "converted_volume": {
+                "btc": 17.920237,
+                "eth": 429.79,
+                "usd": 580036
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.272158,
+            "timestamp": "2021-01-26T02:56:39+00:00",
+            "last_traded_at": "2021-01-26T02:56:39+00:00",
+            "last_fetch_at": "2021-01-26T02:56:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=uni_husd",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "husd"
         },
         {
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
+                "name": "XT",
+                "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 9.3952,
-            "volume": 8857.49,
+            "last": 12.5564,
+            "volume": 51044.44,
             "converted_last": {
-                "btc": 0.0002921,
-                "eth": 0.00746969,
-                "usd": 9.4
+                "btc": 0.00038874,
+                "eth": 0.00930961,
+                "usd": 12.59
             },
             "converted_volume": {
-                "btc": 2.587283,
-                "eth": 66.163,
-                "usd": 83220
+                "btc": 19.843152,
+                "eth": 475.204,
+                "usd": 642576
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.993668,
-            "timestamp": "2021-01-23T18:24:57+00:00",
-            "last_traded_at": "2021-01-23T18:24:57+00:00",
-            "last_fetch_at": "2021-01-23T18:24:57+00:00",
+            "bid_ask_spread_percentage": 0.121901,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.xt.com/trade/uni_usdt",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0074472,
-            "volume": 1958.2651869,
-            "converted_last": {
-                "btc": 0.00029119,
-                "eth": 0.00744628,
-                "usd": 9.37
-            },
-            "converted_volume": {
-                "btc": 0.57021847,
-                "eth": 14.581789,
-                "usd": 18341.18
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.89113,
-            "timestamp": "2021-01-23T18:24:43+00:00",
-            "last_traded_at": "2021-01-23T18:24:43+00:00",
-            "last_fetch_at": "2021-01-23T18:24:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-UNI",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "UNI",
@@ -2355,23 +2261,23 @@
                 "identifier": "bithumb_global",
                 "has_trading_incentive": false
             },
-            "last": 9.379,
-            "volume": 132949.94751721932,
+            "last": 12.457,
+            "volume": 170187.8232167456,
             "converted_last": {
-                "btc": 0.00029191,
-                "eth": 0.00746475,
-                "usd": 9.39
+                "btc": 0.00038535,
+                "eth": 0.00922839,
+                "usd": 12.48
             },
             "converted_volume": {
-                "btc": 38.809137,
-                "eth": 992.438,
-                "usd": 1247869
+                "btc": 65.582,
+                "eth": 1571,
+                "usd": 2123667
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.725736,
-            "timestamp": "2021-01-23T18:26:20+00:00",
-            "last_traded_at": "2021-01-23T18:26:20+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
+            "bid_ask_spread_percentage": 3.17685,
+            "timestamp": "2021-01-26T03:05:38+00:00",
+            "last_traded_at": "2021-01-26T03:05:38+00:00",
+            "last_fetch_at": "2021-01-26T03:05:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://global.bithumb.pro/spot/trade;symbol=UNI_USDT",
@@ -2383,62 +2289,93 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "ZBG",
-                "identifier": "zbg",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 9.4074,
-            "volume": 36037.3002,
+            "last": 12.368,
+            "volume": 5490.3034277,
             "converted_last": {
-                "btc": 0.00029279,
-                "eth": 0.00748735,
-                "usd": 9.42
+                "btc": 0.00038283,
+                "eth": 0.00916829,
+                "usd": 12.39
             },
             "converted_volume": {
-                "btc": 10.551425,
-                "eth": 269.824,
-                "usd": 339400
+                "btc": 2.101842,
+                "eth": 50.337,
+                "usd": 68043
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.518415,
-            "timestamp": "2021-01-23T18:25:26+00:00",
-            "last_traded_at": "2021-01-23T18:25:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
+            "bid_ask_spread_percentage": 1.002387,
+            "timestamp": "2021-01-26T02:58:24+00:00",
+            "last_traded_at": "2021-01-26T02:58:24+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-UNI",
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
         },
         {
             "base": "UNI",
-            "target": "USDT",
+            "target": "USD",
             "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 9.368,
-            "volume": 4000.31183394,
+            "last": 12.539,
+            "volume": 7461.9327862,
             "converted_last": {
-                "btc": 0.00029126,
-                "eth": 0.00744807,
-                "usd": 9.37
+                "btc": 0.00038722,
+                "eth": 0.00927307,
+                "usd": 12.54
             },
             "converted_volume": {
-                "btc": 1.165113,
-                "eth": 29.794597,
-                "usd": 37476
+                "btc": 2.889388,
+                "eth": 69.195,
+                "usd": 93565
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.388889,
-            "timestamp": "2021-01-23T18:24:33+00:00",
-            "last_traded_at": "2021-01-23T18:24:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
+            "bid_ask_spread_percentage": 1.444129,
+            "timestamp": "2021-01-26T03:06:59+00:00",
+            "last_traded_at": "2021-01-26T03:06:59+00:00",
+            "last_fetch_at": "2021-01-26T03:06:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-UNI",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-UNI",
+            "token_info_url": null,
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 12.4725,
+            "volume": 24270.788,
+            "converted_last": {
+                "btc": 0.00038645,
+                "eth": 0.00925513,
+                "usd": 12.5
+            },
+            "converted_volume": {
+                "btc": 9.379551,
+                "eth": 224.629,
+                "usd": 303503
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.652195,
+            "timestamp": "2021-01-26T03:03:24+00:00",
+            "last_traded_at": "2021-01-26T03:03:24+00:00",
+            "last_fetch_at": "2021-01-26T03:03:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -2451,23 +2388,23 @@
                 "identifier": "aprobit",
                 "has_trading_incentive": false
             },
-            "last": 10480.0,
-            "volume": 6386.02729999999,
+            "last": 13960.0,
+            "volume": 6325.72140641998,
             "converted_last": {
-                "btc": 0.00029482,
-                "eth": 0.00755346,
-                "usd": 9.48
+                "btc": 0.00039045,
+                "eth": 0.00933804,
+                "usd": 12.67
             },
             "converted_volume": {
-                "btc": 1.882735,
-                "eth": 48.23657,
-                "usd": 60537
+                "btc": 2.469865,
+                "eth": 59.07,
+                "usd": 80175
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.901141,
-            "timestamp": "2021-01-23T18:21:16+00:00",
-            "last_traded_at": "2021-01-23T18:21:16+00:00",
-            "last_fetch_at": "2021-01-23T18:21:16+00:00",
+            "bid_ask_spread_percentage": 1.422475,
+            "timestamp": "2021-01-26T02:44:12+00:00",
+            "last_traded_at": "2021-01-26T02:44:12+00:00",
+            "last_fetch_at": "2021-01-26T02:44:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aprobit.com/trading/unikrw",
@@ -2482,23 +2419,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00752286,
-            "volume": 13072.35730338,
+            "last": 0.0092104,
+            "volume": 16519.1059943,
             "converted_last": {
-                "btc": 0.00029444,
-                "eth": 0.00754382,
-                "usd": 9.47
+                "btc": 0.00038444,
+                "eth": 0.00920694,
+                "usd": 12.44
             },
             "converted_volume": {
-                "btc": 3.849087,
-                "eth": 98.615,
-                "usd": 123762
+                "btc": 6.35064,
+                "eth": 152.09,
+                "usd": 205494
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.631579,
-            "timestamp": "2021-01-23T18:21:11+00:00",
-            "last_traded_at": "2021-01-23T18:21:11+00:00",
-            "last_fetch_at": "2021-01-23T18:21:11+00:00",
+            "bid_ask_spread_percentage": 2.150538,
+            "timestamp": "2021-01-26T03:03:44+00:00",
+            "last_traded_at": "2021-01-26T03:03:44+00:00",
+            "last_fetch_at": "2021-01-26T03:03:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=ETH&dest=UNI#limit",
@@ -2510,27 +2447,59 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 12.312,
+            "volume": 179.137797,
+            "converted_last": {
+                "btc": 0.00038086,
+                "eth": 0.0090835,
+                "usd": 12.32
+            },
+            "converted_volume": {
+                "btc": 0.06822703,
+                "eth": 1.627198,
+                "usd": 2207.74
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.628679,
+            "timestamp": "2021-01-26T01:25:00+00:00",
+            "last_traded_at": "2021-01-26T01:25:00+00:00",
+            "last_fetch_at": "2021-01-26T03:05:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
                 "name": "Resfinex",
                 "identifier": "resfinex",
                 "has_trading_incentive": false
             },
-            "last": 9.3311,
-            "volume": 16.415599999983897,
+            "last": 12.3772,
+            "volume": 30.377499999995052,
             "converted_last": {
-                "btc": 0.00029011,
-                "eth": 0.00741873,
-                "usd": 9.33
+                "btc": 0.00038215,
+                "eth": 0.00915195,
+                "usd": 12.39
             },
             "converted_volume": {
-                "btc": 0.0047623,
-                "eth": 0.12178292,
-                "usd": 153.18
+                "btc": 0.01160864,
+                "eth": 0.27801343,
+                "usd": 376.25
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.093431,
-            "timestamp": "2021-01-23T18:23:51+00:00",
-            "last_traded_at": "2021-01-23T18:23:51+00:00",
-            "last_fetch_at": "2021-01-23T18:23:51+00:00",
+            "bid_ask_spread_percentage": 0.679413,
+            "timestamp": "2021-01-26T02:59:23+00:00",
+            "last_traded_at": "2021-01-26T02:59:23+00:00",
+            "last_fetch_at": "2021-01-26T02:59:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.resfinex.com/?pair=UNI_USDT",
@@ -2546,23 +2515,23 @@
                 "identifier": "coinbene",
                 "has_trading_incentive": false
             },
-            "last": 9.417,
-            "volume": 13688510.550918551,
+            "last": 12.54,
+            "volume": 8169688.801275917,
             "converted_last": {
-                "btc": 0.00029305,
-                "eth": 0.00750801,
-                "usd": 9.42
+                "btc": 0.00038792,
+                "eth": 0.00928987,
+                "usd": 12.56
             },
             "converted_volume": {
-                "btc": 4011,
-                "eth": 102773,
-                "usd": 128979941
+                "btc": 3169,
+                "eth": 75895,
+                "usd": 102626542
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.592593,
-            "timestamp": "2021-01-23T18:21:33+00:00",
-            "last_traded_at": "2021-01-23T18:21:33+00:00",
-            "last_fetch_at": "2021-01-23T18:21:33+00:00",
+            "bid_ask_spread_percentage": 0.421639,
+            "timestamp": "2021-01-26T03:07:38+00:00",
+            "last_traded_at": "2021-01-26T03:07:38+00:00",
+            "last_fetch_at": "2021-01-26T03:07:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinbene.com/spot/exchange/UNI_USDT",
@@ -2578,23 +2547,23 @@
                 "identifier": "huobi_id",
                 "has_trading_incentive": false
             },
-            "last": 9.4017,
-            "volume": 572.1962,
+            "last": 12.4396,
+            "volume": 908.3389999999999,
             "converted_last": {
-                "btc": 0.00029261,
-                "eth": 0.00748282,
-                "usd": 9.41
+                "btc": 0.00038407,
+                "eth": 0.00919809,
+                "usd": 12.45
             },
             "converted_volume": {
-                "btc": 0.16743284,
-                "eth": 4.28164,
-                "usd": 5383.64
+                "btc": 0.3488681,
+                "eth": 8.354986,
+                "usd": 11306.18
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.119145,
-            "timestamp": "2021-01-23T18:26:20+00:00",
-            "last_traded_at": "2021-01-23T18:26:20+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
+            "bid_ask_spread_percentage": 0.174742,
+            "timestamp": "2021-01-26T03:00:42+00:00",
+            "last_traded_at": "2021-01-26T03:00:42+00:00",
+            "last_fetch_at": "2021-01-26T03:00:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.com.co/exchange/#s=uni_usdt",
@@ -2604,35 +2573,67 @@
         },
         {
             "base": "UNI",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
+                "name": "DragonEx",
+                "identifier": "dragonex",
                 "has_trading_incentive": false
             },
-            "last": 0.00029214,
-            "volume": 9108.28,
+            "last": 12.482,
+            "volume": 1034515.16,
             "converted_last": {
-                "btc": 0.00029214,
-                "eth": 0.00748477,
-                "usd": 9.39
+                "btc": 0.00038612,
+                "eth": 0.00924691,
+                "usd": 12.5
             },
             "converted_volume": {
-                "btc": 2.660893,
-                "eth": 68.173,
-                "usd": 85562
+                "btc": 399.452,
+                "eth": 9566,
+                "usd": 12935335
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.207504,
-            "timestamp": "2021-01-23T18:18:43+00:00",
-            "last_traded_at": "2021-01-23T18:18:43+00:00",
-            "last_fetch_at": "2021-01-23T18:18:43+00:00",
+            "bid_ask_spread_percentage": 2.047567,
+            "timestamp": "2021-01-26T03:07:08+00:00",
+            "last_traded_at": "2021-01-26T03:07:08+00:00",
+            "last_fetch_at": "2021-01-26T03:07:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/UNI-to-BTC",
+            "trade_url": "https://dragonex.io/en-us/trade/index/uni_usdt",
             "token_info_url": null,
             "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 12.4914,
+            "volume": 451455.82,
+            "converted_last": {
+                "btc": 0.00038665,
+                "eth": 0.00927317,
+                "usd": 12.52
+            },
+            "converted_volume": {
+                "btc": 174.554,
+                "eth": 4186,
+                "usd": 5650282
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.853545,
+            "timestamp": "2021-01-26T02:57:41+00:00",
+            "last_traded_at": "2021-01-26T02:57:41+00:00",
+            "last_fetch_at": "2021-01-26T02:57:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/uni_usdt",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
         },
         {
             "base": "UNI",
@@ -2642,58 +2643,26 @@
                 "identifier": "citex",
                 "has_trading_incentive": false
             },
-            "last": 9.4237,
-            "volume": 30710.079999999998,
+            "last": 12.8048,
+            "volume": 43901.609000000004,
             "converted_last": {
-                "btc": 0.00029326,
-                "eth": 0.00751335,
-                "usd": 9.43
+                "btc": 0.00039189,
+                "eth": 0.00935039,
+                "usd": 12.83
             },
             "converted_volume": {
-                "btc": 9.005905,
-                "eth": 230.736,
-                "usd": 289571
+                "btc": 17.204462,
+                "eth": 410.497,
+                "usd": 563416
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.070921,
-            "timestamp": "2021-01-23T18:21:05+00:00",
-            "last_traded_at": "2021-01-23T18:21:05+00:00",
-            "last_fetch_at": "2021-01-23T18:21:05+00:00",
+            "bid_ask_spread_percentage": 1.036179,
+            "timestamp": "2021-01-26T02:06:54+00:00",
+            "last_traded_at": "2021-01-26T02:06:54+00:00",
+            "last_fetch_at": "2021-01-26T02:06:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.citex.me/trade/UNI_USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "TOKOK",
-                "identifier": "tokok",
-                "has_trading_incentive": false
-            },
-            "last": 9.39,
-            "volume": 93597.05,
-            "converted_last": {
-                "btc": 0.00029221,
-                "eth": 0.00748648,
-                "usd": 9.4
-            },
-            "converted_volume": {
-                "btc": 27.349708,
-                "eth": 700.713,
-                "usd": 879441
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.75,
-            "timestamp": "2021-01-23T18:22:24+00:00",
-            "last_traded_at": "2021-01-23T18:22:24+00:00",
-            "last_fetch_at": "2021-01-23T18:22:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
@@ -2706,23 +2675,23 @@
                 "identifier": "citex",
                 "has_trading_incentive": false
             },
-            "last": 0.00739723,
-            "volume": 33734.841,
+            "last": 0.0096363,
+            "volume": 50633.566999999995,
             "converted_last": {
-                "btc": 0.00028953,
-                "eth": 0.00741784,
-                "usd": 9.31
+                "btc": 0.00040376,
+                "eth": 0.0096337,
+                "usd": 13.22
             },
             "converted_volume": {
-                "btc": 9.767167,
-                "eth": 250.24,
-                "usd": 314049
+                "btc": 20.443858,
+                "eth": 487.789,
+                "usd": 669501
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 3.157551,
-            "timestamp": "2021-01-23T18:21:03+00:00",
-            "last_traded_at": "2021-01-23T18:21:03+00:00",
-            "last_fetch_at": "2021-01-23T18:21:03+00:00",
+            "bid_ask_spread_percentage": 3.073188,
+            "timestamp": "2021-01-26T02:06:54+00:00",
+            "last_traded_at": "2021-01-26T02:06:54+00:00",
+            "last_fetch_at": "2021-01-26T02:06:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.citex.me/trade/UNI_ETH",
@@ -2734,27 +2703,59 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 12.4866,
+            "volume": 106047.03,
+            "converted_last": {
+                "btc": 0.00038627,
+                "eth": 0.00925031,
+                "usd": 12.51
+            },
+            "converted_volume": {
+                "btc": 40.962435,
+                "eth": 980.968,
+                "usd": 1326460
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 10.857125,
+            "timestamp": "2021-01-26T03:06:27+00:00",
+            "last_traded_at": "2021-01-26T03:06:27+00:00",
+            "last_fetch_at": "2021-01-26T03:06:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=UNI_USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "USDT",
+            "market": {
                 "name": "FatBTC",
                 "identifier": "fatbtc",
                 "has_trading_incentive": false
             },
-            "last": 9.3975,
-            "volume": 13944.27,
+            "last": 12.4063,
+            "volume": 14136.06,
             "converted_last": {
-                "btc": 0.00029248,
-                "eth": 0.00747948,
-                "usd": 9.4
+                "btc": 0.00038304,
+                "eth": 0.00917347,
+                "usd": 12.41
             },
             "converted_volume": {
-                "btc": 4.078471,
-                "eth": 104.296,
-                "usd": 131139
+                "btc": 5.414739,
+                "eth": 129.677,
+                "usd": 175445
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 4.911458,
-            "timestamp": "2021-01-23T18:26:23+00:00",
-            "last_traded_at": "2021-01-23T18:26:23+00:00",
-            "last_fetch_at": "2021-01-23T18:26:23+00:00",
+            "bid_ask_spread_percentage": 2.739737,
+            "timestamp": "2021-01-26T03:01:21+00:00",
+            "last_traded_at": "2021-01-26T03:01:21+00:00",
+            "last_fetch_at": "2021-01-26T03:01:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2766,33 +2767,65 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
+                "name": "WazirX",
+                "identifier": "wazirx",
                 "has_trading_incentive": false
             },
-            "last": 9.28124555,
-            "volume": 1364.57604748,
+            "last": 12.4406,
+            "volume": 31410.24,
             "converted_last": {
-                "btc": 0.00028799,
-                "eth": 0.00742514,
-                "usd": 9.29
+                "btc": 0.00038568,
+                "eth": 0.00924995,
+                "usd": 12.47
             },
             "converted_volume": {
-                "btc": 0.39297823,
-                "eth": 10.132174,
-                "usd": 12677.61
+                "btc": 12.114284,
+                "eth": 290.543,
+                "usd": 391837
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 5.949679,
-            "timestamp": "2021-01-23T18:09:16+00:00",
-            "last_traded_at": "2021-01-23T18:09:16+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "bid_ask_spread_percentage": 8.492024,
+            "timestamp": "2021-01-26T02:54:03+00:00",
+            "last_traded_at": "2021-01-26T02:54:03+00:00",
+            "last_fetch_at": "2021-01-26T02:54:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#uni_usdt",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "BTC",
+            "market": {
+                "name": "GokuMarket",
+                "identifier": "goku",
+                "has_trading_incentive": false
+            },
+            "last": 0.00036012,
+            "volume": 72941.16683428624,
+            "converted_last": {
+                "btc": 0.00036012,
+                "eth": 0.00862415,
+                "usd": 11.65
+            },
+            "converted_volume": {
+                "btc": 26.267573,
+                "eth": 629.056,
+                "usd": 849958
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 64.832,
+            "timestamp": "2021-01-26T03:04:25+00:00",
+            "last_traded_at": "2021-01-26T03:04:25+00:00",
+            "last_fetch_at": "2021-01-26T03:04:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.gokumarket.com/exchange/UNI_BTC",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "UNI",
@@ -2802,23 +2835,23 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 9.4244,
-            "volume": 14786237.32,
+            "last": 12.4586,
+            "volume": 20078963.758,
             "converted_last": {
-                "btc": 0.00029332,
-                "eth": 0.00750089,
-                "usd": 9.44
+                "btc": 0.00038602,
+                "eth": 0.00924449,
+                "usd": 12.49
             },
             "converted_volume": {
-                "btc": 4337,
-                "eth": 110910,
-                "usd": 139508711
+                "btc": 7751,
+                "eth": 185620,
+                "usd": 250803000
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.178263,
-            "timestamp": "2021-01-23T18:25:51+00:00",
-            "last_traded_at": "2021-01-23T18:25:51+00:00",
-            "last_fetch_at": "2021-01-23T18:25:51+00:00",
+            "bid_ask_spread_percentage": 0.170668,
+            "timestamp": "2021-01-26T03:04:40+00:00",
+            "last_traded_at": "2021-01-26T03:04:40+00:00",
+            "last_fetch_at": "2021-01-26T03:04:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/UNI/USDT",
@@ -2834,23 +2867,23 @@
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 9.4274,
-            "volume": 4521267.31,
+            "last": 12.4668,
+            "volume": 7528758.11,
             "converted_last": {
-                "btc": 0.0002931,
-                "eth": 0.00750942,
-                "usd": 9.42
+                "btc": 0.00038491,
+                "eth": 0.0092182,
+                "usd": 12.46
             },
             "converted_volume": {
-                "btc": 1325,
-                "eth": 33952,
-                "usd": 42612162
+                "btc": 2898,
+                "eth": 69402,
+                "usd": 93813850
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.507437,
-            "timestamp": "2021-01-23T18:22:43+00:00",
-            "last_traded_at": "2021-01-23T18:22:43+00:00",
-            "last_fetch_at": "2021-01-23T18:22:43+00:00",
+            "bid_ask_spread_percentage": 0.514458,
+            "timestamp": "2021-01-26T02:58:59+00:00",
+            "last_traded_at": "2021-01-26T02:58:59+00:00",
+            "last_fetch_at": "2021-01-26T02:58:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/uni_usdt",
@@ -2862,97 +2895,33 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "DragonEx",
-                "identifier": "dragonex",
+                "name": "TOKOK",
+                "identifier": "tokok",
                 "has_trading_incentive": false
             },
-            "last": 9.38,
-            "volume": 776888.22,
+            "last": 12.564,
+            "volume": 70105.9,
             "converted_last": {
-                "btc": 0.00029163,
-                "eth": 0.00745761,
-                "usd": 9.38
+                "btc": 0.00038866,
+                "eth": 0.00930765,
+                "usd": 12.59
             },
             "converted_volume": {
-                "btc": 226.563,
-                "eth": 5794,
-                "usd": 7287435
+                "btc": 27.247431,
+                "eth": 652.521,
+                "usd": 882346
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 2.022117,
-            "timestamp": "2021-01-23T18:25:00+00:00",
-            "last_traded_at": "2021-01-23T18:25:00+00:00",
-            "last_fetch_at": "2021-01-23T18:25:00+00:00",
+            "bid_ask_spread_percentage": 5.77353,
+            "timestamp": "2021-01-26T03:07:06+00:00",
+            "last_traded_at": "2021-01-26T03:07:06+00:00",
+            "last_fetch_at": "2021-01-26T03:07:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://dragonex.io/en-us/trade/index/uni_usdt",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "uniswap",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002938,
-            "volume": 20402.61285035,
-            "converted_last": {
-                "btc": 0.0002938,
-                "eth": 0.0075273,
-                "usd": 9.45
-            },
-            "converted_volume": {
-                "btc": 5.994288,
-                "eth": 153.577,
-                "usd": 192737
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 33.333333,
-            "timestamp": "2021-01-23T18:21:08+00:00",
-            "last_traded_at": "2021-01-23T18:21:08+00:00",
-            "last_fetch_at": "2021-01-23T18:21:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=UNI#limit",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "UNI",
-            "target": "BTC",
-            "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00029329,
-            "volume": 12592.0,
-            "converted_last": {
-                "btc": 0.00029329,
-                "eth": 0.0075378,
-                "usd": 9.45
-            },
-            "converted_volume": {
-                "btc": 3.693108,
-                "eth": 94.916,
-                "usd": 118938
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.511043,
-            "timestamp": "2021-01-23T18:14:33+00:00",
-            "last_traded_at": "2021-01-23T18:14:33+00:00",
-            "last_fetch_at": "2021-01-23T18:14:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://emirex.com/trading/UNIBTC",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "UNI",
@@ -2962,23 +2931,23 @@
                 "identifier": "zero_ex",
                 "has_trading_incentive": false
             },
-            "last": 9.411336320971845,
-            "volume": 216072.05533700436,
+            "last": 12.394549180000002,
+            "volume": 374117.5415872671,
             "converted_last": {
-                "btc": 0.00029268,
-                "eth": 0.00749866,
-                "usd": 9.41
+                "btc": 0.00038304,
+                "eth": 0.00917343,
+                "usd": 12.39
             },
             "converted_volume": {
-                "btc": 63.24,
-                "eth": 1620,
-                "usd": 2033527
+                "btc": 143.303,
+                "eth": 3432,
+                "usd": 4637018
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:21:00+00:00",
-            "last_traded_at": "2021-01-23T18:21:00+00:00",
-            "last_fetch_at": "2021-01-23T18:21:00+00:00",
+            "timestamp": "2021-01-26T03:02:04+00:00",
+            "last_traded_at": "2021-01-26T03:02:04+00:00",
+            "last_fetch_at": "2021-01-26T03:02:04+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://matcha.xyz/markets/UNI/USD",
@@ -2993,23 +2962,23 @@
                 "identifier": "compound_finance",
                 "has_trading_incentive": false
             },
-            "last": 0.02015604229762067,
-            "volume": 5171050.27298117,
+            "last": 0.020156344637520352,
+            "volume": 11717953.5991166,
             "converted_last": {
-                "btc": 0.00029249,
-                "eth": 0.00749362,
-                "usd": 9.41
+                "btc": 0.00038688,
+                "eth": 0.00926494,
+                "usd": 12.53
             },
             "converted_volume": {
-                "btc": 30.48517,
-                "eth": 781.045,
-                "usd": 980263
+                "btc": 91.377,
+                "eth": 2188,
+                "usd": 2959002
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:22:10+00:00",
-            "last_traded_at": "2021-01-23T18:22:10+00:00",
-            "last_fetch_at": "2021-01-23T18:22:10+00:00",
+            "timestamp": "2021-01-26T03:06:45+00:00",
+            "last_traded_at": "2021-01-26T03:06:45+00:00",
+            "last_fetch_at": "2021-01-26T03:06:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.compound.finance",
@@ -3021,59 +2990,27 @@
             "base": "UNI",
             "target": "USDT",
             "market": {
-                "name": "ZG.com",
-                "identifier": "zg",
-                "has_trading_incentive": false
-            },
-            "last": 9.3101,
-            "volume": 54247.24,
-            "converted_last": {
-                "btc": 0.00028972,
-                "eth": 0.00742278,
-                "usd": 9.32
-            },
-            "converted_volume": {
-                "btc": 15.71654,
-                "eth": 402.665,
-                "usd": 505342
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:21:49+00:00",
-            "last_traded_at": "2021-01-23T18:21:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.zg.com/exchange/737/UNI/USDT",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
                 "name": "Coinpark",
                 "identifier": "coinpark",
                 "has_trading_incentive": false
             },
-            "last": 9.4078,
-            "volume": 42797.95,
+            "last": 12.5154,
+            "volume": 93773.75,
             "converted_last": {
-                "btc": 0.0002928,
-                "eth": 0.00748767,
-                "usd": 9.42
+                "btc": 0.00038716,
+                "eth": 0.00927165,
+                "usd": 12.54
             },
             "converted_volume": {
-                "btc": 12.531421,
-                "eth": 320.457,
-                "usd": 403089
+                "btc": 36.30522,
+                "eth": 869.437,
+                "usd": 1175629
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:25:39+00:00",
-            "last_traded_at": "2021-01-23T18:25:39+00:00",
-            "last_fetch_at": "2021-01-23T18:25:39+00:00",
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinpark.com/fullExchange?coinPair=UNI_USDT",
@@ -3083,29 +3020,93 @@
         },
         {
             "base": "UNI",
+            "target": "USDT",
+            "market": {
+                "name": "ZG.com",
+                "identifier": "zg",
+                "has_trading_incentive": false
+            },
+            "last": 12.4543,
+            "volume": 51962.95,
+            "converted_last": {
+                "btc": 0.0003861,
+                "eth": 0.00924417,
+                "usd": 12.49
+            },
+            "converted_volume": {
+                "btc": 20.063112,
+                "eth": 480.354,
+                "usd": 648770
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-26T02:51:05+00:00",
+            "last_traded_at": "2021-01-26T02:51:05+00:00",
+            "last_fetch_at": "2021-01-26T02:51:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.zg.com/exchange/737/UNI/USDT",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "UNI",
+            "target": "ETH",
+            "market": {
+                "name": "Loopring AMM",
+                "identifier": "loopring_amm",
+                "has_trading_incentive": false
+            },
+            "last": 0.009191,
+            "volume": 51214.2,
+            "converted_last": {
+                "btc": 0.0003851,
+                "eth": 0.00922244,
+                "usd": 12.47
+            },
+            "converted_volume": {
+                "btc": 19.722737,
+                "eth": 472.32,
+                "usd": 638669
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-26T03:06:51+00:00",
+            "last_traded_at": "2021-01-26T03:06:51+00:00",
+            "last_fetch_at": "2021-01-26T03:06:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "UNI",
             "target": "BTC",
             "market": {
                 "name": "Upbit Indonesia ",
                 "identifier": "upbit_indonesia",
                 "has_trading_incentive": false
             },
-            "last": 0.0002936,
-            "volume": 24967.16144194,
+            "last": 0.00038806,
+            "volume": 43569.68161644,
             "converted_last": {
-                "btc": 0.0002936,
-                "eth": 0.00752217,
-                "usd": 9.44
+                "btc": 0.00038806,
+                "eth": 0.00929326,
+                "usd": 12.56
             },
             "converted_volume": {
-                "btc": 7.330359,
-                "eth": 187.807,
-                "usd": 235697
+                "btc": 16.907651,
+                "eth": 404.904,
+                "usd": 547093
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:21:06+00:00",
-            "last_traded_at": "2021-01-23T18:21:06+00:00",
-            "last_fetch_at": "2021-01-23T18:21:06+00:00",
+            "timestamp": "2021-01-26T03:04:42+00:00",
+            "last_traded_at": "2021-01-26T03:04:42+00:00",
+            "last_fetch_at": "2021-01-26T03:04:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://id.upbit.com/exchange?code=CRIX.UPBIT.BTC-UNI",
@@ -3121,23 +3122,23 @@
                 "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 9.4238,
-            "volume": 12624.8907,
+            "last": 12.5195,
+            "volume": 42190.47993673754,
             "converted_last": {
-                "btc": 0.00029299,
-                "eth": 0.00750655,
-                "usd": 9.42
+                "btc": 0.0003876,
+                "eth": 0.00928225,
+                "usd": 12.55
             },
             "converted_volume": {
-                "btc": 3.698971,
-                "eth": 94.769,
-                "usd": 118942
+                "btc": 16.353041,
+                "eth": 391.623,
+                "usd": 529324
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:22:55+00:00",
-            "last_traded_at": "2021-01-23T18:22:55+00:00",
-            "last_fetch_at": "2021-01-23T18:22:55+00:00",
+            "timestamp": "2021-01-26T03:08:19+00:00",
+            "last_traded_at": "2021-01-26T03:08:19+00:00",
+            "last_fetch_at": "2021-01-26T03:08:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.co.kr/en-US/exchange/uni_usdt/",
@@ -3147,29 +3148,61 @@
         },
         {
             "base": "UNI",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Korea",
+                "identifier": "huobi_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.009233,
+            "volume": 6299.699100000001,
+            "converted_last": {
+                "btc": 0.00038705,
+                "eth": 0.00926901,
+                "usd": 12.53
+            },
+            "converted_volume": {
+                "btc": 2.438282,
+                "eth": 58.392,
+                "usd": 78924
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.huobi.co.kr/en-US/exchange/uni_eth/",
+            "token_info_url": null,
+            "coin_id": "uniswap",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "UNI",
             "target": "BTC",
             "market": {
                 "name": "Huobi Korea",
                 "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.0002934,
-            "volume": 2098.3400000000006,
+            "last": 0.00038736,
+            "volume": 5368.699999999998,
             "converted_last": {
-                "btc": 0.0002934,
-                "eth": 0.00751705,
-                "usd": 9.43
+                "btc": 0.00038736,
+                "eth": 0.0092765,
+                "usd": 12.54
             },
             "converted_volume": {
-                "btc": 0.61565296,
-                "eth": 15.773325,
-                "usd": 19796.58
+                "btc": 2.07962,
+                "eth": 49.802729,
+                "usd": 67314
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:22:55+00:00",
-            "last_traded_at": "2021-01-23T18:22:55+00:00",
-            "last_fetch_at": "2021-01-23T18:22:55+00:00",
+            "timestamp": "2021-01-26T03:08:18+00:00",
+            "last_traded_at": "2021-01-26T03:08:18+00:00",
+            "last_fetch_at": "2021-01-26T03:08:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.co.kr/en-US/exchange/uni_btc/",
@@ -3185,23 +3218,23 @@
                 "identifier": "paraswap",
                 "has_trading_incentive": false
             },
-            "last": 0.00694489977559383,
-            "volume": 1460.28376254896,
+            "last": 0.0106119757264465,
+            "volume": 459.415597365592,
             "converted_last": {
-                "btc": 0.0002687,
-                "eth": 0.00694433,
-                "usd": 8.63
+                "btc": 0.00044337,
+                "eth": 0.01061203,
+                "usd": 14.45
             },
             "converted_volume": {
-                "btc": 0.39237558,
-                "eth": 10.14069,
-                "usd": 12608.38
+                "btc": 0.20369033,
+                "eth": 4.875334,
+                "usd": 6636.45
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T17:19:45+00:00",
-            "last_traded_at": "2021-01-23T17:19:45+00:00",
-            "last_fetch_at": "2021-01-23T17:56:04+00:00",
+            "timestamp": "2021-01-26T02:21:20+00:00",
+            "last_traded_at": "2021-01-26T02:21:20+00:00",
+            "last_fetch_at": "2021-01-26T03:01:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3211,99 +3244,65 @@
         },
         {
             "base": "UNI",
-            "target": "ETH",
+            "target": "KRW",
             "market": {
-                "name": "Huobi Korea",
-                "identifier": "huobi_korea",
+                "name": "GoPax",
+                "identifier": "gopax",
                 "has_trading_incentive": false
             },
-            "last": 0.007499,
-            "volume": 1005.7381,
+            "last": 13900.0,
+            "volume": 6443.98929812,
             "converted_last": {
-                "btc": 0.00029351,
-                "eth": 0.00751989,
-                "usd": 9.44
+                "btc": 0.00038956,
+                "eth": 0.00932923,
+                "usd": 12.61
             },
             "converted_volume": {
-                "btc": 0.29519505,
-                "eth": 7.56304,
-                "usd": 9492.12
+                "btc": 2.510333,
+                "eth": 60.117,
+                "usd": 81290
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:22:55+00:00",
-            "last_traded_at": "2021-01-23T18:22:55+00:00",
-            "last_fetch_at": "2021-01-23T18:22:55+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.huobi.co.kr/en-US/exchange/uni_eth/",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "UNI",
-            "target": "ETH",
-            "market": {
-                "name": "Kyber Network",
-                "identifier": "kyber_network",
-                "has_trading_incentive": false
-            },
-            "last": 0.0075240671481511204,
-            "volume": 108.88383663352914,
-            "converted_last": {
-                "btc": 0.00029344,
-                "eth": 0.00756574,
-                "usd": 9.48
-            },
-            "converted_volume": {
-                "btc": 0.03195072,
-                "eth": 0.82378676,
-                "usd": 1032.09
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:07:28+00:00",
-            "last_traded_at": "2021-01-23T18:07:28+00:00",
-            "last_fetch_at": "2021-01-23T18:22:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://kyberswap.com/swap/eth-uni",
-            "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "UNI",
-            "target": "USDT",
-            "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
-                "has_trading_incentive": false
-            },
-            "last": 9.137,
-            "volume": 78905.23,
-            "converted_last": {
-                "btc": 0.00028465,
-                "eth": 0.00735659,
-                "usd": 9.15
-            },
-            "converted_volume": {
-                "btc": 22.460359,
-                "eth": 580.473,
-                "usd": 721729
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.675632,
-            "timestamp": "2021-01-23T17:19:35+00:00",
-            "last_traded_at": "2021-01-23T17:19:35+00:00",
-            "last_fetch_at": "2021-01-23T17:19:35+00:00",
+            "bid_ask_spread_percentage": 0.995025,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": true,
             "is_stale": false,
-            "trade_url": "https://emirex.com/trading/UNIUSDT",
+            "trade_url": "https://www.gopax.co.kr/exchange/UNI-KRW",
             "token_info_url": null,
-            "coin_id": "uniswap",
-            "target_coin_id": "tether"
+            "coin_id": "uniswap"
+        },
+        {
+            "base": "UNI",
+            "target": "INR",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 975.3,
+            "volume": 75691.13,
+            "converted_last": {
+                "btc": 0.00041356,
+                "eth": 0.00990148,
+                "usd": 13.37
+            },
+            "converted_volume": {
+                "btc": 31.302684,
+                "eth": 749.454,
+                "usd": 1012218
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.192194,
+            "timestamp": "2021-01-26T02:51:44+00:00",
+            "last_traded_at": "2021-01-26T02:51:44+00:00",
+            "last_fetch_at": "2021-01-26T02:51:44+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "uniswap"
         }
     ]
 }

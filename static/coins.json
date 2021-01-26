@@ -18,7 +18,7 @@
 		"type": "Layer 2,Internet of Blockchains"
 	},
 	"eth": {
-		"amt": 1.09297838,
+		"amt": 0.88447682,
 		"bought": 0,
 		"full": "ethereum",
 		"type": "smart"
@@ -50,7 +50,7 @@
 	},
 	"uni": {
 		"amt": 15.1,
-		"bought": 132,
+		"bought": 90,
 		"full": "uniswap",
 		"type": "Dex"
 	},
@@ -131,5 +131,38 @@
 		"full": "cover protocol",
 		"gecko": "cover-protocol",
 		"type": "insurance"
+	},
+	"api3": {
+		"amt": 43.9548,
+		"bought": 226.27,
+		"fee": 0.007078932,
+		"full": "api3",
+		"type": "oracle"
+	},
+	"snx": {
+		"amt": 18.80235362,
+		"bought": 300,
+		"full": "synthetix",
+		"type": "derivative",
+		"gecko": "havven"
+	},
+	"uma": {
+		"amt": 	27.44081525,
+		"bought": 300,
+		"full": "uma",
+		"type": "derivative"
+	},
+	"bal": {
+		"amt": 12.6088435,
+		"bought": 250,
+		"full": "balancer",
+		"type": "amm"
+	},
+	"rook": {
+		"amt": 0.7,
+		"bought": 222.52,
+		"full": "keeperdao",
+		"type": "farming",
+		"gecko": "rook"
 	}
 }

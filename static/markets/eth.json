@@ -109,8 +109,8 @@
     },
     "country_origin": "",
     "genesis_date": "2015-07-30",
-    "sentiment_votes_up_percentage": 85.49,
-    "sentiment_votes_down_percentage": 14.51,
+    "sentiment_votes_up_percentage": 87.31,
+    "sentiment_votes_down_percentage": 12.69,
     "ico_data": {
         "ico_start_date": "2014-07-20T00:00:00.000Z",
         "ico_end_date": "2014-09-01T00:00:00.000Z",
@@ -155,7 +155,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:25:53.304Z",
+    "last_updated": "2021-01-26T03:03:55.581Z",
     "tickers": [
         {
             "base": "ETH",
@@ -165,23 +165,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 1259.6,
-            "volume": 115477.84749429,
+            "last": 1350.1,
+            "volume": 256714.79900322,
             "converted_last": {
-                "btc": 0.03915904,
-                "eth": 1.001386,
-                "usd": 1259.6
+                "btc": 0.04166806,
+                "eth": 0.99790169,
+                "usd": 1350.1
             },
             "converted_volume": {
-                "btc": 4522,
-                "eth": 115638,
-                "usd": 145455897
+                "btc": 10697,
+                "eth": 256176,
+                "usd": 346590650
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179365,
-            "timestamp": "2021-01-23T18:25:01+00:00",
-            "last_traded_at": "2021-01-23T18:25:01+00:00",
-            "last_fetch_at": "2021-01-23T18:25:01+00:00",
+            "bid_ask_spread_percentage": 0.147929,
+            "timestamp": "2021-01-26T03:01:11+00:00",
+            "last_traded_at": "2021-01-26T03:01:11+00:00",
+            "last_fetch_at": "2021-01-26T03:01:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ETHUSD",
@@ -196,60 +196,28 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 130570.0,
-            "volume": 10303.01658192,
+            "last": 140288.9149048,
+            "volume": 13931.67334056,
             "converted_last": {
-                "btc": 0.03911183,
-                "eth": 1.000179,
-                "usd": 1258.08
+                "btc": 0.04180962,
+                "eth": 1.001292,
+                "usd": 1352.88
             },
             "converted_volume": {
-                "btc": 402.97,
-                "eth": 10305,
-                "usd": 12962037
+                "btc": 582.478,
+                "eth": 13950,
+                "usd": 18847905
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176453,
-            "timestamp": "2021-01-23T18:25:04+00:00",
-            "last_traded_at": "2021-01-23T18:25:04+00:00",
-            "last_fetch_at": "2021-01-23T18:25:04+00:00",
+            "bid_ask_spread_percentage": 0.171225,
+            "timestamp": "2021-01-26T03:02:54+00:00",
+            "last_traded_at": "2021-01-26T03:02:54+00:00",
+            "last_fetch_at": "2021-01-26T03:02:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ETHJPY",
             "token_info_url": null,
             "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 0.0391475,
-            "volume": 5015.2806208570155,
-            "converted_last": {
-                "btc": 0.0391475,
-                "eth": 1.002978,
-                "usd": 1258.8
-            },
-            "converted_volume": {
-                "btc": 196.336,
-                "eth": 5030,
-                "usd": 6313257
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.10855,
-            "timestamp": "2021-01-23T18:22:27+00:00",
-            "last_traded_at": "2021-01-23T18:22:27+00:00",
-            "last_fetch_at": "2021-01-23T18:22:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/ETH/BTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "ETH",
@@ -259,23 +227,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 1033.7,
-            "volume": 8842.71657732,
+            "last": 1111.61024698,
+            "volume": 19715.9113322,
             "converted_last": {
-                "btc": 0.03912547,
-                "eth": 1.000528,
-                "usd": 1258.48
+                "btc": 0.04171398,
+                "eth": 0.99900139,
+                "usd": 1349.79
             },
             "converted_volume": {
-                "btc": 345.975,
-                "eth": 8847,
-                "usd": 11128364
+                "btc": 822.429,
+                "eth": 19696,
+                "usd": 26612279
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.196618,
-            "timestamp": "2021-01-23T18:25:00+00:00",
-            "last_traded_at": "2021-01-23T18:25:00+00:00",
-            "last_fetch_at": "2021-01-23T18:25:00+00:00",
+            "bid_ask_spread_percentage": 0.189686,
+            "timestamp": "2021-01-26T03:02:54+00:00",
+            "last_traded_at": "2021-01-26T03:02:54+00:00",
+            "last_fetch_at": "2021-01-26T03:02:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ETHEUR",
@@ -290,58 +258,26 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 1258.74,
-            "volume": 1088454.7014145493,
+            "last": 1353.85,
+            "volume": 1682268.0498502539,
             "converted_last": {
-                "btc": 0.03913481,
-                "eth": 1.000767,
-                "usd": 1258.8
+                "btc": 0.04188067,
+                "eth": 1.002958,
+                "usd": 1356.21
             },
             "converted_volume": {
-                "btc": 42596,
-                "eth": 1089289,
-                "usd": 1370148925
+                "btc": 70455,
+                "eth": 1687245,
+                "usd": 2281510083
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100796,
-            "timestamp": "2021-01-23T18:23:37+00:00",
-            "last_traded_at": "2021-01-23T18:23:37+00:00",
-            "last_fetch_at": "2021-01-23T18:23:37+00:00",
+            "bid_ask_spread_percentage": 0.100738,
+            "timestamp": "2021-01-26T03:07:36+00:00",
+            "last_traded_at": "2021-01-26T03:07:36+00:00",
+            "last_fetch_at": "2021-01-26T03:07:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ETH_USDT",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 1258.8,
-            "volume": 6812.090389180172,
-            "converted_last": {
-                "btc": 0.03917253,
-                "eth": 1.003619,
-                "usd": 1259.61
-            },
-            "converted_volume": {
-                "btc": 266.847,
-                "eth": 6837,
-                "usd": 8580573
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179491,
-            "timestamp": "2021-01-23T18:22:27+00:00",
-            "last_traded_at": "2021-01-23T18:22:27+00:00",
-            "last_fetch_at": "2021-01-23T18:22:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/ETH/USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -354,23 +290,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 919.7,
-            "volume": 7014.31004967,
+            "last": 987.24284792,
+            "volume": 10171.47343353,
             "converted_last": {
-                "btc": 0.03911981,
-                "eth": 1.000383,
-                "usd": 1258.3
+                "btc": 0.04165683,
+                "eth": 0.99763269,
+                "usd": 1349.74
             },
             "converted_volume": {
-                "btc": 274.399,
-                "eth": 7017,
-                "usd": 8826080
+                "btc": 423.711,
+                "eth": 10147,
+                "usd": 13728805
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143445,
-            "timestamp": "2021-01-23T18:24:58+00:00",
-            "last_traded_at": "2021-01-23T18:24:58+00:00",
-            "last_fetch_at": "2021-01-23T18:24:58+00:00",
+            "bid_ask_spread_percentage": 0.160716,
+            "timestamp": "2021-01-26T03:01:11+00:00",
+            "last_traded_at": "2021-01-26T03:01:11+00:00",
+            "last_fetch_at": "2021-01-26T03:01:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ETHGBP",
@@ -379,94 +315,32 @@
         },
         {
             "base": "ETH",
-            "target": "USD",
+            "target": "BTC",
             "market": {
                 "name": "FTX",
                 "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 1259.1,
-            "volume": 31852.12345786673,
+            "last": 0.04193,
+            "volume": 8437.684973050322,
             "converted_last": {
-                "btc": 0.03915669,
-                "eth": 1.003213,
-                "usd": 1259.1
+                "btc": 0.04193,
+                "eth": 1.00414,
+                "usd": 1357.79
             },
             "converted_volume": {
-                "btc": 1247,
-                "eth": 31954,
-                "usd": 40105009
+                "btc": 353.792,
+                "eth": 8473,
+                "usd": 11456621
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171446,
-            "timestamp": "2021-01-23T18:22:28+00:00",
-            "last_traded_at": "2021-01-23T18:22:28+00:00",
-            "last_fetch_at": "2021-01-23T18:22:28+00:00",
+            "bid_ask_spread_percentage": 0.10596,
+            "timestamp": "2021-01-26T03:06:40+00:00",
+            "last_traded_at": "2021-01-26T03:06:40+00:00",
+            "last_fetch_at": "2021-01-26T03:06:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://ftx.com/trade/ETH/USD",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "FTX.us",
-                "identifier": "ftx_us",
-                "has_trading_incentive": false
-            },
-            "last": 1257.3,
-            "volume": 10566.324808478486,
-            "converted_last": {
-                "btc": 0.03908812,
-                "eth": 0.99957254,
-                "usd": 1257.3
-            },
-            "converted_volume": {
-                "btc": 413.018,
-                "eth": 10562,
-                "usd": 13285040
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119161,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.us/trade/ETH/USD",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "FTX.us",
-                "identifier": "ftx_us",
-                "has_trading_incentive": false
-            },
-            "last": 0.0390925,
-            "volume": 4962.02884549466,
-            "converted_last": {
-                "btc": 0.0390925,
-                "eth": 0.99968455,
-                "usd": 1257.44
-            },
-            "converted_volume": {
-                "btc": 193.978,
-                "eth": 4960,
-                "usd": 6239458
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.16391,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.us/trade/ETH/BTC",
+            "trade_url": "https://ftx.com/trade/ETH/BTC",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "bitcoin"
@@ -475,30 +349,62 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "FTX.us",
-                "identifier": "ftx_us",
+                "name": "FTX",
+                "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 1255.4,
-            "volume": 5536.1280462800705,
+            "last": 1354.0,
+            "volume": 12612.899870901034,
             "converted_last": {
-                "btc": 0.03903097,
-                "eth": 0.99811115,
-                "usd": 1255.46
+                "btc": 0.04188531,
+                "eth": 1.003069,
+                "usd": 1356.36
             },
             "converted_volume": {
-                "btc": 216.08,
-                "eth": 5526,
-                "usd": 6950397
+                "btc": 528.295,
+                "eth": 12652,
+                "usd": 17107646
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.190809,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
+            "bid_ask_spread_percentage": 0.173784,
+            "timestamp": "2021-01-26T03:07:41+00:00",
+            "last_traded_at": "2021-01-26T03:07:41+00:00",
+            "last_fetch_at": "2021-01-26T03:07:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://ftx.us/trade/ETH/USDT",
+            "trade_url": "https://ftx.com/trade/ETH/USDT",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 1350.25,
+            "volume": 1058187.4969104126,
+            "converted_last": {
+                "btc": 0.04168896,
+                "eth": 0.99840219,
+                "usd": 1351.18
+            },
+            "converted_volume": {
+                "btc": 44115,
+                "eth": 1056497,
+                "usd": 1429802769
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10074,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=eth_usdt",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -511,23 +417,23 @@
                 "identifier": "zbg",
                 "has_trading_incentive": false
             },
-            "last": 8123.97,
-            "volume": 9972.2822,
+            "last": 8742.21,
+            "volume": 14966.0282,
             "converted_last": {
-                "btc": 0.03912153,
-                "eth": 1.000427,
-                "usd": 1258.39
+                "btc": 0.04193494,
+                "eth": 1.004293,
+                "usd": 1356.93
             },
             "converted_volume": {
-                "btc": 390.131,
-                "eth": 9977,
-                "usd": 12549055
+                "btc": 627.6,
+                "eth": 15030,
+                "usd": 20307841
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.18453,
-            "timestamp": "2021-01-23T18:25:26+00:00",
-            "last_traded_at": "2021-01-23T18:25:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
+            "bid_ask_spread_percentage": 0.174179,
+            "timestamp": "2021-01-26T03:03:23+00:00",
+            "last_traded_at": "2021-01-26T03:03:23+00:00",
+            "last_fetch_at": "2021-01-26T03:03:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -537,29 +443,92 @@
         },
         {
             "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.0419425,
+            "volume": 1736.9840239017703,
+            "converted_last": {
+                "btc": 0.0419425,
+                "eth": 1.004439,
+                "usd": 1358.17
+            },
+            "converted_volume": {
+                "btc": 72.853,
+                "eth": 1745,
+                "usd": 2359128
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.141706,
+            "timestamp": "2021-01-26T03:05:37+00:00",
+            "last_traded_at": "2021-01-26T03:05:37+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/ETH/BTC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 1357.2,
+            "volume": 26259.827116121425,
+            "converted_last": {
+                "btc": 0.0419124,
+                "eth": 1.003718,
+                "usd": 1357.2
+            },
+            "converted_volume": {
+                "btc": 1101,
+                "eth": 26357,
+                "usd": 35639837
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.173627,
+            "timestamp": "2021-01-26T03:05:37+00:00",
+            "last_traded_at": "2021-01-26T03:05:37+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/ETH/USD",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
             "target": "USDT",
             "market": {
                 "name": "Digifinex",
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 1256.47,
-            "volume": 116548.2239,
+            "last": 1357.31,
+            "volume": 165707.2318,
             "converted_last": {
-                "btc": 0.03906424,
-                "eth": 0.99896185,
-                "usd": 1256.55
+                "btc": 0.0419877,
+                "eth": 1.005521,
+                "usd": 1359.66
             },
             "converted_volume": {
-                "btc": 4553,
-                "eth": 116427,
-                "usd": 146448760
+                "btc": 6958,
+                "eth": 166622,
+                "usd": 225305584
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.140578,
-            "timestamp": "2021-01-23T18:25:12+00:00",
-            "last_traded_at": "2021-01-23T18:25:12+00:00",
-            "last_fetch_at": "2021-01-23T18:25:12+00:00",
+            "bid_ask_spread_percentage": 0.140541,
+            "timestamp": "2021-01-26T03:06:23+00:00",
+            "last_traded_at": "2021-01-26T03:06:23+00:00",
+            "last_fetch_at": "2021-01-26T03:06:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/ETH",
@@ -575,23 +544,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.039119,
-            "volume": 8291.5845,
+            "last": 0.041963,
+            "volume": 10109.7994,
             "converted_last": {
-                "btc": 0.039119,
-                "eth": 1.000362,
-                "usd": 1258.31
+                "btc": 0.041963,
+                "eth": 1.00493,
+                "usd": 1358.86
             },
             "converted_volume": {
-                "btc": 324.358,
-                "eth": 8295,
-                "usd": 10433402
+                "btc": 424.238,
+                "eth": 10160,
+                "usd": 13737808
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.191576,
-            "timestamp": "2021-01-23T18:25:05+00:00",
-            "last_traded_at": "2021-01-23T18:25:05+00:00",
-            "last_fetch_at": "2021-01-23T18:25:05+00:00",
+            "bid_ask_spread_percentage": 0.190526,
+            "timestamp": "2021-01-26T03:06:21+00:00",
+            "last_traded_at": "2021-01-26T03:06:21+00:00",
+            "last_fetch_at": "2021-01-26T03:06:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/ETH",
@@ -601,99 +570,225 @@
         },
         {
             "base": "ETH",
-            "target": "QC",
-            "market": {
-                "name": "BW.com",
-                "identifier": "bw",
-                "has_trading_incentive": false
-            },
-            "last": 8134.27,
-            "volume": 10940.538,
-            "converted_last": {
-                "btc": 0.03916263,
-                "eth": 1.003365,
-                "usd": 1259.29
-            },
-            "converted_volume": {
-                "btc": 428.46,
-                "eth": 10977,
-                "usd": 13777319
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.144885,
-            "timestamp": "2021-01-23T18:22:53+00:00",
-            "last_traded_at": "2021-01-23T18:22:53+00:00",
-            "last_fetch_at": "2021-01-23T18:22:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/eth_qc",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "qcash"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 1256.78,
-            "volume": 675091.93680259,
-            "converted_last": {
-                "btc": 0.03907388,
-                "eth": 0.99920832,
-                "usd": 1256.86
-            },
-            "converted_volume": {
-                "btc": 26378,
-                "eth": 674557,
-                "usd": 848496583
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100796,
-            "timestamp": "2021-01-23T18:25:15+00:00",
-            "last_traded_at": "2021-01-23T18:25:15+00:00",
-            "last_fetch_at": "2021-01-23T18:25:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=eth_usdt",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
             "target": "BTC",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.039113,
-            "volume": 296935.36459105666,
+            "last": 0.041914,
+            "volume": 547885.251536718,
             "converted_last": {
-                "btc": 0.039113,
-                "eth": 1.000209,
-                "usd": 1258.1
+                "btc": 0.041914,
+                "eth": 1.003756,
+                "usd": 1357.29
             },
             "converted_volume": {
-                "btc": 11614,
-                "eth": 296997,
-                "usd": 373574469
+                "btc": 22964,
+                "eth": 549943,
+                "usd": 743639251
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.102556,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
+            "bid_ask_spread_percentage": 0.102384,
+            "timestamp": "2021-01-26T03:08:00+00:00",
+            "last_traded_at": "2021-01-26T03:08:00+00:00",
+            "last_fetch_at": "2021-01-26T03:08:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ETH_BTC",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 1357.1,
+            "volume": 790.968849605777,
+            "converted_last": {
+                "btc": 0.04198121,
+                "eth": 1.005366,
+                "usd": 1359.43
+            },
+            "converted_volume": {
+                "btc": 33.205826,
+                "eth": 795.213,
+                "usd": 1075265
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.103055,
+            "timestamp": "2021-01-26T03:05:37+00:00",
+            "last_traded_at": "2021-01-26T03:05:37+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/ETH/USDT",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 1354.6,
+            "volume": 53097.168111250554,
+            "converted_last": {
+                "btc": 0.04183143,
+                "eth": 1.001779,
+                "usd": 1354.6
+            },
+            "converted_volume": {
+                "btc": 2221,
+                "eth": 53192,
+                "usd": 71925424
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.144274,
+            "timestamp": "2021-01-26T03:06:50+00:00",
+            "last_traded_at": "2021-01-26T03:06:50+00:00",
+            "last_fetch_at": "2021-01-26T03:06:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/ETH/USD",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "LBank",
+                "identifier": "lbank",
+                "has_trading_incentive": false
+            },
+            "last": 0.04194042,
+            "volume": 53850.9009,
+            "converted_last": {
+                "btc": 0.04194042,
+                "eth": 1.004389,
+                "usd": 1358.15
+            },
+            "converted_volume": {
+                "btc": 2259,
+                "eth": 54087,
+                "usd": 73137369
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.12048,
+            "timestamp": "2021-01-26T03:07:57+00:00",
+            "last_traded_at": "2021-01-26T03:07:57+00:00",
+            "last_fetch_at": "2021-01-26T03:07:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=eth&post=btc",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USDC",
+            "market": {
+                "name": "Serum DEX",
+                "identifier": "serum_dex",
+                "has_trading_incentive": false
+            },
+            "last": 1342.21,
+            "volume": 97.178,
+            "converted_last": {
+                "btc": 0.04153602,
+                "eth": 0.99446239,
+                "usd": 1342.99
+            },
+            "converted_volume": {
+                "btc": 4.036388,
+                "eth": 96.64,
+                "usd": 130509
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.154762,
+            "timestamp": "2021-01-26T02:53:19+00:00",
+            "last_traded_at": "2021-01-26T02:53:19+00:00",
+            "last_fetch_at": "2021-01-26T03:00:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dex.projectserum.com",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "ETH",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 1358.11,
+            "volume": 482562.5129689015,
+            "converted_last": {
+                "btc": 0.04200296,
+                "eth": 1.005887,
+                "usd": 1360.15
+            },
+            "converted_volume": {
+                "btc": 20269,
+                "eth": 485403,
+                "usd": 656359705
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.100737,
+            "timestamp": "2021-01-26T03:06:09+00:00",
+            "last_traded_at": "2021-01-26T03:06:09+00:00",
+            "last_fetch_at": "2021-01-26T03:06:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/ETH_BUSD",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 1355.45,
+            "volume": 192935.96145306,
+            "converted_last": {
+                "btc": 0.04187554,
+                "eth": 1.002835,
+                "usd": 1355.45
+            },
+            "converted_volume": {
+                "btc": 8079,
+                "eth": 193483,
+                "usd": 261515049
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.111808,
+            "timestamp": "2021-01-26T03:08:51+00:00",
+            "last_traded_at": "2021-01-26T03:08:51+00:00",
+            "last_fetch_at": "2021-01-26T03:08:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/eth/usd",
+            "token_info_url": null,
+            "coin_id": "ethereum"
         },
         {
             "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
@@ -703,23 +798,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000797228336957658,
-            "volume": 173662626.918708,
+            "last": 0.000739887695125151,
+            "volume": 171161718.95453,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.84
             },
             "converted_volume": {
-                "btc": 5419,
-                "eth": 138834,
-                "usd": 174245093
+                "btc": 5306,
+                "eth": 127074,
+                "usd": 171830421
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602712,
-            "timestamp": "2021-01-23T18:19:46+00:00",
-            "last_traded_at": "2021-01-23T18:19:46+00:00",
-            "last_fetch_at": "2021-01-23T18:19:46+00:00",
+            "timestamp": "2021-01-26T03:07:17+00:00",
+            "last_traded_at": "2021-01-26T03:07:17+00:00",
+            "last_fetch_at": "2021-01-26T03:07:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
@@ -735,188 +830,29 @@
                 "identifier": "zbg",
                 "has_trading_incentive": false
             },
-            "last": 1256.11,
-            "volume": 81754.9816,
+            "last": 1352.26,
+            "volume": 84194.9142,
             "converted_last": {
-                "btc": 0.03905305,
-                "eth": 0.99867563,
-                "usd": 1256.19
+                "btc": 0.04189912,
+                "eth": 1.003435,
+                "usd": 1355.77
             },
             "converted_volume": {
-                "btc": 3193,
-                "eth": 81647,
-                "usd": 102699851
+                "btc": 3528,
+                "eth": 84484,
+                "usd": 114148931
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.160463,
-            "timestamp": "2021-01-23T18:25:20+00:00",
-            "last_traded_at": "2021-01-23T18:25:20+00:00",
-            "last_fetch_at": "2021-01-23T18:25:20+00:00",
+            "bid_ask_spread_percentage": 0.153939,
+            "timestamp": "2021-01-26T03:03:23+00:00",
+            "last_traded_at": "2021-01-26T03:03:23+00:00",
+            "last_fetch_at": "2021-01-26T03:03:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "LBank",
-                "identifier": "lbank",
-                "has_trading_incentive": false
-            },
-            "last": 0.03908408,
-            "volume": 46216.732,
-            "converted_last": {
-                "btc": 0.03908408,
-                "eth": 0.99946923,
-                "usd": 1256.71
-            },
-            "converted_volume": {
-                "btc": 1806,
-                "eth": 46192,
-                "usd": 58081022
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.127835,
-            "timestamp": "2021-01-23T18:26:02+00:00",
-            "last_traded_at": "2021-01-23T18:26:02+00:00",
-            "last_fetch_at": "2021-01-23T18:26:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=eth&post=btc",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 1259.8,
-            "volume": 342484.68641074066,
-            "converted_last": {
-                "btc": 0.03912747,
-                "eth": 1.000579,
-                "usd": 1258.57
-            },
-            "converted_volume": {
-                "btc": 13401,
-                "eth": 342683,
-                "usd": 431039468
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.10159,
-            "timestamp": "2021-01-23T18:23:41+00:00",
-            "last_traded_at": "2021-01-23T18:23:41+00:00",
-            "last_fetch_at": "2021-01-23T18:23:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ETH_BUSD",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "VB",
-                "identifier": "vb",
-                "has_trading_incentive": false
-            },
-            "last": 1257.34,
-            "volume": 306737.44985,
-            "converted_last": {
-                "btc": 0.03909129,
-                "eth": 0.99965355,
-                "usd": 1257.4
-            },
-            "converted_volume": {
-                "btc": 11991,
-                "eth": 306631,
-                "usd": 385692253
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.15965,
-            "timestamp": "2021-01-23T18:23:56+00:00",
-            "last_traded_at": "2021-01-23T18:23:56+00:00",
-            "last_fetch_at": "2021-01-23T18:23:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://vb.co/exchange",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.039119,
-            "volume": 8356.76315951,
-            "converted_last": {
-                "btc": 0.039119,
-                "eth": 1.000362,
-                "usd": 1258.27
-            },
-            "converted_volume": {
-                "btc": 326.908,
-                "eth": 8360,
-                "usd": 10515064
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.151138,
-            "timestamp": "2021-01-23T18:24:56+00:00",
-            "last_traded_at": "2021-01-23T18:24:56+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/ETHBTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 1259.17,
-            "volume": 104615.11134147,
-            "converted_last": {
-                "btc": 0.03916119,
-                "eth": 1.003329,
-                "usd": 1259.17
-            },
-            "converted_volume": {
-                "btc": 4097,
-                "eth": 104963,
-                "usd": 131728210
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100794,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/eth/usd",
-            "token_info_url": null,
-            "coin_id": "ethereum"
         },
         {
             "base": "0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
@@ -926,23 +862,23 @@
                 "identifier": "sushiswap",
                 "has_trading_incentive": false
             },
-            "last": 25.652361090011,
-            "volume": 2003.56632993,
+            "last": 23.9219322996255,
+            "volume": 2921.85789556,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
             },
             "converted_volume": {
-                "btc": 2012,
-                "eth": 51539,
-                "usd": 64684844
+                "btc": 2929,
+                "eth": 70136,
+                "usd": 94836988
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602712,
-            "timestamp": "2021-01-23T18:19:28+00:00",
-            "last_traded_at": "2021-01-23T18:19:28+00:00",
-            "last_fetch_at": "2021-01-23T18:19:28+00:00",
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -952,29 +888,91 @@
         },
         {
             "base": "ETH",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 1117.54,
+            "volume": 118819.9881629,
+            "converted_last": {
+                "btc": 0.04192379,
+                "eth": 1.003991,
+                "usd": 1357.01
+            },
+            "converted_volume": {
+                "btc": 4981,
+                "eth": 119294,
+                "usd": 161240136
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123262,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/eth/eur",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 1356.52,
+            "volume": 489884.90507589,
+            "converted_last": {
+                "btc": 0.04189072,
+                "eth": 1.003199,
+                "usd": 1356.52
+            },
+            "converted_volume": {
+                "btc": 20522,
+                "eth": 491452,
+                "usd": 664538671
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10516,
+            "timestamp": "2021-01-26T03:06:11+00:00",
+            "last_traded_at": "2021-01-26T03:06:11+00:00",
+            "last_fetch_at": "2021-01-26T03:07:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ETH-USD",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
             "target": "USD",
             "market": {
                 "name": "Bitcoin.com Exchange",
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 1256.201,
-            "volume": 200152.6893,
+            "last": 1353.558,
+            "volume": 210041.1721,
             "converted_last": {
-                "btc": 0.03906667,
-                "eth": 1.000907,
-                "usd": 1256.2
+                "btc": 0.04182323,
+                "eth": 1.001583,
+                "usd": 1353.56
             },
             "converted_volume": {
-                "btc": 7819,
-                "eth": 200334,
-                "usd": 251432008
+                "btc": 8785,
+                "eth": 210374,
+                "usd": 284302909
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.107245,
-            "timestamp": "2021-01-23T18:18:48+00:00",
-            "last_traded_at": "2021-01-23T18:18:48+00:00",
-            "last_fetch_at": "2021-01-23T18:18:48+00:00",
+            "bid_ask_spread_percentage": 0.104284,
+            "timestamp": "2021-01-26T03:09:03+00:00",
+            "last_traded_at": "2021-01-26T03:09:03+00:00",
+            "last_fetch_at": "2021-01-26T03:09:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/ETH-to-USD",
@@ -983,34 +981,194 @@
         },
         {
             "base": "ETH",
-            "target": "KRW",
+            "target": "BTC",
             "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 1393000.0,
-            "volume": 163294.34702777,
+            "last": 0.041825,
+            "volume": 23331.55783684,
             "converted_last": {
-                "btc": 0.03918756,
-                "eth": 1.004004,
-                "usd": 1260.02
+                "btc": 0.041825,
+                "eth": 1.00166,
+                "usd": 1355.18
             },
             "converted_volume": {
-                "btc": 6399,
-                "eth": 163948,
-                "usd": 205753772
+                "btc": 975.842,
+                "eth": 23370,
+                "usd": 31618577
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171788,
-            "timestamp": "2021-01-23T18:21:13+00:00",
-            "last_traded_at": "2021-01-23T18:21:13+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
+            "bid_ask_spread_percentage": 0.171685,
+            "timestamp": "2021-01-26T03:01:15+00:00",
+            "last_traded_at": "2021-01-26T03:01:15+00:00",
+            "last_fetch_at": "2021-01-26T03:01:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/ETH_KRW",
+            "trade_url": "https://www.bitfinex.com/t/ETHBTC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.041937,
+            "volume": 112156.6786,
+            "converted_last": {
+                "btc": 0.041937,
+                "eth": 1.004307,
+                "usd": 1357.24
+            },
+            "converted_volume": {
+                "btc": 4704,
+                "eth": 112640,
+                "usd": 152223519
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.130998,
+            "timestamp": "2021-01-26T03:09:02+00:00",
+            "last_traded_at": "2021-01-26T03:09:02+00:00",
+            "last_fetch_at": "2021-01-26T03:09:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ETH-to-BTC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 1353.558,
+            "volume": 210041.1721,
+            "converted_last": {
+                "btc": 0.04182323,
+                "eth": 1.001583,
+                "usd": 1353.56
+            },
+            "converted_volume": {
+                "btc": 8785,
+                "eth": 210374,
+                "usd": 284302909
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.126722,
+            "timestamp": "2021-01-26T03:09:18+00:00",
+            "last_traded_at": "2021-01-26T03:09:18+00:00",
+            "last_fetch_at": "2021-01-26T03:09:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ETH-to-USD",
             "token_info_url": null,
             "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.041915,
+            "volume": 112160.1203,
+            "converted_last": {
+                "btc": 0.041915,
+                "eth": 1.00378,
+                "usd": 1356.73
+            },
+            "converted_volume": {
+                "btc": 4701,
+                "eth": 112584,
+                "usd": 152170696
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.142921,
+            "timestamp": "2021-01-26T03:08:58+00:00",
+            "last_traded_at": "2021-01-26T03:08:58+00:00",
+            "last_fetch_at": "2021-01-26T03:08:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ETH-to-BTC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.04177467,
+            "volume": 9808.80332603,
+            "converted_last": {
+                "btc": 0.04177467,
+                "eth": 0.99909196,
+                "usd": 1355.77
+            },
+            "converted_volume": {
+                "btc": 409.76,
+                "eth": 9800,
+                "usd": 13298442
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.129024,
+            "timestamp": "2021-01-26T02:45:19+00:00",
+            "last_traded_at": "2021-01-26T02:45:19+00:00",
+            "last_fetch_at": "2021-01-26T02:45:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
+            "market": {
+                "name": "VB",
+                "identifier": "vb",
+                "has_trading_incentive": false
+            },
+            "last": 1351.8,
+            "volume": 303919.51446,
+            "converted_last": {
+                "btc": 0.04185135,
+                "eth": 1.002256,
+                "usd": 1354.67
+            },
+            "converted_volume": {
+                "btc": 12719,
+                "eth": 304605,
+                "usd": 411709789
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114795,
+            "timestamp": "2021-01-26T03:08:17+00:00",
+            "last_traded_at": "2021-01-26T03:08:17+00:00",
+            "last_fetch_at": "2021-01-26T03:08:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vb.co/exchange",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
         },
         {
             "base": "ETH",
@@ -1020,23 +1178,23 @@
                 "identifier": "lbank",
                 "has_trading_incentive": false
             },
-            "last": 1254.78,
-            "volume": 61690.7947,
+            "last": 1356.96,
+            "volume": 75067.2164,
             "converted_last": {
-                "btc": 0.03905322,
-                "eth": 0.9986801,
-                "usd": 1255.72
+                "btc": 0.04201111,
+                "eth": 1.006082,
+                "usd": 1360.43
             },
             "converted_volume": {
-                "btc": 2409,
-                "eth": 61609,
-                "usd": 77466218
+                "btc": 3154,
+                "eth": 75524,
+                "usd": 102124047
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.12469,
-            "timestamp": "2021-01-23T18:26:03+00:00",
-            "last_traded_at": "2021-01-23T18:26:03+00:00",
-            "last_fetch_at": "2021-01-23T18:26:03+00:00",
+            "bid_ask_spread_percentage": 0.155294,
+            "timestamp": "2021-01-26T03:07:51+00:00",
+            "last_traded_at": "2021-01-26T03:07:51+00:00",
+            "last_fetch_at": "2021-01-26T03:07:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.lbank.info/exchange.html?asset=eth&post=usdt",
@@ -1052,23 +1210,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 1256.3,
-            "volume": 10378.65904417,
+            "last": 1353.1,
+            "volume": 21635.27362228,
             "converted_last": {
-                "btc": 0.03981215,
-                "eth": 1.018088,
-                "usd": 1280.57
+                "btc": 0.042122,
+                "eth": 1.008773,
+                "usd": 1362.99
             },
             "converted_volume": {
-                "btc": 413.197,
-                "eth": 10566,
-                "usd": 13290550
+                "btc": 911.321,
+                "eth": 21825,
+                "usd": 29488656
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158983,
-            "timestamp": "2021-01-23T18:24:57+00:00",
-            "last_traded_at": "2021-01-23T18:24:57+00:00",
-            "last_fetch_at": "2021-01-23T18:24:57+00:00",
+            "bid_ask_spread_percentage": 0.173855,
+            "timestamp": "2021-01-26T03:02:51+00:00",
+            "last_traded_at": "2021-01-26T03:02:51+00:00",
+            "last_fetch_at": "2021-01-26T03:02:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/ETHUST",
@@ -1078,94 +1236,32 @@
         },
         {
             "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 1256.248,
-            "volume": 200906.4551,
-            "converted_last": {
-                "btc": 0.03905483,
-                "eth": 0.99872115,
-                "usd": 1256.25
-            },
-            "converted_volume": {
-                "btc": 7846,
-                "eth": 200650,
-                "usd": 252388332
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.107724,
-            "timestamp": "2021-01-23T18:25:28+00:00",
-            "last_traded_at": "2021-01-23T18:25:28+00:00",
-            "last_fetch_at": "2021-01-23T18:25:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ETH-to-USD",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "EUR",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 1035.11,
-            "volume": 69302.45010039,
-            "converted_last": {
-                "btc": 0.03919306,
-                "eth": 1.004145,
-                "usd": 1260.19
-            },
-            "converted_volume": {
-                "btc": 2716,
-                "eth": 69590,
-                "usd": 87334575
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.114491,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/eth/eur",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "Serum DEX",
-                "identifier": "serum_dex",
+                "name": "Deversifi ",
+                "identifier": "deversifi",
                 "has_trading_incentive": false
             },
-            "last": 1258.13,
-            "volume": 51.369,
+            "last": 1350.2,
+            "volume": 317.01334,
             "converted_last": {
-                "btc": 0.03915168,
-                "eth": 1.003085,
-                "usd": 1258.86
+                "btc": 0.04168742,
+                "eth": 0.99836522,
+                "usd": 1351.13
             },
             "converted_volume": {
-                "btc": 2.011183,
-                "eth": 51.527,
-                "usd": 64667
+                "btc": 13.215467,
+                "eth": 316.495,
+                "usd": 428327
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100795,
-            "timestamp": "2021-01-23T18:21:17+00:00",
-            "last_traded_at": "2021-01-23T18:21:17+00:00",
-            "last_fetch_at": "2021-01-23T18:21:17+00:00",
+            "bid_ask_spread_percentage": 0.129619,
+            "timestamp": "2021-01-26T02:59:18+00:00",
+            "last_traded_at": "2021-01-26T02:59:18+00:00",
+            "last_fetch_at": "2021-01-26T02:59:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://dex.projectserum.com",
+            "trade_url": "https://app.deversifi.com",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -1178,23 +1274,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000797070668809546,
-            "volume": 74902489.759569,
+            "last": 0.000738488827930134,
+            "volume": 105215542.89821,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.49
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
             },
             "converted_volume": {
-                "btc": 2337,
-                "eth": 59869,
-                "usd": 75135014
+                "btc": 3256,
+                "eth": 77966,
+                "usd": 105425638
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602713,
-            "timestamp": "2021-01-23T18:21:30+00:00",
-            "last_traded_at": "2021-01-23T18:21:30+00:00",
-            "last_fetch_at": "2021-01-23T18:21:30+00:00",
+            "timestamp": "2021-01-26T03:06:18+00:00",
+            "last_traded_at": "2021-01-26T03:06:18+00:00",
+            "last_fetch_at": "2021-01-26T03:06:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7",
@@ -1206,30 +1302,30 @@
             "base": "ETH",
             "target": "USD",
             "market": {
-                "name": "Currency.com",
-                "identifier": "currency",
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
                 "has_trading_incentive": false
             },
-            "last": 1257.94,
-            "volume": 2902.05,
+            "last": 1349.34,
+            "volume": 131993.05793035,
             "converted_last": {
-                "btc": 0.03908877,
-                "eth": 1.004614,
-                "usd": 1257.94
+                "btc": 0.04157667,
+                "eth": 0.99435654,
+                "usd": 1349.34
             },
             "converted_volume": {
-                "btc": 113.438,
-                "eth": 2915,
-                "usd": 3650605
+                "btc": 5488,
+                "eth": 131248,
+                "usd": 178103513
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.140563,
-            "timestamp": "2021-01-23T18:16:25+00:00",
-            "last_traded_at": "2021-01-23T18:16:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
+            "bid_ask_spread_percentage": 0.130717,
+            "timestamp": "2021-01-26T02:45:19+00:00",
+            "last_traded_at": "2021-01-26T02:45:19+00:00",
+            "last_fetch_at": "2021-01-26T02:45:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.currency.com/eth-to-usd",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "ethereum"
         },
@@ -1237,30 +1333,30 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Serum DEX",
+                "identifier": "serum_dex",
                 "has_trading_incentive": false
             },
-            "last": 1258.69,
-            "volume": 250448.710302,
+            "last": 1349.95,
+            "volume": 213.617,
             "converted_last": {
-                "btc": 0.03916911,
-                "eth": 1.003532,
-                "usd": 1259.5
+                "btc": 0.0416797,
+                "eth": 0.99818036,
+                "usd": 1350.76
             },
             "converted_volume": {
-                "btc": 9810,
-                "eth": 251333,
-                "usd": 315440596
+                "btc": 8.903492,
+                "eth": 213.228,
+                "usd": 288546
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.103973,
-            "timestamp": "2021-01-23T18:20:39+00:00",
-            "last_traded_at": "2021-01-23T18:20:39+00:00",
-            "last_fetch_at": "2021-01-23T18:20:39+00:00",
+            "bid_ask_spread_percentage": 0.147197,
+            "timestamp": "2021-01-26T03:00:54+00:00",
+            "last_traded_at": "2021-01-26T03:00:54+00:00",
+            "last_fetch_at": "2021-01-26T03:00:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=eth_usdt",
+            "trade_url": "https://dex.projectserum.com",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -1273,23 +1369,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.03915,
-            "volume": 18711.86040459,
+            "last": 0.04194,
+            "volume": 45522.88774232,
             "converted_last": {
-                "btc": 0.03915,
-                "eth": 1.003042,
-                "usd": 1258.81
+                "btc": 0.04194,
+                "eth": 1.004379,
+                "usd": 1357.54
             },
             "converted_volume": {
-                "btc": 732.569,
-                "eth": 18769,
-                "usd": 23554680
+                "btc": 1909,
+                "eth": 45722,
+                "usd": 61798982
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.125543,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
+            "bid_ask_spread_percentage": 0.147676,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/eth/xbt",
@@ -1301,30 +1397,30 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "BW.com",
-                "identifier": "bw",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 1257.71,
-            "volume": 21290.6056,
+            "last": 1353.68,
+            "volume": 294768.780136,
             "converted_last": {
-                "btc": 0.03910279,
-                "eth": 1.001832,
-                "usd": 1257.37
+                "btc": 0.04194311,
+                "eth": 1.004489,
+                "usd": 1357.19
             },
             "converted_volume": {
-                "btc": 832.522,
-                "eth": 21330,
-                "usd": 26770099
+                "btc": 12364,
+                "eth": 296092,
+                "usd": 400058300
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.111246,
-            "timestamp": "2021-01-23T18:22:50+00:00",
-            "last_traded_at": "2021-01-23T18:22:50+00:00",
-            "last_fetch_at": "2021-01-23T18:22:50+00:00",
+            "bid_ask_spread_percentage": 0.125885,
+            "timestamp": "2021-01-26T03:03:16+00:00",
+            "last_traded_at": "2021-01-26T03:03:16+00:00",
+            "last_fetch_at": "2021-01-26T03:03:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/eth_usdt",
+            "trade_url": "https://www.okex.com/market?product=eth_usdt",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -1333,125 +1429,94 @@
             "base": "ETH",
             "target": "BTC",
             "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 0.039095,
-            "volume": 81436.1834,
+            "last": 0.041952,
+            "volume": 29796.838,
             "converted_last": {
-                "btc": 0.039095,
-                "eth": 1.001633,
-                "usd": 1257.11
+                "btc": 0.041952,
+                "eth": 1.004666,
+                "usd": 1357.73
             },
             "converted_volume": {
-                "btc": 3184,
-                "eth": 81569,
-                "usd": 102374407
+                "btc": 1250,
+                "eth": 29936,
+                "usd": 40455922
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.133249,
-            "timestamp": "2021-01-23T18:18:46+00:00",
-            "last_traded_at": "2021-01-23T18:18:46+00:00",
-            "last_fetch_at": "2021-01-23T18:18:46+00:00",
+            "bid_ask_spread_percentage": 0.13575,
+            "timestamp": "2021-01-26T03:09:05+00:00",
+            "last_traded_at": "2021-01-26T03:09:05+00:00",
+            "last_fetch_at": "2021-01-26T03:09:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/ETH-to-BTC",
+            "trade_url": "https://whitebit.com/trade/ETH_BTC",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "SXC",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 8762.24,
+            "volume": 397707.043,
+            "converted_last": {
+                "btc": 0.04212718,
+                "eth": 1.008862,
+                "usd": 1364.19
+            },
+            "converted_volume": {
+                "btc": 16754,
+                "eth": 401231,
+                "usd": 542549337
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.146144,
+            "timestamp": "2021-01-26T03:07:49+00:00",
+            "last_traded_at": "2021-01-26T03:07:49+00:00",
+            "last_fetch_at": "2021-01-26T03:07:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/eth_sxc",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "sxc"
         },
         {
             "base": "ETH",
             "target": "KRW",
             "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
+                "name": "Bithumb",
+                "identifier": "bithumb",
                 "has_trading_incentive": false
             },
-            "last": 1391500.0,
-            "volume": 307826.3548139,
+            "last": 1510000.0,
+            "volume": 187489.72411177,
             "converted_last": {
-                "btc": 0.03912984,
-                "eth": 1.000639,
-                "usd": 1258.66
+                "btc": 0.0423188,
+                "eth": 1.013451,
+                "usd": 1370.4
             },
             "converted_volume": {
-                "btc": 12045,
-                "eth": 308023,
-                "usd": 387449005
+                "btc": 7934,
+                "eth": 190012,
+                "usd": 256935698
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.13592,
-            "timestamp": "2021-01-23T18:25:44+00:00",
-            "last_traded_at": "2021-01-23T18:25:44+00:00",
-            "last_fetch_at": "2021-01-23T18:25:44+00:00",
+            "bid_ask_spread_percentage": 0.13245,
+            "timestamp": "2021-01-26T03:07:33+00:00",
+            "last_traded_at": "2021-01-26T03:07:33+00:00",
+            "last_fetch_at": "2021-01-26T03:07:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETH",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "BW.com",
-                "identifier": "bw",
-                "has_trading_incentive": false
-            },
-            "last": 0.03913,
-            "volume": 9557.3356,
-            "converted_last": {
-                "btc": 0.03913,
-                "eth": 1.000644,
-                "usd": 1258.65
-            },
-            "converted_volume": {
-                "btc": 373.979,
-                "eth": 9563,
-                "usd": 12029313
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.255363,
-            "timestamp": "2021-01-23T18:23:02+00:00",
-            "last_traded_at": "2021-01-23T18:23:02+00:00",
-            "last_fetch_at": "2021-01-23T18:23:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bw.com/trade/eth_btc",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 1258.02,
-            "volume": 312848.06633982,
-            "converted_last": {
-                "btc": 0.03911123,
-                "eth": 1.000163,
-                "usd": 1258.02
-            },
-            "converted_volume": {
-                "btc": 12236,
-                "eth": 312899,
-                "usd": 393569124
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.115896,
-            "timestamp": "2021-01-23T18:24:42+00:00",
-            "last_traded_at": "2021-01-23T18:24:42+00:00",
-            "last_fetch_at": "2021-01-23T18:24:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/ETH-USD",
+            "trade_url": "https://www.bithumb.com/trade/order/ETH_KRW",
             "token_info_url": null,
             "coin_id": "ethereum"
         },
@@ -1463,23 +1528,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000797866100526392,
-            "volume": 69727831.0979958,
+            "last": 0.000742283020343705,
+            "volume": 85321784.2567926,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.56
+                "btc": 0.04174,
+                "eth": 0.99962451,
+                "usd": 1352.43
             },
             "converted_volume": {
-                "btc": 2177,
-                "eth": 55788,
-                "usd": 70018009
+                "btc": 2644,
+                "eth": 63309,
+                "usd": 85653385
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602713,
-            "timestamp": "2021-01-23T18:18:12+00:00",
-            "last_traded_at": "2021-01-23T18:18:12+00:00",
-            "last_fetch_at": "2021-01-23T18:18:12+00:00",
+            "timestamp": "2021-01-26T03:01:06+00:00",
+            "last_traded_at": "2021-01-26T03:01:06+00:00",
+            "last_fetch_at": "2021-01-26T03:01:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -1489,96 +1554,32 @@
         },
         {
             "base": "ETH",
-            "target": "USDT",
+            "target": "KRW",
             "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
+                "name": "Upbit",
+                "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 1258.17,
-            "volume": 360695.64906,
+            "last": 1509500.0,
+            "volume": 331898.97666374,
             "converted_last": {
-                "btc": 0.03915293,
-                "eth": 1.003117,
-                "usd": 1258.98
+                "btc": 0.04232335,
+                "eth": 1.01356,
+                "usd": 1369.95
             },
             "converted_volume": {
-                "btc": 14122,
-                "eth": 361820,
-                "usd": 454109128
+                "btc": 14047,
+                "eth": 336399,
+                "usd": 454683361
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.186815,
-            "timestamp": "2021-01-23T18:20:23+00:00",
-            "last_traded_at": "2021-01-23T18:20:23+00:00",
-            "last_fetch_at": "2021-01-23T18:23:27+00:00",
+            "bid_ask_spread_percentage": 0.133113,
+            "timestamp": "2021-01-26T03:08:37+00:00",
+            "last_traded_at": "2021-01-26T03:08:37+00:00",
+            "last_fetch_at": "2021-01-26T03:08:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=ETH_USDT",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.039057,
-            "volume": 80539.5676,
-            "converted_last": {
-                "btc": 0.039057,
-                "eth": 0.99877673,
-                "usd": 1255.84
-            },
-            "converted_volume": {
-                "btc": 3146,
-                "eth": 80441,
-                "usd": 101144740
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.117897,
-            "timestamp": "2021-01-23T18:26:10+00:00",
-            "last_traded_at": "2021-01-23T18:26:10+00:00",
-            "last_fetch_at": "2021-01-23T18:26:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ETH-to-BTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 1257.64,
-            "volume": 62088.08337845,
-            "converted_last": {
-                "btc": 0.03909869,
-                "eth": 0.99984284,
-                "usd": 1257.64
-            },
-            "converted_volume": {
-                "btc": 2428,
-                "eth": 62078,
-                "usd": 78084457
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171104,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-ETH",
             "token_info_url": null,
             "coin_id": "ethereum"
         },
@@ -1590,23 +1591,23 @@
                 "identifier": "one_inch_liquidity_protocol",
                 "has_trading_incentive": false
             },
-            "last": 25.7654646347167,
-            "volume": 203.27189486,
+            "last": 23.9054757907414,
+            "volume": 576.27586538,
             "converted_last": {
-                "btc": 0.0391,
-                "eth": 0.99987634,
-                "usd": 1257.7
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1356.89
             },
             "converted_volume": {
-                "btc": 204.782,
-                "eth": 5237,
-                "usd": 6587077
+                "btc": 577.496,
+                "eth": 13830,
+                "usd": 18692707
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602714,
-            "timestamp": "2021-01-23T18:25:02+00:00",
-            "last_traded_at": "2021-01-23T18:25:02+00:00",
-            "last_fetch_at": "2021-01-23T18:25:02+00:00",
+            "bid_ask_spread_percentage": 0.602713,
+            "timestamp": "2021-01-26T03:08:08+00:00",
+            "last_traded_at": "2021-01-26T03:08:08+00:00",
+            "last_fetch_at": "2021-01-26T03:08:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -1615,96 +1616,33 @@
             "target_coin_id": "ethereum"
         },
         {
-            "base": "0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
-            "target": "ETH",
-            "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
-                "has_trading_incentive": false
-            },
-            "last": 25.6281580545933,
-            "volume": 2124.73690901,
-            "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
-            },
-            "converted_volume": {
-                "btc": 2131,
-                "eth": 54605,
-                "usd": 68532097
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602714,
-            "timestamp": "2021-01-23T18:19:50+00:00",
-            "last_traded_at": "2021-01-23T18:19:50+00:00",
-            "last_fetch_at": "2021-01-23T18:19:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-            "token_info_url": "https://info.uniswap.org/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
-            "coin_id": "wrapped-bitcoin",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "TRY",
-            "market": {
-                "name": "BtcTurk PRO",
-                "identifier": "btcturk",
-                "has_trading_incentive": false
-            },
-            "last": 9300.0,
-            "volume": 54206.63502113,
-            "converted_last": {
-                "btc": 0.03900739,
-                "eth": 0.99938809,
-                "usd": 1254.3
-            },
-            "converted_volume": {
-                "btc": 2114,
-                "eth": 54173,
-                "usd": 67991329
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.110753,
-            "timestamp": "2021-01-23T18:22:14+00:00",
-            "last_traded_at": "2021-01-23T18:22:14+00:00",
-            "last_fetch_at": "2021-01-23T18:22:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.btcturk.com/pro/al-sat/ETH_TRY",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
+                "name": "KuCoin",
+                "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 1258.49,
-            "volume": 13483.06667431,
+            "last": 1354.71,
+            "volume": 63609.29581801,
             "converted_last": {
-                "btc": 0.03916289,
-                "eth": 1.003372,
-                "usd": 1259.22
+                "btc": 0.04194145,
+                "eth": 1.004414,
+                "usd": 1357.58
             },
             "converted_volume": {
-                "btc": 528.036,
-                "eth": 13529,
-                "usd": 16978208
+                "btc": 2668,
+                "eth": 63890,
+                "usd": 86354921
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.121449,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.100738,
+            "timestamp": "2021-01-26T03:08:59+00:00",
+            "last_traded_at": "2021-01-26T03:08:59+00:00",
+            "last_fetch_at": "2021-01-26T03:08:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=ETH#limit",
+            "trade_url": "https://www.kucoin.com/trade/ETH-USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -1717,23 +1655,23 @@
                 "identifier": "sushiswap",
                 "has_trading_incentive": false
             },
-            "last": 0.0058221037536889,
-            "volume": 3925419.28727555,
+            "last": 0.00587192400000382,
+            "volume": 9497351.79856038,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
             },
             "converted_volume": {
-                "btc": 894.513,
-                "eth": 22918,
-                "usd": 28763217
+                "btc": 2337,
+                "eth": 55959,
+                "usd": 75666798
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602714,
-            "timestamp": "2021-01-23T18:19:27+00:00",
-            "last_traded_at": "2021-01-23T18:19:27+00:00",
-            "last_fetch_at": "2021-01-23T18:19:27+00:00",
+            "timestamp": "2021-01-26T03:06:59+00:00",
+            "last_traded_at": "2021-01-26T03:06:59+00:00",
+            "last_fetch_at": "2021-01-26T03:06:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
@@ -1742,68 +1680,36 @@
             "target_coin_id": "ethereum"
         },
         {
-            "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+            "base": "0X2260FAC5E5542A773AA44FBCFEDF7C193BC2C599",
             "target": "ETH",
             "market": {
-                "name": "Sushiswap",
-                "identifier": "sushiswap",
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000796980171708488,
-            "volume": 40460406.7578311,
+            "last": 23.919752222118,
+            "volume": 2621.06455813,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
             },
             "converted_volume": {
-                "btc": 1262,
-                "eth": 32336,
-                "usd": 40583474
+                "btc": 2627,
+                "eth": 62910,
+                "usd": 85066155
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602714,
-            "timestamp": "2021-01-23T18:19:29+00:00",
-            "last_traded_at": "2021-01-23T18:19:29+00:00",
-            "last_fetch_at": "2021-01-23T18:19:29+00:00",
+            "timestamp": "2021-01-26T03:06:51+00:00",
+            "last_traded_at": "2021-01-26T03:06:51+00:00",
+            "last_fetch_at": "2021-01-26T03:06:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "token_info_url": "https://sushiswap.fi/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "coin_id": "usd-coin",
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "token_info_url": "https://info.uniswap.org/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+            "coin_id": "wrapped-bitcoin",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 0.0391,
-            "volume": 24263.87238503,
-            "converted_last": {
-                "btc": 0.0391,
-                "eth": 0.99987634,
-                "usd": 1257.66
-            },
-            "converted_volume": {
-                "btc": 948.717,
-                "eth": 24261,
-                "usd": 30515674
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.125569,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/ETH-BTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "ETH",
@@ -1813,23 +1719,23 @@
                 "identifier": "dydx",
                 "has_trading_incentive": false
             },
-            "last": 1249.73,
-            "volume": 3427.0279,
+            "last": 1342.4,
+            "volume": 15679.9619,
             "converted_last": {
-                "btc": 0.03868607,
-                "eth": 1.000673,
-                "usd": 1248.99
+                "btc": 0.04153447,
+                "eth": 0.99614281,
+                "usd": 1344.46
             },
             "converted_volume": {
-                "btc": 132.578,
-                "eth": 3429,
-                "usd": 4280308
+                "btc": 651.259,
+                "eth": 15619,
+                "usd": 21081096
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184234,
-            "timestamp": "2021-01-23T17:57:39+00:00",
-            "last_traded_at": "2021-01-23T17:57:39+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "bid_ask_spread_percentage": 0.102955,
+            "timestamp": "2021-01-26T02:57:08+00:00",
+            "last_traded_at": "2021-01-26T02:57:08+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.dydx.exchange/markets",
@@ -1841,30 +1747,30 @@
             "base": "ETH",
             "target": "BTC",
             "market": {
-                "name": "Gemini",
-                "identifier": "gemini",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.03914,
-            "volume": 5052.63857596,
+            "last": 0.04192,
+            "volume": 58380.23745164,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1357.48
             },
             "converted_volume": {
-                "btc": 197.76,
-                "eth": 5067,
-                "usd": 6359013
+                "btc": 2447,
+                "eth": 58608,
+                "usd": 79250264
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176648,
-            "timestamp": "2021-01-23T18:19:14+00:00",
-            "last_traded_at": "2021-01-23T18:19:14+00:00",
-            "last_fetch_at": "2021-01-23T18:19:14+00:00",
+            "bid_ask_spread_percentage": 0.123855,
+            "timestamp": "2021-01-26T03:07:38+00:00",
+            "last_traded_at": "2021-01-26T03:07:38+00:00",
+            "last_fetch_at": "2021-01-26T03:07:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://pro.coinbase.com/trade/ETH-BTC",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "bitcoin"
@@ -1873,96 +1779,65 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "Dcoin",
-                "identifier": "dcoin",
+                "name": "BW.com",
+                "identifier": "bw",
                 "has_trading_incentive": false
             },
-            "last": 1258.7,
-            "volume": 142380.0,
+            "last": 1356.44,
+            "volume": 44127.179,
             "converted_last": {
-                "btc": 0.03916942,
-                "eth": 1.003539,
-                "usd": 1259.43
+                "btc": 0.04199501,
+                "eth": 1.005696,
+                "usd": 1359.32
             },
             "converted_volume": {
-                "btc": 5577,
-                "eth": 142884,
-                "usd": 179318307
+                "btc": 1853,
+                "eth": 44379,
+                "usd": 59982825
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129394,
-            "timestamp": "2021-01-23T18:21:15+00:00",
-            "last_traded_at": "2021-01-23T18:21:15+00:00",
-            "last_fetch_at": "2021-01-23T18:21:15+00:00",
+            "bid_ask_spread_percentage": 0.131985,
+            "timestamp": "2021-01-26T03:08:37+00:00",
+            "last_traded_at": "2021-01-26T03:08:37+00:00",
+            "last_fetch_at": "2021-01-26T03:08:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.dcoin.com/currencyTrading/ETH_USDT",
+            "trade_url": "https://www.bw.com/trade/eth_usdt",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
         },
         {
-            "base": "ETH",
-            "target": "USD",
+            "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
+            "target": "ETH",
             "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
                 "has_trading_incentive": false
             },
-            "last": 1260.97,
-            "volume": 6.70136028036353,
+            "last": 0.000738885828321481,
+            "volume": 63403553.4194179,
             "converted_last": {
-                "btc": 0.03921717,
-                "eth": 1.004763,
-                "usd": 1260.97
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
             },
             "converted_volume": {
-                "btc": 0.26280841,
-                "eth": 6.733278,
-                "usd": 8450.21
+                "btc": 1963,
+                "eth": 47008,
+                "usd": 63564311
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179319,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "bid_ask_spread_percentage": 0.602714,
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/USD-ETH",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
-                "has_trading_incentive": false
-            },
-            "last": 1258.59,
-            "volume": 104906.8962,
-            "converted_last": {
-                "btc": 0.039166,
-                "eth": 1.003452,
-                "usd": 1259.32
-            },
-            "converted_volume": {
-                "btc": 4109,
-                "eth": 105269,
-                "usd": 132111835
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.16037,
-            "timestamp": "2021-01-23T18:21:22+00:00",
-            "last_traded_at": "2021-01-23T18:21:22+00:00",
-            "last_fetch_at": "2021-01-23T18:21:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/ETH_USDT",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
+            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "token_info_url": "https://sushiswap.fi/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "coin_id": "usd-coin",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ETH",
@@ -1972,28 +1847,91 @@
                 "identifier": "gemini",
                 "has_trading_incentive": false
             },
-            "last": 1259.56,
-            "volume": 32954.60053071,
+            "last": 1358.12,
+            "volume": 48086.0456882,
             "converted_last": {
-                "btc": 0.03917132,
-                "eth": 1.003588,
-                "usd": 1259.56
+                "btc": 0.04193963,
+                "eth": 1.00437,
+                "usd": 1358.12
             },
             "converted_volume": {
-                "btc": 1291,
-                "eth": 33073,
-                "usd": 41508297
+                "btc": 2017,
+                "eth": 48296,
+                "usd": 65306620
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.137325,
-            "timestamp": "2021-01-23T18:19:13+00:00",
-            "last_traded_at": "2021-01-23T18:19:13+00:00",
-            "last_fetch_at": "2021-01-23T18:19:13+00:00",
+            "bid_ask_spread_percentage": 0.136237,
+            "timestamp": "2021-01-26T03:07:50+00:00",
+            "last_traded_at": "2021-01-26T03:07:50+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "BTSE",
+                "identifier": "btse",
+                "has_trading_incentive": false
+            },
+            "last": 1349.45,
+            "volume": 6243.8372691550185,
+            "converted_last": {
+                "btc": 0.04173485,
+                "eth": 0.99922266,
+                "usd": 1349.45
+            },
+            "converted_volume": {
+                "btc": 260.586,
+                "eth": 6239,
+                "usd": 8425746
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.155096,
+            "timestamp": "2021-01-26T02:52:24+00:00",
+            "last_traded_at": "2021-01-26T02:52:24+00:00",
+            "last_fetch_at": "2021-01-26T02:58:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.btse.com/en/trading/ETH-USD",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "Gemini",
+                "identifier": "gemini",
+                "has_trading_incentive": false
+            },
+            "last": 0.04194,
+            "volume": 10768.60741394,
+            "converted_last": {
+                "btc": 0.04194,
+                "eth": 1.004379,
+                "usd": 1358.13
+            },
+            "converted_volume": {
+                "btc": 451.635,
+                "eth": 10816,
+                "usd": 14625191
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.195306,
+            "timestamp": "2021-01-26T03:07:50+00:00",
+            "last_traded_at": "2021-01-26T03:07:50+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "ETH",
@@ -2003,23 +1941,23 @@
                 "identifier": "bitstamp",
                 "has_trading_incentive": false
             },
-            "last": 1032.95,
-            "volume": 22545.92433542,
+            "last": 1108.83,
+            "volume": 33734.24793806,
             "converted_last": {
-                "btc": 0.03893151,
-                "eth": 1.003773,
-                "usd": 1257.56
+                "btc": 0.04164402,
+                "eth": 0.99704817,
+                "usd": 1346.62
             },
             "converted_volume": {
-                "btc": 877.747,
-                "eth": 22631,
-                "usd": 28352964
+                "btc": 1405,
+                "eth": 33635,
+                "usd": 45427221
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.188316,
-            "timestamp": "2021-01-23T18:08:37+00:00",
-            "last_traded_at": "2021-01-23T18:08:37+00:00",
-            "last_fetch_at": "2021-01-23T18:08:37+00:00",
+            "bid_ask_spread_percentage": 0.171071,
+            "timestamp": "2021-01-26T02:51:40+00:00",
+            "last_traded_at": "2021-01-26T02:51:40+00:00",
+            "last_fetch_at": "2021-01-26T02:51:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2028,99 +1966,35 @@
         },
         {
             "base": "ETH",
-            "target": "DAI",
-            "market": {
-                "name": "dYdX",
-                "identifier": "dydx",
-                "has_trading_incentive": false
-            },
-            "last": 1251.86,
-            "volume": 4801.8418,
-            "converted_last": {
-                "btc": 0.03898852,
-                "eth": 1.002037,
-                "usd": 1254.71
-            },
-            "converted_volume": {
-                "btc": 187.217,
-                "eth": 4812,
-                "usd": 6024938
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.160033,
-            "timestamp": "2021-01-23T18:16:05+00:00",
-            "last_traded_at": "2021-01-23T18:16:05+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.dydx.exchange/markets",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "Dcoin",
+                "identifier": "dcoin",
                 "has_trading_incentive": false
             },
-            "last": 1258.21,
-            "volume": 38789.27547596,
+            "last": 1355.12,
+            "volume": 157691.0,
             "converted_last": {
-                "btc": 0.03915417,
-                "eth": 1.003149,
-                "usd": 1258.94
+                "btc": 0.04195414,
+                "eth": 1.004718,
+                "usd": 1357.99
             },
             "converted_volume": {
-                "btc": 1519,
-                "eth": 38911,
-                "usd": 48833540
+                "btc": 6616,
+                "eth": 158435,
+                "usd": 214143466
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100795,
-            "timestamp": "2021-01-23T18:21:50+00:00",
-            "last_traded_at": "2021-01-23T18:21:50+00:00",
-            "last_fetch_at": "2021-01-23T18:21:50+00:00",
+            "bid_ask_spread_percentage": 0.228019,
+            "timestamp": "2021-01-26T03:08:41+00:00",
+            "last_traded_at": "2021-01-26T03:08:41+00:00",
+            "last_fetch_at": "2021-01-26T03:08:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/ETH-USDT",
+            "trade_url": "https://www.dcoin.com/currencyTrading/ETH_USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
-            "target": "ETH",
-            "market": {
-                "name": "Sushiswap",
-                "identifier": "sushiswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.00079783384796682,
-            "volume": 30476550.2039776,
-            "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
-            },
-            "converted_volume": {
-                "btc": 951.698,
-                "eth": 24383,
-                "usd": 30601994
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:19:28+00:00",
-            "last_traded_at": "2021-01-23T18:19:28+00:00",
-            "last_fetch_at": "2021-01-23T18:19:28+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
-            "token_info_url": "https://sushiswap.fi/token/0x6b175474e89094c44da98b954eedeac495271d0f",
-            "coin_id": "dai",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "ETH",
@@ -2130,23 +2004,23 @@
                 "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.039156,
-            "volume": 63394.84571001,
+            "last": 0.041942,
+            "volume": 100761.66911931,
             "converted_last": {
-                "btc": 0.039156,
-                "eth": 1.003196,
-                "usd": 1259.08
+                "btc": 0.041942,
+                "eth": 1.004427,
+                "usd": 1357.6
             },
             "converted_volume": {
-                "btc": 2482,
-                "eth": 63597,
-                "usd": 79819193
+                "btc": 4226,
+                "eth": 101208,
+                "usd": 136794167
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.132533,
-            "timestamp": "2021-01-23T18:20:13+00:00",
-            "last_traded_at": "2021-01-23T18:20:13+00:00",
-            "last_fetch_at": "2021-01-23T18:20:13+00:00",
+            "bid_ask_spread_percentage": 0.132391,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinsbit.io/trade/ETH_BTC",
@@ -2156,66 +2030,288 @@
         },
         {
             "base": "ETH",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Waves.Exchange",
-                "identifier": "waves",
+                "name": "BitMart",
+                "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 0.03883726,
-            "volume": 68.49377888,
+            "last": 1348.58,
+            "volume": 249873.93682,
             "converted_last": {
-                "btc": 0.03883726,
-                "eth": 1.003833,
-                "usd": 1247.17
+                "btc": 0.04174275,
+                "eth": 1.001138,
+                "usd": 1350.94
             },
             "converted_volume": {
-                "btc": 2.660111,
-                "eth": 68.756,
-                "usd": 85423
+                "btc": 10430,
+                "eth": 250158,
+                "usd": 337565823
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.478279,
-            "timestamp": "2021-01-23T17:28:04+00:00",
-            "last_traded_at": "2021-01-23T17:28:04+00:00",
-            "last_fetch_at": "2021-01-23T18:24:16+00:00",
+            "bid_ask_spread_percentage": 0.278638,
+            "timestamp": "2021-01-26T02:55:48+00:00",
+            "last_traded_at": "2021-01-26T02:55:48+00:00",
+            "last_fetch_at": "2021-01-26T02:59:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=ETH_USDT",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "EUR",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 1116.47,
+            "volume": 57032.44261781,
+            "converted_last": {
+                "btc": 0.04186528,
+                "eth": 1.00259,
+                "usd": 1355.71
+            },
+            "converted_volume": {
+                "btc": 2388,
+                "eth": 57180,
+                "usd": 77319601
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.191307,
+            "timestamp": "2021-01-26T03:07:42+00:00",
+            "last_traded_at": "2021-01-26T03:07:42+00:00",
+            "last_fetch_at": "2021-01-26T03:07:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/ETH-EUR",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "USDC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 1355.444164,
+            "volume": 8297.5422,
+            "converted_last": {
+                "btc": 0.04188693,
+                "eth": 1.003108,
+                "usd": 1355.62
+            },
+            "converted_volume": {
+                "btc": 347.559,
+                "eth": 8323,
+                "usd": 11248308
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.315849,
+            "timestamp": "2021-01-26T03:09:02+00:00",
+            "last_traded_at": "2021-01-26T03:09:02+00:00",
+            "last_fetch_at": "2021-01-26T03:09:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/ETH-to-USDC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "0XDAC17F958D2EE523A2206206994597C13D831EC7",
+            "target": "ETH",
+            "market": {
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.000739331504215878,
+            "volume": 72127362.3260026,
+            "converted_last": {
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
+            },
+            "converted_volume": {
+                "btc": 2234,
+                "eth": 53508,
+                "usd": 72353854
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602715,
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "token_info_url": "https://sushiswap.fi/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+            "coin_id": "tether",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.04189,
+            "volume": 68940.82134,
+            "converted_last": {
+                "btc": 0.04189,
+                "eth": 1.003217,
+                "usd": 1355.47
+            },
+            "converted_volume": {
+                "btc": 2888,
+                "eth": 69163,
+                "usd": 93447557
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123889,
+            "timestamp": "2021-01-26T03:03:03+00:00",
+            "last_traded_at": "2021-01-26T03:03:03+00:00",
+            "last_fetch_at": "2021-01-26T03:03:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=eth_btc",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "bitcoin"
         },
         {
-            "base": "0X853D955ACEF822DB058EB8505911ED77F175B99E",
-            "target": "ETH",
+            "base": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
+                "name": "CoinTiger",
+                "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 0.000792870469087055,
-            "volume": 25400079.2964807,
+            "last": 1354.49,
+            "volume": 60848.76342946,
             "converted_last": {
-                "btc": 0.0391,
-                "eth": 0.99987634,
-                "usd": 1257.66
+                "btc": 0.04190047,
+                "eth": 1.003432,
+                "usd": 1356.81
             },
             "converted_volume": {
-                "btc": 787.434,
-                "eth": 20136,
-                "usd": 25327957
+                "btc": 2550,
+                "eth": 61058,
+                "usd": 82560437
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.134611,
+            "timestamp": "2021-01-26T03:05:46+00:00",
+            "last_traded_at": "2021-01-26T03:05:46+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "EUR",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 1110.45,
+            "volume": 538.17305,
+            "converted_last": {
+                "btc": 0.04166394,
+                "eth": 0.99776796,
+                "usd": 1348.4
+            },
+            "converted_volume": {
+                "btc": 22.422409,
+                "eth": 536.972,
+                "usd": 725674
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.16299,
+            "timestamp": "2021-01-26T03:09:07+00:00",
+            "last_traded_at": "2021-01-26T03:09:07+00:00",
+            "last_fetch_at": "2021-01-26T03:09:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/ETH_EUR",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.041791,
+            "volume": 13729.56503,
+            "converted_last": {
+                "btc": 0.041791,
+                "eth": 1.000846,
+                "usd": 1354.49
+            },
+            "converted_volume": {
+                "btc": 573.772,
+                "eth": 13741,
+                "usd": 18596533
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.104784,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ETH_BTC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+            "target": "ETH",
+            "market": {
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.000740282183050619,
+            "volume": 42896395.470598,
+            "converted_last": {
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
+            },
+            "converted_volume": {
+                "btc": 1331,
+                "eth": 31864,
+                "usd": 43086429
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:24:51+00:00",
-            "last_traded_at": "2021-01-23T18:24:51+00:00",
-            "last_fetch_at": "2021-01-23T18:24:51+00:00",
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x853d955acef822db058eb8505911ed77f175b99e",
-            "token_info_url": "https://info.uniswap.org/token/0x853d955acef822db058eb8505911ed77f175b99e",
-            "coin_id": "frax",
+            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
+            "token_info_url": "https://sushiswap.fi/token/0x6b175474e89094c44da98b954eedeac495271d0f",
+            "coin_id": "dai",
             "target_coin_id": "ethereum"
         },
         {
@@ -2226,23 +2322,23 @@
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 25.6373525598635,
-            "volume": 133.81690212,
+            "last": 23.932630631465,
+            "volume": 435.53398149,
             "converted_last": {
-                "btc": 0.0391,
-                "eth": 0.99987634,
-                "usd": 1257.66
+                "btc": 0.04174,
+                "eth": 0.99962451,
+                "usd": 1352.84
             },
             "converted_volume": {
-                "btc": 134.141,
-                "eth": 3430,
-                "usd": 4314664
+                "btc": 435.076,
+                "eth": 10420,
+                "usd": 14101242
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602713,
-            "timestamp": "2021-01-23T18:24:46+00:00",
-            "last_traded_at": "2021-01-23T18:24:46+00:00",
-            "last_fetch_at": "2021-01-23T18:24:46+00:00",
+            "timestamp": "2021-01-26T02:59:37+00:00",
+            "last_traded_at": "2021-01-26T02:59:37+00:00",
+            "last_fetch_at": "2021-01-26T02:59:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://balancer.exchange/#/swap/ether/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -2252,444 +2348,32 @@
         },
         {
             "base": "ETH",
-            "target": "USD",
-            "market": {
-                "name": "CEX.IO",
-                "identifier": "cex",
-                "has_trading_incentive": false
-            },
-            "last": 1258.87,
-            "volume": 1762.881832,
-            "converted_last": {
-                "btc": 0.03914954,
-                "eth": 1.00303,
-                "usd": 1258.87
-            },
-            "converted_volume": {
-                "btc": 69.016,
-                "eth": 1768,
-                "usd": 2219239
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171542,
-            "timestamp": "2021-01-23T18:22:48+00:00",
-            "last_traded_at": "2021-01-23T18:22:48+00:00",
-            "last_fetch_at": "2021-01-23T18:22:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
+                "name": "BiKi",
+                "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 1257.93,
-            "volume": 61827.34313907,
+            "last": 1356.85,
+            "volume": 128878.52696059,
             "converted_last": {
-                "btc": 0.03910963,
-                "eth": 1.002008,
-                "usd": 1257.59
+                "btc": 0.04197347,
+                "eth": 1.005181,
+                "usd": 1359.2
             },
             "converted_volume": {
-                "btc": 2418,
-                "eth": 61951,
-                "usd": 77753243
+                "btc": 5409,
+                "eth": 129546,
+                "usd": 175171661
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116695,
-            "timestamp": "2021-01-23T18:22:35+00:00",
-            "last_traded_at": "2021-01-23T18:22:35+00:00",
-            "last_fetch_at": "2021-01-23T18:22:35+00:00",
+            "bid_ask_spread_percentage": 0.121369,
+            "timestamp": "2021-01-26T03:06:29+00:00",
+            "last_traded_at": "2021-01-26T03:06:29+00:00",
+            "last_fetch_at": "2021-01-26T03:06:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0XDAC17F958D2EE523A2206206994597C13D831EC7",
-            "target": "ETH",
-            "market": {
-                "name": "Sushiswap",
-                "identifier": "sushiswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.000798153659022462,
-            "volume": 39547239.2193933,
-            "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
-            },
-            "converted_volume": {
-                "btc": 1235,
-                "eth": 31653,
-                "usd": 39725936
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:19:29+00:00",
-            "last_traded_at": "2021-01-23T18:19:29+00:00",
-            "last_fetch_at": "2021-01-23T18:19:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7",
-            "token_info_url": "https://sushiswap.fi/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
-            "coin_id": "tether",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "KRW",
-            "market": {
-                "name": "Coinone",
-                "identifier": "coinone",
-                "has_trading_incentive": false
-            },
-            "last": 1392000.0,
-            "volume": 50277.2102,
-            "converted_last": {
-                "btc": 0.03914449,
-                "eth": 1.001014,
-                "usd": 1259.11
-            },
-            "converted_volume": {
-                "btc": 1968,
-                "eth": 50328,
-                "usd": 63304699
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.150298,
-            "timestamp": "2021-01-23T18:23:55+00:00",
-            "last_traded_at": "2021-01-23T18:23:55+00:00",
-            "last_fetch_at": "2021-01-23T18:23:55+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinone.co.kr/exchange/trade/eth/krw",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "Coinsbit",
-                "identifier": "coinsbit",
-                "has_trading_incentive": false
-            },
-            "last": 1256.21,
-            "volume": 77259.63566428,
-            "converted_last": {
-                "btc": 0.03904237,
-                "eth": 1.004509,
-                "usd": 1257.75
-            },
-            "converted_volume": {
-                "btc": 3016,
-                "eth": 77608,
-                "usd": 97173108
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.109621,
-            "timestamp": "2021-01-23T18:13:33+00:00",
-            "last_traded_at": "2021-01-23T18:13:33+00:00",
-            "last_fetch_at": "2021-01-23T18:13:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinsbit.io/trade/ETH_USDT",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 1256.93,
-            "volume": 13012.5452,
-            "converted_last": {
-                "btc": 0.03907854,
-                "eth": 0.99932758,
-                "usd": 1256.97
-            },
-            "converted_volume": {
-                "btc": 508.511,
-                "eth": 13004,
-                "usd": 16356361
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119098,
-            "timestamp": "2021-01-23T18:24:23+00:00",
-            "last_traded_at": "2021-01-23T18:24:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/eth_usdt",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "EUR",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 1033.04,
-            "volume": 57950.06210694639,
-            "converted_last": {
-                "btc": 0.03909976,
-                "eth": 0.99987027,
-                "usd": 1257.67
-            },
-            "converted_volume": {
-                "btc": 2266,
-                "eth": 57943,
-                "usd": 72882315
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.124202,
-            "timestamp": "2021-01-23T18:23:53+00:00",
-            "last_traded_at": "2021-01-23T18:23:53+00:00",
-            "last_fetch_at": "2021-01-23T18:23:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/ETH_EUR",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 1258.89,
-            "volume": 4953.42058,
-            "converted_last": {
-                "btc": 0.03917534,
-                "eth": 1.003691,
-                "usd": 1259.62
-            },
-            "converted_volume": {
-                "btc": 194.052,
-                "eth": 4972,
-                "usd": 6239451
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.134157,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/ETH_USDT",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "Float SV",
-                "identifier": "floatsv",
-                "has_trading_incentive": false
-            },
-            "last": 1256.41,
-            "volume": 5.853063,
-            "converted_last": {
-                "btc": 0.03910395,
-                "eth": 0.99997742,
-                "usd": 1257.83
-            },
-            "converted_volume": {
-                "btc": 0.2288779,
-                "eth": 5.852931,
-                "usd": 7362.15
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100796,
-            "timestamp": "2021-01-23T18:25:26+00:00",
-            "last_traded_at": "2021-01-23T18:25:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.floatsv.com/spot/trade#product=eth_usdt",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "JPY",
-            "market": {
-                "name": "bitFlyer",
-                "identifier": "bitflyer",
-                "has_trading_incentive": false
-            },
-            "last": 130653.0,
-            "volume": 41354.7439303,
-            "converted_last": {
-                "btc": 0.0391499,
-                "eth": 1.003039,
-                "usd": 1258.88
-            },
-            "converted_volume": {
-                "btc": 1619,
-                "eth": 41480,
-                "usd": 52060721
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158178,
-            "timestamp": "2021-01-23T18:22:27+00:00",
-            "last_traded_at": "2021-01-23T18:22:27+00:00",
-            "last_fetch_at": "2021-01-23T18:22:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitflyer.com/en-jp/ex/simpleex",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "0X66A0F676479CEE1D7373F3DC2E2952778BFF5BD6",
-            "target": "ETH",
-            "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.000393125576771575,
-            "volume": 2207405.34320101,
-            "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
-            },
-            "converted_volume": {
-                "btc": 33.965203,
-                "eth": 870.205,
-                "usd": 1092156
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:19:25+00:00",
-            "last_traded_at": "2021-01-23T18:19:25+00:00",
-            "last_fetch_at": "2021-01-23T18:19:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
-            "token_info_url": "https://info.uniswap.org/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
-            "coin_id": "wise-token11",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 0.039116,
-            "volume": 29974.839,
-            "converted_last": {
-                "btc": 0.039116,
-                "eth": 1.000285,
-                "usd": 1258.2
-            },
-            "converted_volume": {
-                "btc": 1172,
-                "eth": 29983,
-                "usd": 37714246
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.115337,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/ETH_BTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "OKEx Korea",
-                "identifier": "okex_korea",
-                "has_trading_incentive": false
-            },
-            "last": 1256.67,
-            "volume": 1046.171987,
-            "converted_last": {
-                "btc": 0.03911204,
-                "eth": 1.000184,
-                "usd": 1258.09
-            },
-            "converted_volume": {
-                "btc": 40.917926,
-                "eth": 1046,
-                "usd": 1316177
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100796,
-            "timestamp": "2021-01-23T18:25:45+00:00",
-            "last_traded_at": "2021-01-23T18:25:45+00:00",
-            "last_fetch_at": "2021-01-23T18:25:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://okex.co.kr/kr/view/trade/order",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "Hoo.com",
-                "identifier": "hoo",
-                "has_trading_incentive": false
-            },
-            "last": 1247.2,
-            "volume": 140163.01151978286,
-            "converted_last": {
-                "btc": 0.0385564,
-                "eth": 0.99637143,
-                "usd": 1247.09
-            },
-            "converted_volume": {
-                "btc": 5404,
-                "eth": 139654,
-                "usd": 174795424
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.105605,
-            "timestamp": "2021-01-23T17:49:53+00:00",
-            "last_traded_at": "2021-01-23T17:49:53+00:00",
-            "last_fetch_at": "2021-01-23T17:49:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hoo.com/spot/eth-usdt",
+            "trade_url": "https://www.biki.com/trade/ETH_USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
@@ -2702,23 +2386,23 @@
                 "identifier": "bigone",
                 "has_trading_incentive": false
             },
-            "last": 1258.25,
-            "volume": 51626.90762,
+            "last": 1354.51,
+            "volume": 60276.64594,
             "converted_last": {
-                "btc": 0.03915542,
-                "eth": 1.003181,
-                "usd": 1258.98
+                "btc": 0.04190109,
+                "eth": 1.003447,
+                "usd": 1356.87
             },
             "converted_volume": {
-                "btc": 2021,
-                "eth": 51791,
-                "usd": 64997471
+                "btc": 2526,
+                "eth": 60484,
+                "usd": 81787690
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143708,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "bid_ask_spread_percentage": 0.157563,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://big.one/trade/ETH-USDT",
@@ -2730,33 +2414,129 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "CoinAll",
-                "identifier": "coinall",
+                "name": "BKEX",
+                "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 1256.66,
-            "volume": 67.782758,
+            "last": 1355.64,
+            "volume": 156594.9339,
             "converted_last": {
-                "btc": 0.03907015,
-                "eth": 0.99911291,
-                "usd": 1256.7
+                "btc": 0.04193604,
+                "eth": 1.004284,
+                "usd": 1357.97
             },
             "converted_volume": {
-                "btc": 2.648282,
-                "eth": 67.723,
-                "usd": 85182
+                "btc": 6567,
+                "eth": 157266,
+                "usd": 212650549
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.102387,
-            "timestamp": "2021-01-23T18:24:47+00:00",
-            "last_traded_at": "2021-01-23T18:24:47+00:00",
-            "last_fetch_at": "2021-01-23T18:24:47+00:00",
+            "bid_ask_spread_percentage": 0.160379,
+            "timestamp": "2021-01-26T03:05:45+00:00",
+            "last_traded_at": "2021-01-26T03:05:45+00:00",
+            "last_fetch_at": "2021-01-26T03:05:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.bkex.com/#/trade/ETH_USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "DAI",
+            "market": {
+                "name": "dYdX",
+                "identifier": "dydx",
+                "has_trading_incentive": false
+            },
+            "last": 1348.17,
+            "volume": 11045.3685,
+            "converted_last": {
+                "btc": 0.04170112,
+                "eth": 0.99865842,
+                "usd": 1350.36
+            },
+            "converted_volume": {
+                "btc": 460.604,
+                "eth": 11031,
+                "usd": 14915208
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.111213,
+            "timestamp": "2021-01-26T03:05:46+00:00",
+            "last_traded_at": "2021-01-26T03:05:46+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.dydx.exchange/markets",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "0X66A0F676479CEE1D7373F3DC2E2952778BFF5BD6",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.000386225807573801,
+            "volume": 2055634.51223331,
+            "converted_last": {
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1357.48
+            },
+            "converted_volume": {
+                "btc": 33.281927,
+                "eth": 797.036,
+                "usd": 1077760
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602715,
+            "timestamp": "2021-01-26T03:07:53+00:00",
+            "last_traded_at": "2021-01-26T03:07:53+00:00",
+            "last_fetch_at": "2021-01-26T03:07:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+            "token_info_url": "https://info.uniswap.org/token/0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+            "coin_id": "wise-token11",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.00922486854971617,
+            "volume": 5261472.25017215,
+            "converted_last": {
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.82
+            },
+            "converted_volume": {
+                "btc": 2034,
+                "eth": 48702,
+                "usd": 65855170
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602716,
+            "timestamp": "2021-01-26T03:06:44+00:00",
+            "last_traded_at": "2021-01-26T03:06:44+00:00",
+            "last_fetch_at": "2021-01-26T03:06:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "token_info_url": "https://info.uniswap.org/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+            "coin_id": "uniswap",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ETH",
@@ -2766,23 +2546,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 1256.24,
-            "volume": 77955.89513,
+            "last": 1355.16,
+            "volume": 56155.88094,
             "converted_last": {
-                "btc": 0.03905709,
-                "eth": 0.99877899,
-                "usd": 1256.3
+                "btc": 0.04195538,
+                "eth": 1.004747,
+                "usd": 1357.83
             },
             "converted_volume": {
-                "btc": 3045,
-                "eth": 77861,
-                "usd": 97936135
+                "btc": 2356,
+                "eth": 56422,
+                "usd": 76250404
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.124676,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
+            "bid_ask_spread_percentage": 0.124353,
+            "timestamp": "2021-01-26T03:09:06+00:00",
+            "last_traded_at": "2021-01-26T03:09:06+00:00",
+            "last_fetch_at": "2021-01-26T03:09:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/ETH_USDT",
@@ -2792,156 +2572,125 @@
         },
         {
             "base": "ETH",
-            "target": "SGD",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 1674.89,
-            "volume": 34.18008715398026,
-            "converted_last": {
-                "btc": 0.03920995,
-                "eth": 1.004578,
-                "usd": 1260.74
-            },
-            "converted_volume": {
-                "btc": 1.340199,
-                "eth": 34.336555,
-                "usd": 43092
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.458349,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/SGD-ETH",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USDC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 1256.684332,
-            "volume": 111.4789,
-            "converted_last": {
-                "btc": 0.03901469,
-                "eth": 0.99769485,
-                "usd": 1254.96
-            },
-            "converted_volume": {
-                "btc": 4.349315,
-                "eth": 111.222,
-                "usd": 139901
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.266342,
-            "timestamp": "2021-01-23T18:25:36+00:00",
-            "last_traded_at": "2021-01-23T18:25:36+00:00",
-            "last_fetch_at": "2021-01-23T18:25:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/ETH-to-USDC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "usd-coin"
-        },
-        {
-            "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "BiKi",
-                "identifier": "biki",
+                "name": "Hoo.com",
+                "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 1257.9,
-            "volume": 85650.7198669,
+            "last": 1358.86,
+            "volume": 141489.3444427902,
             "converted_last": {
-                "btc": 0.0391087,
-                "eth": 1.000099,
-                "usd": 1257.96
+                "btc": 0.0419235,
+                "eth": 1.002059,
+                "usd": 1362.01
             },
             "converted_volume": {
-                "btc": 3350,
-                "eth": 85659,
-                "usd": 107745345
+                "btc": 5932,
+                "eth": 141781,
+                "usd": 192709876
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.131031,
-            "timestamp": "2021-01-23T18:23:28+00:00",
-            "last_traded_at": "2021-01-23T18:23:28+00:00",
-            "last_fetch_at": "2021-01-23T18:23:28+00:00",
+            "bid_ask_spread_percentage": 0.121149,
+            "timestamp": "2021-01-26T02:32:05+00:00",
+            "last_traded_at": "2021-01-26T02:32:05+00:00",
+            "last_fetch_at": "2021-01-26T02:32:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.biki.com/trade/ETH_USDT",
+            "trade_url": "https://hoo.com/spot/eth-usdt",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
         },
         {
             "base": "ETH",
-            "target": "QC",
+            "target": "USDT",
             "market": {
-                "name": "ZB",
-                "identifier": "zb",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 8128.91,
-            "volume": 112980.886,
+            "last": 1356.58,
+            "volume": 104454.49670379,
             "converted_last": {
-                "btc": 0.03914838,
-                "eth": 1.003,
-                "usd": 1258.83
+                "btc": 0.04199934,
+                "eth": 1.0058,
+                "usd": 1359.46
             },
             "converted_volume": {
-                "btc": 4423,
-                "eth": 113320,
-                "usd": 142224028
+                "btc": 4387,
+                "eth": 105060,
+                "usd": 142001429
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.17437,
-            "timestamp": "2021-01-23T18:22:06+00:00",
-            "last_traded_at": "2021-01-23T18:22:06+00:00",
-            "last_fetch_at": "2021-01-23T18:22:06+00:00",
+            "bid_ask_spread_percentage": 0.169343,
+            "timestamp": "2021-01-26T03:08:16+00:00",
+            "last_traded_at": "2021-01-26T03:08:16+00:00",
+            "last_fetch_at": "2021-01-26T03:08:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trans.zb.com/ethqc",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "ethereum",
-            "target_coin_id": "qcash"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0X853D955ACEF822DB058EB8505911ED77F175B99E",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.000735216126805918,
+            "volume": 11412224.1777372,
+            "converted_last": {
+                "btc": 0.04172,
+                "eth": 0.99914554,
+                "usd": 1350.6
+            },
+            "converted_volume": {
+                "btc": 350.05,
+                "eth": 8383,
+                "usd": 11332125
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602715,
+            "timestamp": "2021-01-26T02:58:17+00:00",
+            "last_traded_at": "2021-01-26T02:58:17+00:00",
+            "last_fetch_at": "2021-01-26T03:06:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x853d955acef822db058eb8505911ed77f175b99e",
+            "token_info_url": "https://info.uniswap.org/token/0x853d955acef822db058eb8505911ed77f175b99e",
+            "coin_id": "frax",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
+                "name": "Coineal",
+                "identifier": "coineal",
                 "has_trading_incentive": false
             },
-            "last": 1256.24,
-            "volume": 6310.95124514,
+            "last": 1355.32,
+            "volume": 68264.2876,
             "converted_last": {
-                "btc": 0.03905709,
-                "eth": 0.99877899,
-                "usd": 1256.3
+                "btc": 0.04196033,
+                "eth": 1.004866,
+                "usd": 1358.19
             },
             "converted_volume": {
-                "btc": 246.487,
-                "eth": 6303,
-                "usd": 7928460
+                "btc": 2864,
+                "eth": 68596,
+                "usd": 92716189
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.285987,
-            "timestamp": "2021-01-23T18:23:58+00:00",
-            "last_traded_at": "2021-01-23T18:23:58+00:00",
-            "last_fetch_at": "2021-01-23T18:23:58+00:00",
+            "bid_ask_spread_percentage": 0.151634,
+            "timestamp": "2021-01-26T03:08:03+00:00",
+            "last_traded_at": "2021-01-26T03:08:03+00:00",
+            "last_fetch_at": "2021-01-26T03:08:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2952,190 +2701,95 @@
         {
             "base": "ETH",
             "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.041739,
+            "volume": 131965.199,
+            "converted_last": {
+                "btc": 0.041739,
+                "eth": 1.001048,
+                "usd": 1350.99
+            },
+            "converted_volume": {
+                "btc": 5508,
+                "eth": 132104,
+                "usd": 178284107
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102395,
+            "timestamp": "2021-01-26T02:56:34+00:00",
+            "last_traded_at": "2021-01-26T02:56:34+00:00",
+            "last_fetch_at": "2021-01-26T02:56:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=eth_btc",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
             "market": {
                 "name": "Crypto.com",
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.039123,
-            "volume": 10088.874,
+            "last": 1351.21,
+            "volume": 8991.86122,
             "converted_last": {
-                "btc": 0.039123,
-                "eth": 1.00235,
-                "usd": 1257.94
+                "btc": 0.0417186,
+                "eth": 0.99911203,
+                "usd": 1352.14
             },
             "converted_volume": {
-                "btc": 394.707,
-                "eth": 10113,
-                "usd": 12691218
+                "btc": 375.128,
+                "eth": 8984,
+                "usd": 12158270
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.112778,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.148818,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/ETH_BTC",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "ETH",
-            "target": "EUR",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 1030.5,
-            "volume": 540.85654,
-            "converted_last": {
-                "btc": 0.03900363,
-                "eth": 0.99741183,
-                "usd": 1254.58
-            },
-            "converted_volume": {
-                "btc": 21.095366,
-                "eth": 539.457,
-                "usd": 678549
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.187347,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/ETH_EUR",
-            "token_info_url": null,
-            "coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "USDT",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 1258.66,
-            "volume": 80351.28240896,
-            "converted_last": {
-                "btc": 0.03913233,
-                "eth": 1.002589,
-                "usd": 1258.32
-            },
-            "converted_volume": {
-                "btc": 3144,
-                "eth": 80559,
-                "usd": 101107342
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.167594,
-            "timestamp": "2021-01-23T18:22:40+00:00",
-            "last_traded_at": "2021-01-23T18:22:40+00:00",
-            "last_fetch_at": "2021-01-23T18:22:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://crypto.com/exchange/trade/spot/ETH_USDT",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
         },
         {
-            "base": "0X0BC529C00C6401AEF6D220BE8C6EA1667F6AD93E",
-            "target": "ETH",
-            "market": {
-                "name": "Sushiswap",
-                "identifier": "sushiswap",
-                "has_trading_incentive": false
-            },
-            "last": 24.8157387884978,
-            "volume": 400.326117138902,
-            "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.55
-            },
-            "converted_volume": {
-                "btc": 388.832,
-                "eth": 9962,
-                "usd": 12502953
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602716,
-            "timestamp": "2021-01-23T18:19:29+00:00",
-            "last_traded_at": "2021-01-23T18:19:29+00:00",
-            "last_fetch_at": "2021-01-23T18:19:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-            "token_info_url": "https://sushiswap.fi/token/0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
-            "coin_id": "yearn-finance",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "BTC",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 0.039,
-            "volume": 5071.66746038,
-            "converted_last": {
-                "btc": 0.039,
-                "eth": 1.005539,
-                "usd": 1259.78
-            },
-            "converted_volume": {
-                "btc": 197.795,
-                "eth": 5100,
-                "usd": 6389172
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.14443,
-            "timestamp": "2021-01-23T18:08:36+00:00",
-            "last_traded_at": "2021-01-23T18:08:36+00:00",
-            "last_fetch_at": "2021-01-23T18:08:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "bitcoin"
-        },
-        {
             "base": "ETH",
             "target": "USD",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "Tokenize",
+                "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 1256.7,
-            "volume": 66268.85293,
+            "last": 1356.08,
+            "volume": 5300.266084586042,
             "converted_last": {
-                "btc": 0.03907019,
-                "eth": 0.99911403,
-                "usd": 1256.7
+                "btc": 0.04190116,
+                "eth": 1.003449,
+                "usd": 1356.08
             },
             "converted_volume": {
-                "btc": 2589,
-                "eth": 66210,
-                "usd": 83280067
+                "btc": 222.087,
+                "eth": 5319,
+                "usd": 7187585
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.107364,
-            "timestamp": "2021-01-23T18:24:33+00:00",
-            "last_traded_at": "2021-01-23T18:24:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
+            "bid_ask_spread_percentage": 0.287267,
+            "timestamp": "2021-01-26T03:09:01+00:00",
+            "last_traded_at": "2021-01-26T03:09:01+00:00",
+            "last_fetch_at": "2021-01-26T03:09:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://tokenize.exchange/market/USD-ETH",
             "token_info_url": null,
             "coin_id": "ethereum"
         },
@@ -3147,23 +2801,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 919.21,
-            "volume": 14352.87762585,
+            "last": 991.76,
+            "volume": 24039.63725769,
             "converted_last": {
-                "btc": 0.03909897,
-                "eth": 0.99985005,
-                "usd": 1257.63
+                "btc": 0.04186388,
+                "eth": 1.002556,
+                "usd": 1355.67
             },
             "converted_volume": {
-                "btc": 561.183,
-                "eth": 14351,
-                "usd": 18050549
+                "btc": 1006,
+                "eth": 24101,
+                "usd": 32589747
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.166317,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
+            "bid_ask_spread_percentage": 0.150889,
+            "timestamp": "2021-01-26T03:07:48+00:00",
+            "last_traded_at": "2021-01-26T03:07:48+00:00",
+            "last_fetch_at": "2021-01-26T03:07:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/ETH-GBP",
@@ -3172,95 +2826,379 @@
         },
         {
             "base": "ETH",
-            "target": "USD",
+            "target": "QC",
             "market": {
-                "name": "eToroX",
-                "identifier": "etorox",
+                "name": "ZB",
+                "identifier": "zb",
                 "has_trading_incentive": false
             },
-            "last": 1257.48,
-            "volume": 11020.96178,
+            "last": 8756.41,
+            "volume": 141925.407,
             "converted_last": {
-                "btc": 0.03910663,
-                "eth": 1.001931,
-                "usd": 1257.48
+                "btc": 0.0420089,
+                "eth": 1.006029,
+                "usd": 1360.36
             },
             "converted_volume": {
-                "btc": 430.993,
-                "eth": 11042,
-                "usd": 13858639
+                "btc": 5962,
+                "eth": 142781,
+                "usd": 193070125
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158689,
-            "timestamp": "2021-01-23T18:19:33+00:00",
-            "last_traded_at": "2021-01-23T18:19:33+00:00",
-            "last_fetch_at": "2021-01-23T18:19:33+00:00",
+            "bid_ask_spread_percentage": 0.159184,
+            "timestamp": "2021-01-26T03:07:22+00:00",
+            "last_traded_at": "2021-01-26T03:07:22+00:00",
+            "last_fetch_at": "2021-01-26T03:08:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.etorox.com/xchange#",
+            "trade_url": "https://trans.zb.com/ethqc",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
+            "market": {
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
+                "has_trading_incentive": false
+            },
+            "last": 1353.71249586,
+            "volume": 91388.59085539,
+            "converted_last": {
+                "btc": 0.04191056,
+                "eth": 1.003674,
+                "usd": 1356.58
+            },
+            "converted_volume": {
+                "btc": 3830,
+                "eth": 91724,
+                "usd": 123976275
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.238538,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://coinsbit.io/trade/ETH_USDT",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "TRY",
+            "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 10136.0,
+            "volume": 61534.28774236,
+            "converted_last": {
+                "btc": 0.04227379,
+                "eth": 1.012373,
+                "usd": 1368.14
+            },
+            "converted_volume": {
+                "btc": 2601,
+                "eth": 62296,
+                "usd": 84187504
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.109866,
+            "timestamp": "2021-01-26T03:09:05+00:00",
+            "last_traded_at": "2021-01-26T03:09:05+00:00",
+            "last_fetch_at": "2021-01-26T03:09:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/ETH_TRY",
             "token_info_url": null,
             "coin_id": "ethereum"
         },
         {
-            "base": "0X1F9840A85D5AF5BF1D1762F925BDADDC4201F984",
+            "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
             "target": "ETH",
             "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
+                "name": "1inch Liquidity Protocol",
+                "identifier": "one_inch_liquidity_protocol",
                 "has_trading_incentive": false
             },
-            "last": 0.00753633825180721,
-            "volume": 2214414.71423475,
+            "last": 0.000740989837028383,
+            "volume": 21539786.637955,
             "converted_last": {
-                "btc": 0.03914,
-                "eth": 1.002786,
-                "usd": 1258.56
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1356.89
             },
             "converted_volume": {
-                "btc": 653.191,
-                "eth": 16735,
-                "usd": 21003630
+                "btc": 669.075,
+                "eth": 16023,
+                "usd": 21656986
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602716,
-            "timestamp": "2021-01-23T18:22:50+00:00",
-            "last_traded_at": "2021-01-23T18:22:50+00:00",
-            "last_fetch_at": "2021-01-23T18:22:50+00:00",
+            "timestamp": "2021-01-26T03:08:08+00:00",
+            "last_traded_at": "2021-01-26T03:08:08+00:00",
+            "last_fetch_at": "2021-01-26T03:08:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "token_info_url": "https://info.uniswap.org/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
-            "coin_id": "uniswap",
+            "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "token_info_url": null,
+            "coin_id": "usd-coin",
             "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+            "target": "ETH",
+            "market": {
+                "name": "1inch Liquidity Protocol",
+                "identifier": "one_inch_liquidity_protocol",
+                "has_trading_incentive": false
+            },
+            "last": 0.000739703209290303,
+            "volume": 20138680.7064211,
+            "converted_last": {
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1356.89
+            },
+            "converted_volume": {
+                "btc": 624.467,
+                "eth": 14955,
+                "usd": 20213098
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602716,
+            "timestamp": "2021-01-26T03:08:07+00:00",
+            "last_traded_at": "2021-01-26T03:08:07+00:00",
+            "last_fetch_at": "2021-01-26T03:08:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0x6b175474e89094c44da98b954eedeac495271d0f",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "USDC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 1350.736062,
+            "volume": 8306.3595,
+            "converted_last": {
+                "btc": 0.04170071,
+                "eth": 0.99868358,
+                "usd": 1351.44
+            },
+            "converted_volume": {
+                "btc": 346.381,
+                "eth": 8295,
+                "usd": 11225582
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.306801,
+            "timestamp": "2021-01-26T03:00:44+00:00",
+            "last_traded_at": "2021-01-26T03:00:44+00:00",
+            "last_fetch_at": "2021-01-26T03:00:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ETH-to-USDC",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "usd-coin"
         },
         {
             "base": "ETH",
             "target": "USD",
             "market": {
-                "name": "BTSE",
-                "identifier": "btse",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 1258.7,
-            "volume": 9611.720681187344,
+            "last": 1356.07,
+            "volume": 89591.31209,
             "converted_last": {
-                "btc": 0.03914657,
-                "eth": 1.002954,
-                "usd": 1258.7
+                "btc": 0.04187632,
+                "eth": 1.002854,
+                "usd": 1356.07
             },
             "converted_volume": {
-                "btc": 376.266,
-                "eth": 9640,
-                "usd": 12098273
+                "btc": 3752,
+                "eth": 89847,
+                "usd": 121492091
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.277283,
-            "timestamp": "2021-01-23T18:21:31+00:00",
-            "last_traded_at": "2021-01-23T18:21:31+00:00",
-            "last_fetch_at": "2021-01-23T18:21:31+00:00",
+            "bid_ask_spread_percentage": 0.14502,
+            "timestamp": "2021-01-26T03:07:08+00:00",
+            "last_traded_at": "2021-01-26T03:07:08+00:00",
+            "last_fetch_at": "2021-01-26T03:07:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.btse.com/en/trading/ETH-USD",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "RUB",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 102815.65,
+            "volume": 185.824044,
+            "converted_last": {
+                "btc": 0.04217595,
+                "eth": 1.01003,
+                "usd": 1364.97
+            },
+            "converted_volume": {
+                "btc": 7.837305,
+                "eth": 187.688,
+                "usd": 253645
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110009,
+            "timestamp": "2021-01-26T03:09:06+00:00",
+            "last_traded_at": "2021-01-26T03:09:06+00:00",
+            "last_fetch_at": "2021-01-26T03:09:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/ETH_RUB",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "SGD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 1799.32,
+            "volume": 2599.905073296573,
+            "converted_last": {
+                "btc": 0.041898,
+                "eth": 1.003373,
+                "usd": 1356.18
+            },
+            "converted_volume": {
+                "btc": 108.931,
+                "eth": 2609,
+                "usd": 3525931
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.463181,
+            "timestamp": "2021-01-26T03:09:01+00:00",
+            "last_traded_at": "2021-01-26T03:09:01+00:00",
+            "last_fetch_at": "2021-01-26T03:09:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/SGD-ETH",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "JPY",
+            "market": {
+                "name": "bitFlyer",
+                "identifier": "bitflyer",
+                "has_trading_incentive": false
+            },
+            "last": 141017.0,
+            "volume": 59458.4367583,
+            "converted_last": {
+                "btc": 0.04199587,
+                "eth": 1.005717,
+                "usd": 1359.9
+            },
+            "converted_volume": {
+                "btc": 2497,
+                "eth": 59798,
+                "usd": 80857702
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.181527,
+            "timestamp": "2021-01-26T03:06:00+00:00",
+            "last_traded_at": "2021-01-26T03:06:00+00:00",
+            "last_fetch_at": "2021-01-26T03:06:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitflyer.com/en-jp/ex/simpleex",
+            "token_info_url": null,
+            "coin_id": "ethereum"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "Float SV",
+                "identifier": "floatsv",
+                "has_trading_incentive": false
+            },
+            "last": 0.04183,
+            "volume": 3.848415,
+            "converted_last": {
+                "btc": 0.04183,
+                "eth": 1.00178,
+                "usd": 1353.53
+            },
+            "converted_volume": {
+                "btc": 0.1609792,
+                "eth": 3.855265,
+                "usd": 5208.96
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123895,
+            "timestamp": "2021-01-26T03:03:30+00:00",
+            "last_traded_at": "2021-01-26T03:03:30+00:00",
+            "last_fetch_at": "2021-01-26T03:03:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.floatsv.com/spot/trade#product=eth_btc",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USD",
+            "market": {
+                "name": "Liquid",
+                "identifier": "quoine",
+                "has_trading_incentive": false
+            },
+            "last": 1351.7,
+            "volume": 2837.61420772,
+            "converted_last": {
+                "btc": 0.04174137,
+                "eth": 0.99962235,
+                "usd": 1351.7
+            },
+            "converted_volume": {
+                "btc": 118.446,
+                "eth": 2837,
+                "usd": 3835603
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198353,
+            "timestamp": "2021-01-26T03:07:29+00:00",
+            "last_traded_at": "2021-01-26T03:07:29+00:00",
+            "last_fetch_at": "2021-01-26T03:07:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.liquid.com/exchange/ETHUSD?lang=en",
             "token_info_url": null,
             "coin_id": "ethereum"
         },
@@ -3268,64 +3206,129 @@
             "base": "ETH",
             "target": "USDT",
             "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
+                "name": "BitMax",
+                "identifier": "bitmax",
                 "has_trading_incentive": false
             },
-            "last": 1257.08,
-            "volume": 46805.4461,
+            "last": 1355.4,
+            "volume": 56943.928,
             "converted_last": {
-                "btc": 0.0390832,
-                "eth": 0.99944684,
-                "usd": 1257.12
+                "btc": 0.04192862,
+                "eth": 1.004106,
+                "usd": 1357.76
             },
             "converted_volume": {
-                "btc": 1829,
-                "eth": 46780,
-                "usd": 58839997
+                "btc": 2388,
+                "eth": 57178,
+                "usd": 77316387
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.115116,
-            "timestamp": "2021-01-23T18:24:08+00:00",
-            "last_traded_at": "2021-01-23T18:24:08+00:00",
-            "last_fetch_at": "2021-01-23T18:24:08+00:00",
+            "bid_ask_spread_percentage": 0.126596,
+            "timestamp": "2021-01-26T03:07:20+00:00",
+            "last_traded_at": "2021-01-26T03:07:20+00:00",
+            "last_fetch_at": "2021-01-26T03:07:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=ETH_USDT",
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/eth",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "tether"
         },
         {
             "base": "ETH",
-            "target": "JPY",
+            "target": "BTC",
             "market": {
-                "name": "Bitbank",
-                "identifier": "bitbank",
+                "name": "CoinAll",
+                "identifier": "coinall",
                 "has_trading_incentive": false
             },
-            "last": 130352.0,
-            "volume": 32548.875,
+            "last": 0.04192,
+            "volume": 0.235,
             "converted_last": {
-                "btc": 0.03906002,
-                "eth": 1.000737,
-                "usd": 1255.98
+                "btc": 0.04192,
+                "eth": 1.0039,
+                "usd": 1357.47
             },
             "converted_volume": {
-                "btc": 1271,
-                "eth": 32573,
-                "usd": 40880777
+                "btc": 0.0098512,
+                "eth": 0.23591653,
+                "usd": 319.01
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100767,
-            "timestamp": "2021-01-23T18:19:13+00:00",
-            "last_traded_at": "2021-01-23T18:19:13+00:00",
-            "last_fetch_at": "2021-01-23T18:19:13+00:00",
+            "bid_ask_spread_percentage": 0.123849,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bitbank.cc/app/trade/ETH_JPY",
+            "trade_url": null,
             "token_info_url": null,
-            "coin_id": "ethereum"
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 1356.98421314,
+            "volume": 54159.73167032,
+            "converted_last": {
+                "btc": 0.04197762,
+                "eth": 1.00528,
+                "usd": 1359.33
+            },
+            "converted_volume": {
+                "btc": 2273,
+                "eth": 54446,
+                "usd": 73621175
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.104999,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#eth_usdt",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.0419,
+            "volume": 1696.790713,
+            "converted_last": {
+                "btc": 0.0419,
+                "eth": 1.003421,
+                "usd": 1356.8
+            },
+            "converted_volume": {
+                "btc": 71.096,
+                "eth": 1703,
+                "usd": 2302203
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123832,
+            "timestamp": "2021-01-26T03:05:40+00:00",
+            "last_traded_at": "2021-01-26T03:05:40+00:00",
+            "last_fetch_at": "2021-01-26T03:05:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "bitcoin"
         }
     ]
 }

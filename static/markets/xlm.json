@@ -106,8 +106,8 @@
     },
     "country_origin": "",
     "genesis_date": null,
-    "sentiment_votes_up_percentage": 79.04,
-    "sentiment_votes_down_percentage": 20.96,
+    "sentiment_votes_up_percentage": 71.49,
+    "sentiment_votes_down_percentage": 28.51,
     "market_cap_rank": 11,
     "coingecko_rank": 4,
     "coingecko_score": 65.188,
@@ -120,7 +120,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:24:57.096Z",
+    "last_updated": "2021-01-26T03:07:48.338Z",
     "tickers": [
         {
             "base": "XLM",
@@ -130,23 +130,23 @@
                 "identifier": "b2bx",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 21.43380715,
+            "last": 8.09e-06,
+            "volume": 25.5257004,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021506,
-                "usd": 0.270509
+                "btc": 8.09e-06,
+                "eth": 0.00019403,
+                "usd": 0.261871
             },
             "converted_volume": {
-                "btc": 0.00018026,
-                "eth": 0.00460962,
-                "usd": 5.8
+                "btc": 0.0002065,
+                "eth": 0.00495267,
+                "usd": 6.68
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237248,
-            "timestamp": "2021-01-23T18:24:04+00:00",
-            "last_traded_at": "2021-01-23T18:24:04+00:00",
-            "last_fetch_at": "2021-01-23T18:24:04+00:00",
+            "bid_ask_spread_percentage": 0.369914,
+            "timestamp": "2021-01-26T02:57:09+00:00",
+            "last_traded_at": "2021-01-26T02:57:09+00:00",
+            "last_fetch_at": "2021-01-26T02:57:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -156,35 +156,34 @@
         },
         {
             "base": "XLM",
-            "target": "USDT",
+            "target": "KRW",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "Upbit",
+                "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 0.27035,
-            "volume": 215688609.95926762,
+            "last": 293.0,
+            "volume": 97030034.07804814,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021517,
-                "usd": 0.270552
+                "btc": 8.2e-06,
+                "eth": 0.00019647,
+                "usd": 0.265895
             },
             "converted_volume": {
-                "btc": 1815,
-                "eth": 46410,
-                "usd": 58354988
+                "btc": 796.018,
+                "eth": 19064,
+                "usd": 25799755
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.162898,
-            "timestamp": "2021-01-23T18:26:53+00:00",
-            "last_traded_at": "2021-01-23T18:26:53+00:00",
-            "last_fetch_at": "2021-01-23T18:26:53+00:00",
+            "bid_ask_spread_percentage": 0.341297,
+            "timestamp": "2021-01-26T02:59:03+00:00",
+            "last_traded_at": "2021-01-26T02:59:03+00:00",
+            "last_fetch_at": "2021-01-26T02:59:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XLM_USDT",
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-XLM",
             "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
+            "coin_id": "stellar"
         },
         {
             "base": "XLM",
@@ -194,23 +193,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 0.27046,
-            "volume": 157332505.5,
+            "last": 0.26223,
+            "volume": 98238780.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021503,
-                "usd": 0.270473
+                "btc": 8.11e-06,
+                "eth": 0.00019427,
+                "usd": 0.262684
             },
             "converted_volume": {
-                "btc": 1323,
-                "eth": 33831,
-                "usd": 42554244
+                "btc": 796.908,
+                "eth": 19084,
+                "usd": 25805768
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118482,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
+            "bid_ask_spread_percentage": 0.122882,
+            "timestamp": "2021-01-26T03:06:48+00:00",
+            "last_traded_at": "2021-01-26T03:06:48+00:00",
+            "last_fetch_at": "2021-01-26T03:06:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/XLM_USDT",
@@ -220,32 +219,126 @@
         },
         {
             "base": "XLM",
-            "target": "KRW",
+            "target": "USDT",
             "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 300.0,
-            "volume": 186119854.42873624,
+            "last": 0.2623,
+            "volume": 179619234.2247884,
             "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.00021573,
-                "usd": 0.271361
+                "btc": 8.11e-06,
+                "eth": 0.00019432,
+                "usd": 0.262754
             },
             "converted_volume": {
-                "btc": 1570,
-                "eth": 40152,
-                "usd": 50505596
+                "btc": 1457,
+                "eth": 34903,
+                "usd": 47195716
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.333333,
-            "timestamp": "2021-01-23T18:26:00+00:00",
-            "last_traded_at": "2021-01-23T18:26:00+00:00",
-            "last_fetch_at": "2021-01-23T18:26:00+00:00",
+            "bid_ask_spread_percentage": 0.15338,
+            "timestamp": "2021-01-26T03:06:05+00:00",
+            "last_traded_at": "2021-01-26T03:06:05+00:00",
+            "last_fetch_at": "2021-01-26T03:06:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-XLM",
+            "trade_url": "https://www.binance.com/en/trade/XLM_USDT",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.26221,
+            "volume": 9912690.74405846,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019398,
+                "usd": 0.26221
+            },
+            "converted_volume": {
+                "btc": 80.29,
+                "eth": 1923,
+                "usd": 2599207
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.133328,
+            "timestamp": "2021-01-26T02:58:33+00:00",
+            "last_traded_at": "2021-01-26T02:58:33+00:00",
+            "last_fetch_at": "2021-01-26T02:58:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.216135,
+            "volume": 5711638.60718696,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019424,
+                "usd": 0.262445
+            },
+            "converted_volume": {
+                "btc": 46.325205,
+                "eth": 1109,
+                "usd": 1498989
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.125675,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/eur",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.261919,
+            "volume": 9858496.65621485,
+            "converted_last": {
+                "btc": 8.09e-06,
+                "eth": 0.00019385,
+                "usd": 0.261919
+            },
+            "converted_volume": {
+                "btc": 79.799,
+                "eth": 1911,
+                "usd": 2582128
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167494,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/usd",
             "token_info_url": null,
             "coin_id": "stellar"
         },
@@ -257,23 +350,23 @@
                 "identifier": "bitrue",
                 "has_trading_incentive": false
             },
-            "last": 0.996458,
-            "volume": 18124811.0,
+            "last": 0.973525,
+            "volume": 19706671.0,
             "converted_last": {
-                "btc": 8.46e-06,
-                "eth": 0.00021622,
-                "usd": 0.271876
+                "btc": 8.11e-06,
+                "eth": 0.00019421,
+                "usd": 0.262837
             },
             "converted_volume": {
-                "btc": 153.253,
-                "eth": 3919,
-                "usd": 4927699
+                "btc": 159.812,
+                "eth": 3827,
+                "usd": 5179651
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.354656,
-            "timestamp": "2021-01-23T18:26:30+00:00",
-            "last_traded_at": "2021-01-23T18:26:30+00:00",
-            "last_fetch_at": "2021-01-23T18:26:30+00:00",
+            "bid_ask_spread_percentage": 0.489685,
+            "timestamp": "2021-01-26T02:59:27+00:00",
+            "last_traded_at": "2021-01-26T02:59:27+00:00",
+            "last_fetch_at": "2021-01-26T02:59:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitrue.com/trading?market=xrp&symbol=xlmxrp",
@@ -283,65 +376,66 @@
         },
         {
             "base": "XLM",
-            "target": "USD",
+            "target": "JPY",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Bitbank",
+                "identifier": "bitbank",
                 "has_trading_incentive": false
             },
-            "last": 0.270241,
-            "volume": 134490284.1,
+            "last": 27.254,
+            "volume": 30227507.9803,
             "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021492,
-                "usd": 0.270241
+                "btc": 8.11e-06,
+                "eth": 0.00019421,
+                "usd": 0.262834
             },
             "converted_volume": {
-                "btc": 1130,
-                "eth": 28905,
-                "usd": 36344789
+                "btc": 245.127,
+                "eth": 5871,
+                "usd": 7944802
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.104814,
-            "timestamp": "2021-01-23T18:26:07+00:00",
-            "last_traded_at": "2021-01-23T18:26:07+00:00",
-            "last_fetch_at": "2021-01-23T18:26:07+00:00",
+            "bid_ask_spread_percentage": 0.140345,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/XLM-to-USD",
+            "trade_url": "https://bitbank.cc/app/trade/XLM_JPY",
             "token_info_url": null,
             "coin_id": "stellar"
         },
         {
             "base": "XLM",
-            "target": "USD",
+            "target": "BTC",
             "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.27083,
-            "volume": 23013678.88294098,
+            "last": 8.11e-06,
+            "volume": 11381345.0,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021531,
-                "usd": 0.27083
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262624
             },
             "converted_volume": {
-                "btc": 193.771,
-                "eth": 4955,
-                "usd": 6232795
+                "btc": 92.303,
+                "eth": 2210,
+                "usd": 2989015
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.127241,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
+            "bid_ask_spread_percentage": 0.123457,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://pro.coinbase.com/trade/XLM-BTC",
             "token_info_url": null,
-            "coin_id": "stellar"
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XLM",
@@ -351,89 +445,26 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.269622,
-            "volume": 135089104.4,
+            "last": 0.261943,
+            "volume": 86970200.1,
             "converted_last": {
-                "btc": 8.38e-06,
-                "eth": 0.00021483,
-                "usd": 0.269622
+                "btc": 8.08e-06,
+                "eth": 0.00019355,
+                "usd": 0.261943
             },
             "converted_volume": {
-                "btc": 1133,
-                "eth": 29021,
-                "usd": 36422995
+                "btc": 702.886,
+                "eth": 16833,
+                "usd": 22781235
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158946,
-            "timestamp": "2021-01-23T18:18:50+00:00",
-            "last_traded_at": "2021-01-23T18:18:50+00:00",
-            "last_fetch_at": "2021-01-23T18:18:50+00:00",
+            "bid_ask_spread_percentage": 0.142429,
+            "timestamp": "2021-01-26T02:59:49+00:00",
+            "last_traded_at": "2021-01-26T02:59:49+00:00",
+            "last_fetch_at": "2021-01-26T02:59:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/XLM-to-USD",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 37545454.07007126,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021532,
-                "usd": 0.270737
-            },
-            "converted_volume": {
-                "btc": 316.133,
-                "eth": 8084,
-                "usd": 10164934
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118343,
-            "timestamp": "2021-01-23T18:26:35+00:00",
-            "last_traded_at": "2021-01-23T18:26:35+00:00",
-            "last_fetch_at": "2021-01-23T18:26:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XLM_BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.271001,
-            "volume": 10143501.18898028,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021594,
-                "usd": 0.271001
-            },
-            "converted_volume": {
-                "btc": 85.493,
-                "eth": 2190,
-                "usd": 2748899
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176436,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/usd",
             "token_info_url": null,
             "coin_id": "stellar"
         },
@@ -445,23 +476,23 @@
                 "identifier": "btcturk",
                 "has_trading_incentive": false
             },
-            "last": 2.005,
-            "volume": 37709191.4421,
+            "last": 1.9586,
+            "volume": 30926114.5342,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021546,
-                "usd": 0.270416
+                "btc": 8.16e-06,
+                "eth": 0.00019551,
+                "usd": 0.264368
             },
             "converted_volume": {
-                "btc": 317.121,
-                "eth": 8125,
-                "usd": 10197172
+                "btc": 252.477,
+                "eth": 6046,
+                "usd": 8175889
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11995,
-            "timestamp": "2021-01-23T18:22:13+00:00",
-            "last_traded_at": "2021-01-23T18:22:13+00:00",
-            "last_fetch_at": "2021-01-23T18:22:13+00:00",
+            "bid_ask_spread_percentage": 0.145951,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.btcturk.com/pro/al-sat/XLM_TRY",
@@ -470,32 +501,189 @@
         },
         {
             "base": "XLM",
-            "target": "BTC",
+            "target": "USD",
             "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
+                "name": "HitBTC",
+                "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 8.45e-06,
-            "volume": 9477804.0,
+            "last": 0.261943,
+            "volume": 86938550.4,
             "converted_last": {
-                "btc": 8.45e-06,
-                "eth": 0.00021622,
-                "usd": 0.27171
+                "btc": 8.08e-06,
+                "eth": 0.00019357,
+                "usd": 0.261943
             },
             "converted_volume": {
-                "btc": 80.087,
-                "eth": 2049,
-                "usd": 2575219
+                "btc": 702.691,
+                "eth": 16829,
+                "usd": 22772945
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118343,
-            "timestamp": "2021-01-23T18:27:06+00:00",
-            "last_traded_at": "2021-01-23T18:27:06+00:00",
-            "last_fetch_at": "2021-01-23T18:27:06+00:00",
+            "bid_ask_spread_percentage": 0.153508,
+            "timestamp": "2021-01-26T03:00:35+00:00",
+            "last_traded_at": "2021-01-26T03:00:35+00:00",
+            "last_fetch_at": "2021-01-26T03:00:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XLM-BTC",
+            "trade_url": "https://hitbtc.com/XLM-to-USD",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "EUR",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.21596,
+            "volume": 5489987.36455679,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019403,
+                "usd": 0.262275
+            },
+            "converted_volume": {
+                "btc": 44.478103,
+                "eth": 1065,
+                "usd": 1439886
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.148182,
+            "timestamp": "2021-01-26T02:58:33+00:00",
+            "last_traded_at": "2021-01-26T02:58:33+00:00",
+            "last_fetch_at": "2021-01-26T02:58:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "KRW",
+            "market": {
+                "name": "Bithumb",
+                "identifier": "bithumb",
+                "has_trading_incentive": false
+            },
+            "last": 292.0,
+            "volume": 27509082.13286636,
+            "converted_last": {
+                "btc": 8.18e-06,
+                "eth": 0.00019598,
+                "usd": 0.265004
+            },
+            "converted_volume": {
+                "btc": 225.121,
+                "eth": 5391,
+                "usd": 7290024
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102705,
+            "timestamp": "2021-01-26T03:07:34+00:00",
+            "last_traded_at": "2021-01-26T03:07:34+00:00",
+            "last_fetch_at": "2021-01-26T03:07:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumb.com/trade/order/XLM_KRW",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 42911121.11234568,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019398,
+                "usd": 0.262297
+            },
+            "converted_volume": {
+                "btc": 347.58,
+                "eth": 8324,
+                "usd": 11255460
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.246305,
+            "timestamp": "2021-01-26T03:06:29+00:00",
+            "last_traded_at": "2021-01-26T03:06:29+00:00",
+            "last_fetch_at": "2021-01-26T03:06:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XLM_BTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.26217,
+            "volume": 123222170.304,
+            "converted_last": {
+                "btc": 8.12e-06,
+                "eth": 0.00019454,
+                "usd": 0.26285
+            },
+            "converted_volume": {
+                "btc": 1001,
+                "eth": 23972,
+                "usd": 32389007
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.121956,
+            "timestamp": "2021-01-26T03:03:03+00:00",
+            "last_traded_at": "2021-01-26T03:03:03+00:00",
+            "last_fetch_at": "2021-01-26T03:03:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xlm_usdt",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 2368050.78018031,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019399,
+                "usd": 0.262099
+            },
+            "converted_volume": {
+                "btc": 19.181211,
+                "eth": 459.368,
+                "usd": 620665
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123305,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/xbt",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "bitcoin"
@@ -508,23 +696,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 8.401e-06,
-            "volume": 30240298.5,
+            "last": 8.1e-06,
+            "volume": 28639811.8,
             "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021483,
-                "usd": 0.270229
+                "btc": 8.1e-06,
+                "eth": 0.00019399,
+                "usd": 0.262101
             },
             "converted_volume": {
-                "btc": 254.049,
-                "eth": 6497,
-                "usd": 8171800
+                "btc": 231.982,
+                "eth": 5556,
+                "usd": 7506522
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.111891,
-            "timestamp": "2021-01-23T18:25:50+00:00",
-            "last_traded_at": "2021-01-23T18:25:50+00:00",
-            "last_fetch_at": "2021-01-23T18:25:50+00:00",
+            "bid_ask_spread_percentage": 0.12335,
+            "timestamp": "2021-01-26T03:02:21+00:00",
+            "last_traded_at": "2021-01-26T03:02:21+00:00",
+            "last_fetch_at": "2021-01-26T03:02:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/XLM-to-BTC",
@@ -534,63 +722,128 @@
         },
         {
             "base": "XLM",
-            "target": "EUR",
+            "target": "BTC",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.22252,
-            "volume": 7681056.50169289,
+            "last": 8.097e-06,
+            "volume": 28640257.5,
             "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021586,
-                "usd": 0.270907
+                "btc": 8.1e-06,
+                "eth": 0.00019391,
+                "usd": 0.262432
             },
             "converted_volume": {
-                "btc": 64.716,
-                "eth": 1658,
-                "usd": 2080852
+                "btc": 231.9,
+                "eth": 5554,
+                "usd": 7516116
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.177729,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.14813,
+            "timestamp": "2021-01-26T02:59:45+00:00",
+            "last_traded_at": "2021-01-26T02:59:45+00:00",
+            "last_fetch_at": "2021-01-26T02:59:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/eur",
+            "trade_url": "https://exchange.bitcoin.com/exchange/XLM-to-BTC",
             "token_info_url": null,
-            "coin_id": "stellar"
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XLM",
-            "target": "JPY",
+            "target": "USDT",
             "market": {
-                "name": "Bitbank",
-                "identifier": "bitbank",
+                "name": "Huobi Global",
+                "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 28.021,
-            "volume": 38780528.3582,
+            "last": 0.261821,
+            "volume": 41077877.70674647,
             "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021512,
-                "usd": 0.269991
+                "btc": 8.1e-06,
+                "eth": 0.00019437,
+                "usd": 0.262313
             },
             "converted_volume": {
-                "btc": 325.621,
-                "eth": 8343,
-                "usd": 10470389
+                "btc": 332.902,
+                "eth": 7984,
+                "usd": 10775265
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.142825,
-            "timestamp": "2021-01-23T18:19:14+00:00",
-            "last_traded_at": "2021-01-23T18:19:14+00:00",
-            "last_fetch_at": "2021-01-23T18:19:14+00:00",
+            "bid_ask_spread_percentage": 0.138178,
+            "timestamp": "2021-01-26T02:56:31+00:00",
+            "last_traded_at": "2021-01-26T02:56:31+00:00",
+            "last_fetch_at": "2021-01-26T02:56:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bitbank.cc/app/trade/XLM_JPY",
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xlm_usdt",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 2558080.2319753086,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019399,
+                "usd": 0.262099
+            },
+            "converted_volume": {
+                "btc": 20.72045,
+                "eth": 496.231,
+                "usd": 670471
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123305,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/XLM-BTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.26181,
+            "volume": 2112182.26253322,
+            "converted_last": {
+                "btc": 8.08e-06,
+                "eth": 0.00019351,
+                "usd": 0.26181
+            },
+            "converted_volume": {
+                "btc": 17.066914,
+                "eth": 408.733,
+                "usd": 552990
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.229008,
+            "timestamp": "2021-01-26T03:01:13+00:00",
+            "last_traded_at": "2021-01-26T03:01:13+00:00",
+            "last_fetch_at": "2021-01-26T03:01:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/XLMUSD",
             "token_info_url": null,
             "coin_id": "stellar"
         },
@@ -602,247 +855,26 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.270344,
-            "volume": 111677968.0,
+            "last": 0.261892,
+            "volume": 102195008.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021514,
-                "usd": 0.270344
+                "btc": 8.09e-06,
+                "eth": 0.00019368,
+                "usd": 0.261892
             },
             "converted_volume": {
-                "btc": 938.933,
-                "eth": 24026,
-                "usd": 30191469
+                "btc": 826.491,
+                "eth": 19793,
+                "usd": 26764055
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.161792,
-            "timestamp": "2021-01-23T18:27:07+00:00",
-            "last_traded_at": "2021-01-23T18:27:07+00:00",
-            "last_fetch_at": "2021-01-23T18:27:07+00:00",
+            "bid_ask_spread_percentage": 0.14696,
+            "timestamp": "2021-01-26T03:07:39+00:00",
+            "last_traded_at": "2021-01-26T03:07:39+00:00",
+            "last_fetch_at": "2021-01-26T03:07:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/XLM-USD",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 8.393e-06,
-            "volume": 30304518.4,
-            "converted_last": {
-                "btc": 8.39e-06,
-                "eth": 0.00021503,
-                "usd": 0.26988
-            },
-            "converted_volume": {
-                "btc": 254.346,
-                "eth": 6516,
-                "usd": 8178570
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.111913,
-            "timestamp": "2021-01-23T18:18:46+00:00",
-            "last_traded_at": "2021-01-23T18:18:46+00:00",
-            "last_fetch_at": "2021-01-23T18:18:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/XLM-to-BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "EUR",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 0.22269,
-            "volume": 7401313.77738602,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021554,
-                "usd": 0.271114
-            },
-            "converted_volume": {
-                "btc": 62.383,
-                "eth": 1595,
-                "usd": 2006599
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.176582,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.27049,
-            "volume": 153553997.447,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021566,
-                "usd": 0.270664
-            },
-            "converted_volume": {
-                "btc": 1293,
-                "eth": 33115,
-                "usd": 41561608
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184959,
-            "timestamp": "2021-01-23T18:20:38+00:00",
-            "last_traded_at": "2021-01-23T18:20:38+00:00",
-            "last_fetch_at": "2021-01-23T18:20:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=xlm_usdt",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.270406,
-            "volume": 44507421.946462,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021499,
-                "usd": 0.270423
-            },
-            "converted_volume": {
-                "btc": 374.176,
-                "eth": 9569,
-                "usd": 12035848
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.116275,
-            "timestamp": "2021-01-23T18:25:16+00:00",
-            "last_traded_at": "2021-01-23T18:25:16+00:00",
-            "last_fetch_at": "2021-01-23T18:25:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xlm_usdt",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "KRW",
-            "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
-                "has_trading_incentive": false
-            },
-            "last": 299.1,
-            "volume": 41885382.97576073,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021558,
-                "usd": 0.270547
-            },
-            "converted_volume": {
-                "btc": 352.433,
-                "eth": 9029,
-                "usd": 11331945
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.2002,
-            "timestamp": "2021-01-23T18:21:15+00:00",
-            "last_traded_at": "2021-01-23T18:21:15+00:00",
-            "last_fetch_at": "2021-01-23T18:21:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/XLM_KRW",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Decoin",
-                "identifier": "decoin",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 1154698.9488361045,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021572,
-                "usd": 0.270746
-            },
-            "converted_volume": {
-                "btc": 9.722565,
-                "eth": 249.097,
-                "usd": 312631
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:19:47+00:00",
-            "last_traded_at": "2021-01-23T18:19:47+00:00",
-            "last_fetch_at": "2021-01-23T18:19:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.decoin.io/trade/XLM-BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "EUR",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 0.222389,
-            "volume": 9545050.0,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021525,
-                "usd": 0.270747
-            },
-            "converted_volume": {
-                "btc": 80.345,
-                "eth": 2055,
-                "usd": 2584298
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194789,
-            "timestamp": "2021-01-23T18:24:50+00:00",
-            "last_traded_at": "2021-01-23T18:24:50+00:00",
-            "last_fetch_at": "2021-01-23T18:24:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/XLM-EUR",
             "token_info_url": null,
             "coin_id": "stellar"
         },
@@ -854,23 +886,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.27061,
-            "volume": 2028182.2,
+            "last": 0.26228,
+            "volume": 1482801.6,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021575,
-                "usd": 0.270768
+                "btc": 8.1e-06,
+                "eth": 0.00019394,
+                "usd": 0.262461
             },
             "converted_volume": {
-                "btc": 17.079523,
-                "eth": 437.586,
-                "usd": 549167
+                "btc": 12.007569,
+                "eth": 287.567,
+                "usd": 389177
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.114438,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "bid_ask_spread_percentage": 0.152515,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/XLM_USDT",
@@ -886,23 +918,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.27067,
-            "volume": 12117901.62945334,
+            "last": 0.262078,
+            "volume": 8694334.67318913,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.0002152,
-                "usd": 0.270678
+                "btc": 8.11e-06,
+                "eth": 0.00019415,
+                "usd": 0.262532
             },
             "converted_volume": {
-                "btc": 101.975,
-                "eth": 2608,
-                "usd": 3280053
+                "btc": 70.487,
+                "eth": 1688,
+                "usd": 2282540
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.124517,
-            "timestamp": "2021-01-23T18:24:28+00:00",
-            "last_traded_at": "2021-01-23T18:24:28+00:00",
-            "last_fetch_at": "2021-01-23T18:24:28+00:00",
+            "bid_ask_spread_percentage": 0.162114,
+            "timestamp": "2021-01-26T03:06:53+00:00",
+            "last_traded_at": "2021-01-26T03:06:53+00:00",
+            "last_fetch_at": "2021-01-26T03:06:53+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/XLM-USDT",
@@ -912,35 +944,34 @@
         },
         {
             "base": "XLM",
-            "target": "XBT",
+            "target": "EUR",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 8.43e-06,
-            "volume": 1514083.57241575,
+            "last": 0.216102,
+            "volume": 9483816.0,
             "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021598,
-                "usd": 0.271054
+                "btc": 8.1e-06,
+                "eth": 0.00019406,
+                "usd": 0.262409
             },
             "converted_volume": {
-                "btc": 12.763725,
-                "eth": 327.013,
-                "usd": 410399
+                "btc": 76.851,
+                "eth": 1840,
+                "usd": 2488642
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
+            "bid_ask_spread_percentage": 0.177291,
+            "timestamp": "2021-01-26T03:07:40+00:00",
+            "last_traded_at": "2021-01-26T03:07:40+00:00",
+            "last_fetch_at": "2021-01-26T03:07:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/xlm/xbt",
+            "trade_url": "https://pro.coinbase.com/trade/XLM-EUR",
             "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
+            "coin_id": "stellar"
         },
         {
             "base": "XLM",
@@ -950,58 +981,26 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 8.42e-06,
-            "volume": 277789.97606102,
+            "last": 8.09e-06,
+            "volume": 288535.19035954,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021532,
-                "usd": 0.270831
+                "btc": 8.09e-06,
+                "eth": 0.00019375,
+                "usd": 0.262127
             },
             "converted_volume": {
-                "btc": 2.338992,
-                "eth": 59.813,
-                "usd": 75234
+                "btc": 2.33425,
+                "eth": 55.903,
+                "usd": 75633
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118906,
-            "timestamp": "2021-01-23T18:24:56+00:00",
-            "last_traded_at": "2021-01-23T18:24:56+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
+            "bid_ask_spread_percentage": 0.246305,
+            "timestamp": "2021-01-26T03:01:16+00:00",
+            "last_traded_at": "2021-01-26T03:01:16+00:00",
+            "last_fetch_at": "2021-01-26T03:01:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/XLMBTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 2007736.34264412,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021532,
-                "usd": 0.270831
-            },
-            "converted_volume": {
-                "btc": 16.90514,
-                "eth": 432.303,
-                "usd": 543757
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:24:33+00:00",
-            "last_traded_at": "2021-01-23T18:24:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-XLM",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "bitcoin"
@@ -1014,23 +1013,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 2788691.0,
+            "last": 8.105e-06,
+            "volume": 3000022.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021547,
-                "usd": 0.270411
+                "btc": 8.11e-06,
+                "eth": 0.00019411,
+                "usd": 0.262691
             },
             "converted_volume": {
-                "btc": 23.452891,
-                "eth": 600.874,
-                "usd": 754093
+                "btc": 24.315178,
+                "eth": 582.32,
+                "usd": 788079
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "bid_ask_spread_percentage": 0.112344,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/XLM_BTC",
@@ -1042,157 +1041,30 @@
             "base": "XLM",
             "target": "BTC",
             "market": {
-                "name": "AAX",
-                "identifier": "aax",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 1173877.5255648037,
+            "last": 8.11e-06,
+            "volume": 2098006.03904331,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021547,
-                "usd": 0.270411
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262621
             },
             "converted_volume": {
-                "btc": 9.87231,
-                "eth": 252.933,
-                "usd": 317429
+                "btc": 17.014829,
+                "eth": 407.471,
+                "usd": 550980
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.59312,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
+            "bid_ask_spread_percentage": 0.246305,
+            "timestamp": "2021-01-26T03:06:57+00:00",
+            "last_traded_at": "2021-01-26T03:06:57+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/XLM:BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.27087,
-            "volume": 84918280.0,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021559,
-                "usd": 0.271072
-            },
-            "converted_volume": {
-                "btc": 715.898,
-                "eth": 18307,
-                "usd": 23019002
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.136904,
-            "timestamp": "2021-01-23T18:26:30+00:00",
-            "last_traded_at": "2021-01-23T18:26:30+00:00",
-            "last_fetch_at": "2021-01-23T18:26:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=xlmusdt",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "KRW",
-            "market": {
-                "name": "Coinone",
-                "identifier": "coinone",
-                "has_trading_incentive": false
-            },
-            "last": 299.2,
-            "volume": 14861896.8325,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021516,
-                "usd": 0.270637
-            },
-            "converted_volume": {
-                "btc": 125.045,
-                "eth": 3198,
-                "usd": 4022179
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.266578,
-            "timestamp": "2021-01-23T18:23:54+00:00",
-            "last_traded_at": "2021-01-23T18:23:54+00:00",
-            "last_fetch_at": "2021-01-23T18:23:54+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinone.co.kr/exchange/trade/xlm/krw",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 10311356.0,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021532,
-                "usd": 0.270836
-            },
-            "converted_volume": {
-                "btc": 86.822,
-                "eth": 2220,
-                "usd": 2792685
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.236967,
-            "timestamp": "2021-01-23T18:23:51+00:00",
-            "last_traded_at": "2021-01-23T18:23:51+00:00",
-            "last_fetch_at": "2021-01-23T18:23:51+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/XLM_BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 123040.38004750594,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021572,
-                "usd": 0.270733
-            },
-            "converted_volume": {
-                "btc": 1.036,
-                "eth": 26.542819,
-                "usd": 33311
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356295,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/BTC-XLM",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-XLM",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "bitcoin"
@@ -1205,23 +1077,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 7715532.900741482,
+            "last": 8.11e-06,
+            "volume": 5823542.651627953,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021506,
-                "usd": 0.270518
+                "btc": 8.11e-06,
+                "eth": 0.00019451,
+                "usd": 0.262502
             },
             "converted_volume": {
-                "btc": 64.888,
-                "eth": 1659,
-                "usd": 2087193
+                "btc": 47.228931,
+                "eth": 1133,
+                "usd": 1528690
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:25:23+00:00",
-            "last_traded_at": "2021-01-23T18:25:23+00:00",
-            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "bid_ask_spread_percentage": 0.123305,
+            "timestamp": "2021-01-26T02:56:41+00:00",
+            "last_traded_at": "2021-01-26T02:56:41+00:00",
+            "last_fetch_at": "2021-01-26T02:56:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=xlm_btc",
@@ -1231,67 +1103,34 @@
         },
         {
             "base": "XLM",
-            "target": "ETH",
+            "target": "KRW",
             "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
+                "name": "Coinone",
+                "identifier": "coinone",
                 "has_trading_incentive": false
             },
-            "last": 0.00021468,
-            "volume": 2678811.8,
+            "last": 292.0,
+            "volume": 7651310.1117,
             "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021528,
-                "usd": 0.270187
+                "btc": 8.18e-06,
+                "eth": 0.00019594,
+                "usd": 0.264941
             },
             "converted_volume": {
-                "btc": 22.508918,
-                "eth": 576.689,
-                "usd": 723781
+                "btc": 62.601,
+                "eth": 1499,
+                "usd": 2027147
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.218666,
-            "timestamp": "2021-01-23T18:18:47+00:00",
-            "last_traded_at": "2021-01-23T18:18:47+00:00",
-            "last_fetch_at": "2021-01-23T18:18:47+00:00",
+            "bid_ask_spread_percentage": 0.22895,
+            "timestamp": "2021-01-26T03:05:42+00:00",
+            "last_traded_at": "2021-01-26T03:05:42+00:00",
+            "last_fetch_at": "2021-01-26T03:05:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/XLM-to-ETH",
+            "trade_url": "https://coinone.co.kr/exchange/trade/xlm/krw",
             "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 8.41e-06,
-            "volume": 35671494.366,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021547,
-                "usd": 0.270428
-            },
-            "converted_volume": {
-                "btc": 299.997,
-                "eth": 7686,
-                "usd": 9646558
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.23753,
-            "timestamp": "2021-01-23T18:20:40+00:00",
-            "last_traded_at": "2021-01-23T18:20:40+00:00",
-            "last_fetch_at": "2021-01-23T18:20:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=xlm_btc",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
+            "coin_id": "stellar"
         },
         {
             "base": "XLM",
@@ -1301,23 +1140,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.00021503,
-            "volume": 2679540.7,
+            "last": 0.00019376,
+            "volume": 2298770.4,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.000215,
-                "usd": 0.270443
+                "btc": 8.09e-06,
+                "eth": 0.00019369,
+                "usd": 0.261698
             },
             "converted_volume": {
-                "btc": 22.528702,
-                "eth": 576.11,
-                "usd": 724664
+                "btc": 18.591403,
+                "eth": 445.243,
+                "usd": 601583
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.259897,
-            "timestamp": "2021-01-23T18:25:49+00:00",
-            "last_traded_at": "2021-01-23T18:25:49+00:00",
-            "last_fetch_at": "2021-01-23T18:25:49+00:00",
+            "bid_ask_spread_percentage": 0.340382,
+            "timestamp": "2021-01-26T03:02:18+00:00",
+            "last_traded_at": "2021-01-26T03:02:18+00:00",
+            "last_fetch_at": "2021-01-26T03:02:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/XLM-to-ETH",
@@ -1327,94 +1166,64 @@
         },
         {
             "base": "XLM",
-            "target": "USD",
+            "target": "BTC",
             "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
+                "name": "Tokenize",
+                "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 0.27041,
-            "volume": 3134562.4,
+            "last": 8.11e-06,
+            "volume": 127743.5265104809,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021498,
-                "usd": 0.27041
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262621
             },
             "converted_volume": {
-                "btc": 26.351512,
-                "eth": 673.868,
-                "usd": 847617
+                "btc": 1.036,
+                "eth": 24.810127,
+                "usd": 33548
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.225234,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
+            "bid_ask_spread_percentage": 0.369458,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/XLM_USD",
+            "trade_url": "https://tokenize.exchange/market/BTC-XLM",
             "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "USD",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.27105,
-            "volume": 1529249.57803315,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021549,
-                "usd": 0.27105
-            },
-            "converted_volume": {
-                "btc": 12.886699,
-                "eth": 329.542,
-                "usd": 414503
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147493,
-            "timestamp": "2021-01-23T18:24:54+00:00",
-            "last_traded_at": "2021-01-23T18:24:54+00:00",
-            "last_fetch_at": "2021-01-23T18:24:54+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/XLMUSD",
-            "token_info_url": null,
-            "coin_id": "stellar"
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XLM",
             "target": "USDT",
             "market": {
-                "name": "Float SV",
-                "identifier": "floatsv",
+                "name": "Bitrue",
+                "identifier": "bitrue",
                 "has_trading_incentive": false
             },
-            "last": 0.27024,
-            "volume": 5100.0,
+            "last": 0.26182,
+            "volume": 66624680.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021508,
-                "usd": 0.270545
+                "btc": 8.08e-06,
+                "eth": 0.0001936,
+                "usd": 0.262001
             },
             "converted_volume": {
-                "btc": 0.04289524,
-                "eth": 1.096929,
-                "usd": 1379.78
+                "btc": 538.573,
+                "eth": 12898,
+                "usd": 17455700
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129333,
-            "timestamp": "2021-01-23T18:25:26+00:00",
-            "last_traded_at": "2021-01-23T18:25:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
+            "bid_ask_spread_percentage": 0.122912,
+            "timestamp": "2021-01-26T02:59:27+00:00",
+            "last_traded_at": "2021-01-26T02:59:27+00:00",
+            "last_fetch_at": "2021-01-26T02:59:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.floatsv.com/spot/trade#product=xlm_usdt",
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=xlmusdt",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "tether"
@@ -1423,30 +1232,30 @@
             "base": "XLM",
             "target": "USD",
             "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 0.27089,
-            "volume": 797323.0,
+            "last": 0.26218,
+            "volume": 1627331.4,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021584,
-                "usd": 0.27089
+                "btc": 8.09e-06,
+                "eth": 0.00019373,
+                "usd": 0.26218
             },
             "converted_volume": {
-                "btc": 6.716965,
-                "eth": 172.092,
-                "usd": 215987
+                "btc": 13.163856,
+                "eth": 315.259,
+                "usd": 426654
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.291212,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "bid_ask_spread_percentage": 0.228903,
+            "timestamp": "2021-01-26T02:59:35+00:00",
+            "last_traded_at": "2021-01-26T02:59:35+00:00",
+            "last_fetch_at": "2021-01-26T02:59:35+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exrates.me/trading/XLMUSD",
+            "trade_url": "https://whitebit.com/trade/XLM_USD",
             "token_info_url": null,
             "coin_id": "stellar"
         },
@@ -1458,23 +1267,23 @@
                 "identifier": "bitstamp",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 654850.60921068,
+            "last": 8.07e-06,
+            "volume": 556092.74378125,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021506,
-                "usd": 0.270514
+                "btc": 8.07e-06,
+                "eth": 0.00019257,
+                "usd": 0.263845
             },
             "converted_volume": {
-                "btc": 5.507294,
-                "eth": 140.834,
-                "usd": 177146
+                "btc": 4.487668,
+                "eth": 107.088,
+                "usd": 146722
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.236686,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
+            "bid_ask_spread_percentage": 0.369458,
+            "timestamp": "2021-01-26T02:11:57+00:00",
+            "last_traded_at": "2021-01-26T02:11:57+00:00",
+            "last_fetch_at": "2021-01-26T02:58:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1484,29 +1293,156 @@
         },
         {
             "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "AAX",
+                "identifier": "aax",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 662458.0567901235,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019399,
+                "usd": 0.262099
+            },
+            "converted_volume": {
+                "btc": 5.36591,
+                "eth": 128.507,
+                "usd": 173630
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.615006,
+            "timestamp": "2021-01-26T03:03:48+00:00",
+            "last_traded_at": "2021-01-26T03:03:48+00:00",
+            "last_fetch_at": "2021-01-26T03:03:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aax.com/spot/trade/XLM:BTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.262,
+            "volume": 7153744.924809161,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019391,
+                "usd": 0.262
+            },
+            "converted_volume": {
+                "btc": 57.924,
+                "eth": 1387,
+                "usd": 1874281
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.152497,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/XLM_USD",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 9669128.0,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019399,
+                "usd": 0.262529
+            },
+            "converted_volume": {
+                "btc": 78.32,
+                "eth": 1876,
+                "usd": 2538428
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.246914,
+            "timestamp": "2021-01-26T02:59:36+00:00",
+            "last_traded_at": "2021-01-26T02:59:36+00:00",
+            "last_fetch_at": "2021-01-26T02:59:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/XLM_BTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "Float SV",
+                "identifier": "floatsv",
+                "has_trading_incentive": false
+            },
+            "last": 0.26223,
+            "volume": 13844.9,
+            "converted_last": {
+                "btc": 8.13e-06,
+                "eth": 0.00019459,
+                "usd": 0.262911
+            },
+            "converted_volume": {
+                "btc": 0.11249076,
+                "eth": 2.694023,
+                "usd": 3639.97
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.163959,
+            "timestamp": "2021-01-26T03:03:30+00:00",
+            "last_traded_at": "2021-01-26T03:03:30+00:00",
+            "last_fetch_at": "2021-01-26T03:03:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.floatsv.com/spot/trade#product=xlm_usdt",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
             "target": "USDT",
             "market": {
                 "name": "OKEx Korea",
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.27042,
-            "volume": 720586.172,
+            "last": 0.2621,
+            "volume": 766601.795,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021523,
-                "usd": 0.270725
+                "btc": 8.11e-06,
+                "eth": 0.00019417,
+                "usd": 0.26255
             },
             "converted_volume": {
-                "btc": 6.064765,
-                "eth": 155.09,
-                "usd": 195081
+                "btc": 6.215555,
+                "eth": 148.85,
+                "usd": 201271
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.166052,
-            "timestamp": "2021-01-23T18:25:44+00:00",
-            "last_traded_at": "2021-01-23T18:25:44+00:00",
-            "last_fetch_at": "2021-01-23T18:25:44+00:00",
+            "bid_ask_spread_percentage": 0.16003,
+            "timestamp": "2021-01-26T03:05:40+00:00",
+            "last_traded_at": "2021-01-26T03:05:40+00:00",
+            "last_fetch_at": "2021-01-26T03:05:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -1516,29 +1452,92 @@
         },
         {
             "base": "XLM",
+            "target": "SGD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 0.3469,
+            "volume": 7.319996973191121,
+            "converted_last": {
+                "btc": 8.07e-06,
+                "eth": 0.00019336,
+                "usd": 0.261464
+            },
+            "converted_volume": {
+                "btc": 5.91e-05,
+                "eth": 0.00141542,
+                "usd": 1.91
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602064,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/SGD-XLM",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 8.11e-06,
+            "volume": 39124596.244,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019423,
+                "usd": 0.262425
+            },
+            "converted_volume": {
+                "btc": 317.3,
+                "eth": 7599,
+                "usd": 10267254
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.369004,
+            "timestamp": "2021-01-26T03:02:59+00:00",
+            "last_traded_at": "2021-01-26T03:02:59+00:00",
+            "last_fetch_at": "2021-01-26T03:02:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=xlm_btc",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
             "target": "USDT",
             "market": {
                 "name": "CoinAll",
                 "identifier": "coinall",
                 "has_trading_incentive": false
             },
-            "last": 0.27043,
-            "volume": 374.11,
+            "last": 0.2622,
+            "volume": 518.99,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021501,
-                "usd": 0.270438
+                "btc": 8.11e-06,
+                "eth": 0.00019424,
+                "usd": 0.262654
             },
             "converted_volume": {
-                "btc": 0.00314544,
-                "eth": 0.08043609,
-                "usd": 101.17
+                "btc": 0.00420954,
+                "eth": 0.10081008,
+                "usd": 136.31
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.192415,
-            "timestamp": "2021-01-23T18:24:53+00:00",
-            "last_traded_at": "2021-01-23T18:24:53+00:00",
-            "last_fetch_at": "2021-01-23T18:24:53+00:00",
+            "bid_ask_spread_percentage": 0.164028,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1548,29 +1547,248 @@
         },
         {
             "base": "XLM",
+            "target": "ETH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.00019379,
+            "volume": 2291920.4,
+            "converted_last": {
+                "btc": 8.09e-06,
+                "eth": 0.00019372,
+                "usd": 0.262166
+            },
+            "converted_volume": {
+                "btc": 18.538873,
+                "eth": 443.984,
+                "usd": 600863
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.427438,
+            "timestamp": "2021-01-26T02:59:48+00:00",
+            "last_traded_at": "2021-01-26T02:59:48+00:00",
+            "last_fetch_at": "2021-01-26T02:59:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/XLM-to-ETH",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 0.2615,
+            "volume": 155798.07737013383,
+            "converted_last": {
+                "btc": 8.08e-06,
+                "eth": 0.00019339,
+                "usd": 0.2615
+            },
+            "converted_volume": {
+                "btc": 1.25813,
+                "eth": 30.129688,
+                "usd": 40741
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.418729,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/USD-XLM",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.2627,
+            "volume": 588985.5,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019427,
+                "usd": 0.2627
+            },
+            "converted_volume": {
+                "btc": 4.778054,
+                "eth": 114.425,
+                "usd": 154726
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.364936,
+            "timestamp": "2021-01-26T03:07:11+00:00",
+            "last_traded_at": "2021-01-26T03:07:11+00:00",
+            "last_fetch_at": "2021-01-26T03:07:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XLMUSD",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "EUR",
+            "market": {
+                "name": "Blockchain.com",
+                "identifier": "blockchain_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.22181,
+            "volume": 65181.5341675,
+            "converted_last": {
+                "btc": 8.32e-06,
+                "eth": 0.00019934,
+                "usd": 0.269336
+            },
+            "converted_volume": {
+                "btc": 0.54254682,
+                "eth": 12.993366,
+                "usd": 17555.71
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.166443,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.blockchain.com/trade/XLM-EUR",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "USD",
+            "market": {
+                "name": "B2BX",
+                "identifier": "b2bx",
+                "has_trading_incentive": false
+            },
+            "last": 0.25990499,
+            "volume": 54189.78522035,
+            "converted_last": {
+                "btc": 8e-06,
+                "eth": 0.00019117,
+                "usd": 0.259905
+            },
+            "converted_volume": {
+                "btc": 0.43375162,
+                "eth": 10.359459,
+                "usd": 14084.2
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.607178,
+            "timestamp": "2021-01-26T02:42:32+00:00",
+            "last_traded_at": "2021-01-26T02:42:32+00:00",
+            "last_fetch_at": "2021-01-26T02:42:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "KRW",
+            "market": {
+                "name": "GoPax",
+                "identifier": "gopax",
+                "has_trading_incentive": false
+            },
+            "last": 292.8,
+            "volume": 1773046.7364984,
+            "converted_last": {
+                "btc": 8.19e-06,
+                "eth": 0.00019538,
+                "usd": 0.265804
+            },
+            "converted_volume": {
+                "btc": 14.513965,
+                "eth": 346.421,
+                "usd": 471283
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.102424,
+            "timestamp": "2021-01-26T02:38:48+00:00",
+            "last_traded_at": "2021-01-26T02:38:48+00:00",
+            "last_fetch_at": "2021-01-26T02:38:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.gopax.co.kr/exchange/XLM-KRW",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.262,
+            "volume": 6881570.028347328,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019405,
+                "usd": 0.262394
+            },
+            "converted_volume": {
+                "btc": 55.761,
+                "eth": 1335,
+                "usd": 1805686
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.167645,
+            "timestamp": "2021-01-26T03:06:15+00:00",
+            "last_traded_at": "2021-01-26T03:06:15+00:00",
+            "last_fetch_at": "2021-01-26T03:06:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/XLM_BUSD",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "XLM",
             "target": "USDT",
             "market": {
                 "name": "Dcoin",
                 "identifier": "dcoin",
                 "has_trading_incentive": false
             },
-            "last": 0.270414,
-            "volume": 76652930.0,
+            "last": 0.262108,
+            "volume": 65502922.0,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021561,
-                "usd": 0.270603
+                "btc": 8.12e-06,
+                "eth": 0.00019449,
+                "usd": 0.262786
             },
             "converted_volume": {
-                "btc": 645.073,
-                "eth": 16527,
-                "usd": 20742523
+                "btc": 531.968,
+                "eth": 12740,
+                "usd": 17213260
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119576,
-            "timestamp": "2021-01-23T18:18:10+00:00",
-            "last_traded_at": "2021-01-23T18:18:10+00:00",
-            "last_fetch_at": "2021-01-23T18:18:10+00:00",
+            "bid_ask_spread_percentage": 0.159542,
+            "timestamp": "2021-01-26T03:04:29+00:00",
+            "last_traded_at": "2021-01-26T03:04:29+00:00",
+            "last_fetch_at": "2021-01-26T03:04:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.dcoin.com/currencyTrading/XLM_USDT",
@@ -1586,23 +1804,23 @@
                 "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 8.42e-06,
-            "volume": 71728.111,
+            "last": 8.11e-06,
+            "volume": 115610.413,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021532,
-                "usd": 0.27084
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262617
             },
             "converted_volume": {
-                "btc": 0.60395069,
-                "eth": 15.444399,
-                "usd": 19426.84
+                "btc": 0.93760045,
+                "eth": 22.453655,
+                "usd": 30361
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.35545,
-            "timestamp": "2021-01-23T18:25:44+00:00",
-            "last_traded_at": "2021-01-23T18:25:44+00:00",
-            "last_fetch_at": "2021-01-23T18:25:44+00:00",
+            "bid_ask_spread_percentage": 0.246609,
+            "timestamp": "2021-01-26T03:05:39+00:00",
+            "last_traded_at": "2021-01-26T03:05:39+00:00",
+            "last_fetch_at": "2021-01-26T03:05:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://okex.co.kr/kr/view/trade/order",
@@ -1618,23 +1836,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.27027,
-            "volume": 81388044.621,
+            "last": 0.26207,
+            "volume": 65461781.805,
             "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021488,
-                "usd": 0.270287
+                "btc": 8.11e-06,
+                "eth": 0.00019415,
+                "usd": 0.262524
             },
             "converted_volume": {
-                "btc": 683.889,
-                "eth": 17489,
-                "usd": 21998161
+                "btc": 530.699,
+                "eth": 12709,
+                "usd": 17185279
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.247543,
-            "timestamp": "2021-01-23T18:25:12+00:00",
-            "last_traded_at": "2021-01-23T18:25:12+00:00",
-            "last_fetch_at": "2021-01-23T18:25:12+00:00",
+            "bid_ask_spread_percentage": 0.258979,
+            "timestamp": "2021-01-26T03:06:20+00:00",
+            "last_traded_at": "2021-01-26T03:06:20+00:00",
+            "last_fetch_at": "2021-01-26T03:06:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/XLM",
@@ -1644,66 +1862,67 @@
         },
         {
             "base": "XLM",
-            "target": "USD",
+            "target": "USDT",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "B2BX",
+                "identifier": "b2bx",
                 "has_trading_incentive": false
             },
-            "last": 0.2708,
-            "volume": 7183508.529542098,
+            "last": 0.26077272,
+            "volume": 47108.46030611,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021577,
-                "usd": 0.2708
+                "btc": 8.07e-06,
+                "eth": 0.00019359,
+                "usd": 0.26128
             },
             "converted_volume": {
-                "btc": 60.497,
-                "eth": 1550,
-                "usd": 1945294
+                "btc": 0.38024663,
+                "eth": 9.119652,
+                "usd": 12308.49
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.173828,
-            "timestamp": "2021-01-23T18:22:25+00:00",
-            "last_traded_at": "2021-01-23T18:22:25+00:00",
-            "last_fetch_at": "2021-01-23T18:22:25+00:00",
+            "bid_ask_spread_percentage": 0.823332,
+            "timestamp": "2021-01-26T02:57:10+00:00",
+            "last_traded_at": "2021-01-26T02:57:10+00:00",
+            "last_fetch_at": "2021-01-26T02:57:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/XLM_USD",
+            "trade_url": null,
             "token_info_url": null,
-            "coin_id": "stellar"
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
         },
         {
             "base": "XLM",
-            "target": "BCH",
+            "target": "BTC",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Coinsbit",
+                "identifier": "coinsbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00063289,
-            "volume": 5267.6,
+            "last": 8.11e-06,
+            "volume": 8165233.18278602,
             "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.00021843,
-                "usd": 0.272597
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262509
             },
             "converted_volume": {
-                "btc": 0.04448262,
-                "eth": 1.15061,
-                "usd": 1435.93
+                "btc": 66.22,
+                "eth": 1586,
+                "usd": 2143446
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.187644,
-            "timestamp": "2021-01-23T17:58:25+00:00",
-            "last_traded_at": "2021-01-23T17:58:25+00:00",
-            "last_fetch_at": "2021-01-23T18:26:18+00:00",
+            "bid_ask_spread_percentage": 0.123305,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/XLM-to-BCH",
+            "trade_url": "https://coinsbit.io/trade/XLM_BTC",
             "token_info_url": null,
             "coin_id": "stellar",
-            "target_coin_id": "bitcoin-cash"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XLM",
@@ -1713,23 +1932,23 @@
                 "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 0.27035,
-            "volume": 1307917.2,
+            "last": 0.26234,
+            "volume": 954861.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021555,
-                "usd": 0.270524
+                "btc": 8.12e-06,
+                "eth": 0.00019435,
+                "usd": 0.26279
             },
             "converted_volume": {
-                "btc": 11.003518,
-                "eth": 281.915,
-                "usd": 353823
+                "btc": 7.749037,
+                "eth": 185.574,
+                "usd": 250928
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.317449,
-            "timestamp": "2021-01-23T18:22:15+00:00",
-            "last_traded_at": "2021-01-23T18:22:15+00:00",
-            "last_fetch_at": "2021-01-23T18:22:15+00:00",
+            "bid_ask_spread_percentage": 0.319854,
+            "timestamp": "2021-01-26T03:05:51+00:00",
+            "last_traded_at": "2021-01-26T03:05:51+00:00",
+            "last_fetch_at": "2021-01-26T03:05:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exrates.me/trading/XLMUSDT",
@@ -1741,59 +1960,27 @@
             "base": "XLM",
             "target": "USDT",
             "market": {
-                "name": "B2BX",
-                "identifier": "b2bx",
-                "has_trading_incentive": false
-            },
-            "last": 0.26947776,
-            "volume": 59174.92594149,
-            "converted_last": {
-                "btc": 8.38e-06,
-                "eth": 0.00021425,
-                "usd": 0.269486
-            },
-            "converted_volume": {
-                "btc": 0.49577874,
-                "eth": 12.678195,
-                "usd": 15946.82
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.807812,
-            "timestamp": "2021-01-23T18:24:04+00:00",
-            "last_traded_at": "2021-01-23T18:24:04+00:00",
-            "last_fetch_at": "2021-01-23T18:24:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
                 "name": "Bittrex",
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.26946893,
-            "volume": 687558.54999566,
+            "last": 0.26308395,
+            "volume": 596329.15572987,
             "converted_last": {
-                "btc": 8.39e-06,
-                "eth": 0.00021486,
-                "usd": 0.269657
+                "btc": 8.14e-06,
+                "eth": 0.0001949,
+                "usd": 0.263543
             },
             "converted_volume": {
-                "btc": 5.765929,
-                "eth": 147.726,
-                "usd": 185405
+                "btc": 4.853147,
+                "eth": 116.223,
+                "usd": 157158
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.652745,
-            "timestamp": "2021-01-23T18:18:06+00:00",
-            "last_traded_at": "2021-01-23T18:18:06+00:00",
-            "last_fetch_at": "2021-01-23T18:24:35+00:00",
+            "bid_ask_spread_percentage": 0.560922,
+            "timestamp": "2021-01-26T03:07:01+00:00",
+            "last_traded_at": "2021-01-26T03:07:01+00:00",
+            "last_fetch_at": "2021-01-26T03:07:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-XLM",
@@ -1803,411 +1990,32 @@
         },
         {
             "base": "XLM",
-            "target": "USD",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 0.2711,
-            "volume": 5090372.556252305,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021602,
-                "usd": 0.2711
-            },
-            "converted_volume": {
-                "btc": 42.919101,
-                "eth": 1100,
-                "usd": 1380000
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.258017,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/USD-XLM",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "ZB",
-                "identifier": "zb",
-                "has_trading_incentive": false
-            },
-            "last": 0.2711,
-            "volume": 76591632.5,
-            "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.00021577,
-                "usd": 0.271303
-            },
-            "converted_volume": {
-                "btc": 646.249,
-                "eth": 16526,
-                "usd": 20779507
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184366,
-            "timestamp": "2021-01-23T18:26:19+00:00",
-            "last_traded_at": "2021-01-23T18:26:19+00:00",
-            "last_fetch_at": "2021-01-23T18:26:19+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trans.zb.com/xlmusdt",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "KRW",
-            "market": {
-                "name": "GoPax",
-                "identifier": "gopax",
-                "has_trading_incentive": false
-            },
-            "last": 299.8,
-            "volume": 2642490.76314277,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021559,
-                "usd": 0.27118
-            },
-            "converted_volume": {
-                "btc": 22.277681,
-                "eth": 569.691,
-                "usd": 716590
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.233256,
-            "timestamp": "2021-01-23T18:25:11+00:00",
-            "last_traded_at": "2021-01-23T18:25:11+00:00",
-            "last_fetch_at": "2021-01-23T18:25:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.gopax.co.kr/exchange/XLM-KRW",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "SGD",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 0.36,
-            "volume": 9833.333333333,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021592,
-                "usd": 0.270982
-            },
-            "converted_volume": {
-                "btc": 0.08287303,
-                "eth": 2.123247,
-                "usd": 2664.66
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.526462,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/SGD-XLM",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "C2CX",
-                "identifier": "c2cx",
-                "has_trading_incentive": false
-            },
-            "last": 8.42e-06,
-            "volume": 394904.0,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021572,
-                "usd": 0.270733
-            },
-            "converted_volume": {
-                "btc": 3.325092,
-                "eth": 85.19,
-                "usd": 106913
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356295,
-            "timestamp": "2021-01-23T18:21:13+00:00",
-            "last_traded_at": "2021-01-23T18:21:13+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "BtcTurk PRO",
-                "identifier": "btcturk",
-                "has_trading_incentive": false
-            },
-            "last": 0.27078,
-            "volume": 3936568.4208,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021589,
-                "usd": 0.270954
-            },
-            "converted_volume": {
-                "btc": 33.171058,
-                "eth": 849.859,
-                "usd": 1066629
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.203117,
-            "timestamp": "2021-01-23T18:22:14+00:00",
-            "last_traded_at": "2021-01-23T18:22:14+00:00",
-            "last_fetch_at": "2021-01-23T18:22:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.btcturk.com/pro/al-sat/XLM_USDT",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "USD",
-            "market": {
-                "name": "B2BX",
-                "identifier": "b2bx",
-                "has_trading_incentive": false
-            },
-            "last": 0.26848876,
-            "volume": 76814.9763865,
-            "converted_last": {
-                "btc": 8.35e-06,
-                "eth": 0.00021346,
-                "usd": 0.268489
-            },
-            "converted_volume": {
-                "btc": 0.64118878,
-                "eth": 16.396662,
-                "usd": 20624
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.64767,
-            "timestamp": "2021-01-23T18:24:05+00:00",
-            "last_traded_at": "2021-01-23T18:24:05+00:00",
-            "last_fetch_at": "2021-01-23T18:24:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "EUR",
-            "market": {
-                "name": "Blockchain.com",
-                "identifier": "blockchain_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.22626,
-            "volume": 85295.2478448,
-            "converted_last": {
-                "btc": 8.54e-06,
-                "eth": 0.00021984,
-                "usd": 0.27546
-            },
-            "converted_volume": {
-                "btc": 0.7288159,
-                "eth": 18.751474,
-                "usd": 23495
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.444245,
-            "timestamp": "2021-01-23T18:11:52+00:00",
-            "last_traded_at": "2021-01-23T18:11:52+00:00",
-            "last_fetch_at": "2021-01-23T18:26:55+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.blockchain.com/trade/XLM-EUR",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 8.415e-06,
-            "volume": 35544210.3486631,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.0002156,
-                "usd": 0.270588
-            },
-            "converted_volume": {
-                "btc": 299.105,
-                "eth": 7663,
-                "usd": 9617832
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118765,
-            "timestamp": "2021-01-23T18:22:05+00:00",
-            "last_traded_at": "2021-01-23T18:22:05+00:00",
-            "last_fetch_at": "2021-01-23T18:22:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-XLM",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "ETH",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.00021503,
-            "volume": 4825216.195693624,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.000215,
-                "usd": 0.270443
-            },
-            "converted_volume": {
-                "btc": 40.56884,
-                "eth": 1037,
-                "usd": 1304948
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139205,
-            "timestamp": "2021-01-23T18:25:40+00:00",
-            "last_traded_at": "2021-01-23T18:25:40+00:00",
-            "last_fetch_at": "2021-01-23T18:25:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XLM_ETH",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XLM",
             "target": "BTC",
             "market": {
                 "name": "KuCoin",
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 8.42e-06,
-            "volume": 1759723.65278725,
+            "last": 8.11e-06,
+            "volume": 965761.87218044,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021572,
-                "usd": 0.270733
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262621
             },
             "converted_volume": {
-                "btc": 14.816873,
-                "eth": 379.615,
-                "usd": 476415
+                "btc": 7.832329,
+                "eth": 187.569,
+                "usd": 253629
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237248,
-            "timestamp": "2021-01-23T18:21:54+00:00",
-            "last_traded_at": "2021-01-23T18:21:54+00:00",
-            "last_fetch_at": "2021-01-23T18:21:54+00:00",
+            "bid_ask_spread_percentage": 0.246305,
+            "timestamp": "2021-01-26T03:06:54+00:00",
+            "last_traded_at": "2021-01-26T03:06:54+00:00",
+            "last_fetch_at": "2021-01-26T03:06:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/XLM-BTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.27089,
-            "volume": 7811373.209077485,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021534,
-                "usd": 0.270767
-            },
-            "converted_volume": {
-                "btc": 65.779,
-                "eth": 1682,
-                "usd": 2115064
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.203109,
-            "timestamp": "2021-01-23T18:26:53+00:00",
-            "last_traded_at": "2021-01-23T18:26:53+00:00",
-            "last_fetch_at": "2021-01-23T18:26:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XLM_BUSD",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Coinsbit",
-                "identifier": "coinsbit",
-                "has_trading_incentive": false
-            },
-            "last": 8.41e-06,
-            "volume": 7231194.46656025,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021547,
-                "usd": 0.270425
-            },
-            "converted_volume": {
-                "btc": 60.814,
-                "eth": 1558,
-                "usd": 1955495
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237248,
-            "timestamp": "2021-01-23T18:19:59+00:00",
-            "last_traded_at": "2021-01-23T18:19:59+00:00",
-            "last_fetch_at": "2021-01-23T18:19:59+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://coinsbit.io/trade/XLM_BTC",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "bitcoin"
@@ -2220,23 +2028,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.27144063,
-            "volume": 1155035.27194281,
+            "last": 0.26463274,
+            "volume": 1276876.44379919,
             "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.0002158,
-                "usd": 0.271441
+                "btc": 8.17e-06,
+                "eth": 0.0001957,
+                "usd": 0.264633
             },
             "converted_volume": {
-                "btc": 9.747293,
-                "eth": 249.261,
-                "usd": 313524
+                "btc": 10.434673,
+                "eth": 249.89,
+                "usd": 337903
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.738056,
-            "timestamp": "2021-01-23T18:24:31+00:00",
-            "last_traded_at": "2021-01-23T18:24:31+00:00",
-            "last_fetch_at": "2021-01-23T18:24:31+00:00",
+            "bid_ask_spread_percentage": 1.040246,
+            "timestamp": "2021-01-26T03:07:00+00:00",
+            "last_traded_at": "2021-01-26T03:07:00+00:00",
+            "last_fetch_at": "2021-01-26T03:07:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-XLM",
@@ -2251,23 +2059,23 @@
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 0.27054,
-            "volume": 3077549.9509721296,
+            "last": 0.26184,
+            "volume": 2617984.6905438434,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.0002157,
-                "usd": 0.270714
+                "btc": 8.08e-06,
+                "eth": 0.00019361,
+                "usd": 0.262021
             },
             "converted_volume": {
-                "btc": 25.909649,
-                "eth": 663.818,
-                "usd": 833136
+                "btc": 21.164596,
+                "eth": 506.867,
+                "usd": 685966
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.162524,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.106903,
+            "timestamp": "2021-01-26T02:59:47+00:00",
+            "last_traded_at": "2021-01-26T02:59:47+00:00",
+            "last_fetch_at": "2021-01-26T02:59:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.us/en/trade/XLM_USDT",
@@ -2277,35 +2085,35 @@
         },
         {
             "base": "XLM",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "ZBG",
-                "identifier": "zbg",
+                "name": "C2CX",
+                "identifier": "c2cx",
                 "has_trading_incentive": false
             },
-            "last": 0.2706,
-            "volume": 23320550.5724,
+            "last": 8.11e-06,
+            "volume": 433208.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021514,
-                "usd": 0.270617
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262421
             },
             "converted_volume": {
-                "btc": 196.198,
-                "eth": 5017,
-                "usd": 6310947
+                "btc": 3.513317,
+                "eth": 84.137,
+                "usd": 113683
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.066569,
-            "timestamp": "2021-01-23T18:25:20+00:00",
-            "last_traded_at": "2021-01-23T18:25:20+00:00",
-            "last_fetch_at": "2021-01-23T18:25:20+00:00",
+            "bid_ask_spread_percentage": 0.492611,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "stellar",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "XLM",
@@ -2315,23 +2123,23 @@
                 "identifier": "vindax",
                 "has_trading_incentive": false
             },
-            "last": 0.27039,
-            "volume": 14970569.82,
+            "last": 0.26231,
+            "volume": 15502463.96,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021558,
-                "usd": 0.270564
+                "btc": 8.11e-06,
+                "eth": 0.00019432,
+                "usd": 0.262564
             },
             "converted_volume": {
-                "btc": 125.966,
-                "eth": 3227,
-                "usd": 4050495
+                "btc": 125.794,
+                "eth": 3013,
+                "usd": 4070391
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.196051,
-            "timestamp": "2021-01-23T18:22:25+00:00",
-            "last_traded_at": "2021-01-23T18:22:25+00:00",
-            "last_fetch_at": "2021-01-23T18:22:25+00:00",
+            "bid_ask_spread_percentage": 0.199195,
+            "timestamp": "2021-01-26T03:04:59+00:00",
+            "last_traded_at": "2021-01-26T03:04:59+00:00",
+            "last_fetch_at": "2021-01-26T03:04:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vindax.com/exchange-base.html?symbol=XLM_USDT",
@@ -2343,30 +2151,30 @@
             "base": "XLM",
             "target": "ETH",
             "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.00021503,
-            "volume": 2308593.0,
+            "last": 0.00019316,
+            "volume": 3950305.5347898114,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021522,
-                "usd": 0.270716
+                "btc": 8.09e-06,
+                "eth": 0.00019382,
+                "usd": 0.262083
             },
             "converted_volume": {
-                "btc": 19.429752,
-                "eth": 496.863,
-                "usd": 624973
+                "btc": 31.971419,
+                "eth": 765.651,
+                "usd": 1035310
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.421648,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
+            "bid_ask_spread_percentage": 0.191264,
+            "timestamp": "2021-01-26T03:06:21+00:00",
+            "last_traded_at": "2021-01-26T03:06:21+00:00",
+            "last_fetch_at": "2021-01-26T03:06:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/XLM_ETH",
+            "trade_url": "https://www.binance.com/en/trade/XLM_ETH",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "ethereum"
@@ -2379,23 +2187,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 3.761,
-            "volume": 202729.24,
+            "last": 3.746,
+            "volume": 311450.3,
             "converted_last": {
-                "btc": 8.38e-06,
-                "eth": 0.00021459,
-                "usd": 0.269313
+                "btc": 8.13e-06,
+                "eth": 0.00019473,
+                "usd": 0.263535
             },
             "converted_volume": {
-                "btc": 1.698029,
-                "eth": 43.504333,
-                "usd": 54598
+                "btc": 2.532411,
+                "eth": 60.648,
+                "usd": 82078
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.344189,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.126688,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/XLM_CRO",
@@ -2407,27 +2215,123 @@
             "base": "XLM",
             "target": "USDT",
             "market": {
+                "name": "BtcTurk PRO",
+                "identifier": "btcturk",
+                "has_trading_incentive": false
+            },
+            "last": 0.262,
+            "volume": 3378287.4901,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019409,
+                "usd": 0.262457
+            },
+            "converted_volume": {
+                "btc": 27.380474,
+                "eth": 655.708,
+                "usd": 886655
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.930162,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.btcturk.com/pro/al-sat/XLM_USDT",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "ETH",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00019316,
+            "volume": 2336923.0,
+            "converted_last": {
+                "btc": 8.09e-06,
+                "eth": 0.00019382,
+                "usd": 0.262083
+            },
+            "converted_volume": {
+                "btc": 18.913662,
+                "eth": 452.944,
+                "usd": 612469
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.423269,
+            "timestamp": "2021-01-26T03:06:47+00:00",
+            "last_traded_at": "2021-01-26T03:06:47+00:00",
+            "last_fetch_at": "2021-01-26T03:06:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/XLM_ETH",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
                 "name": "CoinTiger",
                 "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 0.270871,
-            "volume": 2848838.2885224,
+            "last": 8.1e-06,
+            "volume": 64008.127308,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021576,
-                "usd": 0.270797
+                "btc": 8.1e-06,
+                "eth": 0.00019398,
+                "usd": 0.262293
             },
             "converted_volume": {
-                "btc": 23.991508,
-                "eth": 614.674,
-                "usd": 771457
+                "btc": 0.51846583,
+                "eth": 12.416219,
+                "usd": 16788.87
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.102342,
-            "timestamp": "2021-01-23T18:22:35+00:00",
-            "last_traded_at": "2021-01-23T18:22:35+00:00",
-            "last_fetch_at": "2021-01-23T18:22:35+00:00",
+            "bid_ask_spread_percentage": 0.246609,
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 0.2617,
+            "volume": 22413625.3188,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019419,
+                "usd": 0.262379
+            },
+            "converted_volume": {
+                "btc": 181.744,
+                "eth": 4353,
+                "usd": 5880871
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.062619,
+            "timestamp": "2021-01-26T03:03:22+00:00",
+            "last_traded_at": "2021-01-26T03:03:22+00:00",
+            "last_fetch_at": "2021-01-26T03:03:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2443,23 +2347,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 1.74,
-            "volume": 4063699.89552201,
+            "last": 1.682,
+            "volume": 4278766.67172444,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021573,
-                "usd": 0.270759
+                "btc": 8.09e-06,
+                "eth": 0.00019384,
+                "usd": 0.262107
             },
             "converted_volume": {
-                "btc": 34.21768,
-                "eth": 876.673,
-                "usd": 1100284
+                "btc": 34.633395,
+                "eth": 829.4,
+                "usd": 1121493
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.229621,
-            "timestamp": "2021-01-23T18:22:23+00:00",
-            "last_traded_at": "2021-01-23T18:22:23+00:00",
-            "last_fetch_at": "2021-01-23T18:22:23+00:00",
+            "bid_ask_spread_percentage": 0.237389,
+            "timestamp": "2021-01-26T03:05:39+00:00",
+            "last_traded_at": "2021-01-26T03:05:39+00:00",
+            "last_fetch_at": "2021-01-26T03:05:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=XLM",
@@ -2469,35 +2373,131 @@
         },
         {
             "base": "XLM",
-            "target": "BTC",
+            "target": "USDT",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 0.262,
+            "volume": 61136008.4,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019409,
+                "usd": 0.262457
+            },
+            "converted_volume": {
+                "btc": 495.497,
+                "eth": 11866,
+                "usd": 16045565
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.305111,
+            "timestamp": "2021-01-26T03:07:23+00:00",
+            "last_traded_at": "2021-01-26T03:07:23+00:00",
+            "last_fetch_at": "2021-01-26T03:08:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/xlmusdt",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "ETH",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.000194,
+            "volume": 5236295.0,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019393,
+                "usd": 0.26245
+            },
+            "converted_volume": {
+                "btc": 42.401213,
+                "eth": 1015,
+                "usd": 1374266
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.242156,
+            "timestamp": "2021-01-26T02:59:27+00:00",
+            "last_traded_at": "2021-01-26T02:59:27+00:00",
+            "last_fetch_at": "2021-01-26T02:59:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=xlmeth",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
             "market": {
                 "name": "CoinTiger",
                 "identifier": "cointiger",
                 "has_trading_incentive": false
             },
-            "last": 8.38e-06,
-            "volume": 113685.822196,
+            "last": 0.262078,
+            "volume": 1913583.39678323,
             "converted_last": {
-                "btc": 8.38e-06,
-                "eth": 0.00021606,
-                "usd": 0.270612
+                "btc": 8.11e-06,
+                "eth": 0.00019415,
+                "usd": 0.262528
             },
             "converted_volume": {
-                "btc": 0.95268719,
-                "eth": 24.563172,
-                "usd": 30765
+                "btc": 15.513901,
+                "eth": 371.527,
+                "usd": 502368
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.23753,
-            "timestamp": "2021-01-23T18:06:15+00:00",
-            "last_traded_at": "2021-01-23T18:06:15+00:00",
-            "last_fetch_at": "2021-01-23T18:22:35+00:00",
+            "bid_ask_spread_percentage": 0.110145,
+            "timestamp": "2021-01-26T03:05:45+00:00",
+            "last_traded_at": "2021-01-26T03:05:45+00:00",
+            "last_fetch_at": "2021-01-26T03:05:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.000194,
+            "volume": 1024065.4290600116,
+            "converted_last": {
+                "btc": 8.09e-06,
+                "eth": 0.00019411,
+                "usd": 0.261973
+            },
+            "converted_volume": {
+                "btc": 8.288458,
+                "eth": 198.786,
+                "usd": 268278
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.512821,
+            "timestamp": "2021-01-26T02:56:30+00:00",
+            "last_traded_at": "2021-01-26T02:56:30+00:00",
+            "last_fetch_at": "2021-01-26T02:56:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xlm_eth",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "XLM",
@@ -2507,23 +2507,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 0.270712,
-            "volume": 5083950.95,
+            "last": 0.262234,
+            "volume": 3669941.73,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021583,
-                "usd": 0.270886
+                "btc": 8.11e-06,
+                "eth": 0.00019427,
+                "usd": 0.262488
             },
             "converted_volume": {
-                "btc": 42.828592,
-                "eth": 1097,
-                "usd": 1377171
+                "btc": 29.77085,
+                "eth": 712.952,
+                "usd": 963316
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356189,
-            "timestamp": "2021-01-23T18:22:04+00:00",
-            "last_traded_at": "2021-01-23T18:22:04+00:00",
-            "last_fetch_at": "2021-01-23T18:22:04+00:00",
+            "bid_ask_spread_percentage": 0.376849,
+            "timestamp": "2021-01-26T03:05:06+00:00",
+            "last_traded_at": "2021-01-26T03:05:06+00:00",
+            "last_fetch_at": "2021-01-26T03:05:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#XLM_USDT",
@@ -2539,23 +2539,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 0.2692,
-            "volume": 704982.8892962099,
+            "last": 0.2619,
+            "volume": 679462.75707759,
             "converted_last": {
-                "btc": 8.37e-06,
-                "eth": 0.00021403,
-                "usd": 0.269208
+                "btc": 8.1e-06,
+                "eth": 0.00019402,
+                "usd": 0.262349
             },
             "converted_volume": {
-                "btc": 5.900392,
-                "eth": 150.887,
-                "usd": 189787
+                "btc": 5.504834,
+                "eth": 131.83,
+                "usd": 178257
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.221566,
-            "timestamp": "2021-01-23T18:24:13+00:00",
-            "last_traded_at": "2021-01-23T18:24:13+00:00",
-            "last_fetch_at": "2021-01-23T18:24:13+00:00",
+            "bid_ask_spread_percentage": 0.228659,
+            "timestamp": "2021-01-26T03:05:39+00:00",
+            "last_traded_at": "2021-01-26T03:05:39+00:00",
+            "last_fetch_at": "2021-01-26T03:05:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=XLM",
@@ -2565,92 +2565,29 @@
         },
         {
             "base": "XLM",
-            "target": "BTC",
-            "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
-                "has_trading_incentive": false
-            },
-            "last": 8.4e-06,
-            "volume": 219338.0,
-            "converted_last": {
-                "btc": 8.4e-06,
-                "eth": 0.00021521,
-                "usd": 0.270106
-            },
-            "converted_volume": {
-                "btc": 1.842439,
-                "eth": 47.20418,
-                "usd": 59244
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.592417,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exrates.me/trading/XLMBTC",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "EUR",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.22269,
-            "volume": 3633585.604881225,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021562,
-                "usd": 0.271114
-            },
-            "converted_volume": {
-                "btc": 30.637414,
-                "eth": 783.469,
-                "usd": 985116
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.300395,
-            "timestamp": "2021-01-23T18:26:12+00:00",
-            "last_traded_at": "2021-01-23T18:26:12+00:00",
-            "last_fetch_at": "2021-01-23T18:26:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/XLM_EUR",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
             "target": "USDT",
             "market": {
                 "name": "Bitforex",
                 "identifier": "bitforex",
                 "has_trading_incentive": false
             },
-            "last": 0.2704,
-            "volume": 37913433.3848,
+            "last": 0.262,
+            "volume": 41307998.6874,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021498,
-                "usd": 0.270408
+                "btc": 8.11e-06,
+                "eth": 0.00019425,
+                "usd": 0.262556
             },
             "converted_volume": {
-                "btc": 318.733,
-                "eth": 8151,
-                "usd": 10252107
+                "btc": 335.068,
+                "eth": 8024,
+                "usd": 10845651
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147765,
-            "timestamp": "2021-01-23T18:24:03+00:00",
-            "last_traded_at": "2021-01-23T18:24:03+00:00",
-            "last_fetch_at": "2021-01-23T18:24:03+00:00",
+            "bid_ask_spread_percentage": 0.152555,
+            "timestamp": "2021-01-26T03:08:14+00:00",
+            "last_traded_at": "2021-01-26T03:08:14+00:00",
+            "last_fetch_at": "2021-01-26T03:08:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitforex.com/en/spot/xlm_usdt",
@@ -2666,23 +2603,23 @@
                 "identifier": "bitmax",
                 "has_trading_incentive": false
             },
-            "last": 0.27191,
-            "volume": 391028.0,
+            "last": 0.26158,
+            "volume": 202832.0,
             "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021794,
-                "usd": 0.271979
+                "btc": 8.09e-06,
+                "eth": 0.00019378,
+                "usd": 0.262036
             },
             "converted_volume": {
-                "btc": 3.294582,
-                "eth": 85.219,
-                "usd": 106351
+                "btc": 1.641285,
+                "eth": 39.305498,
+                "usd": 53149
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.295345,
-            "timestamp": "2021-01-23T17:58:43+00:00",
-            "last_traded_at": "2021-01-23T17:58:43+00:00",
-            "last_fetch_at": "2021-01-23T18:21:46+00:00",
+            "bid_ask_spread_percentage": 0.320354,
+            "timestamp": "2021-01-26T03:07:20+00:00",
+            "last_traded_at": "2021-01-26T03:07:20+00:00",
+            "last_fetch_at": "2021-01-26T03:07:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/xlm",
@@ -2692,35 +2629,34 @@
         },
         {
             "base": "XLM",
-            "target": "QC",
+            "target": "EUR",
             "market": {
-                "name": "ZB",
-                "identifier": "zb",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 1.7511,
-            "volume": 4319994.1,
+            "last": 0.21615,
+            "volume": 2842455.4367892668,
             "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.00021703,
-                "usd": 0.271741
+                "btc": 8.11e-06,
+                "eth": 0.0001941,
+                "usd": 0.262468
             },
             "converted_volume": {
-                "btc": 36.440202,
-                "eth": 937.558,
-                "usd": 1173919
+                "btc": 23.038866,
+                "eth": 551.735,
+                "usd": 746053
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.330447,
-            "timestamp": "2021-01-23T18:13:59+00:00",
-            "last_traded_at": "2021-01-23T18:13:59+00:00",
-            "last_fetch_at": "2021-01-23T18:26:19+00:00",
+            "bid_ask_spread_percentage": 0.258398,
+            "timestamp": "2021-01-26T03:06:09+00:00",
+            "last_traded_at": "2021-01-26T03:06:09+00:00",
+            "last_fetch_at": "2021-01-26T03:06:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trans.zb.com/xlmqc",
+            "trade_url": "https://www.binance.com/en/trade/XLM_EUR",
             "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "qcash"
+            "coin_id": "stellar"
         },
         {
             "base": "XLM",
@@ -2730,23 +2666,23 @@
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 0.27048,
-            "volume": 8425340.6,
+            "last": 0.26179,
+            "volume": 7564610.0,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021505,
-                "usd": 0.270488
+                "btc": 8.1e-06,
+                "eth": 0.0001941,
+                "usd": 0.26246
             },
             "converted_volume": {
-                "btc": 70.852,
-                "eth": 1812,
-                "usd": 2278956
+                "btc": 61.311,
+                "eth": 1468,
+                "usd": 1985410
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.192374,
-            "timestamp": "2021-01-23T18:24:25+00:00",
-            "last_traded_at": "2021-01-23T18:24:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:25+00:00",
+            "bid_ask_spread_percentage": 0.168676,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/xlm_usdt",
@@ -2756,61 +2692,156 @@
         },
         {
             "base": "XLM",
-            "target": "ETH",
+            "target": "THB",
             "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
+                "name": "Bitkub",
+                "identifier": "bitkub",
                 "has_trading_incentive": false
             },
-            "last": 0.000216,
-            "volume": 3895063.0,
+            "last": 8.01,
+            "volume": 2509384.08597033,
             "converted_last": {
-                "btc": 8.45e-06,
-                "eth": 0.00021597,
-                "usd": 0.27156
+                "btc": 8.27e-06,
+                "eth": 0.00019797,
+                "usd": 0.267358
             },
             "converted_volume": {
-                "btc": 32.896144,
-                "eth": 841.23,
-                "usd": 1057743
+                "btc": 20.749728,
+                "eth": 496.793,
+                "usd": 670903
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.101744,
-            "timestamp": "2021-01-23T18:26:29+00:00",
-            "last_traded_at": "2021-01-23T18:26:29+00:00",
-            "last_fetch_at": "2021-01-23T18:26:29+00:00",
+            "bid_ask_spread_percentage": 0.219058,
+            "timestamp": "2021-01-26T02:53:49+00:00",
+            "last_traded_at": "2021-01-26T02:53:49+00:00",
+            "last_fetch_at": "2021-01-26T02:53:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=xlmeth",
+            "trade_url": "https://www.bitkub.com/market/XLM",
             "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
+            "coin_id": "stellar"
         },
         {
             "base": "XLM",
-            "target": "TRY",
+            "target": "SXC",
             "market": {
-                "name": "Paribu",
-                "identifier": "paribu",
+                "name": "XT",
+                "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 2.013,
-            "volume": 9637783.9490171,
+            "last": 1.6928,
+            "volume": 24512559.4,
             "converted_last": {
-                "btc": 8.44e-06,
-                "eth": 0.00021585,
-                "usd": 0.271495
+                "btc": 8.14e-06,
+                "eth": 0.0001949,
+                "usd": 0.263552
             },
             "converted_volume": {
-                "btc": 81.349,
-                "eth": 2080,
-                "usd": 2616611
+                "btc": 199.499,
+                "eth": 4778,
+                "usd": 6460336
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.149677,
-            "timestamp": "2021-01-23T18:24:55+00:00",
-            "last_traded_at": "2021-01-23T18:24:55+00:00",
-            "last_fetch_at": "2021-01-23T18:24:55+00:00",
+            "bid_ask_spread_percentage": 0.106213,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/xlm_sxc",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "sxc"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 8.107e-06,
+            "volume": 10498893.384482546,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019415,
+                "usd": 0.262519
+            },
+            "converted_volume": {
+                "btc": 85.115,
+                "eth": 2038,
+                "usd": 2756164
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.246609,
+            "timestamp": "2021-01-26T03:05:27+00:00",
+            "last_traded_at": "2021-01-26T03:05:27+00:00",
+            "last_fetch_at": "2021-01-26T03:05:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-XLM",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "Virgox",
+                "identifier": "virgox",
+                "has_trading_incentive": false
+            },
+            "last": 0.26195,
+            "volume": 2631084.8,
+            "converted_last": {
+                "btc": 8.12e-06,
+                "eth": 0.00019437,
+                "usd": 0.262628
+            },
+            "converted_volume": {
+                "btc": 21.354917,
+                "eth": 511.408,
+                "usd": 690996
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.240192,
+            "timestamp": "2021-01-26T03:04:47+00:00",
+            "last_traded_at": "2021-01-26T03:04:47+00:00",
+            "last_fetch_at": "2021-01-26T03:04:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://virgox.com/exchange",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "AUD",
+            "market": {
+                "name": "BTCMarkets",
+                "identifier": "btcmarkets",
+                "has_trading_incentive": false
+            },
+            "last": 0.3434,
+            "volume": 229913.73,
+            "converted_last": {
+                "btc": 8.18e-06,
+                "eth": 0.00019591,
+                "usd": 0.264703
+            },
+            "converted_volume": {
+                "btc": 1.880802,
+                "eth": 45.043012,
+                "usd": 60859
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.960978,
+            "timestamp": "2021-01-26T03:04:01+00:00",
+            "last_traded_at": "2021-01-26T03:04:01+00:00",
+            "last_fetch_at": "2021-01-26T03:04:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2825,217 +2856,26 @@
                 "identifier": "vindax",
                 "has_trading_incentive": false
             },
-            "last": 0.00021532,
-            "volume": 6581504.0,
+            "last": 0.0001937,
+            "volume": 6593215.0,
             "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021592,
-                "usd": 0.270994
+                "btc": 8.12e-06,
+                "eth": 0.00019436,
+                "usd": 0.262812
             },
             "converted_volume": {
-                "btc": 55.466,
-                "eth": 1421,
-                "usd": 1783547
+                "btc": 53.511,
+                "eth": 1281,
+                "usd": 1732775
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.227494,
-            "timestamp": "2021-01-23T18:22:23+00:00",
-            "last_traded_at": "2021-01-23T18:22:23+00:00",
-            "last_fetch_at": "2021-01-23T18:22:23+00:00",
+            "bid_ask_spread_percentage": 0.530408,
+            "timestamp": "2021-01-26T03:05:02+00:00",
+            "last_traded_at": "2021-01-26T03:05:02+00:00",
+            "last_fetch_at": "2021-01-26T03:05:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vindax.com/exchange-base.html?symbol=XLM_ETH",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XLM",
-            "target": "THB",
-            "market": {
-                "name": "Bitkub",
-                "identifier": "bitkub",
-                "has_trading_incentive": false
-            },
-            "last": 8.27,
-            "volume": 1729013.03939886,
-            "converted_last": {
-                "btc": 8.58e-06,
-                "eth": 0.00021992,
-                "usd": 0.276018
-            },
-            "converted_volume": {
-                "btc": 14.8416,
-                "eth": 380.249,
-                "usd": 477239
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.219058,
-            "timestamp": "2021-01-23T18:20:14+00:00",
-            "last_traded_at": "2021-01-23T18:20:14+00:00",
-            "last_fetch_at": "2021-01-23T18:20:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitkub.com/market/XLM",
-            "token_info_url": null,
-            "coin_id": "stellar"
-        },
-        {
-            "base": "XLM",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.000215,
-            "volume": 846546.4803,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021497,
-                "usd": 0.270406
-            },
-            "converted_volume": {
-                "btc": 7.116493,
-                "eth": 181.985,
-                "usd": 228911
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.462963,
-            "timestamp": "2021-01-23T18:25:04+00:00",
-            "last_traded_at": "2021-01-23T18:25:04+00:00",
-            "last_fetch_at": "2021-01-23T18:25:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=xlm_eth",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "Virgox",
-                "identifier": "virgox",
-                "has_trading_incentive": false
-            },
-            "last": 0.2705,
-            "volume": 525972.4,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021566,
-                "usd": 0.270658
-            },
-            "converted_volume": {
-                "btc": 4.427465,
-                "eth": 113.434,
-                "usd": 142359
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.258446,
-            "timestamp": "2021-01-23T18:21:41+00:00",
-            "last_traded_at": "2021-01-23T18:21:41+00:00",
-            "last_fetch_at": "2021-01-23T18:21:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://virgox.com/exchange",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 0.27064,
-            "volume": 19273743.26,
-            "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021578,
-                "usd": 0.270815
-            },
-            "converted_volume": {
-                "btc": 162.324,
-                "eth": 4159,
-                "usd": 5219610
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.162391,
-            "timestamp": "2021-01-23T18:20:25+00:00",
-            "last_traded_at": "2021-01-23T18:20:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=XLM_USDT",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002154,
-            "volume": 193377.22902913,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021559,
-                "usd": 0.271177
-            },
-            "converted_volume": {
-                "btc": 1.630316,
-                "eth": 41.690911,
-                "usd": 52439
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.241288,
-            "timestamp": "2021-01-23T18:24:33+00:00",
-            "last_traded_at": "2021-01-23T18:24:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-XLM",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "XLM",
-            "target": "ETH",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 0.0002154,
-            "volume": 139.784215413,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.000216,
-                "usd": 0.271078
-            },
-            "converted_volume": {
-                "btc": 0.00117849,
-                "eth": 0.0301934,
-                "usd": 37.89
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.348092,
-            "timestamp": "2021-01-23T18:21:42+00:00",
-            "last_traded_at": "2021-01-23T18:21:42+00:00",
-            "last_fetch_at": "2021-01-23T18:21:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/ETH-XLM",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "ethereum"
@@ -3048,23 +2888,23 @@
                 "identifier": "c2cx",
                 "has_trading_incentive": false
             },
-            "last": 0.272,
-            "volume": 2293717.0,
+            "last": 0.2625,
+            "volume": 1754887.0,
             "converted_last": {
-                "btc": 8.46e-06,
-                "eth": 0.00021686,
-                "usd": 0.272159
+                "btc": 8.13e-06,
+                "eth": 0.00019478,
+                "usd": 0.263179
             },
             "converted_volume": {
-                "btc": 19.414834,
-                "eth": 497.417,
-                "usd": 624255
+                "btc": 14.273258,
+                "eth": 341.816,
+                "usd": 461850
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147438,
-            "timestamp": "2021-01-23T18:21:13+00:00",
-            "last_traded_at": "2021-01-23T18:21:13+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
+            "bid_ask_spread_percentage": 0.266972,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3074,125 +2914,29 @@
         },
         {
             "base": "STR",
-            "target": "BTC",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 8.43e-06,
-            "volume": 559439.85900495,
-            "converted_last": {
-                "btc": 8.43e-06,
-                "eth": 0.00021557,
-                "usd": 0.271158
-            },
-            "converted_volume": {
-                "btc": 4.716078,
-                "eth": 120.601,
-                "usd": 151696
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.237248,
-            "timestamp": "2021-01-23T18:23:43+00:00",
-            "last_traded_at": "2021-01-23T18:23:43+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#str_btc",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 0.2702,
-            "volume": 1262570.2527757217,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021543,
-                "usd": 0.270358
-            },
-            "converted_volume": {
-                "btc": 10.61612,
-                "eth": 271.99,
-                "usd": 341346
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.110988,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/XLM:USDT",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "XLM",
-            "target": "USDT",
-            "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.270266,
-            "volume": 1421871.4432798,
-            "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021548,
-                "usd": 0.270424
-            },
-            "converted_volume": {
-                "btc": 11.958499,
-                "eth": 306.383,
-                "usd": 384508
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.258398,
-            "timestamp": "2021-01-23T18:21:06+00:00",
-            "last_traded_at": "2021-01-23T18:21:06+00:00",
-            "last_fetch_at": "2021-01-23T18:21:06+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XLM#limit",
-            "token_info_url": null,
-            "coin_id": "stellar",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "STR",
             "target": "USDT",
             "market": {
                 "name": "Poloniex",
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 0.27074706,
-            "volume": 321554.66848334,
+            "last": 0.26200837,
+            "volume": 1021525.53517691,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021526,
-                "usd": 0.27076
+                "btc": 8.11e-06,
+                "eth": 0.0001941,
+                "usd": 0.262462
             },
             "converted_volume": {
-                "btc": 2.706735,
-                "eth": 69.217,
-                "usd": 87064
+                "btc": 8.279564,
+                "eth": 198.279,
+                "usd": 268112
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.345868,
-            "timestamp": "2021-01-23T18:23:43+00:00",
-            "last_traded_at": "2021-01-23T18:23:43+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "bid_ask_spread_percentage": 0.339701,
+            "timestamp": "2021-01-26T03:06:38+00:00",
+            "last_traded_at": "2021-01-26T03:06:38+00:00",
+            "last_fetch_at": "2021-01-26T03:06:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#str_usdt",
@@ -3204,27 +2948,155 @@
             "base": "XLM",
             "target": "BTC",
             "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 8.08e-06,
+            "volume": 242965.0,
+            "converted_last": {
+                "btc": 8.08e-06,
+                "eth": 0.0001935,
+                "usd": 0.261645
+            },
+            "converted_volume": {
+                "btc": 1.963157,
+                "eth": 47.013686,
+                "usd": 63571
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.615006,
+            "timestamp": "2021-01-26T03:05:51+00:00",
+            "last_traded_at": "2021-01-26T03:05:51+00:00",
+            "last_fetch_at": "2021-01-26T03:05:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/XLMBTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "STR",
+            "target": "BTC",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 8.1e-06,
+            "volume": 703974.22646505,
+            "converted_last": {
+                "btc": 8.1e-06,
+                "eth": 0.00019398,
+                "usd": 0.262297
+            },
+            "converted_volume": {
+                "btc": 5.702191,
+                "eth": 136.556,
+                "usd": 184650
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.369458,
+            "timestamp": "2021-01-26T03:06:36+00:00",
+            "last_traded_at": "2021-01-26T03:06:36+00:00",
+            "last_fetch_at": "2021-01-26T03:06:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#str_btc",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "ETH",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00019356,
+            "volume": 182689.12495972,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019422,
+                "usd": 0.262626
+            },
+            "converted_volume": {
+                "btc": 1.481639,
+                "eth": 35.482283,
+                "usd": 47979
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.40791,
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-XLM",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "XLM",
+            "target": "QC",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 1.6891,
+            "volume": 3957203.2,
+            "converted_last": {
+                "btc": 8.09e-06,
+                "eth": 0.00019365,
+                "usd": 0.261857
+            },
+            "converted_volume": {
+                "btc": 31.999184,
+                "eth": 766.316,
+                "usd": 1036221
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.347693,
+            "timestamp": "2021-01-26T03:07:51+00:00",
+            "last_traded_at": "2021-01-26T03:07:51+00:00",
+            "last_fetch_at": "2021-01-26T03:07:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/xlmqc",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "XLM",
+            "target": "BTC",
+            "market": {
                 "name": "CoinJar Exchange",
                 "identifier": "coinjar",
                 "has_trading_incentive": false
             },
-            "last": 8.39e-06,
-            "volume": 146631.6833553,
+            "last": 8.12e-06,
+            "volume": 155740.9744633,
             "converted_last": {
-                "btc": 8.39e-06,
-                "eth": 0.00021496,
-                "usd": 0.269782
+                "btc": 8.12e-06,
+                "eth": 0.00019441,
+                "usd": 0.262545
             },
             "converted_volume": {
-                "btc": 1.23024,
-                "eth": 31.519337,
-                "usd": 39559
+                "btc": 1.264617,
+                "eth": 30.277664,
+                "usd": 40889
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.591017,
-            "timestamp": "2021-01-23T18:19:17+00:00",
-            "last_traded_at": "2021-01-23T18:19:17+00:00",
-            "last_fetch_at": "2021-01-23T18:26:12+00:00",
+            "bid_ask_spread_percentage": 0.492611,
+            "timestamp": "2021-01-26T02:54:00+00:00",
+            "last_traded_at": "2021-01-26T02:54:00+00:00",
+            "last_fetch_at": "2021-01-26T03:01:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.coinjar.com/trade",
@@ -3234,29 +3106,61 @@
         },
         {
             "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.2623,
+            "volume": 476775.15916774,
+            "converted_last": {
+                "btc": 8.12e-06,
+                "eth": 0.00019448,
+                "usd": 0.262856
+            },
+            "converted_volume": {
+                "btc": 3.871765,
+                "eth": 92.721,
+                "usd": 125323
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.304878,
+            "timestamp": "2021-01-26T03:08:13+00:00",
+            "last_traded_at": "2021-01-26T03:08:13+00:00",
+            "last_fetch_at": "2021-01-26T03:08:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/XLM_USDT",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
             "target": "BTC",
             "market": {
                 "name": "Hotbit",
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 8.41e-06,
-            "volume": 200073.9,
+            "last": 8.08e-06,
+            "volume": 556499.2,
             "converted_last": {
-                "btc": 8.41e-06,
-                "eth": 0.00021506,
-                "usd": 0.270518
+                "btc": 8.08e-06,
+                "eth": 0.00019351,
+                "usd": 0.261452
             },
             "converted_volume": {
-                "btc": 1.682621,
-                "eth": 43.028476,
-                "usd": 54124
+                "btc": 4.496514,
+                "eth": 107.686,
+                "usd": 145498
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.592417,
-            "timestamp": "2021-01-23T18:25:24+00:00",
-            "last_traded_at": "2021-01-23T18:25:24+00:00",
-            "last_fetch_at": "2021-01-23T18:25:24+00:00",
+            "bid_ask_spread_percentage": 0.859951,
+            "timestamp": "2021-01-26T03:03:15+00:00",
+            "last_traded_at": "2021-01-26T03:03:15+00:00",
+            "last_fetch_at": "2021-01-26T03:03:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hotbit.io/exchange?symbol=XLM_BTC",
@@ -3266,32 +3170,127 @@
         },
         {
             "base": "XLM",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "NiceHash",
+                "identifier": "nice_hash",
                 "has_trading_incentive": false
             },
-            "last": 0.2708,
-            "volume": 392334.6,
+            "last": 8.12e-06,
+            "volume": 21478.3075022,
             "converted_last": {
-                "btc": 8.42e-06,
-                "eth": 0.00021571,
-                "usd": 0.270726
+                "btc": 8.12e-06,
+                "eth": 0.00019446,
+                "usd": 0.262747
             },
             "converted_volume": {
-                "btc": 3.303182,
-                "eth": 84.629,
-                "usd": 106215
+                "btc": 0.17440386,
+                "eth": 4.17677,
+                "usd": 5643.35
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.225242,
-            "timestamp": "2021-01-23T18:22:41+00:00",
-            "last_traded_at": "2021-01-23T18:22:41+00:00",
-            "last_fetch_at": "2021-01-23T18:22:41+00:00",
+            "bid_ask_spread_percentage": 0.369458,
+            "timestamp": "2021-01-26T03:03:37+00:00",
+            "last_traded_at": "2021-01-26T03:03:37+00:00",
+            "last_fetch_at": "2021-01-26T03:03:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.nicehash.com/my/tradeview/XLMBTC",
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.2621,
+            "volume": 499357.55418227,
+            "converted_last": {
+                "btc": 8.12e-06,
+                "eth": 0.00019449,
+                "usd": 0.262782
+            },
+            "converted_volume": {
+                "btc": 4.055303,
+                "eth": 97.12,
+                "usd": 131222
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.760746,
+            "timestamp": "2021-01-26T03:02:51+00:00",
+            "last_traded_at": "2021-01-26T03:02:51+00:00",
+            "last_fetch_at": "2021-01-26T03:02:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "stellar",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "XLM",
+            "target": "AUD",
+            "market": {
+                "name": "CoinJar Exchange",
+                "identifier": "coinjar",
+                "has_trading_incentive": false
+            },
+            "last": 0.343,
+            "volume": 155026.5652189,
+            "converted_last": {
+                "btc": 8.18e-06,
+                "eth": 0.00019584,
+                "usd": 0.264473
+            },
+            "converted_volume": {
+                "btc": 1.268062,
+                "eth": 30.360153,
+                "usd": 41000
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.760234,
+            "timestamp": "2021-01-26T02:54:00+00:00",
+            "last_traded_at": "2021-01-26T02:54:00+00:00",
+            "last_fetch_at": "2021-01-26T03:01:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.coinjar.com/trade",
+            "token_info_url": null,
+            "coin_id": "stellar"
+        },
+        {
+            "base": "XLM",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.261718,
+            "volume": 992121.00933944,
+            "converted_last": {
+                "btc": 8.11e-06,
+                "eth": 0.00019421,
+                "usd": 0.262397
+            },
+            "converted_volume": {
+                "btc": 8.045312,
+                "eth": 192.676,
+                "usd": 260330
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.380952,
+            "timestamp": "2021-01-26T03:03:45+00:00",
+            "last_traded_at": "2021-01-26T03:03:45+00:00",
+            "last_fetch_at": "2021-01-26T03:03:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=XLM#limit",
             "token_info_url": null,
             "coin_id": "stellar",
             "target_coin_id": "tether"

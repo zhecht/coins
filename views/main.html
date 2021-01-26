@@ -33,7 +33,9 @@
 				</div>
 			{% endfor %}
 		</div>
-
+		<div id="breakdown" class="table">
+			
+		</div>
 		<div id="exit_table" class="table">
 			<div class="header_row exit_header_row">
 				<div>Coin</div>
@@ -53,7 +55,7 @@
 			</div>
 			{% for row in rows %}
 				<div class="row exit_row">
-					<div>{{row.coin|upper}}</div>
+					<div class="exit_coin">{{row.coin|upper}}</div>
 					<div>{{row.amount}}</div>
 					<div>${{row.price}}</div>
 					<div>${{row.bought_at}}</div>

@@ -1,0 +1,541 @@
+{
+    "id": "rook",
+    "symbol": "rook",
+    "name": "KeeperDAO",
+    "asset_platform_id": "ethereum",
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+        "Business Services",
+        "Yield Farming",
+        "Decentralized Finance (DeFi)"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "KeeperDAO",
+        "de": "KeeperDAO",
+        "es": "KeeperDAO",
+        "fr": "KeeperDAO",
+        "it": "KeeperDAO",
+        "pl": "KeeperDAO",
+        "ro": "KeeperDAO",
+        "hu": "KeeperDAO",
+        "nl": "KeeperDAO",
+        "pt": "KeeperDAO",
+        "sv": "KeeperDAO",
+        "vi": "KeeperDAO",
+        "tr": "KeeperDAO",
+        "ru": "KeeperDAO",
+        "ja": "KeeperDAO",
+        "zh": "KeeperDAO",
+        "zh-tw": "KeeperDAO",
+        "ko": "KeeperDAO",
+        "ar": "KeeperDAO",
+        "th": "KeeperDAO",
+        "id": "KeeperDAO"
+    },
+    "description": {
+        "en": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "it": "",
+        "pl": "",
+        "ro": "",
+        "hu": "",
+        "nl": "",
+        "pt": "",
+        "sv": "",
+        "vi": "",
+        "tr": "",
+        "ru": "",
+        "ja": "",
+        "zh": "",
+        "zh-tw": "",
+        "ko": "",
+        "ar": "",
+        "th": "",
+        "id": ""
+    },
+    "links": {
+        "homepage": [
+            "https://app.keeperdao.com/",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://etherscan.io/token/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+            "https://ethplorer.io/address/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+            "",
+            "",
+            ""
+        ],
+        "official_forum_url": [
+            "",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "https://0xkeeperdao.medium.com/",
+            ""
+        ],
+        "twitter_screen_name": "Keeper_DAO",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": null,
+        "telegram_channel_identifier": "",
+        "subreddit_url": null,
+        "repos_url": {
+            "github": [
+                "https://github.com/keeperdao"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/13005/thumb/keeper_dao_logo.jpg?1604316506",
+        "small": "https://assets.coingecko.com/coins/images/13005/small/keeper_dao_logo.jpg?1604316506",
+        "large": "https://assets.coingecko.com/coins/images/13005/large/keeper_dao_logo.jpg?1604316506"
+    },
+    "country_origin": "",
+    "genesis_date": null,
+    "contract_address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+    "sentiment_votes_up_percentage": 87.27,
+    "sentiment_votes_down_percentage": 12.73,
+    "market_cap_rank": 143,
+    "coingecko_rank": 661,
+    "coingecko_score": 23.75,
+    "developer_score": 0.0,
+    "community_score": 9.964,
+    "liquidity_score": 39.366,
+    "public_interest_score": 0.0,
+    "public_interest_stats": {
+        "alexa_rank": 0,
+        "bing_matches": null
+    },
+    "status_updates": [],
+    "last_updated": "2021-01-28T01:00:37.988Z",
+    "tickers": [
+        {
+            "base": "0XFA5047C9C78B8877AF97BDCB85DB743FD7313D4A",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.251494427093429,
+            "volume": 15169.0715230298,
+            "converted_last": {
+                "btc": 0.01035403,
+                "eth": 0.25196274,
+                "usd": 316.01
+            },
+            "converted_volume": {
+                "btc": 157.061,
+                "eth": 3822,
+                "usd": 4793605
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602828,
+            "timestamp": "2021-01-28T00:57:51+00:00",
+            "last_traded_at": "2021-01-28T00:57:51+00:00",
+            "last_fetch_at": "2021-01-28T00:57:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+            "token_info_url": "https://info.uniswap.org/token/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "ETH",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 0.25155,
+            "volume": 3297.431,
+            "converted_last": {
+                "btc": 0.01035128,
+                "eth": 0.25189599,
+                "usd": 315.93
+            },
+            "converted_volume": {
+                "btc": 34.13264,
+                "eth": 830.61,
+                "usd": 1041751
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.132,
+            "timestamp": "2021-01-28T00:57:40+00:00",
+            "last_traded_at": "2021-01-28T00:57:40+00:00",
+            "last_fetch_at": "2021-01-28T00:57:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/ROOK_ETH",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "ETH",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.264,
+            "volume": 157.7482,
+            "converted_last": {
+                "btc": 0.0108372,
+                "eth": 0.26382223,
+                "usd": 330.6
+            },
+            "converted_volume": {
+                "btc": 1.709549,
+                "eth": 41.617481,
+                "usd": 52151
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.921569,
+            "timestamp": "2021-01-28T00:54:40+00:00",
+            "last_traded_at": "2021-01-28T00:54:40+00:00",
+            "last_fetch_at": "2021-01-28T00:54:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ROOK_ETH",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 327.6,
+            "volume": 155.2605,
+            "converted_last": {
+                "btc": 0.01073916,
+                "eth": 0.26143561,
+                "usd": 327.6
+            },
+            "converted_volume": {
+                "btc": 1.667368,
+                "eth": 40.590623,
+                "usd": 50864
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 4.580609,
+            "timestamp": "2021-01-28T00:54:59+00:00",
+            "last_traded_at": "2021-01-28T00:54:59+00:00",
+            "last_fetch_at": "2021-01-28T00:54:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ROOK_USDT",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ROOK",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.2599,
+            "volume": 86.1985844,
+            "converted_last": {
+                "btc": 0.01068189,
+                "eth": 0.26004134,
+                "usd": 325.42
+            },
+            "converted_volume": {
+                "btc": 0.9207638,
+                "eth": 22.415195,
+                "usd": 28051
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.545593,
+            "timestamp": "2021-01-28T00:52:19+00:00",
+            "last_traded_at": "2021-01-28T00:52:19+00:00",
+            "last_fetch_at": "2021-01-28T00:52:19+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/ROOK_ETH",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.010685,
+            "volume": 170.023,
+            "converted_last": {
+                "btc": 0.010685,
+                "eth": 0.26011705,
+                "usd": 325.95
+            },
+            "converted_volume": {
+                "btc": 1.816696,
+                "eth": 44.225881,
+                "usd": 55419
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.73053,
+            "timestamp": "2021-01-28T00:54:44+00:00",
+            "last_traded_at": "2021-01-28T00:54:44+00:00",
+            "last_fetch_at": "2021-01-28T00:54:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=ROOK_BTC",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ROOK",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 322.47,
+            "volume": 91.9591214,
+            "converted_last": {
+                "btc": 0.010571,
+                "eth": 0.2573417,
+                "usd": 322.04
+            },
+            "converted_volume": {
+                "btc": 0.97209941,
+                "eth": 23.664916,
+                "usd": 29615
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 5.197203,
+            "timestamp": "2021-01-28T00:52:08+00:00",
+            "last_traded_at": "2021-01-28T00:52:08+00:00",
+            "last_fetch_at": "2021-01-28T00:52:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/ROOK_USDT",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ROOK",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 345.50000014,
+            "volume": 20.88161884,
+            "converted_last": {
+                "btc": 0.01140205,
+                "eth": 0.2777414,
+                "usd": 345.98
+            },
+            "converted_volume": {
+                "btc": 0.23809317,
+                "eth": 5.79969,
+                "usd": 7224.66
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 6.078148,
+            "timestamp": "2021-01-28T00:46:21+00:00",
+            "last_traded_at": "2021-01-28T00:46:21+00:00",
+            "last_fetch_at": "2021-01-28T00:59:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#rook_usdt",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0XFA5047C9C78B8877AF97BDCB85DB743FD7313D4A",
+            "target": "ETH",
+            "market": {
+                "name": "Paraswap",
+                "identifier": "paraswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.262260127147744,
+            "volume": 18.7935047165341,
+            "converted_last": {
+                "btc": 0.01078414,
+                "eth": 0.26162061,
+                "usd": 327.91
+            },
+            "converted_volume": {
+                "btc": 0.20267172,
+                "eth": 4.916768,
+                "usd": 6162.66
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-27T23:59:05+00:00",
+            "last_traded_at": "2021-01-27T23:59:05+00:00",
+            "last_fetch_at": "2021-01-28T00:37:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "USDT",
+            "market": {
+                "name": "Hoo.com",
+                "identifier": "hoo",
+                "has_trading_incentive": false
+            },
+            "last": 309.12,
+            "volume": 344.1629715674566,
+            "converted_last": {
+                "btc": 0.01020145,
+                "eth": 0.24849616,
+                "usd": 309.55
+            },
+            "converted_volume": {
+                "btc": 3.510961,
+                "eth": 85.523,
+                "usd": 106536
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 3.694358,
+            "timestamp": "2021-01-28T00:46:40+00:00",
+            "last_traded_at": "2021-01-28T00:46:40+00:00",
+            "last_fetch_at": "2021-01-28T00:46:40+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/rook-usdt",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ROOK",
+            "target": "ETH",
+            "market": {
+                "name": "Hoo.com",
+                "identifier": "hoo",
+                "has_trading_incentive": false
+            },
+            "last": 0.2575,
+            "volume": 155.2187054368932,
+            "converted_last": {
+                "btc": 0.0105472,
+                "eth": 0.25792674,
+                "usd": 317.18
+            },
+            "converted_volume": {
+                "btc": 1.637123,
+                "eth": 40.035055,
+                "usd": 49232
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 2.79829,
+            "timestamp": "2021-01-28T00:23:48+00:00",
+            "last_traded_at": "2021-01-28T00:23:48+00:00",
+            "last_fetch_at": "2021-01-28T00:23:48+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://hoo.com/spot/rook-eth",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "ROOK",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.014947,
+            "volume": 0.0674,
+            "converted_last": {
+                "btc": 0.014947,
+                "eth": 0.36387174,
+                "usd": 455.95
+            },
+            "converted_volume": {
+                "btc": 0.00100743,
+                "eth": 0.02452496,
+                "usd": 30.73
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 13.026025,
+            "timestamp": "2021-01-28T00:53:37+00:00",
+            "last_traded_at": "2021-01-28T00:53:37+00:00",
+            "last_fetch_at": "2021-01-28T00:57:28+00:00",
+            "is_anomaly": true,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ROOK-to-BTC",
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "0XFA5047C9C78B8877AF97BDCB85DB743FD7313D4A",
+            "target": "DAI",
+            "market": {
+                "name": "Paraswap",
+                "identifier": "paraswap",
+                "has_trading_incentive": false
+            },
+            "last": 439.364341260458,
+            "volume": 1.23662425294963,
+            "converted_last": {
+                "btc": 0.0134977,
+                "eth": 0.35272975,
+                "usd": 439.53
+            },
+            "converted_volume": {
+                "btc": 0.01669159,
+                "eth": 0.43619416,
+                "usd": 543.53
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-21T11:38:26+00:00",
+            "last_traded_at": "2021-01-21T11:38:26+00:00",
+            "last_fetch_at": "2021-01-22T01:06:55+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "rook",
+            "target_coin_id": "dai"
+        }
+    ]
+}

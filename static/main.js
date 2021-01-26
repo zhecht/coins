@@ -112,6 +112,33 @@ function refreshTable() {
 	xhttp.send();
 }
 
+let exit_coins = document.getElementsByClassName("exit_coin");
+for (let coin of exit_coins) {
+	coin.onclick = function() {
+		let coinName = this.innerText.toLowerCase();
+		let totAmt = data[coinName]["totAmount"];
+		let html = "<div class='header_row'><div colspan='3'>"+coinName.toUpperCase()+" "+totAmt+" ($"+data[coinName]["purchased"]+")</div></div>";
+		let strats = [[2, 10], [3, 23], [6, 30]];
+		for (let i = 0; i < strats.length; ++i) {
+			let mult = strats[i][0];
+			let perc = strats[i][1];
+			let newPrice = mult*data[coinName]["bought_at"];
+			let amt = totAmt * (perc / 100);
+			let fixed = coinName == "btc" ? 6 : 2;
+			let left = totAmt - amt;
+			html += "<div class='row'><div>"+perc+"% @ "+mult+"x</div>"
+			html += "<div>"+amt.toFixed(fixed)+" @ "+newPrice.toFixed(2)+" = $"+(newPrice*amt).toFixed(2)+"</div>"
+			html += "<div>"+left.toFixed(fixed)+" left = $"+(newPrice*left).toFixed(2)+"</div>"
+			html += "</div>";
+
+			totAmt -= amt;
+		}
+		let b = document.getElementById("breakdown");
+		b.style.display = "table";
+		b.innerHTML = html;
+	}
+}
+
 let multiples = document.getElementsByClassName("multiple");
 let showingInput = false;
 for (m of multiples) {
@@ -166,7 +193,7 @@ function toggle(id, table=false) {
 }
 
 function getType(coinType) {
-	if (["insurance", "lending", "dex", "derivative", "assets"].indexOf(coinType) >= 0) {
+	if (["insurance", "lending", "dex", "derivative", "assets", "oracle", "amm", "farming"].indexOf(coinType) >= 0) {
 		return "DeFi";
 	}
 	return coinType;

@@ -105,9 +105,9 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-    "sentiment_votes_up_percentage": 86.72,
-    "sentiment_votes_down_percentage": 13.28,
-    "market_cap_rank": 15,
+    "sentiment_votes_up_percentage": 85.42,
+    "sentiment_votes_down_percentage": 14.58,
+    "market_cap_rank": 16,
     "coingecko_rank": 66,
     "coingecko_score": 48.012,
     "developer_score": 41.222,
@@ -119,7 +119,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:26:35.355Z",
+    "last_updated": "2021-01-26T03:02:40.779Z",
     "tickers": [
         {
             "base": "AAVE",
@@ -129,23 +129,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 217.68,
-            "volume": 252871.51694316888,
+            "last": 258.754,
+            "volume": 485571.33809412416,
             "converted_last": {
-                "btc": 0.00677498,
-                "eth": 0.17325163,
-                "usd": 217.84
+                "btc": 0.00801095,
+                "eth": 0.19184628,
+                "usd": 259.3
             },
             "converted_volume": {
-                "btc": 1713,
-                "eth": 43810,
-                "usd": 55086204
+                "btc": 3890,
+                "eth": 93155,
+                "usd": 125910016
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.154772,
-            "timestamp": "2021-01-23T18:26:00+00:00",
-            "last_traded_at": "2021-01-23T18:26:00+00:00",
-            "last_fetch_at": "2021-01-23T18:26:00+00:00",
+            "bid_ask_spread_percentage": 0.146563,
+            "timestamp": "2021-01-26T03:08:07+00:00",
+            "last_traded_at": "2021-01-26T03:08:07+00:00",
+            "last_fetch_at": "2021-01-26T03:08:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/AAVE_USDT",
@@ -161,26 +161,58 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 217.39,
-            "volume": 214726.7912,
+            "last": 259.33,
+            "volume": 365933.2343,
             "converted_last": {
-                "btc": 0.00676495,
-                "eth": 0.17332124,
-                "usd": 217.53
+                "btc": 0.00803521,
+                "eth": 0.19243402,
+                "usd": 260.0
             },
             "converted_volume": {
-                "btc": 1453,
-                "eth": 37217,
-                "usd": 46709563
+                "btc": 2940,
+                "eth": 70418,
+                "usd": 95144312
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.20664,
-            "timestamp": "2021-01-23T18:20:36+00:00",
-            "last_traded_at": "2021-01-23T18:20:36+00:00",
-            "last_fetch_at": "2021-01-23T18:20:36+00:00",
+            "bid_ask_spread_percentage": 0.226601,
+            "timestamp": "2021-01-26T03:02:51+00:00",
+            "last_traded_at": "2021-01-26T03:02:51+00:00",
+            "last_fetch_at": "2021-01-26T03:02:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=aave_usdt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 260.1967,
+            "volume": 142834.32098612926,
+            "converted_last": {
+                "btc": 0.00803357,
+                "eth": 0.19239471,
+                "usd": 260.38
+            },
+            "converted_volume": {
+                "btc": 1147,
+                "eth": 27481,
+                "usd": 37190642
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.113545,
+            "timestamp": "2021-01-26T02:59:45+00:00",
+            "last_traded_at": "2021-01-26T02:59:45+00:00",
+            "last_fetch_at": "2021-01-26T02:59:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_usdt",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -193,23 +225,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 218.188,
-            "volume": 110582.635,
+            "last": 260.709,
+            "volume": 230694.143,
             "converted_last": {
-                "btc": 0.00678336,
-                "eth": 0.17346598,
-                "usd": 218.19
+                "btc": 0.00805096,
+                "eth": 0.19280437,
+                "usd": 260.71
             },
             "converted_volume": {
-                "btc": 750.122,
-                "eth": 19182,
-                "usd": 24127804
+                "btc": 1857,
+                "eth": 44479,
+                "usd": 60144039
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.113663,
-            "timestamp": "2021-01-23T18:24:40+00:00",
-            "last_traded_at": "2021-01-23T18:24:40+00:00",
-            "last_fetch_at": "2021-01-23T18:24:40+00:00",
+            "bid_ask_spread_percentage": 0.162604,
+            "timestamp": "2021-01-26T03:06:08+00:00",
+            "last_traded_at": "2021-01-26T03:06:08+00:00",
+            "last_fetch_at": "2021-01-26T03:07:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/AAVE-USD",
@@ -220,59 +252,27 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 217.5975,
-            "volume": 74965.91433099192,
-            "converted_last": {
-                "btc": 0.00677141,
-                "eth": 0.17348668,
-                "usd": 217.74
-            },
-            "converted_volume": {
-                "btc": 507.625,
-                "eth": 13006,
-                "usd": 16322916
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184424,
-            "timestamp": "2021-01-23T18:20:30+00:00",
-            "last_traded_at": "2021-01-23T18:20:30+00:00",
-            "last_fetch_at": "2021-01-23T18:20:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_usdt",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
                 "name": "Digifinex",
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 217.8,
-            "volume": 118500.8954,
+            "last": 260.81,
+            "volume": 198189.5755,
             "converted_last": {
-                "btc": 0.0067715,
-                "eth": 0.17316282,
-                "usd": 217.81
+                "btc": 0.00806803,
+                "eth": 0.19321308,
+                "usd": 261.26
             },
             "converted_volume": {
-                "btc": 802.429,
-                "eth": 20520,
-                "usd": 25811154
+                "btc": 1599,
+                "eth": 38293,
+                "usd": 51779338
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.316354,
-            "timestamp": "2021-01-23T18:25:08+00:00",
-            "last_traded_at": "2021-01-23T18:25:08+00:00",
-            "last_fetch_at": "2021-01-23T18:25:08+00:00",
+            "bid_ask_spread_percentage": 0.275926,
+            "timestamp": "2021-01-26T03:06:21+00:00",
+            "last_traded_at": "2021-01-26T03:06:21+00:00",
+            "last_fetch_at": "2021-01-26T03:06:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/AAVE",
@@ -282,92 +282,29 @@
         },
         {
             "base": "AAVE",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 3034.19,
-            "volume": 57.317,
-            "converted_last": {
-                "btc": 0.00677651,
-                "eth": 0.17361735,
-                "usd": 217.89
-            },
-            "converted_volume": {
-                "btc": 0.38840898,
-                "eth": 9.951225,
-                "usd": 12488.71
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.037522,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/AAVE_CRO",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "crypto-com-chain"
-        },
-        {
-            "base": "AAVE",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 217.7485,
-            "volume": 307.776,
-            "converted_last": {
-                "btc": 0.00676947,
-                "eth": 0.17311075,
-                "usd": 217.75
-            },
-            "converted_volume": {
-                "btc": 2.08348,
-                "eth": 53.279,
-                "usd": 67018
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.169286,
-            "timestamp": "2021-01-23T18:25:43+00:00",
-            "last_traded_at": "2021-01-23T18:25:43+00:00",
-            "last_fetch_at": "2021-01-23T18:25:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/AAVE-to-USD",
-            "token_info_url": null,
-            "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
             "target": "BTC",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.006781,
-            "volume": 65051.002981861086,
+            "last": 0.008007,
+            "volume": 161402.63676533033,
             "converted_last": {
-                "btc": 0.006781,
-                "eth": 0.17340566,
-                "usd": 218.12
+                "btc": 0.008007,
+                "eth": 0.19175163,
+                "usd": 259.17
             },
             "converted_volume": {
-                "btc": 441.111,
-                "eth": 11280,
-                "usd": 14188676
+                "btc": 1292,
+                "eth": 30949,
+                "usd": 41831510
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.188456,
-            "timestamp": "2021-01-23T18:23:53+00:00",
-            "last_traded_at": "2021-01-23T18:23:53+00:00",
-            "last_fetch_at": "2021-01-23T18:23:53+00:00",
+            "bid_ask_spread_percentage": 0.17439,
+            "timestamp": "2021-01-26T03:08:10+00:00",
+            "last_traded_at": "2021-01-26T03:08:10+00:00",
+            "last_fetch_at": "2021-01-26T03:08:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/AAVE_BTC",
@@ -383,23 +320,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.172973400250594,
-            "volume": 37475.1023807208,
+            "last": 0.19228433263907,
+            "volume": 64771.2525806561,
             "converted_last": {
-                "btc": 0.00677018,
-                "eth": 0.17345525,
-                "usd": 217.7
+                "btc": 0.00806056,
+                "eth": 0.19303426,
+                "usd": 261.02
             },
             "converted_volume": {
-                "btc": 253.713,
-                "eth": 6500,
-                "usd": 8158253
+                "btc": 522.093,
+                "eth": 12503,
+                "usd": 16906786
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602737,
-            "timestamp": "2021-01-23T18:22:09+00:00",
-            "last_traded_at": "2021-01-23T18:22:09+00:00",
-            "last_fetch_at": "2021-01-23T18:22:09+00:00",
+            "bid_ask_spread_percentage": 0.602733,
+            "timestamp": "2021-01-26T03:07:55+00:00",
+            "last_traded_at": "2021-01-26T03:07:55+00:00",
+            "last_fetch_at": "2021-01-26T03:07:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
@@ -411,65 +348,33 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
+                "name": "BKEX",
+                "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 219.0,
-            "volume": 2123.1092,
+            "last": 260.3822,
+            "volume": 204302.3188,
             "converted_last": {
-                "btc": 0.00681505,
-                "eth": 0.17460487,
-                "usd": 219.13
+                "btc": 0.00805479,
+                "eth": 0.19289616,
+                "usd": 260.83
             },
             "converted_volume": {
-                "btc": 14.469096,
-                "eth": 370.705,
-                "usd": 465232
+                "btc": 1646,
+                "eth": 39409,
+                "usd": 53287950
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100457,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "bid_ask_spread_percentage": 0.216468,
+            "timestamp": "2021-01-26T03:05:49+00:00",
+            "last_traded_at": "2021-01-26T03:05:49+00:00",
+            "last_fetch_at": "2021-01-26T03:05:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/AAVE_USDT",
+            "trade_url": "https://www.bkex.com/#/trade/AAVE_USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.0067612,
-            "volume": 2046.093,
-            "converted_last": {
-                "btc": 0.0067612,
-                "eth": 0.17289933,
-                "usd": 217.4
-            },
-            "converted_volume": {
-                "btc": 13.834044,
-                "eth": 353.768,
-                "usd": 444820
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.146145,
-            "timestamp": "2021-01-23T18:26:15+00:00",
-            "last_traded_at": "2021-01-23T18:26:15+00:00",
-            "last_fetch_at": "2021-01-23T18:26:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/AAVE-to-BTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
         },
         {
             "base": "AAVE",
@@ -479,23 +384,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.00679489,
-            "volume": 15532.115,
+            "last": 0.00806092,
+            "volume": 34774.127,
             "converted_last": {
-                "btc": 0.00679489,
-                "eth": 0.17376086,
-                "usd": 218.56
+                "btc": 0.00806092,
+                "eth": 0.1930429,
+                "usd": 261.03
             },
             "converted_volume": {
-                "btc": 105.539,
-                "eth": 2699,
-                "usd": 3394682
+                "btc": 280.311,
+                "eth": 6713,
+                "usd": 9077253
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.2423,
-            "timestamp": "2021-01-23T18:24:37+00:00",
-            "last_traded_at": "2021-01-23T18:24:37+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "bid_ask_spread_percentage": 0.221013,
+            "timestamp": "2021-01-26T03:07:45+00:00",
+            "last_traded_at": "2021-01-26T03:07:45+00:00",
+            "last_fetch_at": "2021-01-26T03:07:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/AAVE-BTC",
@@ -505,34 +410,98 @@
         },
         {
             "base": "AAVE",
-            "target": "EUR",
+            "target": "USDT",
             "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 179.47,
-            "volume": 10871.822,
+            "last": 262.372,
+            "volume": 3569.7735,
             "converted_last": {
-                "btc": 0.00679293,
-                "eth": 0.17371064,
-                "usd": 218.5
+                "btc": 0.00810073,
+                "eth": 0.19400317,
+                "usd": 262.55
             },
             "converted_volume": {
-                "btc": 73.851,
-                "eth": 1889,
-                "usd": 2375447
+                "btc": 28.917786,
+                "eth": 692.547,
+                "usd": 937254
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.172955,
-            "timestamp": "2021-01-23T18:24:50+00:00",
-            "last_traded_at": "2021-01-23T18:24:50+00:00",
-            "last_fetch_at": "2021-01-23T18:24:50+00:00",
+            "bid_ask_spread_percentage": 0.27137,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/AAVE-EUR",
+            "trade_url": "https://crypto.com/exchange/trade/spot/AAVE_USDT",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 257.8871,
+            "volume": 1052.349,
+            "converted_last": {
+                "btc": 0.00796691,
+                "eth": 0.19107464,
+                "usd": 257.89
+            },
+            "converted_volume": {
+                "btc": 8.383974,
+                "eth": 201.077,
+                "usd": 271387
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.192132,
+            "timestamp": "2021-01-26T02:57:14+00:00",
+            "last_traded_at": "2021-01-26T02:57:14+00:00",
+            "last_fetch_at": "2021-01-26T03:03:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/AAVE-to-USD",
             "token_info_url": null,
             "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0080262,
+            "volume": 2974.885,
+            "converted_last": {
+                "btc": 0.0080262,
+                "eth": 0.19221817,
+                "usd": 259.83
+            },
+            "converted_volume": {
+                "btc": 23.877022,
+                "eth": 571.827,
+                "usd": 772969
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.16688,
+            "timestamp": "2021-01-26T02:58:28+00:00",
+            "last_traded_at": "2021-01-26T02:58:28+00:00",
+            "last_fetch_at": "2021-01-26T03:02:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/AAVE-to-BTC",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "AAVE",
@@ -542,23 +511,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 217.4028,
-            "volume": 9558.46,
+            "last": 260.536,
+            "volume": 13903.18,
             "converted_last": {
-                "btc": 0.00676535,
-                "eth": 0.17333145,
-                "usd": 217.54
+                "btc": 0.00805955,
+                "eth": 0.1930101,
+                "usd": 260.98
             },
             "converted_volume": {
-                "btc": 64.666,
-                "eth": 1657,
-                "usd": 2079372
+                "btc": 112.053,
+                "eth": 2683,
+                "usd": 3628493
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.475032,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "bid_ask_spread_percentage": 0.292258,
+            "timestamp": "2021-01-26T03:05:15+00:00",
+            "last_traded_at": "2021-01-26T03:05:15+00:00",
+            "last_fetch_at": "2021-01-26T03:05:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#AAVE_USDT",
@@ -568,162 +537,34 @@
         },
         {
             "base": "AAVE",
-            "target": "ETH",
+            "target": "EUR",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.171517,
-            "volume": 113.731,
+            "last": 213.709,
+            "volume": 28266.824,
             "converted_last": {
-                "btc": 0.00671318,
-                "eth": 0.17199479,
-                "usd": 215.86
+                "btc": 0.00801723,
+                "eth": 0.19200337,
+                "usd": 259.54
             },
             "converted_volume": {
-                "btc": 0.76349615,
-                "eth": 19.561139,
-                "usd": 24550
+                "btc": 226.622,
+                "eth": 5427,
+                "usd": 7336403
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.368664,
-            "timestamp": "2021-01-23T18:19:54+00:00",
-            "last_traded_at": "2021-01-23T18:19:54+00:00",
-            "last_fetch_at": "2021-01-23T18:23:57+00:00",
+            "bid_ask_spread_percentage": 0.251328,
+            "timestamp": "2021-01-26T02:58:57+00:00",
+            "last_traded_at": "2021-01-26T02:58:57+00:00",
+            "last_fetch_at": "2021-01-26T02:58:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/AAVE-to-ETH",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
-            "target": "USD",
-            "market": {
-                "name": "Gemini",
-                "identifier": "gemini",
-                "has_trading_incentive": false
-            },
-            "last": 215.8144,
-            "volume": 4843.66787697,
-            "converted_last": {
-                "btc": 0.00671166,
-                "eth": 0.1719559,
-                "usd": 215.81
-            },
-            "converted_volume": {
-                "btc": 32.509039,
-                "eth": 832.897,
-                "usd": 1045333
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.306535,
-            "timestamp": "2021-01-23T18:19:13+00:00",
-            "last_traded_at": "2021-01-23T18:19:13+00:00",
-            "last_fetch_at": "2021-01-23T18:19:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://pro.coinbase.com/trade/AAVE-EUR",
             "token_info_url": null,
             "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 0.006733,
-            "volume": 267.13057329570773,
-            "converted_last": {
-                "btc": 0.006733,
-                "eth": 0.17250271,
-                "usd": 216.5
-            },
-            "converted_volume": {
-                "btc": 1.79859,
-                "eth": 46.080747,
-                "usd": 57834
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.103873,
-            "timestamp": "2021-01-23T18:19:04+00:00",
-            "last_traded_at": "2021-01-23T18:19:04+00:00",
-            "last_fetch_at": "2021-01-23T18:19:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/AAVE/BTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
-            "target": "ETH",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 0.175887766566023,
-            "volume": 9136.11456029435,
-            "converted_last": {
-                "btc": 0.00687721,
-                "eth": 0.17586602,
-                "usd": 221.21
-            },
-            "converted_volume": {
-                "btc": 62.831,
-                "eth": 1607,
-                "usd": 2020971
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602741,
-            "timestamp": "2021-01-23T18:24:54+00:00",
-            "last_traded_at": "2021-01-23T18:24:54+00:00",
-            "last_fetch_at": "2021-01-23T18:24:54+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 218.102,
-            "volume": 6349.5290386,
-            "converted_last": {
-                "btc": 0.00678711,
-                "eth": 0.17388891,
-                "usd": 218.23
-            },
-            "converted_volume": {
-                "btc": 43.094922,
-                "eth": 1104,
-                "usd": 1385653
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.271419,
-            "timestamp": "2021-01-23T18:21:44+00:00",
-            "last_traded_at": "2021-01-23T18:21:44+00:00",
-            "last_fetch_at": "2021-01-23T18:21:44+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/AAVE-USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
         },
         {
             "base": "AAVE",
@@ -733,23 +574,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.006756,
-            "volume": 60317.7313,
+            "last": 0.008015,
+            "volume": 128878.7808,
             "converted_last": {
-                "btc": 0.006756,
-                "eth": 0.17309198,
-                "usd": 217.24
+                "btc": 0.008015,
+                "eth": 0.19194994,
+                "usd": 259.35
             },
             "converted_volume": {
-                "btc": 407.507,
-                "eth": 10441,
-                "usd": 13103572
+                "btc": 1033,
+                "eth": 24738,
+                "usd": 33424590
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.574797,
-            "timestamp": "2021-01-23T18:20:37+00:00",
-            "last_traded_at": "2021-01-23T18:20:37+00:00",
-            "last_fetch_at": "2021-01-23T18:20:37+00:00",
+            "bid_ask_spread_percentage": 0.434459,
+            "timestamp": "2021-01-26T03:03:18+00:00",
+            "last_traded_at": "2021-01-26T03:03:18+00:00",
+            "last_fetch_at": "2021-01-26T03:03:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=aave_btc",
@@ -759,34 +600,194 @@
         },
         {
             "base": "AAVE",
-            "target": "EUR",
+            "target": "USD",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Gemini",
+                "identifier": "gemini",
                 "has_trading_incentive": false
             },
-            "last": 179.0,
-            "volume": 3273.77225339,
+            "last": 259.1321,
+            "volume": 8419.77449231,
             "converted_last": {
-                "btc": 0.0067776,
-                "eth": 0.17364528,
-                "usd": 217.92
+                "btc": 0.00800217,
+                "eth": 0.19163589,
+                "usd": 259.13
             },
             "converted_volume": {
-                "btc": 22.188306,
-                "eth": 568.475,
-                "usd": 713432
+                "btc": 67.376,
+                "eth": 1614,
+                "usd": 2181834
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183803,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
+            "bid_ask_spread_percentage": 0.17884,
+            "timestamp": "2021-01-26T03:07:50+00:00",
+            "last_traded_at": "2021-01-26T03:07:50+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/aave/eur",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.192185,
+            "volume": 325.58,
+            "converted_last": {
+                "btc": 0.00801796,
+                "eth": 0.19229885,
+                "usd": 259.52
+            },
+            "converted_volume": {
+                "btc": 2.610487,
+                "eth": 62.609,
+                "usd": 84495
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.360956,
+            "timestamp": "2021-01-26T02:57:00+00:00",
+            "last_traded_at": "2021-01-26T02:57:00+00:00",
+            "last_fetch_at": "2021-01-26T03:04:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/AAVE-to-ETH",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "LBank",
+                "identifier": "lbank",
+                "has_trading_incentive": false
+            },
+            "last": 259.037,
+            "volume": 32088.67,
+            "converted_last": {
+                "btc": 0.00801971,
+                "eth": 0.1920561,
+                "usd": 259.7
+            },
+            "converted_volume": {
+                "btc": 257.342,
+                "eth": 6163,
+                "usd": 8333437
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.299506,
+            "timestamp": "2021-01-26T03:07:51+00:00",
+            "last_traded_at": "2021-01-26T03:07:51+00:00",
+            "last_fetch_at": "2021-01-26T03:07:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=aave&post=usdt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
+            "target": "ETH",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 0.194095027623066,
+            "volume": 15763.3165947038,
+            "converted_last": {
+                "btc": 0.00810153,
+                "eth": 0.19402215,
+                "usd": 262.58
+            },
+            "converted_volume": {
+                "btc": 127.707,
+                "eth": 3058,
+                "usd": 4139109
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602737,
+            "timestamp": "2021-01-26T02:59:35+00:00",
+            "last_traded_at": "2021-01-26T02:59:35+00:00",
+            "last_fetch_at": "2021-01-26T02:59:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.008039,
+            "volume": 664.7862905834058,
+            "converted_last": {
+                "btc": 0.008039,
+                "eth": 0.19252471,
+                "usd": 260.13
+            },
+            "converted_volume": {
+                "btc": 5.344217,
+                "eth": 127.988,
+                "usd": 172928
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.161491,
+            "timestamp": "2021-01-26T03:03:14+00:00",
+            "last_traded_at": "2021-01-26T03:03:14+00:00",
+            "last_fetch_at": "2021-01-26T03:03:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/AAVE/BTC",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.00805,
+            "volume": 734.26,
+            "converted_last": {
+                "btc": 0.00805,
+                "eth": 0.19278815,
+                "usd": 260.91
+            },
+            "converted_volume": {
+                "btc": 5.910793,
+                "eth": 141.557,
+                "usd": 191575
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.124829,
+            "timestamp": "2021-01-26T02:59:26+00:00",
+            "last_traded_at": "2021-01-26T02:59:26+00:00",
+            "last_fetch_at": "2021-01-26T02:59:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=aavebtc",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "AAVE",
@@ -796,23 +797,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 216.07,
-            "volume": 12242.68873509,
+            "last": 259.38,
+            "volume": 11666.79422453,
             "converted_last": {
-                "btc": 0.00671995,
-                "eth": 0.17216834,
-                "usd": 216.07
+                "btc": 0.00801596,
+                "eth": 0.19197284,
+                "usd": 259.38
             },
             "converted_volume": {
-                "btc": 82.27,
-                "eth": 2108,
-                "usd": 2645278
+                "btc": 93.521,
+                "eth": 2240,
+                "usd": 3026133
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.392838,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.364641,
+            "timestamp": "2021-01-26T03:03:31+00:00",
+            "last_traded_at": "2021-01-26T03:03:31+00:00",
+            "last_fetch_at": "2021-01-26T03:03:31+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/aave/usd",
@@ -823,62 +824,30 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "KuCoin",
+                "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 217.694,
-            "volume": 75449.6086,
+            "last": 260.169,
+            "volume": 12005.74094551,
             "converted_last": {
-                "btc": 0.00677441,
-                "eth": 0.17356362,
-                "usd": 217.82
+                "btc": 0.0080482,
+                "eth": 0.19273822,
+                "usd": 260.62
             },
             "converted_volume": {
-                "btc": 511.126,
-                "eth": 13095,
-                "usd": 16434514
+                "btc": 96.625,
+                "eth": 2314,
+                "usd": 3128931
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.299766,
-            "timestamp": "2021-01-23T18:21:14+00:00",
-            "last_traded_at": "2021-01-23T18:21:14+00:00",
-            "last_fetch_at": "2021-01-23T18:21:14+00:00",
+            "bid_ask_spread_percentage": 0.26126,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/AAVE_USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
-                "has_trading_incentive": false
-            },
-            "last": 218.38,
-            "volume": 7758.655455,
-            "converted_last": {
-                "btc": 0.00678954,
-                "eth": 0.17395119,
-                "usd": 218.32
-            },
-            "converted_volume": {
-                "btc": 52.678,
-                "eth": 1350,
-                "usd": 1693873
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143135,
-            "timestamp": "2021-01-23T18:22:36+00:00",
-            "last_traded_at": "2021-01-23T18:22:36+00:00",
-            "last_fetch_at": "2021-01-23T18:22:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.kucoin.com/trade/AAVE-USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -891,26 +860,152 @@
                 "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 218.1,
-            "volume": 733.6084364970197,
+            "last": 260.84,
+            "volume": 38.9700999564484,
             "converted_last": {
-                "btc": 0.00678308,
-                "eth": 0.17378588,
-                "usd": 218.1
+                "btc": 0.008055,
+                "eth": 0.19290125,
+                "usd": 260.84
             },
             "converted_volume": {
-                "btc": 4.976128,
-                "eth": 127.491,
-                "usd": 160000
+                "btc": 0.31390434,
+                "eth": 7.517381,
+                "usd": 10164.96
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.069746,
-            "timestamp": "2021-01-23T18:21:42+00:00",
-            "last_traded_at": "2021-01-23T18:21:42+00:00",
-            "last_fetch_at": "2021-01-23T18:21:42+00:00",
+            "bid_ask_spread_percentage": 0.493515,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://tokenize.exchange/market/USD-AAVE",
+            "token_info_url": null,
+            "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "SGD",
+            "market": {
+                "name": "Tokenize",
+                "identifier": "tokenize",
+                "has_trading_incentive": false
+            },
+            "last": 346.09,
+            "volume": 0.4116693345661533,
+            "converted_last": {
+                "btc": 0.00805543,
+                "eth": 0.19291138,
+                "usd": 260.85
+            },
+            "converted_volume": {
+                "btc": 0.00331617,
+                "eth": 0.0794157,
+                "usd": 107.39
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.49592,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokenize.exchange/market/SGD-AAVE",
+            "token_info_url": null,
+            "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.008049,
+            "volume": 7976.748717498665,
+            "converted_last": {
+                "btc": 0.008049,
+                "eth": 0.1927642,
+                "usd": 260.88
+            },
+            "converted_volume": {
+                "btc": 64.205,
+                "eth": 1538,
+                "usd": 2080943
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.18615,
+            "timestamp": "2021-01-26T02:59:25+00:00",
+            "last_traded_at": "2021-01-26T02:59:25+00:00",
+            "last_fetch_at": "2021-01-26T02:59:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_btc",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 260.488,
+            "volume": 18315.121,
+            "converted_last": {
+                "btc": 0.00805807,
+                "eth": 0.19297454,
+                "usd": 260.93
+            },
+            "converted_volume": {
+                "btc": 147.584,
+                "eth": 3534,
+                "usd": 4779054
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.10728,
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 214.42,
+            "volume": 8912.90619072,
+            "converted_last": {
+                "btc": 0.00804631,
+                "eth": 0.1926998,
+                "usd": 260.36
+            },
+            "converted_volume": {
+                "btc": 71.716,
+                "eth": 1718,
+                "usd": 2320584
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.274431,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/aave/eur",
             "token_info_url": null,
             "coin_id": "aave"
         },
@@ -922,23 +1017,23 @@
                 "identifier": "decoin",
                 "has_trading_incentive": false
             },
-            "last": 0.006707,
-            "volume": 1065.8391143581332,
+            "last": 0.008019,
+            "volume": 721.3064870931538,
             "converted_last": {
-                "btc": 0.006707,
-                "eth": 0.17183657,
-                "usd": 215.66
+                "btc": 0.008019,
+                "eth": 0.19204574,
+                "usd": 259.48
             },
             "converted_volume": {
-                "btc": 7.148583,
-                "eth": 183.15,
-                "usd": 229864
+                "btc": 5.784157,
+                "eth": 138.524,
+                "usd": 187164
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.162674,
-            "timestamp": "2021-01-23T18:19:47+00:00",
-            "last_traded_at": "2021-01-23T18:19:47+00:00",
-            "last_fetch_at": "2021-01-23T18:19:47+00:00",
+            "bid_ask_spread_percentage": 0.186382,
+            "timestamp": "2021-01-26T03:03:37+00:00",
+            "last_traded_at": "2021-01-26T03:03:37+00:00",
+            "last_fetch_at": "2021-01-26T03:03:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.decoin.io/trade/AAVE-BTC",
@@ -948,124 +1043,29 @@
         },
         {
             "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "LBank",
-                "identifier": "lbank",
-                "has_trading_incentive": false
-            },
-            "last": 217.3569,
-            "volume": 16865.6,
-            "converted_last": {
-                "btc": 0.00676492,
-                "eth": 0.17299448,
-                "usd": 217.52
-            },
-            "converted_volume": {
-                "btc": 114.094,
-                "eth": 2918,
-                "usd": 3668594
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.299528,
-            "timestamp": "2021-01-23T18:26:03+00:00",
-            "last_traded_at": "2021-01-23T18:26:03+00:00",
-            "last_fetch_at": "2021-01-23T18:26:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=aave&post=usdt",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.006777,
-            "volume": 4137.613917570139,
-            "converted_last": {
-                "btc": 0.006777,
-                "eth": 0.17330338,
-                "usd": 217.99
-            },
-            "converted_volume": {
-                "btc": 28.04061,
-                "eth": 717.062,
-                "usd": 901962
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.23578,
-            "timestamp": "2021-01-23T18:25:27+00:00",
-            "last_traded_at": "2021-01-23T18:25:27+00:00",
-            "last_fetch_at": "2021-01-23T18:25:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_btc",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "GBP",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 159.204,
-            "volume": 5417.379,
-            "converted_last": {
-                "btc": 0.00677181,
-                "eth": 0.17317058,
-                "usd": 217.82
-            },
-            "converted_volume": {
-                "btc": 36.685445,
-                "eth": 938.131,
-                "usd": 1179994
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.294331,
-            "timestamp": "2021-01-23T18:24:38+00:00",
-            "last_traded_at": "2021-01-23T18:24:38+00:00",
-            "last_fetch_at": "2021-01-23T18:24:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/AAVE-GBP",
-            "token_info_url": null,
-            "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
             "target": "BUSD",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 218.194,
-            "volume": 11876.241468074282,
+            "last": 261.082,
+            "volume": 21338.673242487035,
             "converted_last": {
-                "btc": 0.00677677,
-                "eth": 0.17329757,
-                "usd": 217.98
+                "btc": 0.00807462,
+                "eth": 0.19337092,
+                "usd": 261.48
             },
             "converted_volume": {
-                "btc": 80.483,
-                "eth": 2058,
-                "usd": 2588825
+                "btc": 172.302,
+                "eth": 4126,
+                "usd": 5579531
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.245323,
-            "timestamp": "2021-01-23T18:25:24+00:00",
-            "last_traded_at": "2021-01-23T18:25:24+00:00",
-            "last_fetch_at": "2021-01-23T18:25:24+00:00",
+            "bid_ask_spread_percentage": 0.176284,
+            "timestamp": "2021-01-26T03:06:17+00:00",
+            "last_traded_at": "2021-01-26T03:06:17+00:00",
+            "last_fetch_at": "2021-01-26T03:06:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/AAVE_BUSD",
@@ -1075,188 +1075,29 @@
         },
         {
             "base": "AAVE",
-            "target": "SGD",
-            "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
-                "has_trading_incentive": false
-            },
-            "last": 289.69,
-            "volume": 1.8873740895439952,
-            "converted_last": {
-                "btc": 0.00678178,
-                "eth": 0.17375238,
-                "usd": 218.06
-            },
-            "converted_volume": {
-                "btc": 0.01279975,
-                "eth": 0.32793575,
-                "usd": 411.56
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.095686,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/SGD-AAVE",
-            "token_info_url": null,
-            "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
-            "target": "UST",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 218.365,
-            "volume": 375.40033117,
-            "converted_last": {
-                "btc": 0.00691999,
-                "eth": 0.17695988,
-                "usd": 222.58
-            },
-            "converted_volume": {
-                "btc": 2.597765,
-                "eth": 66.431,
-                "usd": 83558
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.506782,
-            "timestamp": "2021-01-23T18:24:38+00:00",
-            "last_traded_at": "2021-01-23T18:24:38+00:00",
-            "last_fetch_at": "2021-01-23T18:24:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/AAVE-UST",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "terrausd"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 216.11,
-            "volume": 292.35957938087085,
-            "converted_last": {
-                "btc": 0.00672512,
-                "eth": 0.17230072,
-                "usd": 216.25
-            },
-            "converted_volume": {
-                "btc": 1.966152,
-                "eth": 50.374,
-                "usd": 63222
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.318936,
-            "timestamp": "2021-01-23T18:22:30+00:00",
-            "last_traded_at": "2021-01-23T18:22:30+00:00",
-            "last_fetch_at": "2021-01-23T18:22:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/AAVE/USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "XBT",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.006782,
-            "volume": 2258.96926842,
-            "converted_last": {
-                "btc": 0.006782,
-                "eth": 0.17375811,
-                "usd": 218.07
-            },
-            "converted_volume": {
-                "btc": 15.32033,
-                "eth": 392.514,
-                "usd": 492602
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147406,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/aave/xbt",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 0.006796,
-            "volume": 2668.62573665,
-            "converted_last": {
-                "btc": 0.006796,
-                "eth": 0.17378925,
-                "usd": 218.59
-            },
-            "converted_volume": {
-                "btc": 18.135981,
-                "eth": 463.778,
-                "usd": 583347
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.250184,
-            "timestamp": "2021-01-23T18:24:27+00:00",
-            "last_traded_at": "2021-01-23T18:24:27+00:00",
-            "last_fetch_at": "2021-01-23T18:24:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/AAVE-BTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
             "target": "ETH",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.17365,
-            "volume": 13117.075559113158,
+            "last": 0.19203,
+            "volume": 21595.07263162006,
             "converted_last": {
-                "btc": 0.00679666,
-                "eth": 0.17380615,
-                "usd": 218.62
+                "btc": 0.00804606,
+                "eth": 0.19268696,
+                "usd": 260.55
             },
             "converted_volume": {
-                "btc": 89.152,
-                "eth": 2280,
-                "usd": 2867654
+                "btc": 173.755,
+                "eth": 4161,
+                "usd": 5626602
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.476957,
-            "timestamp": "2021-01-23T18:23:22+00:00",
-            "last_traded_at": "2021-01-23T18:23:22+00:00",
-            "last_fetch_at": "2021-01-23T18:23:22+00:00",
+            "bid_ask_spread_percentage": 0.36392,
+            "timestamp": "2021-01-26T03:06:05+00:00",
+            "last_traded_at": "2021-01-26T03:06:05+00:00",
+            "last_fetch_at": "2021-01-26T03:06:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/AAVE_ETH",
@@ -1272,23 +1113,23 @@
                 "identifier": "nominex",
                 "has_trading_incentive": false
             },
-            "last": 216.329,
-            "volume": 1140.3111297190853,
+            "last": 260.127,
+            "volume": 2156.5784788084284,
             "converted_last": {
-                "btc": 0.00673233,
-                "eth": 0.17248563,
-                "usd": 216.48
+                "btc": 0.00805991,
+                "eth": 0.19302543,
+                "usd": 260.8
             },
             "converted_volume": {
-                "btc": 7.676955,
-                "eth": 196.687,
-                "usd": 246854
+                "btc": 17.381824,
+                "eth": 416.274,
+                "usd": 562440
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.197907,
-            "timestamp": "2021-01-23T18:19:03+00:00",
-            "last_traded_at": "2021-01-23T18:19:03+00:00",
-            "last_fetch_at": "2021-01-23T18:19:03+00:00",
+            "bid_ask_spread_percentage": 0.199211,
+            "timestamp": "2021-01-26T03:03:15+00:00",
+            "last_traded_at": "2021-01-26T03:03:15+00:00",
+            "last_fetch_at": "2021-01-26T03:03:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://nominex.io/en/markets/AAVE/USDT",
@@ -1298,35 +1139,98 @@
         },
         {
             "base": "AAVE",
-            "target": "ETH",
+            "target": "UST",
             "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
+                "name": "KuCoin",
+                "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.1732,
-            "volume": 1207.0467802743167,
+            "last": 260.003,
+            "volume": 414.95465279,
             "converted_last": {
-                "btc": 0.00677212,
-                "eth": 0.17317858,
-                "usd": 217.83
+                "btc": 0.00809389,
+                "eth": 0.19383255,
+                "usd": 262.1
             },
             "converted_volume": {
-                "btc": 8.174266,
-                "eth": 209.035,
-                "usd": 262936
+                "btc": 3.358599,
+                "eth": 80.432,
+                "usd": 108759
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.287853,
-            "timestamp": "2021-01-23T18:25:22+00:00",
-            "last_traded_at": "2021-01-23T18:25:22+00:00",
-            "last_fetch_at": "2021-01-23T18:25:22+00:00",
+            "bid_ask_spread_percentage": 0.566155,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_eth",
+            "trade_url": "https://www.kucoin.com/trade/AAVE-UST",
             "token_info_url": null,
             "coin_id": "aave",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "terrausd"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 260.375,
+            "volume": 2494.301,
+            "converted_last": {
+                "btc": 0.00803908,
+                "eth": 0.19252655,
+                "usd": 260.55
+            },
+            "converted_volume": {
+                "btc": 20.051877,
+                "eth": 480.219,
+                "usd": 649901
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.105237,
+            "timestamp": "2021-01-26T02:59:27+00:00",
+            "last_traded_at": "2021-01-26T02:59:27+00:00",
+            "last_fetch_at": "2021-01-26T02:59:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=aaveusdt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "GBP",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 189.637,
+            "volume": 8285.743,
+            "converted_last": {
+                "btc": 0.0080049,
+                "eth": 0.19170137,
+                "usd": 259.22
+            },
+            "converted_volume": {
+                "btc": 66.327,
+                "eth": 1588,
+                "usd": 2147836
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.114429,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/AAVE-GBP",
+            "token_info_url": null,
+            "coin_id": "aave"
         },
         {
             "base": "AAVE",
@@ -1336,23 +1240,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 216.7,
-            "volume": 1082.73028333,
+            "last": 258.7,
+            "volume": 833.8016935800001,
             "converted_last": {
-                "btc": 0.00674388,
-                "eth": 0.17278144,
-                "usd": 216.85
+                "btc": 0.00800275,
+                "eth": 0.19164995,
+                "usd": 259.14
             },
             "converted_volume": {
-                "btc": 7.301803,
-                "eth": 187.076,
-                "usd": 234791
+                "btc": 6.67271,
+                "eth": 159.798,
+                "usd": 216075
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.322878,
-            "timestamp": "2021-01-23T18:19:24+00:00",
-            "last_traded_at": "2021-01-23T18:19:24+00:00",
-            "last_fetch_at": "2021-01-23T18:19:24+00:00",
+            "bid_ask_spread_percentage": 0.344696,
+            "timestamp": "2021-01-26T03:05:38+00:00",
+            "last_traded_at": "2021-01-26T03:05:38+00:00",
+            "last_fetch_at": "2021-01-26T03:05:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=AAVE",
@@ -1362,29 +1266,93 @@
         },
         {
             "base": "AAVE",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.008042,
+            "volume": 5050.57689587,
+            "converted_last": {
+                "btc": 0.008042,
+                "eth": 0.19259656,
+                "usd": 260.22
+            },
+            "converted_volume": {
+                "btc": 40.616739,
+                "eth": 972.724,
+                "usd": 1314275
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.248478,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/aave/xbt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.1917,
+            "volume": 17579.1105,
+            "converted_last": {
+                "btc": 0.00800156,
+                "eth": 0.19162802,
+                "usd": 258.91
+            },
+            "converted_volume": {
+                "btc": 140.66,
+                "eth": 3369,
+                "usd": 4551480
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.415369,
+            "timestamp": "2021-01-26T03:03:08+00:00",
+            "last_traded_at": "2021-01-26T03:03:08+00:00",
+            "last_fetch_at": "2021-01-26T03:03:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=aave_eth",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
             "target": "USD",
             "market": {
                 "name": "FTX",
                 "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 216.91,
-            "volume": 3292.6482541146097,
+            "last": 260.53,
+            "volume": 3833.739953556212,
             "converted_last": {
-                "btc": 0.00674567,
-                "eth": 0.17282743,
-                "usd": 216.91
+                "btc": 0.00804543,
+                "eth": 0.19267199,
+                "usd": 260.53
             },
             "converted_volume": {
-                "btc": 22.211133,
-                "eth": 569.06,
-                "usd": 714208
+                "btc": 30.844093,
+                "eth": 738.654,
+                "usd": 998804
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.318616,
-            "timestamp": "2021-01-23T18:22:28+00:00",
-            "last_traded_at": "2021-01-23T18:22:28+00:00",
-            "last_fetch_at": "2021-01-23T18:22:28+00:00",
+            "bid_ask_spread_percentage": 0.543915,
+            "timestamp": "2021-01-26T03:06:41+00:00",
+            "last_traded_at": "2021-01-26T03:06:41+00:00",
+            "last_fetch_at": "2021-01-26T03:06:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://ftx.com/trade/AAVE/USD",
@@ -1395,126 +1363,30 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 217.4,
-            "volume": 1876.045,
+            "last": 260.08,
+            "volume": 5661.359,
             "converted_last": {
-                "btc": 0.00676526,
-                "eth": 0.17332922,
-                "usd": 217.54
+                "btc": 0.00804544,
+                "eth": 0.19267228,
+                "usd": 260.53
             },
             "converted_volume": {
-                "btc": 12.691932,
-                "eth": 325.173,
-                "usd": 408111
+                "btc": 45.548147,
+                "eth": 1091,
+                "usd": 1474956
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.203772,
-            "timestamp": "2021-01-23T18:19:39+00:00",
-            "last_traded_at": "2021-01-23T18:19:39+00:00",
-            "last_fetch_at": "2021-01-23T18:19:39+00:00",
+            "bid_ask_spread_percentage": 0.278711,
+            "timestamp": "2021-01-26T03:06:30+00:00",
+            "last_traded_at": "2021-01-26T03:06:30+00:00",
+            "last_fetch_at": "2021-01-26T03:06:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=aaveusdt",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.006735,
-            "volume": 293.03,
-            "converted_last": {
-                "btc": 0.006735,
-                "eth": 0.17255395,
-                "usd": 216.56
-            },
-            "converted_volume": {
-                "btc": 1.973557,
-                "eth": 50.563,
-                "usd": 63460
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147885,
-            "timestamp": "2021-01-23T18:19:40+00:00",
-            "last_traded_at": "2021-01-23T18:19:40+00:00",
-            "last_fetch_at": "2021-01-23T18:19:40+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=btc&symbol=aavebtc",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
-            "target": "USDC",
-            "market": {
-                "name": "DODO",
-                "identifier": "dodo",
-                "has_trading_incentive": false
-            },
-            "last": 216.587981835356,
-            "volume": 197.041,
-            "converted_last": {
-                "btc": 0.00672413,
-                "eth": 0.17195147,
-                "usd": 216.21
-            },
-            "converted_volume": {
-                "btc": 1.32493,
-                "eth": 33.881489,
-                "usd": 42602
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602823,
-            "timestamp": "2021-01-23T18:26:10+00:00",
-            "last_traded_at": "2021-01-23T18:26:10+00:00",
-            "last_fetch_at": "2021-01-23T18:26:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "usd-coin"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "Decoin",
-                "identifier": "decoin",
-                "has_trading_incentive": false
-            },
-            "last": 217.269,
-            "volume": 2311.016712209289,
-            "converted_last": {
-                "btc": 0.00676118,
-                "eth": 0.17322477,
-                "usd": 217.41
-            },
-            "converted_volume": {
-                "btc": 15.625207,
-                "eth": 400.325,
-                "usd": 502431
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119807,
-            "timestamp": "2021-01-23T18:19:47+00:00",
-            "last_traded_at": "2021-01-23T18:19:47+00:00",
-            "last_fetch_at": "2021-01-23T18:19:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.decoin.io/trade/AAVE-USDT",
+            "trade_url": "https://bilaxy.com/trade/AAVE_USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -1523,97 +1395,33 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "FTX",
+                "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 218.48,
-            "volume": 4463.82561659,
+            "last": 258.34,
+            "volume": 733.6016842146009,
             "converted_last": {
-                "btc": 0.00679887,
-                "eth": 0.17419028,
-                "usd": 218.62
+                "btc": 0.00799162,
+                "eth": 0.19138326,
+                "usd": 258.79
             },
             "converted_volume": {
-                "btc": 30.348962,
-                "eth": 777.555,
-                "usd": 975884
+                "btc": 5.862664,
+                "eth": 140.399,
+                "usd": 189847
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.461968,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "bid_ask_spread_percentage": 0.325521,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/AAVE_USDT",
+            "trade_url": "https://ftx.com/trade/AAVE/USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 0.006787,
-            "volume": 2262.692030352144,
-            "converted_last": {
-                "btc": 0.006787,
-                "eth": 0.17388621,
-                "usd": 218.23
-            },
-            "converted_volume": {
-                "btc": 15.356891,
-                "eth": 393.451,
-                "usd": 493778
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.543718,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/AAVE:BTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "ETH",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.17188,
-            "volume": 89.645,
-            "converted_last": {
-                "btc": 0.00672051,
-                "eth": 0.1727226,
-                "usd": 216.28
-            },
-            "converted_volume": {
-                "btc": 0.60245994,
-                "eth": 15.483718,
-                "usd": 19388.14
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.879731,
-            "timestamp": "2021-01-23T18:16:36+00:00",
-            "last_traded_at": "2021-01-23T18:16:36+00:00",
-            "last_fetch_at": "2021-01-23T18:16:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "AAVE",
@@ -1623,23 +1431,23 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 218.3097,
-            "volume": 4429.6179,
+            "last": 260.6605,
+            "volume": 6738.2725,
             "converted_last": {
-                "btc": 0.00678735,
-                "eth": 0.17356806,
-                "usd": 218.32
+                "btc": 0.0080634,
+                "eth": 0.19310233,
+                "usd": 261.11
             },
             "converted_volume": {
-                "btc": 30.065369,
-                "eth": 768.84,
-                "usd": 967076
+                "btc": 54.333,
+                "eth": 1301,
+                "usd": 1759443
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.349113,
-            "timestamp": "2021-01-23T18:23:26+00:00",
-            "last_traded_at": "2021-01-23T18:23:26+00:00",
-            "last_fetch_at": "2021-01-23T18:23:26+00:00",
+            "bid_ask_spread_percentage": 0.263798,
+            "timestamp": "2021-01-26T03:06:23+00:00",
+            "last_traded_at": "2021-01-26T03:06:23+00:00",
+            "last_fetch_at": "2021-01-26T03:06:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/AAVE_USDT",
@@ -1651,30 +1459,94 @@
             "base": "AAVE",
             "target": "ETH",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Atomars",
+                "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.1728,
-            "volume": 12431.2229,
+            "last": 0.19267,
+            "volume": 130.238,
             "converted_last": {
-                "btc": 0.00676339,
-                "eth": 0.17328136,
-                "usd": 217.48
+                "btc": 0.00804205,
+                "eth": 0.19259766,
+                "usd": 260.23
             },
             "converted_volume": {
-                "btc": 84.077,
-                "eth": 2154,
-                "usd": 2703544
+                "btc": 1.04738,
+                "eth": 25.083533,
+                "usd": 33891
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.404624,
-            "timestamp": "2021-01-23T18:20:37+00:00",
-            "last_traded_at": "2021-01-23T18:20:37+00:00",
-            "last_fetch_at": "2021-01-23T18:20:37+00:00",
+            "bid_ask_spread_percentage": 0.675957,
+            "timestamp": "2021-01-26T03:02:34+00:00",
+            "last_traded_at": "2021-01-26T03:02:34+00:00",
+            "last_fetch_at": "2021-01-26T03:02:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=aave_eth",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.008066,
+            "volume": 913.34,
+            "converted_last": {
+                "btc": 0.008066,
+                "eth": 0.19316456,
+                "usd": 261.2
+            },
+            "converted_volume": {
+                "btc": 7.367,
+                "eth": 176.425,
+                "usd": 238561
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.630486,
+            "timestamp": "2021-01-26T03:06:11+00:00",
+            "last_traded_at": "2021-01-26T03:06:11+00:00",
+            "last_fetch_at": "2021-01-26T03:06:11+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.1914,
+            "volume": 2668.0626068343163,
+            "converted_last": {
+                "btc": 0.00798521,
+                "eth": 0.19151338,
+                "usd": 258.46
+            },
+            "converted_volume": {
+                "btc": 21.305035,
+                "eth": 510.97,
+                "usd": 689594
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.363448,
+            "timestamp": "2021-01-26T02:56:41+00:00",
+            "last_traded_at": "2021-01-26T02:56:41+00:00",
+            "last_fetch_at": "2021-01-26T02:56:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=aave_eth",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "ethereum"
@@ -1687,26 +1559,122 @@
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 216.2,
-            "volume": 1437.888,
+            "last": 258.935,
+            "volume": 2363.23145,
             "converted_last": {
-                "btc": 0.00672832,
-                "eth": 0.17292336,
-                "usd": 216.53
+                "btc": 0.00799462,
+                "eth": 0.19146178,
+                "usd": 259.04
             },
             "converted_volume": {
-                "btc": 9.674569,
-                "eth": 248.644,
-                "usd": 311343
+                "btc": 18.893129,
+                "eth": 452.469,
+                "usd": 612162
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.890417,
-            "timestamp": "2021-01-23T18:16:33+00:00",
-            "last_traded_at": "2021-01-23T18:16:33+00:00",
-            "last_fetch_at": "2021-01-23T18:16:33+00:00",
+            "bid_ask_spread_percentage": 0.728365,
+            "timestamp": "2021-01-26T03:01:40+00:00",
+            "last_traded_at": "2021-01-26T03:01:40+00:00",
+            "last_fetch_at": "2021-01-26T03:01:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.008055,
+            "volume": 3415.39232709,
+            "converted_last": {
+                "btc": 0.008055,
+                "eth": 0.19290113,
+                "usd": 260.84
+            },
+            "converted_volume": {
+                "btc": 27.510985,
+                "eth": 658.833,
+                "usd": 890870
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.335445,
+            "timestamp": "2021-01-26T03:06:53+00:00",
+            "last_traded_at": "2021-01-26T03:06:53+00:00",
+            "last_fetch_at": "2021-01-26T03:06:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/AAVE-BTC",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "AAX",
+                "identifier": "aax",
+                "has_trading_incentive": false
+            },
+            "last": 0.008056,
+            "volume": 1272.3043321747766,
+            "converted_last": {
+                "btc": 0.008056,
+                "eth": 0.19293184,
+                "usd": 260.68
+            },
+            "converted_volume": {
+                "btc": 10.249684,
+                "eth": 245.468,
+                "usd": 331659
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.569589,
+            "timestamp": "2021-01-26T03:03:48+00:00",
+            "last_traded_at": "2021-01-26T03:03:48+00:00",
+            "last_fetch_at": "2021-01-26T03:03:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aax.com/spot/trade/AAVE:BTC",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 260.56,
+            "volume": 5033.06652814,
+            "converted_last": {
+                "btc": 0.00804479,
+                "eth": 0.19266334,
+                "usd": 260.72
+            },
+            "converted_volume": {
+                "btc": 40.489956,
+                "eth": 969.687,
+                "usd": 1312206
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.666282,
+            "timestamp": "2021-01-26T03:00:39+00:00",
+            "last_traded_at": "2021-01-26T03:00:39+00:00",
+            "last_fetch_at": "2021-01-26T03:00:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/AAVE_USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -1719,23 +1687,23 @@
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 217.8,
-            "volume": 7582.6164,
+            "last": 259.47,
+            "volume": 10688.7276,
             "converted_last": {
-                "btc": 0.0067715,
-                "eth": 0.17316282,
-                "usd": 217.81
+                "btc": 0.0080314,
+                "eth": 0.19262132,
+                "usd": 259.96
             },
             "converted_volume": {
-                "btc": 51.346,
-                "eth": 1313,
-                "usd": 1651545
+                "btc": 85.845,
+                "eth": 2059,
+                "usd": 2778617
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.13307,
-            "timestamp": "2021-01-23T18:24:13+00:00",
-            "last_traded_at": "2021-01-23T18:24:13+00:00",
-            "last_fetch_at": "2021-01-23T18:24:13+00:00",
+            "bid_ask_spread_percentage": 0.111561,
+            "timestamp": "2021-01-26T02:56:55+00:00",
+            "last_traded_at": "2021-01-26T02:56:55+00:00",
+            "last_fetch_at": "2021-01-26T02:56:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=AAVE_USDT",
@@ -1751,23 +1719,23 @@
                 "identifier": "btc_alpha",
                 "has_trading_incentive": false
             },
-            "last": 218.091,
-            "volume": 8527.522,
+            "last": 260.967,
+            "volume": 14874.238,
             "converted_last": {
-                "btc": 0.00678055,
-                "eth": 0.17339418,
-                "usd": 218.1
+                "btc": 0.00807288,
+                "eth": 0.19332939,
+                "usd": 261.22
             },
             "converted_volume": {
-                "btc": 57.821,
-                "eth": 1479,
-                "usd": 1859833
+                "btc": 120.078,
+                "eth": 2876,
+                "usd": 3885446
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.333032,
-            "timestamp": "2021-01-23T18:24:03+00:00",
-            "last_traded_at": "2021-01-23T18:24:03+00:00",
-            "last_fetch_at": "2021-01-23T18:24:03+00:00",
+            "bid_ask_spread_percentage": 0.486023,
+            "timestamp": "2021-01-26T03:04:55+00:00",
+            "last_traded_at": "2021-01-26T03:04:55+00:00",
+            "last_fetch_at": "2021-01-26T03:06:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://btc-alpha.com/exchange/AAVE_USDT",
@@ -1777,447 +1745,32 @@
         },
         {
             "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.006785,
-            "volume": 427.87,
-            "converted_last": {
-                "btc": 0.006785,
-                "eth": 0.17350795,
-                "usd": 218.24
-            },
-            "converted_volume": {
-                "btc": 2.903098,
-                "eth": 74.239,
-                "usd": 93380
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.806925,
-            "timestamp": "2021-01-23T18:23:33+00:00",
-            "last_traded_at": "2021-01-23T18:23:33+00:00",
-            "last_fetch_at": "2021-01-23T18:23:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Oceanex",
-                "identifier": "oceanex",
-                "has_trading_incentive": false
-            },
-            "last": 0.006783,
-            "volume": 11194.46,
-            "converted_last": {
-                "btc": 0.006783,
-                "eth": 0.17345681,
-                "usd": 218.18
-            },
-            "converted_volume": {
-                "btc": 75.932,
-                "eth": 1942,
-                "usd": 2442413
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.147275,
-            "timestamp": "2021-01-23T18:23:30+00:00",
-            "last_traded_at": "2021-01-23T18:23:30+00:00",
-            "last_fetch_at": "2021-01-23T18:23:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://oceanex.pro/trades/aavebtc",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "USD",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 218.17,
-            "volume": 125.64283872,
-            "converted_last": {
-                "btc": 0.0067828,
-                "eth": 0.17345166,
-                "usd": 218.17
-            },
-            "converted_volume": {
-                "btc": 0.8522101,
-                "eth": 21.79296,
-                "usd": 27411
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.331362,
-            "timestamp": "2021-01-23T18:24:41+00:00",
-            "last_traded_at": "2021-01-23T18:24:41+00:00",
-            "last_fetch_at": "2021-01-23T18:24:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-AAVE",
-            "token_info_url": null,
-            "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.00677203,
-            "volume": 140.585,
-            "converted_last": {
-                "btc": 0.00677203,
-                "eth": 0.17317628,
-                "usd": 217.83
-            },
-            "converted_volume": {
-                "btc": 0.95204584,
-                "eth": 24.345987,
-                "usd": 30624
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.412553,
-            "timestamp": "2021-01-23T18:25:11+00:00",
-            "last_traded_at": "2021-01-23T18:25:11+00:00",
-            "last_fetch_at": "2021-01-23T18:25:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_BTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "Dcoin",
-                "identifier": "dcoin",
+                "name": "Decoin",
+                "identifier": "decoin",
                 "has_trading_incentive": false
             },
-            "last": 218.181,
-            "volume": 11715.0,
+            "last": 259.238,
+            "volume": 1734.6491365887716,
             "converted_last": {
-                "btc": 0.00678335,
-                "eth": 0.17346574,
-                "usd": 218.19
+                "btc": 0.00803236,
+                "eth": 0.19236576,
+                "usd": 259.91
             },
             "converted_volume": {
-                "btc": 79.467,
-                "eth": 2032,
-                "usd": 2556116
+                "btc": 13.933331,
+                "eth": 333.687,
+                "usd": 450854
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.489265,
-            "timestamp": "2021-01-23T18:23:42+00:00",
-            "last_traded_at": "2021-01-23T18:23:42+00:00",
-            "last_fetch_at": "2021-01-23T18:23:42+00:00",
+            "bid_ask_spread_percentage": 0.141875,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.dcoin.com/currencyTrading/AAVE_USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "Blockchain.com",
-                "identifier": "blockchain_com",
-                "has_trading_incentive": false
-            },
-            "last": 173.74,
-            "volume": 31.62237598,
-            "converted_last": {
-                "btc": 0.00537523,
-                "eth": 0.1385898,
-                "usd": 173.63
-            },
-            "converted_volume": {
-                "btc": 0.16997759,
-                "eth": 4.382539,
-                "usd": 5490.5
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.050978,
-            "timestamp": "2021-01-23T18:05:25+00:00",
-            "last_traded_at": "2021-01-23T18:05:25+00:00",
-            "last_fetch_at": "2021-01-23T18:19:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.blockchain.com/trade/AAVE-USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "ETH",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.17329996,
-            "volume": 1322.02,
-            "converted_last": {
-                "btc": 0.00677603,
-                "eth": 0.17327853,
-                "usd": 217.96
-            },
-            "converted_volume": {
-                "btc": 8.958045,
-                "eth": 229.078,
-                "usd": 288147
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.541132,
-            "timestamp": "2021-01-23T18:25:10+00:00",
-            "last_traded_at": "2021-01-23T18:25:10+00:00",
-            "last_fetch_at": "2021-01-23T18:25:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_ETH",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
-            "target": "BNB",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 5.3353,
-            "volume": 2365.0758795194274,
-            "converted_last": {
-                "btc": 0.00676356,
-                "eth": 0.17295968,
-                "usd": 217.56
-            },
-            "converted_volume": {
-                "btc": 15.996332,
-                "eth": 409.063,
-                "usd": 514542
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.371172,
-            "timestamp": "2021-01-23T18:25:37+00:00",
-            "last_traded_at": "2021-01-23T18:25:37+00:00",
-            "last_fetch_at": "2021-01-23T18:25:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/AAVE_BNB",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "binancecoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "ETH",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 0.17182,
-            "volume": 58.709421021999766,
-            "converted_last": {
-                "btc": 0.00672503,
-                "eth": 0.17229863,
-                "usd": 216.24
-            },
-            "converted_volume": {
-                "btc": 0.3948229,
-                "eth": 10.115553,
-                "usd": 12695.59
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.353828,
-            "timestamp": "2021-01-23T18:19:04+00:00",
-            "last_traded_at": "2021-01-23T18:19:04+00:00",
-            "last_fetch_at": "2021-01-23T18:19:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/AAVE/ETH",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 218.0184,
-            "volume": 1103.814,
-            "converted_last": {
-                "btc": 0.00677829,
-                "eth": 0.17333646,
-                "usd": 218.03
-            },
-            "converted_volume": {
-                "btc": 7.481976,
-                "eth": 191.331,
-                "usd": 240664
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.43634,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 217.8848,
-            "volume": 7267.5658,
-            "converted_last": {
-                "btc": 0.00677414,
-                "eth": 0.17323024,
-                "usd": 217.89
-            },
-            "converted_volume": {
-                "btc": 49.23151,
-                "eth": 1259,
-                "usd": 1583541
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106752,
-            "timestamp": "2021-01-23T18:24:24+00:00",
-            "last_traded_at": "2021-01-23T18:24:24+00:00",
-            "last_fetch_at": "2021-01-23T18:24:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/aave_usdt",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "BTC",
-            "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
-                "has_trading_incentive": false
-            },
-            "last": 0.006606,
-            "volume": 427.61,
-            "converted_last": {
-                "btc": 0.006606,
-                "eth": 0.17072775,
-                "usd": 212.27
-            },
-            "converted_volume": {
-                "btc": 2.824792,
-                "eth": 73.005,
-                "usd": 90770
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.630347,
-            "timestamp": "2021-01-23T17:19:34+00:00",
-            "last_traded_at": "2021-01-23T17:19:34+00:00",
-            "last_fetch_at": "2021-01-23T17:19:34+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://emirex.com/trading/AAVEBTC",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 218.364,
-            "volume": 2430.1759185487076,
-            "converted_last": {
-                "btc": 0.00679526,
-                "eth": 0.1740978,
-                "usd": 218.49
-            },
-            "converted_volume": {
-                "btc": 16.513673,
-                "eth": 423.088,
-                "usd": 530973
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.42051,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/AAVE:USDT",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "Emirex",
-                "identifier": "emirex",
-                "has_trading_incentive": false
-            },
-            "last": 215.918,
-            "volume": 1843.686,
-            "converted_last": {
-                "btc": 0.00671062,
-                "eth": 0.17246851,
-                "usd": 216.12
-            },
-            "converted_volume": {
-                "btc": 12.372279,
-                "eth": 317.978,
-                "usd": 398453
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.402873,
-            "timestamp": "2021-01-23T18:14:35+00:00",
-            "last_traded_at": "2021-01-23T18:14:35+00:00",
-            "last_fetch_at": "2021-01-23T18:14:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://emirex.com/trading/AAVEUSDT",
+            "trade_url": "https://www.decoin.io/trade/AAVE-USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -2230,23 +1783,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 217.75,
-            "volume": 1914.71421133,
+            "last": 258.73,
+            "volume": 2211.06916193,
             "converted_last": {
-                "btc": 0.00677615,
-                "eth": 0.17360827,
-                "usd": 217.88
+                "btc": 0.00801662,
+                "eth": 0.1919888,
+                "usd": 259.4
             },
             "converted_volume": {
-                "btc": 12.974393,
-                "eth": 332.41,
-                "usd": 417172
+                "btc": 17.725307,
+                "eth": 424.501,
+                "usd": 573555
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.538837,
-            "timestamp": "2021-01-23T18:21:08+00:00",
-            "last_traded_at": "2021-01-23T18:21:08+00:00",
-            "last_fetch_at": "2021-01-23T18:21:08+00:00",
+            "bid_ask_spread_percentage": 0.314429,
+            "timestamp": "2021-01-26T03:03:43+00:00",
+            "last_traded_at": "2021-01-26T03:03:43+00:00",
+            "last_fetch_at": "2021-01-26T03:03:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=AAVE#limit",
@@ -2258,96 +1811,65 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
+                "name": "Dcoin",
+                "identifier": "dcoin",
                 "has_trading_incentive": false
             },
-            "last": 216.0222,
-            "volume": 3303.676,
+            "last": 260.834,
+            "volume": 14396.0,
             "converted_last": {
-                "btc": 0.00672238,
-                "eth": 0.17223072,
-                "usd": 216.16
+                "btc": 0.00808181,
+                "eth": 0.19354327,
+                "usd": 261.51
             },
             "converted_volume": {
-                "btc": 22.208579,
-                "eth": 568.995,
-                "usd": 714128
+                "btc": 116.346,
+                "eth": 2786,
+                "usd": 3764681
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.565848,
-            "timestamp": "2021-01-23T18:20:15+00:00",
-            "last_traded_at": "2021-01-23T18:20:15+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
+            "bid_ask_spread_percentage": 0.336878,
+            "timestamp": "2021-01-26T03:04:28+00:00",
+            "last_traded_at": "2021-01-26T03:04:28+00:00",
+            "last_fetch_at": "2021-01-26T03:04:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=AAVE_USDT",
+            "trade_url": "https://www.dcoin.com/currencyTrading/AAVE_USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
         },
         {
-            "base": "0X7FC66500C84A76AD7E9C93437BFC5AC33E2DDAE9",
-            "target": "USDC",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 215.964964982265,
-            "volume": 191.443854195397,
-            "converted_last": {
-                "btc": 0.00669294,
-                "eth": 0.17256428,
-                "usd": 215.92
-            },
-            "converted_volume": {
-                "btc": 1.281322,
-                "eth": 33.03637,
-                "usd": 41336
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.6032,
-            "timestamp": "2021-01-23T18:09:41+00:00",
-            "last_traded_at": "2021-01-23T18:09:41+00:00",
-            "last_fetch_at": "2021-01-23T18:24:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
-            "coin_id": "aave",
-            "target_coin_id": "usd-coin"
-        },
-        {
             "base": "AAVE",
-            "target": "KRW",
+            "target": "BTC",
             "market": {
-                "name": "Coinone",
-                "identifier": "coinone",
+                "name": "Hotbit",
+                "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 243750.0,
-            "volume": 111.4034,
+            "last": 0.00802399,
+            "volume": 285.821,
             "converted_last": {
-                "btc": 0.00682523,
-                "eth": 0.17647382,
-                "usd": 220.48
+                "btc": 0.00802399,
+                "eth": 0.19216524,
+                "usd": 259.64
             },
             "converted_volume": {
-                "btc": 0.76035356,
-                "eth": 19.659784,
-                "usd": 24562
+                "btc": 2.293425,
+                "eth": 54.925,
+                "usd": 74211
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.682209,
-            "timestamp": "2021-01-23T17:54:48+00:00",
-            "last_traded_at": "2021-01-23T17:54:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:55+00:00",
+            "bid_ask_spread_percentage": 0.385956,
+            "timestamp": "2021-01-26T03:02:12+00:00",
+            "last_traded_at": "2021-01-26T03:02:12+00:00",
+            "last_fetch_at": "2021-01-26T03:02:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://coinone.co.kr/exchange/trade/aave/krw",
+            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_BTC",
             "token_info_url": null,
-            "coin_id": "aave"
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "AAVE",
@@ -2357,23 +1879,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.1722,
-            "volume": 877.27669512,
+            "last": 0.1926,
+            "volume": 2701.54490007,
             "converted_last": {
-                "btc": 0.00673991,
-                "eth": 0.17267969,
-                "usd": 216.71
+                "btc": 0.00803912,
+                "eth": 0.19252768,
+                "usd": 260.13
             },
             "converted_volume": {
-                "btc": 5.912764,
-                "eth": 151.488,
-                "usd": 190116
+                "btc": 21.718054,
+                "eth": 520.122,
+                "usd": 702752
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.345423,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.363448,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/aave/eth",
@@ -2385,65 +1907,192 @@
             "base": "AAVE",
             "target": "ETH",
             "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
+                "name": "Nominex",
+                "identifier": "nominex",
                 "has_trading_incentive": false
             },
-            "last": 0.17355878,
-            "volume": 224.125,
+            "last": 0.19161,
+            "volume": 96.4398628985961,
             "converted_last": {
-                "btc": 0.00679309,
-                "eth": 0.17371485,
-                "usd": 218.5
+                "btc": 0.0079978,
+                "eth": 0.19153805,
+                "usd": 258.79
             },
             "converted_volume": {
-                "btc": 1.522501,
-                "eth": 38.933841,
-                "usd": 48972
+                "btc": 0.77130687,
+                "eth": 18.471904,
+                "usd": 24958
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.135924,
-            "timestamp": "2021-01-23T18:24:07+00:00",
-            "last_traded_at": "2021-01-23T18:24:07+00:00",
-            "last_fetch_at": "2021-01-23T18:24:07+00:00",
+            "bid_ask_spread_percentage": 0.197587,
+            "timestamp": "2021-01-26T03:03:15+00:00",
+            "last_traded_at": "2021-01-26T03:03:15+00:00",
+            "last_fetch_at": "2021-01-26T03:03:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=AAVE_ETH",
+            "trade_url": "https://nominex.io/en/markets/AAVE/ETH",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "ethereum"
         },
         {
             "base": "AAVE",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Liquid",
-                "identifier": "quoine",
+                "name": "Blockchain.com",
+                "identifier": "blockchain_com",
                 "has_trading_incentive": false
             },
-            "last": 0.006708,
-            "volume": 2.50382,
+            "last": 173.74,
+            "volume": 8.74269611,
             "converted_last": {
-                "btc": 0.006708,
-                "eth": 0.17324301,
-                "usd": 216.4
+                "btc": 0.00536069,
+                "eth": 0.12803148,
+                "usd": 174.05
             },
             "converted_volume": {
-                "btc": 0.01679562,
-                "eth": 0.4337693,
-                "usd": 541.83
+                "btc": 0.04686689,
+                "eth": 1.11934,
+                "usd": 1521.67
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.967884,
-            "timestamp": "2021-01-23T17:42:11+00:00",
-            "last_traded_at": "2021-01-23T17:42:11+00:00",
-            "last_fetch_at": "2021-01-23T18:21:54+00:00",
+            "bid_ask_spread_percentage": 1.938974,
+            "timestamp": "2021-01-26T02:39:03+00:00",
+            "last_traded_at": "2021-01-26T02:39:03+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://app.liquid.com/exchange/AAVEBTC?lang=en",
+            "trade_url": "https://exchange.blockchain.com/trade/AAVE-USDT",
             "token_info_url": null,
             "coin_id": "aave",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 259.2769,
+            "volume": 2329.818,
+            "converted_last": {
+                "btc": 0.00800517,
+                "eth": 0.19171459,
+                "usd": 259.38
+            },
+            "converted_volume": {
+                "btc": 18.650596,
+                "eth": 446.66,
+                "usd": 604304
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.380423,
+            "timestamp": "2021-01-26T03:01:34+00:00",
+            "last_traded_at": "2021-01-26T03:01:34+00:00",
+            "last_fetch_at": "2021-01-26T03:01:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_USDT",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "KRW",
+            "market": {
+                "name": "GoPax",
+                "identifier": "gopax",
+                "has_trading_incentive": false
+            },
+            "last": 289500.0,
+            "volume": 187.37034744,
+            "converted_last": {
+                "btc": 0.00811772,
+                "eth": 0.19440999,
+                "usd": 262.67
+            },
+            "converted_volume": {
+                "btc": 1.52102,
+                "eth": 36.426667,
+                "usd": 49217
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.788211,
+            "timestamp": "2021-01-26T03:03:39+00:00",
+            "last_traded_at": "2021-01-26T03:03:39+00:00",
+            "last_fetch_at": "2021-01-26T03:03:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.gopax.co.kr/exchange/AAVE-KRW",
+            "token_info_url": null,
+            "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.19204999,
+            "volume": 2765.567,
+            "converted_last": {
+                "btc": 0.00801617,
+                "eth": 0.19197788,
+                "usd": 259.39
+            },
+            "converted_volume": {
+                "btc": 22.169246,
+                "eth": 530.928,
+                "usd": 717356
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.338806,
+            "timestamp": "2021-01-26T03:02:30+00:00",
+            "last_traded_at": "2021-01-26T03:02:30+00:00",
+            "last_fetch_at": "2021-01-26T03:02:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=AAVE_ETH",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 3700.48,
+            "volume": 78.274,
+            "converted_last": {
+                "btc": 0.00803149,
+                "eth": 0.1923448,
+                "usd": 260.31
+            },
+            "converted_volume": {
+                "btc": 0.62865666,
+                "eth": 15.055597,
+                "usd": 20375
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.448372,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/AAVE_CRO",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "crypto-com-chain"
         },
         {
             "base": "AAVE",
@@ -2453,23 +2102,23 @@
                 "identifier": "oceanex",
                 "has_trading_incentive": false
             },
-            "last": 218.07,
-            "volume": 2035.196,
+            "last": 260.252,
+            "volume": 5800.784,
             "converted_last": {
-                "btc": 0.0067799,
-                "eth": 0.17337749,
-                "usd": 218.08
+                "btc": 0.00805076,
+                "eth": 0.19279971,
+                "usd": 260.71
             },
             "converted_volume": {
-                "btc": 13.798422,
-                "eth": 352.857,
-                "usd": 443837
+                "btc": 46.700747,
+                "eth": 1118,
+                "usd": 1512298
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.18025,
-            "timestamp": "2021-01-23T18:23:30+00:00",
-            "last_traded_at": "2021-01-23T18:23:30+00:00",
-            "last_fetch_at": "2021-01-23T18:23:30+00:00",
+            "bid_ask_spread_percentage": 0.167627,
+            "timestamp": "2021-01-26T03:07:05+00:00",
+            "last_traded_at": "2021-01-26T03:07:05+00:00",
+            "last_fetch_at": "2021-01-26T03:07:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://oceanex.pro/trades/aaveusdt",
@@ -2481,65 +2130,64 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "BigONE",
-                "identifier": "bigone",
+                "name": "AAX",
+                "identifier": "aax",
                 "has_trading_incentive": false
             },
-            "last": 218.373,
-            "volume": 2519.883,
+            "last": 260.484,
+            "volume": 1401.9416957669184,
             "converted_last": {
-                "btc": 0.00679554,
-                "eth": 0.17410497,
-                "usd": 218.5
+                "btc": 0.00807097,
+                "eth": 0.19329034,
+                "usd": 261.16
             },
             "converted_volume": {
-                "btc": 17.123962,
-                "eth": 438.724,
-                "usd": 550596
+                "btc": 11.315029,
+                "eth": 270.982,
+                "usd": 366131
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.708929,
-            "timestamp": "2021-01-23T18:21:29+00:00",
-            "last_traded_at": "2021-01-23T18:21:29+00:00",
-            "last_fetch_at": "2021-01-23T18:21:29+00:00",
+            "bid_ask_spread_percentage": 0.399546,
+            "timestamp": "2021-01-26T03:03:48+00:00",
+            "last_traded_at": "2021-01-26T03:03:48+00:00",
+            "last_fetch_at": "2021-01-26T03:03:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://big.one/trade/AAVE-USDT",
+            "trade_url": "https://www.aax.com/spot/trade/AAVE:USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
         },
         {
             "base": "AAVE",
-            "target": "BTC",
+            "target": "USD",
             "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.00678795,
-            "volume": 810.0763,
+            "last": 259.59,
+            "volume": 272.68813449,
             "converted_last": {
-                "btc": 0.00678795,
-                "eth": 0.17358339,
-                "usd": 218.34
+                "btc": 0.0080164,
+                "eth": 0.19197682,
+                "usd": 259.59
             },
             "converted_volume": {
-                "btc": 5.498757,
-                "eth": 140.616,
-                "usd": 176875
+                "btc": 2.185978,
+                "eth": 52.35,
+                "usd": 70787
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.952647,
-            "timestamp": "2021-01-23T18:25:45+00:00",
-            "last_traded_at": "2021-01-23T18:25:45+00:00",
-            "last_fetch_at": "2021-01-23T18:25:45+00:00",
+            "bid_ask_spread_percentage": 0.975946,
+            "timestamp": "2021-01-26T03:06:57+00:00",
+            "last_traded_at": "2021-01-26T03:06:57+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=AAVE_BTC",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-AAVE",
             "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "bitcoin"
+            "coin_id": "aave"
         },
         {
             "base": "AAVE",
@@ -2549,23 +2197,23 @@
                 "identifier": "virgox",
                 "has_trading_incentive": false
             },
-            "last": 217.776,
-            "volume": 91.6,
+            "last": 260.235,
+            "volume": 479.66,
             "converted_last": {
-                "btc": 0.00677796,
-                "eth": 0.17332804,
-                "usd": 217.94
+                "btc": 0.00805024,
+                "eth": 0.19278711,
+                "usd": 260.68
             },
             "converted_volume": {
-                "btc": 0.62086155,
-                "eth": 15.876848,
-                "usd": 19963.19
+                "btc": 3.861378,
+                "eth": 92.472,
+                "usd": 125038
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.279095,
-            "timestamp": "2021-01-23T18:26:15+00:00",
-            "last_traded_at": "2021-01-23T18:26:15+00:00",
-            "last_fetch_at": "2021-01-23T18:26:15+00:00",
+            "bid_ask_spread_percentage": 0.288691,
+            "timestamp": "2021-01-26T03:05:59+00:00",
+            "last_traded_at": "2021-01-26T03:05:59+00:00",
+            "last_fetch_at": "2021-01-26T03:05:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://virgox.com/exchange",
@@ -2575,127 +2223,96 @@
         },
         {
             "base": "AAVE",
-            "target": "BTC",
+            "target": "BNB",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.00677071,
-            "volume": 313.31804316,
+            "last": 6.1634,
+            "volume": 2302.778247720414,
             "converted_last": {
-                "btc": 0.00677071,
-                "eth": 0.17420145,
-                "usd": 218.33
+                "btc": 0.00803584,
+                "eth": 0.19244231,
+                "usd": 260.22
             },
             "converted_volume": {
-                "btc": 2.121386,
-                "eth": 54.58,
-                "usd": 68407
+                "btc": 18.50476,
+                "eth": 443.152,
+                "usd": 599228
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.472504,
-            "timestamp": "2021-01-23T18:10:23+00:00",
-            "last_traded_at": "2021-01-23T18:10:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "bid_ask_spread_percentage": 0.663674,
+            "timestamp": "2021-01-26T03:06:20+00:00",
+            "last_traded_at": "2021-01-26T03:06:20+00:00",
+            "last_fetch_at": "2021-01-26T03:06:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-AAVE",
+            "trade_url": "https://www.binance.com/en/trade/AAVE_BNB",
             "token_info_url": null,
             "coin_id": "aave",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "binancecoin"
         },
         {
             "base": "AAVE",
-            "target": "GBP",
+            "target": "USDT",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "BitMart",
+                "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 158.46,
-            "volume": 313.26728003,
+            "last": 258.9531,
+            "volume": 2587.88,
             "converted_last": {
-                "btc": 0.00674261,
-                "eth": 0.17274885,
-                "usd": 216.8
+                "btc": 0.0080154,
+                "eth": 0.19223759,
+                "usd": 259.41
             },
             "converted_volume": {
-                "btc": 2.112238,
-                "eth": 54.117,
-                "usd": 67916
+                "btc": 20.742904,
+                "eth": 497.488,
+                "usd": 671315
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.46126,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.539983,
+            "timestamp": "2021-01-26T02:55:49+00:00",
+            "last_traded_at": "2021-01-26T02:55:49+00:00",
+            "last_fetch_at": "2021-01-26T02:59:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/aave/gbp",
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=AAVE_USDT",
             "token_info_url": null,
-            "coin_id": "aave"
+            "coin_id": "aave",
+            "target_coin_id": "tether"
         },
         {
             "base": "AAVE",
             "target": "ETH",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "Bibox",
+                "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.1731,
-            "volume": 47.30663275,
+            "last": 0.19136172,
+            "volume": 251.131,
             "converted_last": {
-                "btc": 0.00677513,
-                "eth": 0.1735822,
-                "usd": 217.86
+                "btc": 0.0079683,
+                "eth": 0.19077842,
+                "usd": 257.67
             },
             "converted_volume": {
-                "btc": 0.32050878,
-                "eth": 8.211589,
-                "usd": 10306.09
+                "btc": 2.001088,
+                "eth": 47.910374,
+                "usd": 64708
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.487414,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "bid_ask_spread_percentage": 1.162076,
+            "timestamp": "2021-01-26T02:51:34+00:00",
+            "last_traded_at": "2021-01-26T02:51:34+00:00",
+            "last_fetch_at": "2021-01-26T02:57:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/AAVE_ETH",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.17122723,
-            "volume": 26.97020466,
-            "converted_last": {
-                "btc": 0.00670183,
-                "eth": 0.1713812,
-                "usd": 215.57
-            },
-            "converted_volume": {
-                "btc": 0.18074983,
-                "eth": 4.622186,
-                "usd": 5813.85
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.794652,
-            "timestamp": "2021-01-23T18:24:31+00:00",
-            "last_traded_at": "2021-01-23T18:24:31+00:00",
-            "last_fetch_at": "2021-01-23T18:24:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-AAVE",
+            "trade_url": "https://www.bibox.com/exchange?coinPair=AAVE_ETH",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "ethereum"
@@ -2708,23 +2325,23 @@
                 "identifier": "wazirx",
                 "has_trading_incentive": false
             },
-            "last": 218.942,
-            "volume": 238.903,
+            "last": 258.0,
+            "volume": 592.976,
             "converted_last": {
-                "btc": 0.00680701,
-                "eth": 0.17407077,
-                "usd": 218.95
+                "btc": 0.00799843,
+                "eth": 0.19183055,
+                "usd": 258.71
             },
             "converted_volume": {
-                "btc": 1.626215,
-                "eth": 41.58603,
-                "usd": 52308
+                "btc": 4.742879,
+                "eth": 113.751,
+                "usd": 153409
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.850552,
-            "timestamp": "2021-01-23T18:24:57+00:00",
-            "last_traded_at": "2021-01-23T18:24:57+00:00",
-            "last_fetch_at": "2021-01-23T18:24:57+00:00",
+            "bid_ask_spread_percentage": 0.170543,
+            "timestamp": "2021-01-26T02:54:05+00:00",
+            "last_traded_at": "2021-01-26T02:54:05+00:00",
+            "last_fetch_at": "2021-01-26T02:54:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2734,64 +2351,223 @@
         },
         {
             "base": "AAVE",
-            "target": "CNYT",
+            "target": "USDT",
             "market": {
-                "name": "BitAsset",
-                "identifier": "bitasset",
+                "name": "BigONE",
+                "identifier": "bigone",
                 "has_trading_incentive": false
             },
-            "last": 1396.016,
-            "volume": 1872.355,
+            "last": 259.954,
+            "volume": 2877.998,
             "converted_last": {
-                "btc": 0.0068229,
-                "eth": 0.17447715,
-                "usd": 219.38
+                "btc": 0.00804155,
+                "eth": 0.19257894,
+                "usd": 260.41
             },
             "converted_volume": {
-                "btc": 12.774891,
-                "eth": 326.683,
-                "usd": 410764
+                "btc": 23.143554,
+                "eth": 554.242,
+                "usd": 749452
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.961183,
-            "timestamp": "2021-01-23T18:26:10+00:00",
-            "last_traded_at": "2021-01-23T18:26:10+00:00",
-            "last_fetch_at": "2021-01-23T18:26:10+00:00",
+            "bid_ask_spread_percentage": 0.526358,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitasset.com/ktrade/AAVE-CNYT",
+            "trade_url": "https://big.one/trade/AAVE-USDT",
             "token_info_url": null,
             "coin_id": "aave",
-            "target_coin_id": "cny-tether"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Poloniex",
+                "identifier": "poloniex",
+                "has_trading_incentive": false
+            },
+            "last": 260.78836905,
+            "volume": 226.99784431,
+            "converted_last": {
+                "btc": 0.00806736,
+                "eth": 0.19319706,
+                "usd": 261.24
+            },
+            "converted_volume": {
+                "btc": 1.831273,
+                "eth": 43.855316,
+                "usd": 59301
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.576587,
+            "timestamp": "2021-01-26T03:06:33+00:00",
+            "last_traded_at": "2021-01-26T03:06:33+00:00",
+            "last_fetch_at": "2021-01-26T03:06:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://poloniex.com/exchange#aave_usdt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
         },
         {
             "base": "AAVE",
             "target": "BTC",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 0.006771,
-            "volume": 1019.5439,
+            "last": 0.00805465,
+            "volume": 472.4379742,
             "converted_last": {
-                "btc": 0.006771,
-                "eth": 0.17314994,
-                "usd": 217.71
+                "btc": 0.00805465,
+                "eth": 0.19289275,
+                "usd": 260.83
             },
             "converted_volume": {
-                "btc": 6.903332,
-                "eth": 176.534,
-                "usd": 221970
+                "btc": 3.805323,
+                "eth": 91.13,
+                "usd": 123227
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.654223,
-            "timestamp": "2021-01-23T18:26:17+00:00",
-            "last_traded_at": "2021-01-23T18:26:17+00:00",
-            "last_fetch_at": "2021-01-23T18:26:17+00:00",
+            "bid_ask_spread_percentage": 1.361495,
+            "timestamp": "2021-01-26T03:07:01+00:00",
+            "last_traded_at": "2021-01-26T03:07:01+00:00",
+            "last_fetch_at": "2021-01-26T03:07:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/AAVE-BTC",
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-AAVE",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.1922,
+            "volume": 59.52431063,
+            "converted_last": {
+                "btc": 0.00805318,
+                "eth": 0.19285755,
+                "usd": 260.78
+            },
+            "converted_volume": {
+                "btc": 0.47935999,
+                "eth": 11.479712,
+                "usd": 15522.99
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.089777,
+            "timestamp": "2021-01-26T03:07:30+00:00",
+            "last_traded_at": "2021-01-26T03:07:30+00:00",
+            "last_fetch_at": "2021-01-26T03:07:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/AAVE_ETH",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 258.6538,
+            "volume": 1927.6342,
+            "converted_last": {
+                "btc": 0.00800785,
+                "eth": 0.19177199,
+                "usd": 259.32
+            },
+            "converted_volume": {
+                "btc": 15.436206,
+                "eth": 369.666,
+                "usd": 499867
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.191438,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/aave_usdt",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "GBP",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 190.03,
+            "volume": 329.90351738,
+            "converted_last": {
+                "btc": 0.00802932,
+                "eth": 0.19257145,
+                "usd": 259.86
+            },
+            "converted_volume": {
+                "btc": 2.648902,
+                "eth": 63.53,
+                "usd": 85728
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.272308,
+            "timestamp": "2021-01-26T02:55:28+00:00",
+            "last_traded_at": "2021-01-26T02:55:28+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/aave/gbp",
+            "token_info_url": null,
+            "coin_id": "aave"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "Bibox",
+                "identifier": "bibox",
+                "has_trading_incentive": false
+            },
+            "last": 0.00802645,
+            "volume": 1229.4121,
+            "converted_last": {
+                "btc": 0.00802645,
+                "eth": 0.19250251,
+                "usd": 259.81
+            },
+            "converted_volume": {
+                "btc": 9.867815,
+                "eth": 236.665,
+                "usd": 319419
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.154987,
+            "timestamp": "2021-01-26T02:57:00+00:00",
+            "last_traded_at": "2021-01-26T02:57:00+00:00",
+            "last_fetch_at": "2021-01-26T02:57:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bibox.com/exchange?coinPair=AAVE_BTC",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "bitcoin"
@@ -2804,23 +2580,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.17368318,
-            "volume": 712.24354032,
+            "last": 0.19162441,
+            "volume": 719.20933464,
             "converted_last": {
-                "btc": 0.00679796,
-                "eth": 0.174167,
-                "usd": 218.58
+                "btc": 0.0079984,
+                "eth": 0.19155246,
+                "usd": 258.81
             },
             "converted_volume": {
-                "btc": 4.841803,
-                "eth": 124.049,
-                "usd": 155681
+                "btc": 5.752526,
+                "eth": 137.766,
+                "usd": 186140
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.973097,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "bid_ask_spread_percentage": 0.31185,
+            "timestamp": "2021-01-26T03:03:44+00:00",
+            "last_traded_at": "2021-01-26T03:03:44+00:00",
+            "last_fetch_at": "2021-01-26T03:03:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=ETH&dest=AAVE#limit",
@@ -2836,23 +2612,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00674502,
-            "volume": 718.63203848,
+            "last": 0.0079906,
+            "volume": 881.75912968,
             "converted_last": {
-                "btc": 0.00674502,
-                "eth": 0.17281066,
-                "usd": 216.88
+                "btc": 0.0079906,
+                "eth": 0.19136559,
+                "usd": 258.56
             },
             "converted_volume": {
-                "btc": 4.847187,
-                "eth": 124.187,
-                "usd": 155854
+                "btc": 7.045785,
+                "eth": 168.738,
+                "usd": 227987
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.898551,
-            "timestamp": "2021-01-23T18:21:03+00:00",
-            "last_traded_at": "2021-01-23T18:21:03+00:00",
-            "last_fetch_at": "2021-01-23T18:21:03+00:00",
+            "bid_ask_spread_percentage": 1.234568,
+            "timestamp": "2021-01-26T03:03:42+00:00",
+            "last_traded_at": "2021-01-26T03:03:42+00:00",
+            "last_fetch_at": "2021-01-26T03:03:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=BTC&dest=AAVE#limit",
@@ -2868,23 +2644,23 @@
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 241300.0,
-            "volume": 973.5257,
+            "last": 290790.0,
+            "volume": 987.209,
             "converted_last": {
-                "btc": 0.00678809,
-                "eth": 0.17358703,
-                "usd": 218.26
+                "btc": 0.00814788,
+                "eth": 0.1951255,
+                "usd": 263.84
             },
             "converted_volume": {
-                "btc": 6.608382,
-                "eth": 168.991,
-                "usd": 212486
+                "btc": 8.043664,
+                "eth": 192.63,
+                "usd": 260469
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.948958,
-            "timestamp": "2021-01-23T18:26:06+00:00",
-            "last_traded_at": "2021-01-23T18:26:06+00:00",
-            "last_fetch_at": "2021-01-23T18:26:06+00:00",
+            "bid_ask_spread_percentage": 1.821731,
+            "timestamp": "2021-01-26T03:05:14+00:00",
+            "last_traded_at": "2021-01-26T03:05:14+00:00",
+            "last_fetch_at": "2021-01-26T03:05:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/AAVE-KRW",
@@ -2895,27 +2671,123 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 260.439,
+            "volume": 149.32827925,
+            "converted_last": {
+                "btc": 0.00803239,
+                "eth": 0.19171817,
+                "usd": 260.94
+            },
+            "converted_volume": {
+                "btc": 1.199463,
+                "eth": 28.628944,
+                "usd": 38965
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.368922,
+            "timestamp": "2021-01-26T02:36:05+00:00",
+            "last_traded_at": "2021-01-26T02:36:05+00:00",
+            "last_fetch_at": "2021-01-26T03:07:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-AAVE",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "BTC",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 0.008047,
+            "volume": 647.6947,
+            "converted_last": {
+                "btc": 0.008047,
+                "eth": 0.19270955,
+                "usd": 260.58
+            },
+            "converted_volume": {
+                "btc": 5.211999,
+                "eth": 124.817,
+                "usd": 168774
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.553637,
+            "timestamp": "2021-01-26T03:05:14+00:00",
+            "last_traded_at": "2021-01-26T03:05:14+00:00",
+            "last_fetch_at": "2021-01-26T03:05:14+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/AAVE-BTC",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "Resfinex",
+                "identifier": "resfinex",
+                "has_trading_incentive": false
+            },
+            "last": 258.509,
+            "volume": 0.12917000000061307,
+            "converted_last": {
+                "btc": 0.00798463,
+                "eth": 0.19096222,
+                "usd": 258.95
+            },
+            "converted_volume": {
+                "btc": 0.00103138,
+                "eth": 0.02466659,
+                "usd": 33.45
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.151972,
+            "timestamp": "2021-01-26T02:46:23+00:00",
+            "last_traded_at": "2021-01-26T02:46:23+00:00",
+            "last_fetch_at": "2021-01-26T02:59:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.resfinex.com/?pair=AAVE_USDT",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
                 "name": "VCC Exchange",
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 216.224,
-            "volume": 166568.272,
+            "last": 259.963,
+            "volume": 288611.372,
             "converted_last": {
-                "btc": 0.00672907,
-                "eth": 0.17240191,
-                "usd": 216.38
+                "btc": 0.00805483,
+                "eth": 0.19290374,
+                "usd": 260.64
             },
             "converted_volume": {
-                "btc": 1121,
-                "eth": 28717,
-                "usd": 36041249
+                "btc": 2325,
+                "eth": 55674,
+                "usd": 75223020
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.140206,
-            "timestamp": "2021-01-23T18:18:58+00:00",
-            "last_traded_at": "2021-01-23T18:18:58+00:00",
-            "last_fetch_at": "2021-01-23T18:18:58+00:00",
+            "bid_ask_spread_percentage": 0.108805,
+            "timestamp": "2021-01-26T03:03:58+00:00",
+            "last_traded_at": "2021-01-26T03:03:58+00:00",
+            "last_fetch_at": "2021-01-26T03:03:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=aave",
@@ -2927,30 +2799,30 @@
             "base": "AAVE",
             "target": "USDT",
             "market": {
-                "name": "CoinBene",
-                "identifier": "coinbene",
+                "name": "Huobi Indonesia",
+                "identifier": "huobi_id",
                 "has_trading_incentive": false
             },
-            "last": 218.256,
-            "volume": 396402.127694084,
+            "last": 258.7474,
+            "volume": 0.24891307166396537,
             "converted_last": {
-                "btc": 0.00678568,
-                "eth": 0.17352537,
-                "usd": 218.27
+                "btc": 0.00798882,
+                "eth": 0.19132307,
+                "usd": 258.9
             },
             "converted_volume": {
-                "btc": 2690,
-                "eth": 68786,
-                "usd": 86521402
+                "btc": 0.00198852,
+                "eth": 0.04762281,
+                "usd": 64.44
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.486164,
-            "timestamp": "2021-01-23T18:23:36+00:00",
-            "last_traded_at": "2021-01-23T18:23:36+00:00",
-            "last_fetch_at": "2021-01-23T18:23:36+00:00",
+            "bid_ask_spread_percentage": 0.163329,
+            "timestamp": "2021-01-26T03:00:43+00:00",
+            "last_traded_at": "2021-01-26T03:00:43+00:00",
+            "last_fetch_at": "2021-01-26T03:00:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.coinbene.com/spot/exchange/AAVE_USDT",
+            "trade_url": "https://www.huobi.com.co/exchange/#s=aave_usdt",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
@@ -2963,23 +2835,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.006708,
-            "volume": 28026.39,
+            "last": 0.008047,
+            "volume": 72001.56,
             "converted_last": {
-                "btc": 0.006708,
-                "eth": 0.17186219,
-                "usd": 215.7
+                "btc": 0.008047,
+                "eth": 0.1927163,
+                "usd": 260.38
             },
             "converted_volume": {
-                "btc": 188.001,
-                "eth": 4817,
-                "usd": 6045232
+                "btc": 579.397,
+                "eth": 13876,
+                "usd": 18748091
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.174239,
-            "timestamp": "2021-01-23T18:19:00+00:00",
-            "last_traded_at": "2021-01-23T18:19:00+00:00",
-            "last_fetch_at": "2021-01-23T18:19:00+00:00",
+            "bid_ask_spread_percentage": 0.186816,
+            "timestamp": "2021-01-26T03:03:57+00:00",
+            "last_traded_at": "2021-01-26T03:03:57+00:00",
+            "last_fetch_at": "2021-01-26T03:03:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=btc&coin=aave",
@@ -2989,29 +2861,61 @@
         },
         {
             "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "CoinBene",
+                "identifier": "coinbene",
+                "has_trading_incentive": false
+            },
+            "last": 258.874,
+            "volume": 247917.03525073975,
+            "converted_last": {
+                "btc": 0.00800814,
+                "eth": 0.19177886,
+                "usd": 259.33
+            },
+            "converted_volume": {
+                "btc": 1985,
+                "eth": 47545,
+                "usd": 64291188
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.716118,
+            "timestamp": "2021-01-26T03:07:41+00:00",
+            "last_traded_at": "2021-01-26T03:07:41+00:00",
+            "last_fetch_at": "2021-01-26T03:07:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinbene.com/spot/exchange/AAVE_USDT",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
             "target": "BTC",
             "market": {
                 "name": "Changelly PRO",
                 "identifier": "changelly",
                 "has_trading_incentive": false
             },
-            "last": 0.0067355,
-            "volume": 1896.431,
+            "last": 0.0080262,
+            "volume": 2974.654,
             "converted_last": {
-                "btc": 0.0067355,
-                "eth": 0.17366167,
-                "usd": 217.29
+                "btc": 0.0080262,
+                "eth": 0.19221143,
+                "usd": 259.71
             },
             "converted_volume": {
-                "btc": 12.773411,
-                "eth": 329.337,
-                "usd": 412074
+                "btc": 23.875168,
+                "eth": 571.762,
+                "usd": 772545
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.166417,
-            "timestamp": "2021-01-23T18:09:20+00:00",
-            "last_traded_at": "2021-01-23T18:09:20+00:00",
-            "last_fetch_at": "2021-01-23T18:09:20+00:00",
+            "bid_ask_spread_percentage": 0.101243,
+            "timestamp": "2021-01-26T03:04:57+00:00",
+            "last_traded_at": "2021-01-26T03:04:57+00:00",
+            "last_fetch_at": "2021-01-26T03:04:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.changelly.com",
@@ -3021,61 +2925,29 @@
         },
         {
             "base": "AAVE",
-            "target": "ETH",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.171517,
-            "volume": 113.731,
-            "converted_last": {
-                "btc": 0.00671318,
-                "eth": 0.17199479,
-                "usd": 215.86
-            },
-            "converted_volume": {
-                "btc": 0.76349615,
-                "eth": 19.561139,
-                "usd": 24550
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.367157,
-            "timestamp": "2021-01-23T18:18:50+00:00",
-            "last_traded_at": "2021-01-23T18:18:50+00:00",
-            "last_fetch_at": "2021-01-23T18:18:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/AAVE-to-ETH",
-            "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "AAVE",
             "target": "USDT",
             "market": {
                 "name": "BitZ",
                 "identifier": "bit_z",
                 "has_trading_incentive": false
             },
-            "last": 218.1713,
-            "volume": 76144.4,
+            "last": 259.9997,
+            "volume": 115605.92,
             "converted_last": {
-                "btc": 0.00678305,
-                "eth": 0.17378495,
-                "usd": 218.11
+                "btc": 0.00802749,
+                "eth": 0.19224904,
+                "usd": 259.87
             },
             "converted_volume": {
-                "btc": 516.491,
-                "eth": 13233,
-                "usd": 16607989
+                "btc": 928.025,
+                "eth": 22225,
+                "usd": 30042879
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.198834,
-            "timestamp": "2021-01-23T18:22:41+00:00",
-            "last_traded_at": "2021-01-23T18:22:41+00:00",
-            "last_fetch_at": "2021-01-23T18:22:41+00:00",
+            "bid_ask_spread_percentage": 0.245077,
+            "timestamp": "2021-01-26T02:58:59+00:00",
+            "last_traded_at": "2021-01-26T02:58:59+00:00",
+            "last_fetch_at": "2021-01-26T02:58:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bit-z.com/exchange/aave_usdt",
@@ -3091,23 +2963,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.17123,
-            "volume": 6462.414,
+            "last": 0.19229,
+            "volume": 11998.585,
             "converted_last": {
-                "btc": 0.00670194,
-                "eth": 0.17170699,
-                "usd": 215.5
+                "btc": 0.00802618,
+                "eth": 0.1922178,
+                "usd": 259.71
             },
             "converted_volume": {
-                "btc": 43.310725,
-                "eth": 1110,
-                "usd": 1392670
+                "btc": 96.303,
+                "eth": 2306,
+                "usd": 3116164
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.31328,
-            "timestamp": "2021-01-23T18:18:58+00:00",
-            "last_traded_at": "2021-01-23T18:18:58+00:00",
-            "last_fetch_at": "2021-01-23T18:18:58+00:00",
+            "bid_ask_spread_percentage": 0.119767,
+            "timestamp": "2021-01-26T03:03:57+00:00",
+            "last_traded_at": "2021-01-26T03:03:57+00:00",
+            "last_fetch_at": "2021-01-26T03:03:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=eth&coin=aave",
@@ -3117,66 +2989,35 @@
         },
         {
             "base": "AAVE",
-            "target": "TWD",
+            "target": "CNYT",
             "market": {
                 "name": "BitAsset",
                 "identifier": "bitasset",
                 "has_trading_incentive": false
             },
-            "last": 6091.99,
-            "volume": 1835.55,
+            "last": 1657.573,
+            "volume": 7450.761,
             "converted_last": {
-                "btc": 0.00677461,
-                "eth": 0.17324229,
-                "usd": 217.83
+                "btc": 0.0079038,
+                "eth": 0.18923411,
+                "usd": 256.03
             },
             "converted_volume": {
-                "btc": 12.435138,
-                "eth": 317.995,
-                "usd": 399840
+                "btc": 58.889,
+                "eth": 1410,
+                "usd": 1907650
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.015969,
-            "timestamp": "2021-01-23T18:26:10+00:00",
-            "last_traded_at": "2021-01-23T18:26:10+00:00",
-            "last_fetch_at": "2021-01-23T18:26:10+00:00",
+            "bid_ask_spread_percentage": 0.865294,
+            "timestamp": "2021-01-26T02:50:33+00:00",
+            "last_traded_at": "2021-01-26T02:50:33+00:00",
+            "last_fetch_at": "2021-01-26T02:50:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitasset.com/ktrade/AAVE-TWD",
-            "token_info_url": null,
-            "coin_id": "aave"
-        },
-        {
-            "base": "AAVE",
-            "target": "USDT",
-            "market": {
-                "name": "BitAsset",
-                "identifier": "bitasset",
-                "has_trading_incentive": false
-            },
-            "last": 217.448,
-            "volume": 1882.577,
-            "converted_last": {
-                "btc": 0.00676776,
-                "eth": 0.17306698,
-                "usd": 217.61
-            },
-            "converted_volume": {
-                "btc": 12.740822,
-                "eth": 325.812,
-                "usd": 409668
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.909266,
-            "timestamp": "2021-01-23T18:26:11+00:00",
-            "last_traded_at": "2021-01-23T18:26:11+00:00",
-            "last_fetch_at": "2021-01-23T18:26:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitasset.com/ktrade/AAVE-USDT",
+            "trade_url": "https://www.bitasset.com/ktrade/AAVE-CNYT",
             "token_info_url": null,
             "coin_id": "aave",
-            "target_coin_id": "tether"
+            "target_coin_id": "cny-tether"
         },
         {
             "base": "AAVE",
@@ -3186,23 +3027,23 @@
                 "identifier": "dragonex",
                 "has_trading_incentive": false
             },
-            "last": 218.2047,
-            "volume": 1407.8338,
+            "last": 257.9783,
+            "volume": 1272.6656,
             "converted_last": {
-                "btc": 0.00678409,
-                "eth": 0.17348458,
-                "usd": 218.22
+                "btc": 0.00798694,
+                "eth": 0.19127115,
+                "usd": 258.64
             },
             "converted_volume": {
-                "btc": 9.550866,
-                "eth": 244.237,
-                "usd": 307216
+                "btc": 10.1647,
+                "eth": 243.424,
+                "usd": 329161
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.592099,
-            "timestamp": "2021-01-23T18:25:01+00:00",
-            "last_traded_at": "2021-01-23T18:25:01+00:00",
-            "last_fetch_at": "2021-01-23T18:25:01+00:00",
+            "bid_ask_spread_percentage": 2.221127,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://dragonex.io/en-us/trade/index/aave_usdt",
@@ -3212,35 +3053,34 @@
         },
         {
             "base": "AAVE",
-            "target": "USDT",
+            "target": "KRW",
             "market": {
-                "name": "Resfinex",
-                "identifier": "resfinex",
+                "name": "Coinone",
+                "identifier": "coinone",
                 "has_trading_incentive": false
             },
-            "last": 220.59,
-            "volume": 0.09801999999899635,
+            "last": 289350.0,
+            "volume": 162.2797,
             "converted_last": {
-                "btc": 0.00684464,
-                "eth": 0.17647551,
-                "usd": 220.81
+                "btc": 0.00805662,
+                "eth": 0.1924443,
+                "usd": 262.67
             },
             "converted_volume": {
-                "btc": 0.00067091,
-                "eth": 0.01729813,
-                "usd": 21.64
+                "btc": 1.307426,
+                "eth": 31.229804,
+                "usd": 42626
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.142937,
-            "timestamp": "2021-01-23T18:09:28+00:00",
-            "last_traded_at": "2021-01-23T18:09:28+00:00",
-            "last_fetch_at": "2021-01-23T18:23:52+00:00",
+            "bid_ask_spread_percentage": 10.340052,
+            "timestamp": "2021-01-26T02:15:38+00:00",
+            "last_traded_at": "2021-01-26T02:15:38+00:00",
+            "last_fetch_at": "2021-01-26T03:05:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.resfinex.com/?pair=AAVE_USDT",
+            "trade_url": "https://coinone.co.kr/exchange/trade/aave/krw",
             "token_info_url": null,
-            "coin_id": "aave",
-            "target_coin_id": "tether"
+            "coin_id": "aave"
         },
         {
             "base": "AAVE",
@@ -3250,23 +3090,23 @@
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 0.00667255,
-            "volume": 82.15109422,
+            "last": 0.00800001,
+            "volume": 118.38844283,
             "converted_last": {
-                "btc": 0.00667255,
-                "eth": 0.17149004,
-                "usd": 214.89
+                "btc": 0.00800001,
+                "eth": 0.19158423,
+                "usd": 259.06
             },
             "converted_volume": {
-                "btc": 0.54815728,
-                "eth": 14.088095,
-                "usd": 17653.56
+                "btc": 0.94710873,
+                "eth": 22.681359,
+                "usd": 30670
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 8.089254,
-            "timestamp": "2021-01-23T18:14:49+00:00",
-            "last_traded_at": "2021-01-23T18:14:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:37+00:00",
+            "bid_ask_spread_percentage": 11.955672,
+            "timestamp": "2021-01-26T03:06:32+00:00",
+            "last_traded_at": "2021-01-26T03:06:32+00:00",
+            "last_fetch_at": "2021-01-26T03:06:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#aave_btc",
@@ -3282,29 +3122,189 @@
                 "identifier": "hbtc",
                 "has_trading_incentive": false
             },
-            "last": 217.524,
-            "volume": 930573.465,
+            "last": 260.327,
+            "volume": 1109988.825,
             "converted_last": {
-                "btc": 0.00677012,
-                "eth": 0.17312747,
-                "usd": 217.77
+                "btc": 0.00805308,
+                "eth": 0.19285527,
+                "usd": 260.77
             },
             "converted_volume": {
-                "btc": 6300,
-                "eth": 161108,
-                "usd": 202650551
+                "btc": 8939,
+                "eth": 214067,
+                "usd": 289455793
             },
             "trust_score": "red",
-            "bid_ask_spread_percentage": 0.218355,
-            "timestamp": "2021-01-23T18:25:51+00:00",
-            "last_traded_at": "2021-01-23T18:25:51+00:00",
-            "last_fetch_at": "2021-01-23T18:25:51+00:00",
+            "bid_ask_spread_percentage": 0.219839,
+            "timestamp": "2021-01-26T03:05:19+00:00",
+            "last_traded_at": "2021-01-26T03:05:19+00:00",
+            "last_fetch_at": "2021-01-26T03:05:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bhex.com/exchange/301/AAVE/USDT",
             "token_info_url": null,
             "coin_id": "aave",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "Changelly PRO",
+                "identifier": "changelly",
+                "has_trading_incentive": false
+            },
+            "last": 0.192185,
+            "volume": 325.58,
+            "converted_last": {
+                "btc": 0.0080218,
+                "eth": 0.19211284,
+                "usd": 259.99
+            },
+            "converted_volume": {
+                "btc": 2.611738,
+                "eth": 62.548,
+                "usd": 84649
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.598303,
+            "timestamp": "2021-01-26T02:59:19+00:00",
+            "last_traded_at": "2021-01-26T02:59:19+00:00",
+            "last_fetch_at": "2021-01-26T03:07:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.changelly.com",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "BitAsset",
+                "identifier": "bitasset",
+                "has_trading_incentive": false
+            },
+            "last": 260.562,
+            "volume": 7422.269,
+            "converted_last": {
+                "btc": 0.00803885,
+                "eth": 0.19214527,
+                "usd": 261.2
+            },
+            "converted_volume": {
+                "btc": 59.666,
+                "eth": 1426,
+                "usd": 1938691
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 0.942203,
+            "timestamp": "2021-01-26T02:30:15+00:00",
+            "last_traded_at": "2021-01-26T02:30:15+00:00",
+            "last_fetch_at": "2021-01-26T02:30:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitasset.com/ktrade/AAVE-USDT",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDT",
+            "market": {
+                "name": "TOKOK",
+                "identifier": "tokok",
+                "has_trading_incentive": false
+            },
+            "last": 260.77,
+            "volume": 723.874,
+            "converted_last": {
+                "btc": 0.00806679,
+                "eth": 0.19318345,
+                "usd": 261.22
+            },
+            "converted_volume": {
+                "btc": 5.839339,
+                "eth": 139.84,
+                "usd": 189094
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 5.198651,
+            "timestamp": "2021-01-26T03:07:05+00:00",
+            "last_traded_at": "2021-01-26T03:07:05+00:00",
+            "last_fetch_at": "2021-01-26T03:07:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "AAVE",
+            "target": "ETH",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.192185,
+            "volume": 325.58,
+            "converted_last": {
+                "btc": 0.0080218,
+                "eth": 0.19211284,
+                "usd": 259.99
+            },
+            "converted_volume": {
+                "btc": 2.611738,
+                "eth": 62.548,
+                "usd": 84649
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.273191,
+            "timestamp": "2021-01-26T02:59:47+00:00",
+            "last_traded_at": "2021-01-26T02:59:47+00:00",
+            "last_fetch_at": "2021-01-26T02:59:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/AAVE-to-ETH",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "AAVE",
+            "target": "USDC",
+            "market": {
+                "name": "Serum DEX",
+                "identifier": "serum_dex",
+                "has_trading_incentive": false
+            },
+            "last": 280.1,
+            "volume": 1.1400000000000001,
+            "converted_last": {
+                "btc": 0.00854622,
+                "eth": 0.20472143,
+                "usd": 280.02
+            },
+            "converted_volume": {
+                "btc": 0.00974269,
+                "eth": 0.23338243,
+                "usd": 319.22
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 0.919435,
+            "timestamp": "2021-01-26T01:55:49+00:00",
+            "last_traded_at": "2021-01-26T01:55:49+00:00",
+            "last_fetch_at": "2021-01-26T03:00:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://dex.projectserum.com",
+            "token_info_url": null,
+            "coin_id": "aave",
+            "target_coin_id": "usd-coin"
         }
     ]
 }

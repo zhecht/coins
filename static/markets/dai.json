@@ -103,9 +103,9 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-    "sentiment_votes_up_percentage": 64.71,
-    "sentiment_votes_down_percentage": 35.29,
-    "market_cap_rank": 30,
+    "sentiment_votes_up_percentage": 73.68,
+    "sentiment_votes_down_percentage": 26.32,
+    "market_cap_rank": 29,
     "coingecko_rank": 156,
     "coingecko_score": 39.085,
     "developer_score": 0.0,
@@ -117,7 +117,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:09:14.671Z",
+    "last_updated": "2021-01-26T03:07:48.378Z",
     "tickers": [
         {
             "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
@@ -127,61 +127,29 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000797866100526392,
-            "volume": 69727831.0979958,
+            "last": 0.000742283020343705,
+            "volume": 85321784.2567926,
             "converted_last": {
-                "btc": 3.123e-05,
-                "eth": 0.00080009,
+                "btc": 3.098e-05,
+                "eth": 0.000742,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 2177,
-                "eth": 55788,
-                "usd": 70018009
+                "btc": 2644,
+                "eth": 63309,
+                "usd": 85653385
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602713,
-            "timestamp": "2021-01-23T18:18:12+00:00",
-            "last_traded_at": "2021-01-23T18:18:12+00:00",
-            "last_fetch_at": "2021-01-23T18:18:12+00:00",
+            "timestamp": "2021-01-26T03:01:06+00:00",
+            "last_traded_at": "2021-01-26T03:01:06+00:00",
+            "last_fetch_at": "2021-01-26T03:01:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
             "token_info_url": "https://info.uniswap.org/token/0x6b175474e89094c44da98b954eedeac495271d0f",
             "coin_id": "dai",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "ETH",
-            "target": "DAI",
-            "market": {
-                "name": "dYdX",
-                "identifier": "dydx",
-                "has_trading_incentive": false
-            },
-            "last": 1251.86,
-            "volume": 4801.8418,
-            "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00080044,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 187.217,
-                "eth": 4812,
-                "usd": 6024938
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.160033,
-            "timestamp": "2021-01-23T18:16:05+00:00",
-            "last_traded_at": "2021-01-23T18:16:05+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.dydx.exchange/markets",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
         },
         {
             "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
@@ -191,23 +159,23 @@
                 "identifier": "sushiswap",
                 "has_trading_incentive": false
             },
-            "last": 0.00079783384796682,
-            "volume": 30476550.2039776,
+            "last": 0.000740282183050619,
+            "volume": 42896395.470598,
             "converted_last": {
-                "btc": 3.123e-05,
-                "eth": 0.00080006,
+                "btc": 3.102e-05,
+                "eth": 0.00074281,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 951.698,
-                "eth": 24383,
-                "usd": 30601994
+                "btc": 1331,
+                "eth": 31864,
+                "usd": 43086429
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:19:28+00:00",
-            "last_traded_at": "2021-01-23T18:19:28+00:00",
-            "last_fetch_at": "2021-01-23T18:19:28+00:00",
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -223,29 +191,61 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 1.0027,
-            "volume": 684007.6760818964,
+            "last": 1.0003,
+            "volume": 926427.9783464724,
             "converted_last": {
-                "btc": 3.121e-05,
-                "eth": 0.00079805,
+                "btc": 3.096e-05,
+                "eth": 0.00074259,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 21.346234,
-                "eth": 545.872,
-                "usd": 686629
+                "btc": 28.684431,
+                "eth": 687.954,
+                "usd": 928448
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.17984,
-            "timestamp": "2021-01-23T18:25:24+00:00",
-            "last_traded_at": "2021-01-23T18:25:24+00:00",
-            "last_fetch_at": "2021-01-23T18:25:24+00:00",
+            "bid_ask_spread_percentage": 0.109996,
+            "timestamp": "2021-01-26T02:56:43+00:00",
+            "last_traded_at": "2021-01-26T02:56:43+00:00",
+            "last_fetch_at": "2021-01-26T02:56:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=dai_usdt",
             "token_info_url": null,
             "coin_id": "dai",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "DAI",
+            "market": {
+                "name": "dYdX",
+                "identifier": "dydx",
+                "has_trading_incentive": false
+            },
+            "last": 1348.17,
+            "volume": 11045.3685,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00074075,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 460.604,
+                "eth": 11031,
+                "usd": 14915208
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.111213,
+            "timestamp": "2021-01-26T03:05:46+00:00",
+            "last_traded_at": "2021-01-26T03:05:46+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.dydx.exchange/markets",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "dai"
         },
         {
             "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
@@ -255,23 +255,23 @@
                 "identifier": "one_inch_liquidity_protocol",
                 "has_trading_incentive": false
             },
-            "last": 0.000804092605768132,
-            "volume": 9663345.17889759,
+            "last": 0.000739703209290303,
+            "volume": 20138680.7064211,
             "converted_last": {
-                "btc": 3.144e-05,
-                "eth": 0.00080399,
-                "usd": 1.01
+                "btc": 3.101e-05,
+                "eth": 0.00074259,
+                "usd": 1.0
             },
             "converted_volume": {
-                "btc": 303.816,
-                "eth": 7769,
-                "usd": 9772619
+                "btc": 624.467,
+                "eth": 14955,
+                "usd": 20213098
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602718,
-            "timestamp": "2021-01-23T18:25:02+00:00",
-            "last_traded_at": "2021-01-23T18:25:02+00:00",
-            "last_fetch_at": "2021-01-23T18:25:02+00:00",
+            "bid_ask_spread_percentage": 0.602716,
+            "timestamp": "2021-01-26T03:08:07+00:00",
+            "last_traded_at": "2021-01-26T03:08:07+00:00",
+            "last_fetch_at": "2021-01-26T03:08:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -287,23 +287,23 @@
                 "identifier": "dydx",
                 "has_trading_incentive": false
             },
-            "last": 1.0024,
-            "volume": 194084.5419,
+            "last": 1.0005,
+            "volume": 625239.9116,
             "converted_last": {
-                "btc": 3.097e-05,
-                "eth": 0.00079999,
+                "btc": 3.096e-05,
+                "eth": 0.00074243,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 6.011535,
-                "eth": 155.267,
-                "usd": 194373
+                "btc": 19.354883,
+                "eth": 464.198,
+                "usd": 626513
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139581,
-            "timestamp": "2021-01-23T17:48:09+00:00",
-            "last_traded_at": "2021-01-23T17:48:09+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "bid_ask_spread_percentage": 0.129766,
+            "timestamp": "2021-01-26T02:57:08+00:00",
+            "last_traded_at": "2021-01-26T02:57:08+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.dydx.exchange/markets",
@@ -319,29 +319,189 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.9992,
-            "volume": 6397363.332281825,
+            "last": 0.9998,
+            "volume": 7874289.901566314,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 198.784,
-                "eth": 5083,
-                "usd": 6394049
+                "btc": 243.325,
+                "eth": 5827,
+                "usd": 7879534
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.110007,
-            "timestamp": "2021-01-23T18:23:24+00:00",
-            "last_traded_at": "2021-01-23T18:23:24+00:00",
-            "last_fetch_at": "2021-01-23T18:23:24+00:00",
+            "bid_ask_spread_percentage": 0.120004,
+            "timestamp": "2021-01-26T03:07:51+00:00",
+            "last_traded_at": "2021-01-26T03:07:51+00:00",
+            "last_fetch_at": "2021-01-26T03:07:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/USDT_DAI",
             "token_info_url": null,
             "coin_id": "tether",
             "target_coin_id": "dai"
+        },
+        {
+            "base": "BTC",
+            "target": "DAI",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 32284.26,
+            "volume": 14.22141,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 14.190442,
+                "eth": 339.833,
+                "usd": 459324
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.196414,
+            "timestamp": "2021-01-26T03:08:59+00:00",
+            "last_traded_at": "2021-01-26T03:08:59+00:00",
+            "last_fetch_at": "2021-01-26T03:08:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/BTC-to-DAI",
+            "token_info_url": null,
+            "coin_id": "bitcoin",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
+            "target": "ETH",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 0.00074355939001088,
+            "volume": 12395252.1337797,
+            "converted_last": {
+                "btc": 3.102e-05,
+                "eth": 0.000744,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 384.517,
+                "eth": 9222,
+                "usd": 12444338
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602715,
+            "timestamp": "2021-01-26T02:55:21+00:00",
+            "last_traded_at": "2021-01-26T02:55:21+00:00",
+            "last_fetch_at": "2021-01-26T03:04:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0x6b175474e89094c44da98b954eedeac495271d0f",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x6b175474e89094c44da98b954eedeac495271d0f",
+            "coin_id": "dai",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
+            "target": "DAI",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 1344.882484754,
+            "volume": 9010.18792100722,
+            "converted_last": {
+                "btc": 3.087e-05,
+                "eth": 0.00073937,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 374.105,
+                "eth": 8959,
+                "usd": 12125124
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602715,
+            "timestamp": "2021-01-26T02:59:33+00:00",
+            "last_traded_at": "2021-01-26T02:59:33+00:00",
+            "last_fetch_at": "2021-01-26T02:59:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "BUSD",
+            "target": "DAI",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.9994,
+            "volume": 4659855.562153292,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00074075,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 144.051,
+                "eth": 3450,
+                "usd": 4664695
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.110005,
+            "timestamp": "2021-01-26T03:06:09+00:00",
+            "last_traded_at": "2021-01-26T03:06:09+00:00",
+            "last_fetch_at": "2021-01-26T03:06:09+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/BUSD_DAI",
+            "token_info_url": null,
+            "coin_id": "binance-usd",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 1.0003,
+            "volume": 8681.043,
+            "converted_last": {
+                "btc": 3.097e-05,
+                "eth": 0.00074165,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.26884332,
+                "eth": 6.43826,
+                "usd": 8702.07
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.13998,
+            "timestamp": "2021-01-26T03:08:50+00:00",
+            "last_traded_at": "2021-01-26T03:08:50+00:00",
+            "last_fetch_at": "2021-01-26T03:08:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=daiusdt",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
         },
         {
             "base": "DAI",
@@ -351,23 +511,23 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 1.0003,
-            "volume": 52576.69,
+            "last": 1.0008,
+            "volume": 399435.95,
             "converted_last": {
-                "btc": 3.113e-05,
-                "eth": 0.00079752,
+                "btc": 3.096e-05,
+                "eth": 0.00074141,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.636622,
-                "eth": 41.931051,
-                "usd": 52623
+                "btc": 12.366235,
+                "eth": 296.147,
+                "usd": 400441
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179904,
-            "timestamp": "2021-01-23T18:21:59+00:00",
-            "last_traded_at": "2021-01-23T18:21:59+00:00",
-            "last_fetch_at": "2021-01-23T18:21:59+00:00",
+            "bid_ask_spread_percentage": 0.179677,
+            "timestamp": "2021-01-26T03:05:08+00:00",
+            "last_traded_at": "2021-01-26T03:05:08+00:00",
+            "last_fetch_at": "2021-01-26T03:05:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#DAI_USDT",
@@ -379,155 +539,27 @@
             "base": "BTC",
             "target": "DAI",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 32151.16,
-            "volume": 6.54269,
-            "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00080015,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 6.541982,
-                "eth": 168.317,
-                "usd": 210750
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.150606,
-            "timestamp": "2021-01-23T18:13:44+00:00",
-            "last_traded_at": "2021-01-23T18:13:44+00:00",
-            "last_fetch_at": "2021-01-23T18:22:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/BTC-to-DAI",
-            "token_info_url": null,
-            "coin_id": "bitcoin",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "0XC02AAA39B223FE8D0A0E5C4F27EAD9083C756CC2",
-            "target": "DAI",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 1252.83891728471,
-            "volume": 6530.89828684241,
-            "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 254.447,
-                "eth": 6507,
-                "usd": 8184321
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:24:20+00:00",
-            "last_traded_at": "2021-01-23T18:24:20+00:00",
-            "last_fetch_at": "2021-01-23T18:24:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
-            "target": "ETH",
-            "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
-                "has_trading_incentive": false
-            },
-            "last": 0.000802120830240619,
-            "volume": 8081401.10349538,
-            "converted_last": {
-                "btc": 3.14e-05,
-                "eth": 0.00080284,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 253.716,
-                "eth": 6488,
-                "usd": 8160812
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602715,
-            "timestamp": "2021-01-23T18:24:21+00:00",
-            "last_traded_at": "2021-01-23T18:24:21+00:00",
-            "last_fetch_at": "2021-01-23T18:24:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0x6b175474e89094c44da98b954eedeac495271d0f",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x6b175474e89094c44da98b954eedeac495271d0f",
-            "coin_id": "dai",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "BUSD",
-            "target": "DAI",
-            "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.9985,
-            "volume": 2235398.7542123185,
+            "last": 32311.18,
+            "volume": 165.48969370895028,
             "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079582,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 69.462,
-                "eth": 1776,
-                "usd": 2234327
+                "btc": 165.267,
+                "eth": 3958,
+                "usd": 5351799
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.12003,
-            "timestamp": "2021-01-23T18:25:24+00:00",
-            "last_traded_at": "2021-01-23T18:25:24+00:00",
-            "last_fetch_at": "2021-01-23T18:25:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/BUSD_DAI",
-            "token_info_url": null,
-            "coin_id": "binance-usd",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "BTC",
-            "target": "DAI",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 32088.7,
-            "volume": 193.9131437845522,
-            "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 193.503,
-                "eth": 4948,
-                "usd": 6224177
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129629,
-            "timestamp": "2021-01-23T18:23:53+00:00",
-            "last_traded_at": "2021-01-23T18:23:53+00:00",
-            "last_fetch_at": "2021-01-23T18:23:53+00:00",
+            "bid_ask_spread_percentage": 0.117116,
+            "timestamp": "2021-01-26T03:07:59+00:00",
+            "last_traded_at": "2021-01-26T03:07:59+00:00",
+            "last_fetch_at": "2021-01-26T03:07:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/BTC_DAI",
@@ -536,35 +568,67 @@
             "target_coin_id": "dai"
         },
         {
-            "base": "0X3449FC1CD036255BA1EB19D65FF4BA2B8903A69A",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "USDT",
             "market": {
-                "name": "Uniswap (v2)",
-                "identifier": "uniswap",
+                "name": "Loopring",
+                "identifier": "loopring",
                 "has_trading_incentive": false
             },
-            "last": 0.562413834640981,
-            "volume": 4720337.46000254,
+            "last": 1.0003,
+            "volume": 346048.668,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.101e-05,
+                "eth": 0.00074247,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 82.558,
-                "eth": 2111,
-                "usd": 2655532
+                "btc": 10.731307,
+                "eth": 256.931,
+                "usd": 347012
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602726,
-            "timestamp": "2021-01-23T18:23:57+00:00",
-            "last_traded_at": "2021-01-23T18:23:57+00:00",
-            "last_fetch_at": "2021-01-23T18:23:57+00:00",
+            "bid_ask_spread_percentage": 0.109997,
+            "timestamp": "2021-01-26T02:51:43+00:00",
+            "last_traded_at": "2021-01-26T02:51:43+00:00",
+            "last_fetch_at": "2021-01-26T03:06:10+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f&outputCurrency=0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
-            "token_info_url": "https://info.uniswap.org/token/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
-            "coin_id": "basis-cash",
+            "trade_url": "https://exchange.loopring.io/trade/DAI-USDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "DAI",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 1355.38,
+            "volume": 3246.8833,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 136.016,
+                "eth": 3257,
+                "usd": 4402641
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.532064,
+            "timestamp": "2021-01-26T03:08:56+00:00",
+            "last_traded_at": "2021-01-26T03:08:56+00:00",
+            "last_fetch_at": "2021-01-26T03:08:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/ETH-to-DAI",
+            "token_info_url": null,
+            "coin_id": "ethereum",
             "target_coin_id": "dai"
         },
         {
@@ -575,23 +639,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 1256.12,
-            "volume": 10985.839218324363,
+            "last": 1356.61,
+            "volume": 15045.901547556703,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 429.134,
-                "eth": 10974,
-                "usd": 13803426
+                "btc": 630.865,
+                "eth": 15108,
+                "usd": 20428876
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.122303,
-            "timestamp": "2021-01-23T18:23:38+00:00",
-            "last_traded_at": "2021-01-23T18:23:38+00:00",
-            "last_fetch_at": "2021-01-23T18:23:38+00:00",
+            "bid_ask_spread_percentage": 0.128965,
+            "timestamp": "2021-01-26T03:06:32+00:00",
+            "last_traded_at": "2021-01-26T03:06:32+00:00",
+            "last_fetch_at": "2021-01-26T03:06:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/ETH_DAI",
@@ -600,33 +664,64 @@
             "target_coin_id": "dai"
         },
         {
-            "base": "ETH",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "USD",
             "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
+                "name": "Kraken",
+                "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 1254.627,
-            "volume": 3363.7963,
+            "last": 1.00043,
+            "volume": 1322325.70895984,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
+                "btc": 3.092e-05,
+                "eth": 0.00074044,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 131.451,
-                "eth": 3368,
-                "usd": 4226858
+                "btc": 40.883118,
+                "eth": 979.103,
+                "usd": 1322894
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.627968,
-            "timestamp": "2021-01-23T18:22:28+00:00",
-            "last_traded_at": "2021-01-23T18:22:28+00:00",
-            "last_fetch_at": "2021-01-23T18:22:28+00:00",
+            "bid_ask_spread_percentage": 0.142978,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:08:51+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/ETH-to-DAI",
+            "trade_url": "https://trade.kraken.com/markets/kraken/dai/usd",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "ETH",
+            "target": "DAI",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 1355.005,
+            "volume": 380.82850181,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 15.948975,
+                "eth": 381.946,
+                "usd": 516245
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.171609,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/eth/dai",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "dai"
@@ -639,23 +734,23 @@
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 32113.33,
-            "volume": 1.40009415,
+            "last": 32342.81,
+            "volume": 1.144113,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.098e-05,
+                "eth": 0.00074199,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.398205,
-                "eth": 35.755307,
-                "usd": 44974
+                "btc": 1.146462,
+                "eth": 27.456421,
+                "usd": 37097
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.642492,
-            "timestamp": "2021-01-23T18:23:32+00:00",
-            "last_traded_at": "2021-01-23T18:23:32+00:00",
-            "last_fetch_at": "2021-01-23T18:23:32+00:00",
+            "bid_ask_spread_percentage": 0.695736,
+            "timestamp": "2021-01-26T03:03:05+00:00",
+            "last_traded_at": "2021-01-26T03:03:05+00:00",
+            "last_fetch_at": "2021-01-26T03:03:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -664,37 +759,6 @@
             "target_coin_id": "dai"
         },
         {
-            "base": "DAI",
-            "target": "USD",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 1.002779,
-            "volume": 7940826.65278,
-            "converted_last": {
-                "btc": 3.118e-05,
-                "eth": 0.00079724,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 247.562,
-                "eth": 6331,
-                "usd": 7962894
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.137396,
-            "timestamp": "2021-01-23T18:24:37+00:00",
-            "last_traded_at": "2021-01-23T18:24:37+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/DAI-USD",
-            "token_info_url": null,
-            "coin_id": "dai"
-        },
-        {
             "base": "ETH",
             "target": "DAI",
             "market": {
@@ -702,58 +766,26 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 1254.09,
-            "volume": 2260.83871181,
+            "last": 1355.54,
+            "volume": 2844.80225907,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.093e-05,
+                "eth": 0.00074075,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 88.171,
-                "eth": 2255,
-                "usd": 2836043
+                "btc": 119.28,
+                "eth": 2857,
+                "usd": 3862566
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.105908,
-            "timestamp": "2021-01-23T18:24:37+00:00",
-            "last_traded_at": "2021-01-23T18:24:37+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "bid_ask_spread_percentage": 0.148849,
+            "timestamp": "2021-01-26T03:06:06+00:00",
+            "last_traded_at": "2021-01-26T03:06:06+00:00",
+            "last_fetch_at": "2021-01-26T03:07:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/ETH-DAI",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "ETH",
-            "target": "DAI",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 1249.949,
-            "volume": 337.36679949,
-            "converted_last": {
-                "btc": 3.104e-05,
-                "eth": 0.00080182,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 13.09121,
-                "eth": 338.121,
-                "usd": 422420
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.133955,
-            "timestamp": "2021-01-23T17:46:34+00:00",
-            "last_traded_at": "2021-01-23T17:46:34+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/eth/dai",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "dai"
@@ -766,23 +798,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 1.0024,
-            "volume": 1069527.92469,
+            "last": 1.000151,
+            "volume": 342500.89865,
             "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079582,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 33.283974,
-                "eth": 851.147,
-                "usd": 1070585
+                "btc": 10.585811,
+                "eth": 253.509,
+                "usd": 342798
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.103492,
-            "timestamp": "2021-01-23T18:24:42+00:00",
-            "last_traded_at": "2021-01-23T18:24:42+00:00",
-            "last_fetch_at": "2021-01-23T18:24:42+00:00",
+            "bid_ask_spread_percentage": 0.141876,
+            "timestamp": "2021-01-26T03:07:34+00:00",
+            "last_traded_at": "2021-01-26T03:07:34+00:00",
+            "last_fetch_at": "2021-01-26T03:07:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/DAI-USDC",
@@ -791,33 +823,65 @@
             "target_coin_id": "usd-coin"
         },
         {
-            "base": "DAI",
-            "target": "USD",
+            "base": "0X3449FC1CD036255BA1EB19D65FF4BA2B8903A69A",
+            "target": "DAI",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 1.00243,
-            "volume": 1521406.71958573,
+            "last": 0.457661745994976,
+            "volume": 5643856.78415183,
             "converted_last": {
-                "btc": 3.118e-05,
-                "eth": 0.00079875,
+                "btc": 3.087e-05,
+                "eth": 0.00073937,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 47.431943,
-                "eth": 1215,
-                "usd": 1525104
+                "btc": 79.744,
+                "eth": 1910,
+                "usd": 2584347
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183775,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
+            "bid_ask_spread_percentage": 0.602733,
+            "timestamp": "2021-01-26T03:00:14+00:00",
+            "last_traded_at": "2021-01-26T03:00:14+00:00",
+            "last_fetch_at": "2021-01-26T03:00:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/dai/usd",
+            "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f&outputCurrency=0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+            "token_info_url": "https://info.uniswap.org/token/0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a",
+            "coin_id": "basis-cash",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USD",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 1.0009,
+            "volume": 156361.63015925,
+            "converted_last": {
+                "btc": 3.092e-05,
+                "eth": 0.00074045,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 4.834362,
+                "eth": 115.777,
+                "usd": 156502
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.199601,
+            "timestamp": "2021-01-26T02:58:42+00:00",
+            "last_traded_at": "2021-01-26T02:58:42+00:00",
+            "last_fetch_at": "2021-01-26T03:02:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/DAIUSD",
             "token_info_url": null,
             "coin_id": "dai"
         },
@@ -829,23 +893,23 @@
                 "identifier": "aex",
                 "has_trading_incentive": false
             },
-            "last": 0.9985,
-            "volume": 206842.83912726,
+            "last": 0.9989,
+            "volume": 240208.4329515,
             "converted_last": {
-                "btc": 3.104e-05,
-                "eth": 0.00079386,
-                "usd": 0.998531
+                "btc": 3.09e-05,
+                "eth": 0.00074,
+                "usd": 1.0
             },
             "converted_volume": {
-                "btc": 6.421194,
-                "eth": 164.205,
-                "usd": 206539
+                "btc": 7.422553,
+                "eth": 177.755,
+                "usd": 240356
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.14006,
-            "timestamp": "2021-01-23T18:24:12+00:00",
-            "last_traded_at": "2021-01-23T18:24:12+00:00",
-            "last_fetch_at": "2021-01-23T18:24:12+00:00",
+            "bid_ask_spread_percentage": 0.150045,
+            "timestamp": "2021-01-26T03:05:37+00:00",
+            "last_traded_at": "2021-01-26T03:05:37+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aex.com/page/trade.html?mk_type=USDT&trade_coin_name=DAI",
@@ -855,64 +919,32 @@
         },
         {
             "base": "DAI",
-            "target": "EOSDT",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 1.00739,
-            "volume": 1.54,
-            "converted_last": {
-                "btc": 3.132e-05,
-                "eth": 0.00080966,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 4.824e-05,
-                "eth": 0.00124688,
-                "usd": 1.55
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.342735,
-            "timestamp": "2021-01-23T17:25:47+00:00",
-            "last_traded_at": "2021-01-23T17:25:47+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/DAI-to-EOSDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "equilibrium-eosdt"
-        },
-        {
-            "base": "DAI",
             "target": "USD",
             "market": {
-                "name": "Gemini",
-                "identifier": "gemini",
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 1.00159,
-            "volume": 82091.0117022,
+            "last": 1.000051,
+            "volume": 8915930.54515,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079804,
+                "btc": 3.088e-05,
+                "eth": 0.00073957,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 2.557025,
-                "eth": 65.512,
-                "usd": 82222
+                "btc": 275.344,
+                "eth": 6594,
+                "usd": 8916385
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.163472,
-            "timestamp": "2021-01-23T18:19:14+00:00",
-            "last_traded_at": "2021-01-23T18:19:14+00:00",
-            "last_fetch_at": "2021-01-23T18:19:14+00:00",
+            "bid_ask_spread_percentage": 0.123294,
+            "timestamp": "2021-01-26T03:07:42+00:00",
+            "last_traded_at": "2021-01-26T03:07:42+00:00",
+            "last_fetch_at": "2021-01-26T03:07:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://pro.coinbase.com/trade/DAI-USD",
             "token_info_url": null,
             "coin_id": "dai"
         },
@@ -924,23 +956,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 32315.1,
-            "volume": 16.61528414,
+            "last": 32441.4,
+            "volume": 5.07822707,
             "converted_last": {
-                "btc": 3.103e-05,
-                "eth": 0.00080016,
+                "btc": 3.087e-05,
+                "eth": 0.00073722,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 16.663132,
-                "eth": 429.626,
-                "usd": 538261
+                "btc": 5.085279,
+                "eth": 121.454,
+                "usd": 165122
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170191,
-            "timestamp": "2021-01-23T18:07:33+00:00",
-            "last_traded_at": "2021-01-23T18:07:33+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
+            "bid_ask_spread_percentage": 0.131502,
+            "timestamp": "2021-01-26T02:42:26+00:00",
+            "last_traded_at": "2021-01-26T02:42:26+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/xbt/dai",
@@ -952,64 +984,32 @@
             "base": "DAI",
             "target": "USD",
             "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
+                "name": "Gemini",
+                "identifier": "gemini",
                 "has_trading_incentive": false
             },
-            "last": 1.0035,
-            "volume": 85276.64544511,
+            "last": 0.99875,
+            "volume": 131155.16755613,
             "converted_last": {
-                "btc": 3.12e-05,
-                "eth": 0.00079781,
-                "usd": 1.0
+                "btc": 3.085e-05,
+                "eth": 0.00073886,
+                "usd": 0.99875
             },
             "converted_volume": {
-                "btc": 2.660489,
-                "eth": 68.035,
-                "usd": 85575
+                "btc": 4.046322,
+                "eth": 96.905,
+                "usd": 130991
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.199203,
-            "timestamp": "2021-01-23T18:24:59+00:00",
-            "last_traded_at": "2021-01-23T18:24:59+00:00",
-            "last_fetch_at": "2021-01-23T18:24:59+00:00",
+            "bid_ask_spread_percentage": 0.12987,
+            "timestamp": "2021-01-26T02:58:57+00:00",
+            "last_traded_at": "2021-01-26T02:58:57+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/DAIUSD",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "dai"
-        },
-        {
-            "base": "EOS",
-            "target": "DAI",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 2.72122,
-            "volume": 252517.81,
-            "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 21.403008,
-                "eth": 548.355,
-                "usd": 688223
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.346978,
-            "timestamp": "2021-01-23T18:22:17+00:00",
-            "last_traded_at": "2021-01-23T18:22:17+00:00",
-            "last_fetch_at": "2021-01-23T18:22:17+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/EOS-to-DAI",
-            "token_info_url": null,
-            "coin_id": "eos",
-            "target_coin_id": "dai"
         },
         {
             "base": "DAI",
@@ -1019,58 +1019,26 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 1.004,
-            "volume": 63504.937,
+            "last": 1.0035,
+            "volume": 90014.212,
             "converted_last": {
-                "btc": 3.124e-05,
-                "eth": 0.00080047,
+                "btc": 3.098e-05,
+                "eth": 0.00074201,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.984112,
-                "eth": 50.834,
-                "usd": 63796
+                "btc": 2.788915,
+                "eth": 66.791,
+                "usd": 90392
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.159761,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.109965,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/DAI_USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 1.0008,
-            "volume": 380716.87910969,
-            "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00079792,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 11.856988,
-                "eth": 303.782,
-                "usd": 381244
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.187856,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/dai/usdt",
             "token_info_url": null,
             "coin_id": "dai",
             "target_coin_id": "tether"
@@ -1083,23 +1051,23 @@
                 "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 32152.9,
-            "volume": 962.3668,
+            "last": 32348.7,
+            "volume": 956.6595,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
+                "btc": 3.093e-05,
+                "eth": 0.00074075,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 963.784,
-                "eth": 24693,
-                "usd": 30989059
+                "btc": 957.232,
+                "eth": 22924,
+                "usd": 30996929
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.404353,
-            "timestamp": "2021-01-23T18:21:22+00:00",
-            "last_traded_at": "2021-01-23T18:21:22+00:00",
-            "last_fetch_at": "2021-01-23T18:21:22+00:00",
+            "bid_ask_spread_percentage": 0.399354,
+            "timestamp": "2021-01-26T03:05:50+00:00",
+            "last_traded_at": "2021-01-26T03:05:50+00:00",
+            "last_fetch_at": "2021-01-26T03:05:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bkex.com/#/trade/BTC_DAI",
@@ -1109,34 +1077,98 @@
         },
         {
             "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 1.00027,
+            "volume": 143720.35758799,
+            "converted_last": {
+                "btc": 3.097e-05,
+                "eth": 0.00074162,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 4.450744,
+                "eth": 106.586,
+                "usd": 144064
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.174969,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/dai/usdt",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "DAI",
             "target": "EUR",
             "market": {
                 "name": "Kraken",
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.82334,
-            "volume": 663741.67593504,
+            "last": 0.82547,
+            "volume": 451682.57589753,
             "converted_last": {
-                "btc": 3.117e-05,
-                "eth": 0.00079871,
+                "btc": 3.097e-05,
+                "eth": 0.0007416,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 20.691928,
-                "eth": 530.137,
-                "usd": 665318
+                "btc": 13.987243,
+                "eth": 334.966,
+                "usd": 452747
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.189805,
-            "timestamp": "2021-01-23T18:21:48+00:00",
-            "last_traded_at": "2021-01-23T18:21:48+00:00",
-            "last_fetch_at": "2021-01-23T18:21:48+00:00",
+            "bid_ask_spread_percentage": 0.169044,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/dai/eur",
             "token_info_url": null,
             "coin_id": "dai"
+        },
+        {
+            "base": "EOS",
+            "target": "DAI",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 2.65184,
+            "volume": 224619.77,
+            "converted_last": {
+                "btc": 3.098e-05,
+                "eth": 0.00074196,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 18.454747,
+                "eth": 441.954,
+                "usd": 597153
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.441855,
+            "timestamp": "2021-01-26T03:04:08+00:00",
+            "last_traded_at": "2021-01-26T03:04:08+00:00",
+            "last_fetch_at": "2021-01-26T03:04:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/EOS-to-DAI",
+            "token_info_url": null,
+            "coin_id": "eos",
+            "target_coin_id": "dai"
         },
         {
             "base": "USDT",
@@ -1146,23 +1178,23 @@
                 "identifier": "bkex",
                 "has_trading_incentive": false
             },
-            "last": 0.9993,
-            "volume": 1517325.0644,
+            "last": 0.9998,
+            "volume": 1891517.5862,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 47.152304,
-                "eth": 1206,
-                "usd": 1516663
+                "btc": 58.45,
+                "eth": 1400,
+                "usd": 1892757
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119964,
-            "timestamp": "2021-01-23T18:24:23+00:00",
-            "last_traded_at": "2021-01-23T18:24:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:23+00:00",
+            "bid_ask_spread_percentage": 0.140004,
+            "timestamp": "2021-01-26T03:06:44+00:00",
+            "last_traded_at": "2021-01-26T03:06:44+00:00",
+            "last_fetch_at": "2021-01-26T03:06:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bkex.com/#/trade/USDT_DAI",
@@ -1178,23 +1210,23 @@
                 "identifier": "bilaxy",
                 "has_trading_incentive": false
             },
-            "last": 0.9994,
-            "volume": 1373755.76,
+            "last": 0.9998,
+            "volume": 1400365.65,
             "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079582,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 42.725969,
-                "eth": 1093,
-                "usd": 1374289
+                "btc": 43.273001,
+                "eth": 1036,
+                "usd": 1400684
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.25,
-            "timestamp": "2021-01-23T18:24:53+00:00",
-            "last_traded_at": "2021-01-23T18:24:53+00:00",
-            "last_fetch_at": "2021-01-23T18:24:53+00:00",
+            "timestamp": "2021-01-26T03:08:58+00:00",
+            "last_traded_at": "2021-01-26T03:08:58+00:00",
+            "last_fetch_at": "2021-01-26T03:08:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bilaxy.com/trade/USDT_DAI",
@@ -1210,23 +1242,23 @@
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 1.0021,
-            "volume": 85860.47250773376,
+            "last": 1.0006,
+            "volume": 108410.48261043374,
             "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079971,
+                "btc": 3.092e-05,
+                "eth": 0.00074055,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 2.671635,
-                "eth": 68.663,
-                "usd": 86041
+                "btc": 3.352388,
+                "eth": 80.283,
+                "usd": 108476
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139916,
-            "timestamp": "2021-01-23T18:14:21+00:00",
-            "last_traded_at": "2021-01-23T18:14:21+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.129973,
+            "timestamp": "2021-01-26T03:04:39+00:00",
+            "last_traded_at": "2021-01-26T03:04:39+00:00",
+            "last_fetch_at": "2021-01-26T03:04:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.us/en/trade/DAI_USD",
@@ -1234,36 +1266,36 @@
             "coin_id": "dai"
         },
         {
-            "base": "USDT",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "USDT",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "FTX",
+                "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 0.9999,
-            "volume": 129045.77586354,
+            "last": 1.0035,
+            "volume": 911.1151868460389,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
-                "usd": 1.0
+                "btc": 3.1e-05,
+                "eth": 0.00074129,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 4.019014,
-                "eth": 102.969,
-                "usd": 129225
+                "btc": 0.02824035,
+                "eth": 0.67540217,
+                "usd": 916.52
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.180008,
-            "timestamp": "2021-01-23T18:21:49+00:00",
-            "last_traded_at": "2021-01-23T18:21:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:49+00:00",
+            "bid_ask_spread_percentage": 0.577977,
+            "timestamp": "2021-01-26T02:45:29+00:00",
+            "last_traded_at": "2021-01-26T02:45:29+00:00",
+            "last_fetch_at": "2021-01-26T03:06:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/USDT-DAI",
+            "trade_url": "https://ftx.com/trade/DAI/USDT",
             "token_info_url": null,
-            "coin_id": "tether",
-            "target_coin_id": "dai"
+            "coin_id": "dai",
+            "target_coin_id": "tether"
         },
         {
             "base": "DAI",
@@ -1273,28 +1305,92 @@
                 "identifier": "okcoin",
                 "has_trading_incentive": false
             },
-            "last": 1.002,
-            "volume": 17098.1718,
+            "last": 1.0007,
+            "volume": 896054.6618,
             "converted_last": {
-                "btc": 3.111e-05,
-                "eth": 0.00080352,
+                "btc": 3.095e-05,
+                "eth": 0.00074098,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.53196681,
-                "eth": 13.738749,
-                "usd": 17132.37
+                "btc": 27.731951,
+                "eth": 663.963,
+                "usd": 896682
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129934,
-            "timestamp": "2021-01-23T17:39:08+00:00",
-            "last_traded_at": "2021-01-23T17:39:08+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
+            "bid_ask_spread_percentage": 0.129976,
+            "timestamp": "2021-01-26T02:53:00+00:00",
+            "last_traded_at": "2021-01-26T02:53:00+00:00",
+            "last_fetch_at": "2021-01-26T03:08:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okcoin.com/market#product=dai_usd",
             "token_info_url": null,
             "coin_id": "dai"
+        },
+        {
+            "base": "BTC",
+            "target": "DAI",
+            "market": {
+                "name": "CoinJar Exchange",
+                "identifier": "coinjar",
+                "has_trading_incentive": false
+            },
+            "last": 32750.0,
+            "volume": 0.5257072,
+            "converted_last": {
+                "btc": 3.065e-05,
+                "eth": 0.00073128,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.52762144,
+                "eth": 12.59046,
+                "usd": 17248.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.463535,
+            "timestamp": "2021-01-26T02:12:08+00:00",
+            "last_traded_at": "2021-01-26T02:12:08+00:00",
+            "last_fetch_at": "2021-01-26T03:01:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.coinjar.com/trade",
+            "token_info_url": null,
+            "coin_id": "bitcoin",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "USDT",
+            "target": "DAI",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.9998,
+            "volume": 181592.28984057,
+            "converted_last": {
+                "btc": 3.087e-05,
+                "eth": 0.00073937,
+                "usd": 0.999441
+            },
+            "converted_volume": {
+                "btc": 5.605135,
+                "eth": 134.236,
+                "usd": 181455
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.340102,
+            "timestamp": "2021-01-26T02:58:40+00:00",
+            "last_traded_at": "2021-01-26T02:58:40+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/USDT-DAI",
+            "token_info_url": null,
+            "coin_id": "tether",
+            "target_coin_id": "dai"
         },
         {
             "base": "BNB",
@@ -1304,23 +1400,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 40.587,
-            "volume": 3146.642489442432,
+            "last": 42.137,
+            "volume": 2626.0758242874435,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 3.971575,
-                "eth": 101.562,
-                "usd": 127749
+                "btc": 3.42006,
+                "eth": 81.904,
+                "usd": 110750
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.206287,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
+            "bid_ask_spread_percentage": 0.205577,
+            "timestamp": "2021-01-26T03:06:29+00:00",
+            "last_traded_at": "2021-01-26T03:06:29+00:00",
+            "last_fetch_at": "2021-01-26T03:06:29+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/BNB_DAI",
@@ -1330,128 +1426,94 @@
         },
         {
             "base": "DAI",
+            "target": "USD",
+            "market": {
+                "name": "CEX.IO",
+                "identifier": "cex",
+                "has_trading_incentive": false
+            },
+            "last": 1.0,
+            "volume": 2702.403629,
+            "converted_last": {
+                "btc": 3.078e-05,
+                "eth": 0.00073563,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.08317105,
+                "eth": 1.987962,
+                "usd": 2702.4
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.358744,
+            "timestamp": "2021-01-26T02:30:34+00:00",
+            "last_traded_at": "2021-01-26T02:30:34+00:00",
+            "last_fetch_at": "2021-01-26T03:08:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "AUD",
+            "market": {
+                "name": "CoinJar Exchange",
+                "identifier": "coinjar",
+                "has_trading_incentive": false
+            },
+            "last": 1.304,
+            "volume": 28033.702369502,
+            "converted_last": {
+                "btc": 3.099e-05,
+                "eth": 0.00074122,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 0.86883445,
+                "eth": 20.779231,
+                "usd": 28178
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.53681,
+            "timestamp": "2021-01-26T02:47:44+00:00",
+            "last_traded_at": "2021-01-26T02:47:44+00:00",
+            "last_fetch_at": "2021-01-26T03:01:28+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.coinjar.com/trade",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
             "target": "USDT",
             "market": {
                 "name": "OKEx",
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 1.0012,
-            "volume": 119196.9687,
+            "last": 0.9999,
+            "volume": 136291.3829,
             "converted_last": {
-                "btc": 3.113e-05,
-                "eth": 0.00079601,
+                "btc": 3.088e-05,
+                "eth": 0.00073863,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 3.710336,
-                "eth": 94.882,
-                "usd": 119346
+                "btc": 4.209246,
+                "eth": 100.669,
+                "usd": 136509
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139952,
-            "timestamp": "2021-01-23T18:23:52+00:00",
-            "last_traded_at": "2021-01-23T18:23:52+00:00",
-            "last_fetch_at": "2021-01-23T18:23:52+00:00",
+            "bid_ask_spread_percentage": 0.139988,
+            "timestamp": "2021-01-26T02:46:06+00:00",
+            "last_traded_at": "2021-01-26T02:46:06+00:00",
+            "last_fetch_at": "2021-01-26T03:03:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=dai_usdt",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "CoinAll",
-                "identifier": "coinall",
-                "has_trading_incentive": false
-            },
-            "last": 1.0012,
-            "volume": 30595.0637,
-            "converted_last": {
-                "btc": 3.098e-05,
-                "eth": 0.00079864,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.94769708,
-                "eth": 24.434512,
-                "usd": 30612
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129964,
-            "timestamp": "2021-01-23T18:08:03+00:00",
-            "last_traded_at": "2021-01-23T18:08:03+00:00",
-            "last_fetch_at": "2021-01-23T18:24:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.99958801,
-            "volume": 19425.9371558,
-            "converted_last": {
-                "btc": 3.108e-05,
-                "eth": 0.00079473,
-                "usd": 0.999619
-            },
-            "converted_volume": {
-                "btc": 0.60371263,
-                "eth": 15.438311,
-                "usd": 19418.53
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.420007,
-            "timestamp": "2021-01-23T18:24:36+00:00",
-            "last_traded_at": "2021-01-23T18:24:36+00:00",
-            "last_fetch_at": "2021-01-23T18:24:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-DAI",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 1.0003,
-            "volume": 59236.081,
-            "converted_last": {
-                "btc": 3.095e-05,
-                "eth": 0.00079792,
-                "usd": 0.99967
-            },
-            "converted_volume": {
-                "btc": 1.833217,
-                "eth": 47.265913,
-                "usd": 59217
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119796,
-            "timestamp": "2021-01-23T18:08:16+00:00",
-            "last_traded_at": "2021-01-23T18:08:16+00:00",
-            "last_fetch_at": "2021-01-23T18:25:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/DAI",
             "token_info_url": null,
             "coin_id": "dai",
             "target_coin_id": "tether"
@@ -1464,23 +1526,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 28.35,
-            "volume": 18819.4,
+            "last": 27.93,
+            "volume": 27537.92,
             "converted_last": {
-                "btc": 3.128e-05,
-                "eth": 0.00079978,
-                "usd": 1.01
+                "btc": 3.059e-05,
+                "eth": 0.00073249,
+                "usd": 0.991317
             },
             "converted_volume": {
-                "btc": 0.58857845,
-                "eth": 15.051296,
-                "usd": 18932.09
+                "btc": 0.84226997,
+                "eth": 20.171388,
+                "usd": 27299
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.135273,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
+            "bid_ask_spread_percentage": 0.171582,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/DAI_UAH",
@@ -1488,36 +1550,35 @@
             "coin_id": "dai"
         },
         {
-            "base": "ETH",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "RUB",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 1255.25,
-            "volume": 3190.9965,
+            "last": 75.9,
+            "volume": 30049.5,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
-                "usd": 1.0
+                "btc": 3.109e-05,
+                "eth": 0.00074467,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 124.562,
-                "eth": 3185,
-                "usd": 4006629
+                "btc": 0.93435897,
+                "eth": 22.376812,
+                "usd": 30284
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.771928,
-            "timestamp": "2021-01-23T18:23:27+00:00",
-            "last_traded_at": "2021-01-23T18:23:27+00:00",
-            "last_fetch_at": "2021-01-23T18:23:27+00:00",
+            "bid_ask_spread_percentage": 0.139567,
+            "timestamp": "2021-01-26T02:59:37+00:00",
+            "last_traded_at": "2021-01-26T02:59:37+00:00",
+            "last_fetch_at": "2021-01-26T02:59:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/ETH_DAI",
+            "trade_url": "https://whitebit.com/trade/DAI_RUB",
             "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
+            "coin_id": "dai"
         },
         {
             "base": "DAI",
@@ -1527,23 +1588,23 @@
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 1.0022,
-            "volume": 24352.58,
+            "last": 1.0002,
+            "volume": 17870.88,
             "converted_last": {
-                "btc": 3.116e-05,
-                "eth": 0.0007968,
+                "btc": 3.094e-05,
+                "eth": 0.00074097,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.75879878,
-                "eth": 19.404219,
-                "usd": 24407
+                "btc": 0.55293725,
+                "eth": 13.241741,
+                "usd": 17905.41
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119952,
-            "timestamp": "2021-01-23T18:23:52+00:00",
-            "last_traded_at": "2021-01-23T18:23:52+00:00",
-            "last_fetch_at": "2021-01-23T18:23:52+00:00",
+            "bid_ask_spread_percentage": 0.129991,
+            "timestamp": "2021-01-26T03:06:47+00:00",
+            "last_traded_at": "2021-01-26T03:06:47+00:00",
+            "last_fetch_at": "2021-01-26T03:06:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/DAI_USDT",
@@ -1552,67 +1613,100 @@
             "target_coin_id": "tether"
         },
         {
-            "base": "0XEE06A81A695750E71A662B51066F2C74CF4478A0",
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 1.0002,
+            "volume": 55779.4223,
+            "converted_last": {
+                "btc": 3.076e-05,
+                "eth": 0.00073622,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 1.715803,
+                "eth": 41.065673,
+                "usd": 55901
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.15984,
+            "timestamp": "2021-01-26T02:18:16+00:00",
+            "last_traded_at": "2021-01-26T02:18:16+00:00",
+            "last_fetch_at": "2021-01-26T03:06:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/DAI",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "ETH",
+            "target": "DAI",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 1355.22,
+            "volume": 4110.1705,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00074075,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 172.295,
+                "eth": 4126,
+                "usd": 5579228
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.017365,
+            "timestamp": "2021-01-26T03:05:46+00:00",
+            "last_traded_at": "2021-01-26T03:05:46+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/ETH_DAI",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "0X35101C731B1548B5E48BB23F99EDBC2F5C341935",
             "target": "DAI",
             "market": {
                 "name": "Balancer",
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 64.1409487312758,
-            "volume": 459.677824207658,
+            "last": 0.972851112980442,
+            "volume": 94979.0085145594,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.087e-05,
+                "eth": 0.00073937,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.91689019,
-                "eth": 23.446977,
-                "usd": 29492
+                "btc": 2.852657,
+                "eth": 68.318,
+                "usd": 92457
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602862,
-            "timestamp": "2021-01-23T18:24:21+00:00",
-            "last_traded_at": "2021-01-23T18:24:21+00:00",
-            "last_fetch_at": "2021-01-23T18:24:21+00:00",
+            "bid_ask_spread_percentage": 0.602872,
+            "timestamp": "2021-01-26T02:59:32+00:00",
+            "last_traded_at": "2021-01-26T02:59:32+00:00",
+            "last_fetch_at": "2021-01-26T02:59:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xee06a81a695750e71a662b51066f2c74cf4478a0",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xee06a81a695750e71a662b51066f2c74cf4478a0",
-            "coin_id": "decentral-games",
+            "trade_url": "https://balancer.exchange/#/swap/ether/0x35101c731b1548b5e48bb23f99edbc2f5c341935",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x35101c731b1548b5e48bb23f99edbc2f5c341935",
+            "coin_id": "blackholeswap-compound-dai-usdc",
             "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USD",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 1.00190001,
-            "volume": 19412.12779932,
-            "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079654,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.60466026,
-                "eth": 15.462545,
-                "usd": 19449.01
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.703664,
-            "timestamp": "2021-01-23T18:24:36+00:00",
-            "last_traded_at": "2021-01-23T18:24:36+00:00",
-            "last_fetch_at": "2021-01-23T18:24:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-DAI",
-            "token_info_url": null,
-            "coin_id": "dai"
         },
         {
             "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
@@ -1622,23 +1716,23 @@
                 "identifier": "mooniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.000795393395164675,
-            "volume": 7894.39333521575,
+            "last": 0.000734835015668099,
+            "volume": 10930.744649969,
             "converted_last": {
-                "btc": 3.081e-05,
-                "eth": 0.00079651,
-                "usd": 0.994708
+                "btc": 3.077e-05,
+                "eth": 0.00073642,
+                "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.24319141,
-                "eth": 6.287984,
-                "usd": 7852.62
+                "btc": 0.33631215,
+                "eth": 8.049641,
+                "usd": 10949.01
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.603042,
-            "timestamp": "2021-01-23T17:56:56+00:00",
-            "last_traded_at": "2021-01-23T17:56:56+00:00",
-            "last_fetch_at": "2021-01-23T18:20:04+00:00",
+            "bid_ask_spread_percentage": 0.603045,
+            "timestamp": "2021-01-26T02:23:40+00:00",
+            "last_traded_at": "2021-01-26T02:23:40+00:00",
+            "last_fetch_at": "2021-01-26T03:07:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://mooniswap.exchange/#/swap?outputCurrency=0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -1654,23 +1748,23 @@
                 "identifier": "virgox",
                 "has_trading_incentive": false
             },
-            "last": 1.00106,
-            "volume": 8548.58524,
+            "last": 0.99992,
+            "volume": 40144.67346,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079813,
+                "btc": 3.096e-05,
+                "eth": 0.00074136,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.26630498,
-                "eth": 6.822862,
-                "usd": 8562.64
+                "btc": 1.242769,
+                "eth": 29.76182,
+                "usd": 40227
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.197841,
-            "timestamp": "2021-01-23T18:21:41+00:00",
-            "last_traded_at": "2021-01-23T18:21:41+00:00",
-            "last_fetch_at": "2021-01-23T18:21:41+00:00",
+            "bid_ask_spread_percentage": 0.193952,
+            "timestamp": "2021-01-26T03:08:56+00:00",
+            "last_traded_at": "2021-01-26T03:08:56+00:00",
+            "last_fetch_at": "2021-01-26T03:08:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://virgox.com/exchange",
@@ -1686,23 +1780,23 @@
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 1406.85099511961,
-            "volume": 12.6811479143806,
+            "last": 1412.14407202427,
+            "volume": 37.7906965573047,
             "converted_last": {
-                "btc": 3.105e-05,
-                "eth": 0.0008006,
+                "btc": 3.082e-05,
+                "eth": 0.00073571,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.55397103,
-                "eth": 14.283057,
-                "usd": 17871.29
+                "btc": 1.644946,
+                "eth": 39.261795,
+                "usd": 53437
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602972,
-            "timestamp": "2021-01-23T18:09:59+00:00",
-            "last_traded_at": "2021-01-23T18:09:59+00:00",
-            "last_fetch_at": "2021-01-23T18:24:20+00:00",
+            "bid_ask_spread_percentage": 0.602919,
+            "timestamp": "2021-01-26T02:36:50+00:00",
+            "last_traded_at": "2021-01-26T02:36:50+00:00",
+            "last_fetch_at": "2021-01-26T03:04:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://balancer.exchange/#/swap/ether/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
@@ -1718,23 +1812,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 1.0064,
-            "volume": 55575.2632,
+            "last": 1.0023,
+            "volume": 60568.35756460791,
             "converted_last": {
-                "btc": 3.126e-05,
-                "eth": 0.00079948,
-                "usd": 1.01
+                "btc": 3.098e-05,
+                "eth": 0.00074305,
+                "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.737483,
-                "eth": 44.431402,
-                "usd": 55888
+                "btc": 1.876523,
+                "eth": 45.005614,
+                "usd": 60739
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.616057,
-            "timestamp": "2021-01-23T18:25:06+00:00",
-            "last_traded_at": "2021-01-23T18:25:06+00:00",
-            "last_fetch_at": "2021-01-23T18:25:06+00:00",
+            "bid_ask_spread_percentage": 0.507261,
+            "timestamp": "2021-01-26T02:56:44+00:00",
+            "last_traded_at": "2021-01-26T02:56:44+00:00",
+            "last_fetch_at": "2021-01-26T02:56:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=dai_husd",
@@ -1744,61 +1838,29 @@
         },
         {
             "base": "DAI",
-            "target": "BTC",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 3.113e-05,
-            "volume": 7103.8072855,
-            "converted_last": {
-                "btc": 3.113e-05,
-                "eth": 0.0008049,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 0.22114152,
-                "eth": 5.717859,
-                "usd": 7140.63
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.448574,
-            "timestamp": "2021-01-23T17:56:18+00:00",
-            "last_traded_at": "2021-01-23T17:56:18+00:00",
-            "last_fetch_at": "2021-01-23T18:25:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/DAIBTC",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "DAI",
             "target": "USDT",
             "market": {
                 "name": "BiKi",
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 0.9972,
-            "volume": 989.0758,
+            "last": 0.9971,
+            "volume": 2521.1985,
             "converted_last": {
-                "btc": 3.09e-05,
-                "eth": 0.00079894,
-                "usd": 0.997724
+                "btc": 3.078e-05,
+                "eth": 0.00073638,
+                "usd": 0.998408
             },
             "converted_volume": {
-                "btc": 0.03056181,
-                "eth": 0.79020953,
-                "usd": 986.82
+                "btc": 0.07759413,
+                "eth": 1.856569,
+                "usd": 2517.18
             },
             "trust_score": "green",
             "bid_ask_spread_percentage": 0.679185,
-            "timestamp": "2021-01-23T17:55:20+00:00",
-            "last_traded_at": "2021-01-23T17:55:20+00:00",
-            "last_fetch_at": "2021-01-23T18:23:25+00:00",
+            "timestamp": "2021-01-26T02:48:52+00:00",
+            "last_traded_at": "2021-01-26T02:48:52+00:00",
+            "last_fetch_at": "2021-01-26T03:03:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/DAI_USDT",
@@ -1808,66 +1870,66 @@
         },
         {
             "base": "DAI",
-            "target": "USD",
+            "target": "THB",
             "market": {
-                "name": "Tokenize",
-                "identifier": "tokenize",
+                "name": "Bitkub",
+                "identifier": "bitkub",
                 "has_trading_incentive": false
             },
-            "last": 1.0,
-            "volume": 222.48381,
+            "last": 30.48,
+            "volume": 2974.08084576,
             "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00080532,
-                "usd": 1.0
+                "btc": 3.146e-05,
+                "eth": 0.00075334,
+                "usd": 1.02
             },
             "converted_volume": {
-                "btc": 0.00692722,
-                "eth": 0.17916983,
-                "usd": 222.48
+                "btc": 0.09357945,
+                "eth": 2.240495,
+                "usd": 3025.72
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.980198,
-            "timestamp": "2021-01-23T17:31:27+00:00",
-            "last_traded_at": "2021-01-23T17:31:27+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "bid_ask_spread_percentage": 0.683816,
+            "timestamp": "2021-01-26T02:53:49+00:00",
+            "last_traded_at": "2021-01-26T02:53:49+00:00",
+            "last_fetch_at": "2021-01-26T02:53:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://tokenize.exchange/market/USD-DAI",
+            "trade_url": "https://www.bitkub.com/market/DAI",
             "token_info_url": null,
             "coin_id": "dai"
         },
         {
-            "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "USDT",
             "market": {
-                "name": "Balancer",
-                "identifier": "balancer",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 1.00262458820275,
-            "volume": 15102.61395,
+            "last": 0.9995,
+            "volume": 5882.92928577,
             "converted_last": {
-                "btc": 3.096e-05,
-                "eth": 0.00080041,
+                "btc": 3.062e-05,
+                "eth": 0.00073062,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.46880406,
-                "eth": 12.120068,
-                "usd": 15146.81
+                "btc": 0.18012103,
+                "eth": 4.29817,
+                "usd": 5888.97
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.603144,
-            "timestamp": "2021-01-23T18:03:08+00:00",
-            "last_traded_at": "2021-01-23T18:03:08+00:00",
-            "last_fetch_at": "2021-01-23T18:24:46+00:00",
+            "bid_ask_spread_percentage": 0.42833,
+            "timestamp": "2021-01-26T02:11:17+00:00",
+            "last_traded_at": "2021-01-26T02:11:17+00:00",
+            "last_fetch_at": "2021-01-26T03:08:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "coin_id": "usd-coin",
-            "target_coin_id": "dai"
+            "trade_url": "https://gate.io/trade/DAI_USDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
         },
         {
             "base": "0X6B175474E89094C44DA98B954EEDEAC495271D0F",
@@ -1877,23 +1939,23 @@
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 0.997382282228432,
-            "volume": 14957.6483823224,
+            "last": 1.01526803066845,
+            "volume": 37634.6408852573,
             "converted_last": {
-                "btc": 3.083e-05,
-                "eth": 0.00079704,
-                "usd": 0.996087
+                "btc": 3.134e-05,
+                "eth": 0.00075065,
+                "usd": 1.02
             },
             "converted_volume": {
-                "btc": 0.46113776,
-                "eth": 11.921869,
-                "usd": 14899.11
+                "btc": 1.179618,
+                "eth": 28.250485,
+                "usd": 38233
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.603144,
-            "timestamp": "2021-01-23T18:03:05+00:00",
-            "last_traded_at": "2021-01-23T18:03:05+00:00",
-            "last_fetch_at": "2021-01-23T18:24:54+00:00",
+            "bid_ask_spread_percentage": 0.603082,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://balancer.exchange/#/swap/ether/0x6b175474e89094c44da98b954eedeac495271d0f",
@@ -1902,100 +1964,36 @@
             "target_coin_id": "usd-coin"
         },
         {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 1.0002,
-            "volume": 1508687.56,
-            "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079521,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 46.915182,
-                "eth": 1200,
-                "usd": 1509036
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.557269,
-            "timestamp": "2021-01-23T18:24:25+00:00",
-            "last_traded_at": "2021-01-23T18:24:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/dai_usdt",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "0X8A6ACA71A218301C7081D4E96D64292D3B275CE0",
+            "base": "0XA0B86991C6218B36C1D19D4A2E9EB0CE3606EB48",
             "target": "DAI",
             "market": {
                 "name": "Balancer",
                 "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 0.464050546673725,
-            "volume": 31665.9491696842,
+            "last": 0.98496157644361,
+            "volume": 37198.871589,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00080326,
+                "btc": 3.094e-05,
+                "eth": 0.00074207,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 0.45703913,
-                "eth": 11.803642,
-                "usd": 14720.13
+                "btc": 1.133649,
+                "eth": 27.18888,
+                "usd": 36694
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.60337,
-            "timestamp": "2021-01-23T17:40:50+00:00",
-            "last_traded_at": "2021-01-23T17:40:50+00:00",
-            "last_fetch_at": "2021-01-23T18:24:19+00:00",
+            "bid_ask_spread_percentage": 0.603082,
+            "timestamp": "2021-01-26T02:56:52+00:00",
+            "last_traded_at": "2021-01-26T02:56:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://balancer.exchange/#/swap/ether/0x8a6aca71a218301c7081d4e96d64292d3b275ce0",
-            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x8a6aca71a218301c7081d4e96d64292d3b275ce0",
-            "coin_id": "s-finance",
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+            "coin_id": "usd-coin",
             "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.9995,
-            "volume": 7737.017,
-            "converted_last": {
-                "btc": 3.097e-05,
-                "eth": 0.0008011,
-                "usd": 0.999891
-            },
-            "converted_volume": {
-                "btc": 0.2396203,
-                "eth": 6.198138,
-                "usd": 7736.18
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.15,
-            "timestamp": "2021-01-23T17:57:05+00:00",
-            "last_traded_at": "2021-01-23T17:57:05+00:00",
-            "last_fetch_at": "2021-01-23T18:19:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=usdt&symbol=daiusdt",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
         },
         {
             "base": "ETH",
@@ -2005,29 +2003,125 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 1258.66,
-            "volume": 28.34561466,
+            "last": 1353.26,
+            "volume": 18.3976319,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.109488,
-                "eth": 28.37215,
-                "usd": 35687
+                "btc": 0.76949541,
+                "eth": 18.427875,
+                "usd": 24918
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.742963,
-            "timestamp": "2021-01-23T18:24:31+00:00",
-            "last_traded_at": "2021-01-23T18:24:31+00:00",
-            "last_fetch_at": "2021-01-23T18:24:31+00:00",
+            "bid_ask_spread_percentage": 0.785511,
+            "timestamp": "2021-01-26T03:06:52+00:00",
+            "last_traded_at": "2021-01-26T03:06:52+00:00",
+            "last_fetch_at": "2021-01-26T03:06:52+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/ETH-DAI",
             "token_info_url": null,
             "coin_id": "ethereum",
             "target_coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "ETH",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00072882,
+            "volume": 138.23028255,
+            "converted_last": {
+                "btc": 3.057e-05,
+                "eth": 0.00073181,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.00422525,
+                "eth": 0.10115828,
+                "usd": 138.5
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.054197,
+            "timestamp": "2021-01-26T02:03:28+00:00",
+            "last_traded_at": "2021-01-26T02:03:28+00:00",
+            "last_fetch_at": "2021-01-26T03:02:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/DAIETH",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "DAI",
+            "target": "USDC",
+            "market": {
+                "name": "Tokpie",
+                "identifier": "tokpie",
+                "has_trading_incentive": false
+            },
+            "last": 1.00118,
+            "volume": 37346.76,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074023,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 1.154351,
+                "eth": 27.645377,
+                "usd": 37414
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.129961,
+            "timestamp": "2021-01-26T03:00:03+00:00",
+            "last_traded_at": "2021-01-26T03:00:03+00:00",
+            "last_fetch_at": "2021-01-26T03:00:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://tokpie.com/view_exchange/DAI-USDC",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "usd-coin"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 1.0001,
+            "volume": 4789.2182,
+            "converted_last": {
+                "btc": 3.096e-05,
+                "eth": 0.00074244,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.14825603,
+                "eth": 3.555701,
+                "usd": 4798.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.20979,
+            "timestamp": "2021-01-26T02:55:16+00:00",
+            "last_traded_at": "2021-01-26T02:55:16+00:00",
+            "last_fetch_at": "2021-01-26T03:05:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/DAI-USDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
         },
         {
             "base": "BTC",
@@ -2037,23 +2131,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 32153.0,
-            "volume": 1.12343027,
+            "last": 32371.2,
+            "volume": 2.5732699,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00079524,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.123301,
-                "eth": 28.725365,
-                "usd": 36131
+                "btc": 2.574584,
+                "eth": 61.656,
+                "usd": 83371
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.641291,
-            "timestamp": "2021-01-23T18:24:27+00:00",
-            "last_traded_at": "2021-01-23T18:24:27+00:00",
-            "last_fetch_at": "2021-01-23T18:24:27+00:00",
+            "bid_ask_spread_percentage": 0.475423,
+            "timestamp": "2021-01-26T03:06:53+00:00",
+            "last_traded_at": "2021-01-26T03:06:53+00:00",
+            "last_fetch_at": "2021-01-26T03:06:53+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/BTC-DAI",
@@ -2069,23 +2163,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 3.115e-05,
-            "volume": 26209.21922055,
+            "last": 3.123e-05,
+            "volume": 150566.76329126,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079658,
-                "usd": 1.0
+                "btc": 3.123e-05,
+                "eth": 0.00074792,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.81641718,
-                "eth": 20.877653,
-                "usd": 26260
+                "btc": 4.7022,
+                "eth": 112.612,
+                "usd": 152224
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.147593,
-            "timestamp": "2021-01-23T18:24:36+00:00",
-            "last_traded_at": "2021-01-23T18:24:36+00:00",
-            "last_fetch_at": "2021-01-23T18:24:36+00:00",
+            "bid_ask_spread_percentage": 0.961538,
+            "timestamp": "2021-01-26T02:58:25+00:00",
+            "last_traded_at": "2021-01-26T02:58:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:59+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-DAI",
@@ -2097,65 +2191,33 @@
             "base": "DAI",
             "target": "USDT",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "XT",
+                "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 1.0006,
-            "volume": 3481.2431,
+            "last": 1.0026,
+            "volume": 468549.54,
             "converted_last": {
-                "btc": 3.11e-05,
-                "eth": 0.00080011,
-                "usd": 1.0
+                "btc": 3.104e-05,
+                "eth": 0.00074335,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.10826018,
-                "eth": 2.785392,
-                "usd": 3490.07
+                "btc": 14.54388,
+                "eth": 348.297,
+                "usd": 470971
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.109868,
-            "timestamp": "2021-01-23T18:11:44+00:00",
-            "last_traded_at": "2021-01-23T18:11:44+00:00",
-            "last_fetch_at": "2021-01-23T18:19:16+00:00",
+            "bid_ask_spread_percentage": 1.120476,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/DAI-USDT",
+            "trade_url": "https://www.xt.com/trade/dai_usdt",
             "token_info_url": null,
             "coin_id": "dai",
             "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDC",
-            "market": {
-                "name": "Tokpie",
-                "identifier": "tokpie",
-                "has_trading_incentive": false
-            },
-            "last": 1.00118,
-            "volume": 43786.5,
-            "converted_last": {
-                "btc": 3.113e-05,
-                "eth": 0.00079761,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 1.363155,
-                "eth": 34.92468,
-                "usd": 43832
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129961,
-            "timestamp": "2021-01-23T18:20:33+00:00",
-            "last_traded_at": "2021-01-23T18:20:33+00:00",
-            "last_fetch_at": "2021-01-23T18:20:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://tokpie.com/view_exchange/DAI-USDC",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "usd-coin"
         },
         {
             "base": "DAI",
@@ -2165,28 +2227,91 @@
                 "identifier": "exmo",
                 "has_trading_incentive": false
             },
-            "last": 1.006591,
-            "volume": 5161.04400258,
+            "last": 1.006006,
+            "volume": 4065.59687033,
             "converted_last": {
-                "btc": 3.131e-05,
-                "eth": 0.00080207,
+                "btc": 3.108e-05,
+                "eth": 0.0007443,
                 "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.16157052,
-                "eth": 4.139515,
-                "usd": 5195.06
+                "btc": 0.12635772,
+                "eth": 3.026015,
+                "usd": 4090.01
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.947274,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "bid_ask_spread_percentage": 0.497512,
+            "timestamp": "2021-01-26T03:08:49+00:00",
+            "last_traded_at": "2021-01-26T03:08:49+00:00",
+            "last_fetch_at": "2021-01-26T03:08:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exmo.com/en/trade/DAI_USD",
             "token_info_url": null,
             "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "IDR",
+            "market": {
+                "name": "Indodax",
+                "identifier": "indodax",
+                "has_trading_incentive": false
+            },
+            "last": 14160.0,
+            "volume": 39801.64803519,
+            "converted_last": {
+                "btc": 3.097e-05,
+                "eth": 0.00073916,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 1.232589,
+                "eth": 29.419603,
+                "usd": 40031
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.128241,
+            "timestamp": "2021-01-26T02:37:25+00:00",
+            "last_traded_at": "2021-01-26T02:37:25+00:00",
+            "last_fetch_at": "2021-01-26T03:08:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "NovaDAX",
+                "identifier": "novadax",
+                "has_trading_incentive": false
+            },
+            "last": 1.003,
+            "volume": 16406.93,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00074032,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 0.50747015,
+                "eth": 12.146312,
+                "usd": 16521.25
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.458807,
+            "timestamp": "2021-01-26T02:23:17+00:00",
+            "last_traded_at": "2021-01-26T02:23:17+00:00",
+            "last_fetch_at": "2021-01-26T03:08:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=DAI_USDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
         },
         {
             "base": "DAI",
@@ -2196,23 +2321,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 13.939,
-            "volume": 8978.504,
+            "last": 14.319,
+            "volume": 12426.115,
             "converted_last": {
-                "btc": 3.104e-05,
-                "eth": 0.00079532,
-                "usd": 0.998126
+                "btc": 3.108e-05,
+                "eth": 0.00074428,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.27871548,
-                "eth": 7.140825,
-                "usd": 8961.68
+                "btc": 0.38617663,
+                "eth": 9.248482,
+                "usd": 12516.37
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.328618,
-            "timestamp": "2021-01-23T18:21:11+00:00",
-            "last_traded_at": "2021-01-23T18:21:11+00:00",
-            "last_fetch_at": "2021-01-23T18:21:11+00:00",
+            "bid_ask_spread_percentage": 1.241722,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/DAI_CRO",
@@ -2228,23 +2353,23 @@
                 "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.9981,
-            "volume": 37934.9523159,
+            "last": 0.9956,
+            "volume": 21394.16996807,
             "converted_last": {
-                "btc": 3.106e-05,
-                "eth": 0.00079577,
-                "usd": 0.998683
+                "btc": 3.085e-05,
+                "eth": 0.00073878,
+                "usd": 0.998184
             },
             "converted_volume": {
-                "btc": 1.178253,
-                "eth": 30.187409,
-                "usd": 37885
+                "btc": 0.65997119,
+                "eth": 15.805543,
+                "usd": 21355
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.240361,
-            "timestamp": "2021-01-23T18:21:08+00:00",
-            "last_traded_at": "2021-01-23T18:21:08+00:00",
-            "last_fetch_at": "2021-01-23T18:21:08+00:00",
+            "bid_ask_spread_percentage": 0.300601,
+            "timestamp": "2021-01-26T03:03:44+00:00",
+            "last_traded_at": "2021-01-26T03:03:44+00:00",
+            "last_fetch_at": "2021-01-26T03:03:44+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=DAI#limit",
@@ -2254,66 +2379,65 @@
         },
         {
             "base": "DAI",
-            "target": "USDT",
+            "target": "BRL",
             "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
+                "name": "NovaDAX",
+                "identifier": "novadax",
                 "has_trading_incentive": false
             },
-            "last": 1.00000201,
-            "volume": 6658.39860836,
+            "last": 5.5698,
+            "volume": 7662.82,
             "converted_last": {
-                "btc": 3.103e-05,
-                "eth": 0.00080002,
-                "usd": 1.0
+                "btc": 3.138e-05,
+                "eth": 0.00074945,
+                "usd": 1.02
             },
             "converted_volume": {
-                "btc": 0.2066023,
-                "eth": 5.326835,
-                "usd": 6665.06
+                "btc": 0.24045614,
+                "eth": 5.742908,
+                "usd": 7807.77
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.182585,
-            "timestamp": "2021-01-23T18:09:12+00:00",
-            "last_traded_at": "2021-01-23T18:09:12+00:00",
-            "last_fetch_at": "2021-01-23T18:23:43+00:00",
+            "bid_ask_spread_percentage": 0.44015,
+            "timestamp": "2021-01-26T02:42:58+00:00",
+            "last_traded_at": "2021-01-26T02:42:58+00:00",
+            "last_fetch_at": "2021-01-26T03:08:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#dai_usdt",
+            "trade_url": "https://www.novadax.com/product/orderbook?pair=DAI_BRL",
             "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
+            "coin_id": "dai"
         },
         {
-            "base": "BAS",
+            "base": "0X0E29E5ABBB5FD88E28B2D355774E73BD47DE3BCD",
             "target": "DAI",
             "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
+                "name": "Balancer",
+                "identifier": "balancer",
                 "has_trading_incentive": false
             },
-            "last": 85.51,
-            "volume": 1923.316636,
+            "last": 0.0414312251628356,
+            "volume": 343835.461898509,
             "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079582,
+                "btc": 3.082e-05,
+                "eth": 0.00073571,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 5.118123,
-                "eth": 130.882,
-                "usd": 164625
+                "btc": 0.43910267,
+                "eth": 10.480565,
+                "usd": 14264.64
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.167996,
-            "timestamp": "2021-01-23T18:24:53+00:00",
-            "last_traded_at": "2021-01-23T18:24:53+00:00",
-            "last_fetch_at": "2021-01-23T18:24:53+00:00",
+            "bid_ask_spread_percentage": 0.605239,
+            "timestamp": "2021-01-26T02:35:20+00:00",
+            "last_traded_at": "2021-01-26T02:35:20+00:00",
+            "last_fetch_at": "2021-01-26T03:04:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/BAS_DAI",
-            "token_info_url": null,
-            "coin_id": "basis-share",
+            "trade_url": "https://balancer.exchange/#/swap/ether/0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+            "coin_id": "hakka-finance",
             "target_coin_id": "dai"
         },
         {
@@ -2324,23 +2448,23 @@
                 "identifier": "tokenize",
                 "has_trading_incentive": false
             },
-            "last": 3.115e-05,
-            "volume": 33.817014446,
+            "last": 3.123e-05,
+            "volume": 33.730387448,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00080314,
+                "btc": 3.123e-05,
+                "eth": 0.00074792,
                 "usd": 1.01
             },
             "converted_volume": {
                 "btc": 0.0010534,
-                "eth": 0.02715985,
-                "usd": 34.02
+                "eth": 0.02522771,
+                "usd": 34.1
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 3.125,
-            "timestamp": "2021-01-23T18:06:29+00:00",
-            "last_traded_at": "2021-01-23T18:06:29+00:00",
-            "last_fetch_at": "2021-01-23T18:21:42+00:00",
+            "bid_ask_spread_percentage": 2.951444,
+            "timestamp": "2021-01-26T02:58:05+00:00",
+            "last_traded_at": "2021-01-26T02:58:05+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://tokenize.exchange/market/BTC-DAI",
@@ -2350,66 +2474,382 @@
         },
         {
             "base": "DAI",
-            "target": "ETH",
-            "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00080217,
-            "volume": 3634.87250065,
-            "converted_last": {
-                "btc": 3.136e-05,
-                "eth": 0.00080207,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 0.11400722,
-                "eth": 2.915425,
-                "usd": 3667.06
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.593491,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-DAI",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "DAI",
             "target": "KRW",
             "market": {
                 "name": "ProBit",
                 "identifier": "probit",
                 "has_trading_incentive": false
             },
-            "last": 1109.55,
-            "volume": 27446.2495,
+            "last": 1114.59,
+            "volume": 32186.7116,
             "converted_last": {
-                "btc": 3.121e-05,
-                "eth": 0.00079967,
-                "usd": 1.0
+                "btc": 3.123e-05,
+                "eth": 0.00074791,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.85665269,
-                "eth": 21.947855,
-                "usd": 27546
+                "btc": 1.005211,
+                "eth": 24.072783,
+                "usd": 32551
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.917983,
-            "timestamp": "2021-01-23T18:19:12+00:00",
-            "last_traded_at": "2021-01-23T18:19:12+00:00",
-            "last_fetch_at": "2021-01-23T18:19:12+00:00",
+            "bid_ask_spread_percentage": 0.745348,
+            "timestamp": "2021-01-26T03:05:13+00:00",
+            "last_traded_at": "2021-01-26T03:05:13+00:00",
+            "last_fetch_at": "2021-01-26T03:05:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.probit.com/app/exchange/DAI-KRW",
             "token_info_url": null,
             "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "AUD",
+            "market": {
+                "name": "Independent Reserve",
+                "identifier": "independent_reserve",
+                "has_trading_incentive": false
+            },
+            "last": 1.305,
+            "volume": 45.488373333333335,
+            "converted_last": {
+                "btc": 3.106e-05,
+                "eth": 0.00074386,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 0.00141294,
+                "eth": 0.03383719,
+                "usd": 45.76
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.840491,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.independentreserve.com/market#dai",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "ONS",
+            "target": "DAI",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 52.78,
+            "volume": 63.979512,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.10436929,
+                "eth": 2.499436,
+                "usd": 3378.28
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.198055,
+            "timestamp": "2021-01-26T03:08:39+00:00",
+            "last_traded_at": "2021-01-26T03:08:39+00:00",
+            "last_fetch_at": "2021-01-26T03:08:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/ONS_DAI",
+            "token_info_url": null,
+            "coin_id": "one-share",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "BW.com",
+                "identifier": "bw",
+                "has_trading_incentive": false
+            },
+            "last": 0.9721,
+            "volume": 33604.386,
+            "converted_last": {
+                "btc": 3.001e-05,
+                "eth": 0.00071792,
+                "usd": 0.972567
+            },
+            "converted_volume": {
+                "btc": 1.008301,
+                "eth": 24.125273,
+                "usd": 32683
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.815631,
+            "timestamp": "2021-01-26T02:49:02+00:00",
+            "last_traded_at": "2021-01-26T02:49:02+00:00",
+            "last_fetch_at": "2021-01-26T02:57:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bw.com/trade/dai_usdt",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "DAI",
+            "target": "USD",
+            "market": {
+                "name": "Independent Reserve",
+                "identifier": "independent_reserve",
+                "has_trading_incentive": false
+            },
+            "last": 1.00643,
+            "volume": 45.488373333333335,
+            "converted_last": {
+                "btc": 3.108e-05,
+                "eth": 0.00074428,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 0.00141374,
+                "eth": 0.03385631,
+                "usd": 45.78
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.831038,
+            "timestamp": "2021-01-26T03:07:48+00:00",
+            "last_traded_at": "2021-01-26T03:07:48+00:00",
+            "last_fetch_at": "2021-01-26T03:07:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.independentreserve.com/market#dai",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "NZD",
+            "market": {
+                "name": "Independent Reserve",
+                "identifier": "independent_reserve",
+                "has_trading_incentive": false
+            },
+            "last": 1.39848,
+            "volume": 45.488373333333335,
+            "converted_last": {
+                "btc": 3.107e-05,
+                "eth": 0.00074415,
+                "usd": 1.01
+            },
+            "converted_volume": {
+                "btc": 0.00141349,
+                "eth": 0.03385032,
+                "usd": 45.77
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.034874,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.independentreserve.com/market#dai",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "RUB",
+            "market": {
+                "name": "EXMO",
+                "identifier": "exmo",
+                "has_trading_incentive": false
+            },
+            "last": 71.783751,
+            "volume": 3230.97376486,
+            "converted_last": {
+                "btc": 2.944e-05,
+                "eth": 0.00070508,
+                "usd": 0.952996
+            },
+            "converted_volume": {
+                "btc": 0.09512647,
+                "eth": 2.278089,
+                "usd": 3079.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.942608,
+            "timestamp": "2021-01-26T03:08:44+00:00",
+            "last_traded_at": "2021-01-26T03:08:44+00:00",
+            "last_fetch_at": "2021-01-26T03:08:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmo.com/en/trade/DAI_RUB",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "BTC",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 2.998e-05,
+            "volume": 19894.61488543,
+            "converted_last": {
+                "btc": 2.998e-05,
+                "eth": 0.00071395,
+                "usd": 0.970797
+            },
+            "converted_volume": {
+                "btc": 0.59644055,
+                "eth": 14.20384,
+                "usd": 19313.64
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.846154,
+            "timestamp": "2021-01-26T01:25:03+00:00",
+            "last_traded_at": "2021-01-26T01:25:03+00:00",
+            "last_fetch_at": "2021-01-26T03:08:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-DAI",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "ViteX",
+                "identifier": "vitex",
+                "has_trading_incentive": false
+            },
+            "last": 0.9849,
+            "volume": 626.76,
+            "converted_last": {
+                "btc": 3.049e-05,
+                "eth": 0.00073115,
+                "usd": 0.986751
+            },
+            "converted_volume": {
+                "btc": 0.01910723,
+                "eth": 0.45825859,
+                "usd": 618.46
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.697745,
+            "timestamp": "2021-01-26T02:56:09+00:00",
+            "last_traded_at": "2021-01-26T02:56:09+00:00",
+            "last_fetch_at": "2021-01-26T03:01:43+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://x.vite.net/trade?symbol=DAI-000_USDT-000",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "DAI",
+            "target": "IDK",
+            "market": {
+                "name": "Tokenomy",
+                "identifier": "tokenomy",
+                "has_trading_incentive": false
+            },
+            "last": 14.16,
+            "volume": 3262.09478546,
+            "converted_last": {
+                "btc": 3.089e-05,
+                "eth": 0.00073976,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.1007665,
+                "eth": 2.413156,
+                "usd": 3263.1
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.995025,
+            "timestamp": "2021-01-26T03:07:12+00:00",
+            "last_traded_at": "2021-01-26T03:07:12+00:00",
+            "last_fetch_at": "2021-01-26T03:07:12+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.tokenomy.com/market/DAIIDK",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "idk"
+        },
+        {
+            "base": "BTC",
+            "target": "DAI",
+            "market": {
+                "name": "Changelly PRO",
+                "identifier": "changelly",
+                "has_trading_incentive": false
+            },
+            "last": 32346.74,
+            "volume": 14.21878,
+            "converted_last": {
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 14.215276,
+                "eth": 340.427,
+                "usd": 460330
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.19164,
+            "timestamp": "2021-01-26T03:07:36+00:00",
+            "last_traded_at": "2021-01-26T03:07:36+00:00",
+            "last_fetch_at": "2021-01-26T03:07:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.changelly.com",
+            "token_info_url": null,
+            "coin_id": "bitcoin",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "USDT",
+            "target": "DAI",
+            "market": {
+                "name": "Changelly PRO",
+                "identifier": "changelly",
+                "has_trading_incentive": false
+            },
+            "last": 1.00095,
+            "volume": 33758.83,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00073971,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 1.045122,
+                "eth": 24.995358,
+                "usd": 33895
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.139867,
+            "timestamp": "2021-01-26T02:47:53+00:00",
+            "last_traded_at": "2021-01-26T02:47:53+00:00",
+            "last_fetch_at": "2021-01-26T02:47:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.changelly.com",
+            "token_info_url": null,
+            "coin_id": "tether",
+            "target_coin_id": "dai"
         },
         {
             "base": "ETH",
@@ -2419,23 +2859,23 @@
                 "identifier": "changelly",
                 "has_trading_incentive": false
             },
-            "last": 1257.067,
-            "volume": 3364.9645,
+            "last": 1355.38,
+            "volume": 3249.7958,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 131.752,
-                "eth": 3376,
-                "usd": 4236514
+                "btc": 136.138,
+                "eth": 3260,
+                "usd": 4406590
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.622081,
-            "timestamp": "2021-01-23T18:19:06+00:00",
-            "last_traded_at": "2021-01-23T18:19:06+00:00",
-            "last_fetch_at": "2021-01-23T18:19:06+00:00",
+            "bid_ask_spread_percentage": 0.518671,
+            "timestamp": "2021-01-26T03:08:39+00:00",
+            "last_traded_at": "2021-01-26T03:08:39+00:00",
+            "last_fetch_at": "2021-01-26T03:08:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.changelly.com",
@@ -2445,34 +2885,131 @@
         },
         {
             "base": "DAI",
-            "target": "USD",
+            "target": "EOSDT",
             "market": {
-                "name": "BitHash",
-                "identifier": "bithash",
+                "name": "HitBTC",
+                "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 1.0023,
-            "volume": 101540.115025,
+            "last": 1.00484,
+            "volume": 144.68,
             "converted_last": {
-                "btc": 3.116e-05,
-                "eth": 0.00080094,
+                "btc": 3.051e-05,
+                "eth": 0.00072718,
+                "usd": 0.987797
+            },
+            "converted_volume": {
+                "btc": 0.00441406,
+                "eth": 0.10520832,
+                "usd": 142.91
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.228783,
+            "timestamp": "2021-01-26T01:13:18+00:00",
+            "last_traded_at": "2021-01-26T01:13:18+00:00",
+            "last_fetch_at": "2021-01-26T03:08:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/DAI-to-EOSDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "equilibrium-eosdt"
+        },
+        {
+            "base": "XRP",
+            "target": "DAI",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 0.268868,
+            "volume": 335.2,
+            "converted_last": {
+                "btc": 3.095e-05,
+                "eth": 0.00073556,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 3.164381,
-                "eth": 81.327,
-                "usd": 101774
+                "btc": 0.00278897,
+                "eth": 0.06629215,
+                "usd": 90.34
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.109981,
-            "timestamp": "2021-01-23T18:17:05+00:00",
-            "last_traded_at": "2021-01-23T18:17:05+00:00",
-            "last_fetch_at": "2021-01-23T18:17:05+00:00",
+            "bid_ask_spread_percentage": 0.41202,
+            "timestamp": "2021-01-26T01:09:05+00:00",
+            "last_traded_at": "2021-01-26T01:09:05+00:00",
+            "last_fetch_at": "2021-01-26T03:04:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bithash.net/en/exchange/dai/usd",
+            "trade_url": "https://hitbtc.com/XRP-to-DAI",
             "token_info_url": null,
-            "coin_id": "dai"
+            "coin_id": "ripple",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "BCH",
+            "target": "DAI",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 435.938,
+            "volume": 0.0606,
+            "converted_last": {
+                "btc": 3.076e-05,
+                "eth": 0.00073836,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.00081257,
+                "eth": 0.01950583,
+                "usd": 26.45
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.285347,
+            "timestamp": "2021-01-26T00:44:28+00:00",
+            "last_traded_at": "2021-01-26T00:44:28+00:00",
+            "last_fetch_at": "2021-01-26T03:02:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/BCH-to-DAI",
+            "token_info_url": null,
+            "coin_id": "bitcoin-cash",
+            "target_coin_id": "dai"
+        },
+        {
+            "base": "BCH",
+            "target": "DAI",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 435.938,
+            "volume": 0.0606,
+            "converted_last": {
+                "btc": 3.062e-05,
+                "eth": 0.00073389,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.000809,
+                "eth": 0.01938784,
+                "usd": 26.42
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.289007,
+            "timestamp": "2021-01-26T00:47:20+00:00",
+            "last_traded_at": "2021-01-26T00:47:20+00:00",
+            "last_fetch_at": "2021-01-26T02:59:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/BCH-to-DAI",
+            "token_info_url": null,
+            "coin_id": "bitcoin-cash",
+            "target_coin_id": "dai"
         },
         {
             "base": "EOS",
@@ -2482,23 +3019,23 @@
                 "identifier": "changelly",
                 "has_trading_incentive": false
             },
-            "last": 2.71989,
-            "volume": 252521.79,
+            "last": 2.65196,
+            "volume": 224186.21,
             "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
+                "btc": 3.091e-05,
+                "eth": 0.00074017,
                 "usd": 1.0
             },
             "converted_volume": {
-                "btc": 21.392884,
-                "eth": 548.096,
-                "usd": 687892
+                "btc": 18.375463,
+                "eth": 440.056,
+                "usd": 595048
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.312447,
-            "timestamp": "2021-01-23T18:19:06+00:00",
-            "last_traded_at": "2021-01-23T18:19:06+00:00",
-            "last_fetch_at": "2021-01-23T18:19:06+00:00",
+            "bid_ask_spread_percentage": 0.341203,
+            "timestamp": "2021-01-26T03:07:37+00:00",
+            "last_traded_at": "2021-01-26T03:07:37+00:00",
+            "last_fetch_at": "2021-01-26T03:07:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.changelly.com",
@@ -2507,65 +3044,222 @@
             "target_coin_id": "dai"
         },
         {
-            "base": "BTC",
-            "target": "DAI",
+            "base": "DAI",
+            "target": "USD",
             "market": {
-                "name": "CoinJar Exchange",
-                "identifier": "coinjar",
+                "name": "FTX",
+                "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 31820.0,
-            "volume": 1.94322034,
+            "last": 1.0037,
+            "volume": 225.09495865298396,
             "converted_last": {
-                "btc": 3.128e-05,
-                "eth": 0.00081005,
-                "usd": 0.999767
+                "btc": 3.086e-05,
+                "eth": 0.00073239,
+                "usd": 1.0
             },
             "converted_volume": {
-                "btc": 1.934138,
-                "eth": 50.088,
-                "usd": 61819
+                "btc": 0.00694593,
+                "eth": 0.16485717,
+                "usd": 225.93
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.150498,
-            "timestamp": "2021-01-23T16:19:54+00:00",
-            "last_traded_at": "2021-01-23T16:19:54+00:00",
-            "last_fetch_at": "2021-01-23T18:19:17+00:00",
+            "bid_ask_spread_percentage": 0.309011,
+            "timestamp": "2021-01-26T01:02:43+00:00",
+            "last_traded_at": "2021-01-26T01:02:43+00:00",
+            "last_fetch_at": "2021-01-26T03:06:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.coinjar.com/trade",
+            "trade_url": "https://ftx.com/trade/DAI/USD",
             "token_info_url": null,
-            "coin_id": "bitcoin",
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USD",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 1.0029,
+            "volume": 1.0001994216771364,
+            "converted_last": {
+                "btc": 3.069e-05,
+                "eth": 0.00073223,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 3.07e-05,
+                "eth": 0.00073237,
+                "usd": 1.0
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.528467,
+            "timestamp": "2021-01-26T01:47:10+00:00",
+            "last_traded_at": "2021-01-26T01:47:10+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/DAI/USD",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 1.0032,
+            "volume": 1.0004984051036683,
+            "converted_last": {
+                "btc": 3.072e-05,
+                "eth": 0.00073285,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 3.073e-05,
+                "eth": 0.00073321,
+                "usd": 1.0
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.518341,
+            "timestamp": "2021-01-26T01:47:10+00:00",
+            "last_traded_at": "2021-01-26T01:47:10+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/DAI/USDT",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "DAI",
+            "target": "USD",
+            "market": {
+                "name": "BitHash",
+                "identifier": "bithash",
+                "has_trading_incentive": false
+            },
+            "last": 1.0011,
+            "volume": 123351.64219,
+            "converted_last": {
+                "btc": 3.083e-05,
+                "eth": 0.00073635,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 3.803045,
+                "eth": 90.83,
+                "usd": 123487
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.129931,
+            "timestamp": "2021-01-26T02:42:24+00:00",
+            "last_traded_at": "2021-01-26T02:42:24+00:00",
+            "last_fetch_at": "2021-01-26T03:04:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithash.net/en/exchange/dai/usd",
+            "token_info_url": null,
+            "coin_id": "dai"
+        },
+        {
+            "base": "DAI",
+            "target": "USDT",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 1.00080165,
+            "volume": 32566.19947151,
+            "converted_last": {
+                "btc": 3.057e-05,
+                "eth": 0.00072942,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.99557434,
+                "eth": 23.754319,
+                "usd": 32630
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.575154,
+            "timestamp": "2021-01-26T02:05:29+00:00",
+            "last_traded_at": "2021-01-26T02:05:29+00:00",
+            "last_fetch_at": "2021-01-26T03:07:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-DAI",
+            "token_info_url": null,
+            "coin_id": "dai",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "0XEE06A81A695750E71A662B51066F2C74CF4478A0",
+            "target": "DAI",
+            "market": {
+                "name": "Balancer",
+                "identifier": "balancer",
+                "has_trading_incentive": false
+            },
+            "last": 65.0400215707689,
+            "volume": 232.662061597498,
+            "converted_last": {
+                "btc": 3.093e-05,
+                "eth": 0.00073585,
+                "usd": 1.0
+            },
+            "converted_volume": {
+                "btc": 0.46802833,
+                "eth": 11.135182,
+                "usd": 15153.83
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 0.602849,
+            "timestamp": "2021-01-26T01:34:22+00:00",
+            "last_traded_at": "2021-01-26T01:34:22+00:00",
+            "last_fetch_at": "2021-01-26T03:04:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://balancer.exchange/#/swap/ether/0xee06a81a695750e71a662b51066f2c74cf4478a0",
+            "token_info_url": "https://pools.balancer.exchange/#/explore?type=shared&token=0xee06a81a695750e71a662b51066f2c74cf4478a0",
+            "coin_id": "decentral-games",
             "target_coin_id": "dai"
         },
         {
             "base": "DAI",
             "target": "USD",
             "market": {
-                "name": "CEX.IO",
-                "identifier": "cex",
+                "name": "Bittrex",
+                "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 1.0035,
-            "volume": 643.410059,
+            "last": 1.005399,
+            "volume": 47089.72744168,
             "converted_last": {
-                "btc": 3.119e-05,
-                "eth": 0.00080095,
-                "usd": 1.0
+                "btc": 3.1e-05,
+                "eth": 0.00073687,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 0.02006641,
-                "eth": 0.51533725,
-                "usd": 645.66
+                "btc": 1.459919,
+                "eth": 34.698874,
+                "usd": 47344
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.40857,
-            "timestamp": "2021-01-23T16:47:15+00:00",
-            "last_traded_at": "2021-01-23T16:47:15+00:00",
-            "last_fetch_at": "2021-01-23T18:22:48+00:00",
+            "bid_ask_spread_percentage": 0.794242,
+            "timestamp": "2021-01-26T01:37:44+00:00",
+            "last_traded_at": "2021-01-26T01:37:44+00:00",
+            "last_fetch_at": "2021-01-26T03:07:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=USD-DAI",
             "token_info_url": null,
             "coin_id": "dai"
         },
@@ -2578,726 +3272,25 @@
                 "has_trading_incentive": false
             },
             "last": 3.1e-05,
-            "volume": 89334.701706,
+            "volume": 92957.145743,
             "converted_last": {
                 "btc": 3.1e-05,
-                "eth": 0.00079673,
-                "usd": 0.99703
+                "eth": 0.00074039,
+                "usd": 1.01
             },
             "converted_volume": {
-                "btc": 2.769376,
-                "eth": 71.175,
-                "usd": 89069
+                "btc": 2.881672,
+                "eth": 68.824,
+                "usd": 93570
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.132175,
-            "timestamp": "2021-01-23T18:17:05+00:00",
-            "last_traded_at": "2021-01-23T18:17:05+00:00",
-            "last_fetch_at": "2021-01-23T18:17:05+00:00",
+            "bid_ask_spread_percentage": 0.164893,
+            "timestamp": "2021-01-26T02:42:23+00:00",
+            "last_traded_at": "2021-01-26T02:42:23+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bithash.net/en/exchange/dai/btc",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "DAI",
-            "target": "GBP",
-            "market": {
-                "name": "CoinJar Exchange",
-                "identifier": "coinjar",
-                "has_trading_incentive": false
-            },
-            "last": 0.7305,
-            "volume": 933.0,
-            "converted_last": {
-                "btc": 3.119e-05,
-                "eth": 0.00081098,
-                "usd": 0.99944
-            },
-            "converted_volume": {
-                "btc": 0.02909903,
-                "eth": 0.75664078,
-                "usd": 932.48
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.035351,
-            "timestamp": "2021-01-23T15:36:06+00:00",
-            "last_traded_at": "2021-01-23T15:36:06+00:00",
-            "last_fetch_at": "2021-01-23T18:19:17+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.coinjar.com/trade",
-            "token_info_url": null,
-            "coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "HBTC",
-                "identifier": "hbtc",
-                "has_trading_incentive": false
-            },
-            "last": 1.0,
-            "volume": 1590229.8,
-            "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079733,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 49.489239,
-                "eth": 1268,
-                "usd": 1591334
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.2593,
-            "timestamp": "2021-01-23T18:19:00+00:00",
-            "last_traded_at": "2021-01-23T18:19:00+00:00",
-            "last_fetch_at": "2021-01-23T18:19:00+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bhex.com/exchange/301/DAI/USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Loopring",
-                "identifier": "loopring",
-                "has_trading_incentive": false
-            },
-            "last": 1.0036,
-            "volume": 10143.283,
-            "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00080091,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.31600827,
-                "eth": 8.123873,
-                "usd": 10187.47
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.362128,
-            "timestamp": "2021-01-23T16:43:09+00:00",
-            "last_traded_at": "2021-01-23T16:43:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:06+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.loopring.io/trade/DAI-USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
-                "has_trading_incentive": false
-            },
-            "last": 0.9995,
-            "volume": 9640.29306787,
-            "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00080474,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.30017901,
-                "eth": 7.75793,
-                "usd": 9645.79
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.15,
-            "timestamp": "2021-01-23T17:19:59+00:00",
-            "last_traded_at": "2021-01-23T17:19:59+00:00",
-            "last_fetch_at": "2021-01-23T18:21:57+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://gate.io/trade/DAI_USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "BitZ",
-                "identifier": "bit_z",
-                "has_trading_incentive": false
-            },
-            "last": 1.0062,
-            "volume": 1110068.3,
-            "converted_last": {
-                "btc": 3.128e-05,
-                "eth": 0.00080149,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 34.72652,
-                "eth": 889.71,
-                "usd": 1116646
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.626056,
-            "timestamp": "2021-01-23T18:22:43+00:00",
-            "last_traded_at": "2021-01-23T18:22:43+00:00",
-            "last_fetch_at": "2021-01-23T18:22:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bit-z.com/exchange/dai_usdt",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "BTC",
-            "target": "DAI",
-            "market": {
-                "name": "Liquid",
-                "identifier": "quoine",
-                "has_trading_incentive": false
-            },
-            "last": 32388.5,
-            "volume": 0.0985041,
-            "converted_last": {
-                "btc": 3.122e-05,
-                "eth": 0.00081186,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.09961333,
-                "eth": 2.590173,
-                "usd": 3192.11
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.438064,
-            "timestamp": "2021-01-23T15:36:07+00:00",
-            "last_traded_at": "2021-01-23T15:36:07+00:00",
-            "last_fetch_at": "2021-01-23T18:21:51+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.liquid.com/exchange/BTCDAI?lang=en",
-            "token_info_url": null,
-            "coin_id": "bitcoin",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "0X003E0AF2916E598FA5EA5CB2DA4EDFDA9AED9FDE",
-            "target": "DAI",
-            "market": {
-                "name": "Value Liquid",
-                "identifier": "value_liquid",
-                "has_trading_incentive": false
-            },
-            "last": 0.325858377941811,
-            "volume": 19232.9310997429,
-            "converted_last": {
-                "btc": 3.111e-05,
-                "eth": 0.0008022,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.19498077,
-                "eth": 5.027547,
-                "usd": 6272.61
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.603744,
-            "timestamp": "2021-01-23T17:01:28+00:00",
-            "last_traded_at": "2021-01-23T17:01:28+00:00",
-            "last_fetch_at": "2021-01-23T18:21:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://valueliquid.io/#/swap",
-            "token_info_url": null,
-            "coin_id": "basis-dollar",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 1.0031,
-            "volume": 3644.23,
-            "converted_last": {
-                "btc": 3.136e-05,
-                "eth": 0.00081341,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.11429834,
-                "eth": 2.96427,
-                "usd": 3659.59
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.339152,
-            "timestamp": "2021-01-23T15:50:19+00:00",
-            "last_traded_at": "2021-01-23T15:50:19+00:00",
-            "last_fetch_at": "2021-01-23T18:25:19+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=DAI_USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "ETH",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00079836,
-            "volume": 2161.19592706,
-            "converted_last": {
-                "btc": 3.098e-05,
-                "eth": 0.00079747,
-                "usd": 0.996854
-            },
-            "converted_volume": {
-                "btc": 0.066946,
-                "eth": 1.723493,
-                "usd": 2154.4
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 1.791229,
-            "timestamp": "2021-01-23T16:38:33+00:00",
-            "last_traded_at": "2021-01-23T16:38:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/DAIETH",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "BTC",
-            "target": "DAI",
-            "market": {
-                "name": "FatBTC",
-                "identifier": "fatbtc",
-                "has_trading_incentive": false
-            },
-            "last": 32458.08,
-            "volume": 70.9027,
-            "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00079782,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 71.664,
-                "eth": 1836,
-                "usd": 2304379
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 17.121294,
-            "timestamp": "2021-01-23T18:18:13+00:00",
-            "last_traded_at": "2021-01-23T18:18:13+00:00",
-            "last_fetch_at": "2021-01-23T18:18:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "bitcoin",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "ZLOT",
-            "target": "DAI",
-            "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
-                "has_trading_incentive": false
-            },
-            "last": 1195.9,
-            "volume": 708.593494,
-            "converted_last": {
-                "btc": 3.103e-05,
-                "eth": 0.00080016,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 26.298766,
-                "eth": 678.062,
-                "usd": 849255
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 6.748173,
-            "timestamp": "2021-01-23T18:06:32+00:00",
-            "last_traded_at": "2021-01-23T18:06:32+00:00",
-            "last_fetch_at": "2021-01-23T18:06:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/ZLOT_DAI",
-            "token_info_url": null,
-            "coin_id": "zlot",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "BitAsset",
-                "identifier": "bitasset",
-                "has_trading_incentive": false
-            },
-            "last": 1.0007,
-            "volume": 1407.3,
-            "converted_last": {
-                "btc": 3.105e-05,
-                "eth": 0.00079889,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.04369735,
-                "eth": 1.124275,
-                "usd": 1409.09
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.13996,
-            "timestamp": "2021-01-23T18:10:41+00:00",
-            "last_traded_at": "2021-01-23T18:10:41+00:00",
-            "last_fetch_at": "2021-01-23T18:10:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitasset.com/ktrade/DAI-USDT",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "DAI",
-            "target": "TWD",
-            "market": {
-                "name": "BitAsset",
-                "identifier": "bitasset",
-                "has_trading_incentive": false
-            },
-            "last": 28.03,
-            "volume": 1314.4,
-            "converted_last": {
-                "btc": 3.102e-05,
-                "eth": 0.00079977,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.04077149,
-                "eth": 1.051213,
-                "usd": 1317.38
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.2849,
-            "timestamp": "2021-01-23T18:04:11+00:00",
-            "last_traded_at": "2021-01-23T18:04:11+00:00",
-            "last_fetch_at": "2021-01-23T18:04:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitasset.com/ktrade/DAI-TWD",
-            "token_info_url": null,
-            "coin_id": "dai"
-        },
-        {
-            "base": "ETH",
-            "target": "DAI",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 1228.81958245,
-            "volume": 0.30760711,
-            "converted_last": {
-                "btc": 3.128e-05,
-                "eth": 0.00081013,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.01182471,
-                "eth": 0.30622278,
-                "usd": 378.89
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.103834,
-            "timestamp": "2021-01-23T16:22:28+00:00",
-            "last_traded_at": "2021-01-23T16:22:28+00:00",
-            "last_fetch_at": "2021-01-23T18:21:36+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#eth_dai",
-            "token_info_url": null,
-            "coin_id": "ethereum",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DOGE",
-            "target": "DAI",
-            "market": {
-                "name": "FatBTC",
-                "identifier": "fatbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.008766,
-            "volume": 13934186.0,
-            "converted_last": {
-                "btc": 3.114e-05,
-                "eth": 0.00079782,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 3.803633,
-                "eth": 97.451,
-                "usd": 122307
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 15.992859,
-            "timestamp": "2021-01-23T18:18:21+00:00",
-            "last_traded_at": "2021-01-23T18:18:21+00:00",
-            "last_fetch_at": "2021-01-23T18:18:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "dogecoin",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "FatBTC",
-                "identifier": "fatbtc",
-                "has_trading_incentive": false
-            },
-            "last": 1.0048,
-            "volume": 20941.31,
-            "converted_last": {
-                "btc": 3.127e-05,
-                "eth": 0.00080116,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 0.65483873,
-                "eth": 16.777284,
-                "usd": 21057
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 2.718447,
-            "timestamp": "2021-01-23T18:18:15+00:00",
-            "last_traded_at": "2021-01-23T18:18:15+00:00",
-            "last_fetch_at": "2021-01-23T18:18:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "MKR",
-            "target": "DAI",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 1408.16610561,
-            "volume": 10.469318,
-            "converted_last": {
-                "btc": 3.115e-05,
-                "eth": 0.00079801,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.45918894,
-                "eth": 11.764642,
-                "usd": 14764.54
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 6.314603,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/MKR_DAI",
-            "token_info_url": null,
-            "coin_id": "maker",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "KRW",
-            "market": {
-                "name": "Aprobit",
-                "identifier": "aprobit",
-                "has_trading_incentive": false
-            },
-            "last": 1105.0,
-            "volume": 29862.9034,
-            "converted_last": {
-                "btc": 3.109e-05,
-                "eth": 0.00079643,
-                "usd": 0.999512
-            },
-            "converted_volume": {
-                "btc": 0.92830647,
-                "eth": 23.783659,
-                "usd": 29848
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 18.606557,
-            "timestamp": "2021-01-23T18:21:16+00:00",
-            "last_traded_at": "2021-01-23T18:21:16+00:00",
-            "last_fetch_at": "2021-01-23T18:21:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aprobit.com/trading/daikrw",
-            "token_info_url": null,
-            "coin_id": "dai"
-        },
-        {
-            "base": "MKR",
-            "target": "DAI",
-            "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
-                "has_trading_incentive": false
-            },
-            "last": 1344.2,
-            "volume": 3.6387,
-            "converted_last": {
-                "btc": 3.095e-05,
-                "eth": 0.00079936,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.15137658,
-                "eth": 3.909773,
-                "usd": 4894.5
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 3.924339,
-            "timestamp": "2021-01-23T17:48:55+00:00",
-            "last_traded_at": "2021-01-23T17:48:55+00:00",
-            "last_fetch_at": "2021-01-23T18:21:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/MKR-DAI",
-            "token_info_url": null,
-            "coin_id": "maker",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "USDT",
-            "market": {
-                "name": "Dove Wallet",
-                "identifier": "dove_wallet",
-                "has_trading_incentive": false
-            },
-            "last": 1.003,
-            "volume": 0.002244968,
-            "converted_last": {
-                "btc": 3.12e-05,
-                "eth": 0.00080217,
-                "usd": 1.01
-            },
-            "converted_volume": {
-                "btc": 7.01e-08,
-                "eth": 1.8e-06,
-                "usd": 0.00225647
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.884945,
-            "timestamp": "2021-01-23T16:46:59+00:00",
-            "last_traded_at": "2021-01-23T16:46:59+00:00",
-            "last_fetch_at": "2021-01-23T18:24:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://dovewallet.com/trade/spot/dai-usdt",
-            "token_info_url": null,
-            "coin_id": "dai",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "ONS",
-            "target": "DAI",
-            "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
-                "has_trading_incentive": false
-            },
-            "last": 87.52,
-            "volume": 63.411687,
-            "converted_last": {
-                "btc": 3.112e-05,
-                "eth": 0.00079582,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.17271087,
-                "eth": 4.416612,
-                "usd": 5555.28
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 10.97852,
-            "timestamp": "2021-01-23T18:24:54+00:00",
-            "last_traded_at": "2021-01-23T18:24:54+00:00",
-            "last_fetch_at": "2021-01-23T18:24:54+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/ONS_DAI",
-            "token_info_url": null,
-            "coin_id": "one-share",
-            "target_coin_id": "dai"
-        },
-        {
-            "base": "DAI",
-            "target": "BTC",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 3.102e-05,
-            "volume": 5365.95286611,
-            "converted_last": {
-                "btc": 3.102e-05,
-                "eth": 0.00079746,
-                "usd": 1.0
-            },
-            "converted_volume": {
-                "btc": 0.16645186,
-                "eth": 4.279109,
-                "usd": 5366.07
-            },
-            "trust_score": "yellow",
-            "bid_ask_spread_percentage": 10.701956,
-            "timestamp": "2021-01-23T16:43:34+00:00",
-            "last_traded_at": "2021-01-23T16:43:34+00:00",
-            "last_fetch_at": "2021-01-23T18:25:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.BTC-DAI",
             "token_info_url": null,
             "coin_id": "dai",
             "target_coin_id": "bitcoin"

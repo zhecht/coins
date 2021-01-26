@@ -106,8 +106,8 @@
     },
     "country_origin": "",
     "genesis_date": null,
-    "sentiment_votes_up_percentage": 89.66,
-    "sentiment_votes_down_percentage": 10.34,
+    "sentiment_votes_up_percentage": 81.58,
+    "sentiment_votes_down_percentage": 18.42,
     "ico_data": {
         "ico_start_date": "2017-03-12T00:00:00.000Z",
         "ico_end_date": "2017-03-17T00:00:00.000Z",
@@ -149,7 +149,7 @@
         "pre_sale_available": null,
         "pre_sale_ended": false
     },
-    "market_cap_rank": 77,
+    "market_cap_rank": 83,
     "coingecko_rank": 34,
     "coingecko_score": 54.465,
     "developer_score": 69.572,
@@ -168,6 +168,25 @@
             "user": "John Scianna",
             "user_title": "Marketing Director",
             "pin": true,
+            "project": {
+                "type": "Coin",
+                "id": "qtum",
+                "name": "Qtum",
+                "symbol": "qtum",
+                "image": {
+                    "thumb": "https://assets.coingecko.com/coins/images/684/thumb/qtum.png?1547034438",
+                    "small": "https://assets.coingecko.com/coins/images/684/small/qtum.png?1547034438",
+                    "large": "https://assets.coingecko.com/coins/images/684/large/qtum.png?1547034438"
+                }
+            }
+        },
+        {
+            "description": "Here's a little tool to check on your delegates & your Qtum Super Staker.\r\n\r\nblog.qtum.org/super-staker-status-tool-655c974c7a92",
+            "category": "general",
+            "created_at": "2021-01-25T00:14:07.795Z",
+            "user": "John Scianna",
+            "user_title": "Marketing Director",
+            "pin": false,
             "project": {
                 "type": "Coin",
                 "id": "qtum",
@@ -274,29 +293,74 @@
                     "large": "https://assets.coingecko.com/coins/images/684/large/qtum.png?1547034438"
                 }
             }
-        },
-        {
-            "description": "December Updates: Wrapping Up 2020\r\n\r\nhttps://blog.qtum.org/december-updates-wrapping-up-2020-675e791840fb",
-            "category": "general",
-            "created_at": "2021-01-03T19:43:10.426Z",
-            "user": "John Scianna",
-            "user_title": "Marketing Director",
-            "pin": false,
-            "project": {
-                "type": "Coin",
-                "id": "qtum",
-                "name": "Qtum",
-                "symbol": "qtum",
-                "image": {
-                    "thumb": "https://assets.coingecko.com/coins/images/684/thumb/qtum.png?1547034438",
-                    "small": "https://assets.coingecko.com/coins/images/684/small/qtum.png?1547034438",
-                    "large": "https://assets.coingecko.com/coins/images/684/large/qtum.png?1547034438"
-                }
-            }
         }
     ],
-    "last_updated": "2021-01-23T18:25:17.141Z",
+    "last_updated": "2021-01-26T03:07:24.337Z",
     "tickers": [
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "ZBG",
+                "identifier": "zbg",
+                "has_trading_incentive": false
+            },
+            "last": 3.2817,
+            "volume": 818060.7946,
+            "converted_last": {
+                "btc": 0.00010168,
+                "eth": 0.00243516,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 83.182,
+                "eth": 1992,
+                "usd": 2691598
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.231193,
+            "timestamp": "2021-01-26T03:03:21+00:00",
+            "last_traded_at": "2021-01-26T03:03:21+00:00",
+            "last_fetch_at": "2021-01-26T03:03:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Decoin",
+                "identifier": "decoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001016,
+            "volume": 327006.1665846457,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.0024332,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 33.223827,
+                "eth": 795.672,
+                "usd": 1075055
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198328,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.decoin.io/trade/QTUM-BTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
         {
             "base": "QTUM",
             "target": "KRW",
@@ -305,23 +369,23 @@
                 "identifier": "upbit",
                 "has_trading_incentive": false
             },
-            "last": 4200.0,
-            "volume": 22610257.74072513,
+            "last": 3660.0,
+            "volume": 4829637.86965044,
             "converted_last": {
-                "btc": 0.00011811,
-                "eth": 0.00302026,
-                "usd": 3.8
+                "btc": 0.00010263,
+                "eth": 0.00245781,
+                "usd": 3.32
             },
             "converted_volume": {
-                "btc": 2670,
-                "eth": 68289,
-                "usd": 85897464
+                "btc": 495.654,
+                "eth": 11870,
+                "usd": 16038448
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.119048,
-            "timestamp": "2021-01-23T18:25:47+00:00",
-            "last_traded_at": "2021-01-23T18:25:47+00:00",
-            "last_fetch_at": "2021-01-23T18:25:47+00:00",
+            "bid_ask_spread_percentage": 0.136612,
+            "timestamp": "2021-01-26T03:02:11+00:00",
+            "last_traded_at": "2021-01-26T03:02:11+00:00",
+            "last_fetch_at": "2021-01-26T03:02:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-QTUM",
@@ -332,30 +396,30 @@
             "base": "QTUM",
             "target": "USDT",
             "market": {
-                "name": "ZBG",
-                "identifier": "zbg",
+                "name": "ZB",
+                "identifier": "zb",
                 "has_trading_incentive": false
             },
-            "last": 3.7765,
-            "volume": 1260674.4828,
+            "last": 3.2828,
+            "volume": 1811190.14,
             "converted_last": {
-                "btc": 0.00011741,
-                "eth": 0.00300252,
-                "usd": 3.78
+                "btc": 0.00010155,
+                "eth": 0.00243196,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 148.02,
-                "eth": 3785,
-                "usd": 4761243
+                "btc": 183.93,
+                "eth": 4405,
+                "usd": 5956143
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.200963,
-            "timestamp": "2021-01-23T18:25:20+00:00",
-            "last_traded_at": "2021-01-23T18:25:20+00:00",
-            "last_fetch_at": "2021-01-23T18:25:20+00:00",
+            "bid_ask_spread_percentage": 0.204063,
+            "timestamp": "2021-01-26T03:07:22+00:00",
+            "last_traded_at": "2021-01-26T03:07:22+00:00",
+            "last_fetch_at": "2021-01-26T03:07:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://trans.zb.com/qtumusdt",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -368,23 +432,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 3.764,
-            "volume": 14330849.26454729,
+            "last": 3.286,
+            "volume": 5537527.44938588,
             "converted_last": {
-                "btc": 0.00011702,
-                "eth": 0.00299258,
-                "usd": 3.76
+                "btc": 0.00010165,
+                "eth": 0.00243433,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 1677,
-                "eth": 42886,
-                "usd": 53943972
+                "btc": 562.894,
+                "eth": 13480,
+                "usd": 18227827
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179344,
-            "timestamp": "2021-01-23T18:23:09+00:00",
-            "last_traded_at": "2021-01-23T18:23:09+00:00",
-            "last_fetch_at": "2021-01-23T18:23:09+00:00",
+            "bid_ask_spread_percentage": 0.191296,
+            "timestamp": "2021-01-26T03:06:23+00:00",
+            "last_traded_at": "2021-01-26T03:06:23+00:00",
+            "last_fetch_at": "2021-01-26T03:06:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/QTUM_USDT",
@@ -400,23 +464,23 @@
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 3.779,
-            "volume": 7187534.882,
+            "last": 3.2851,
+            "volume": 3190508.5003,
             "converted_last": {
-                "btc": 0.00011749,
-                "eth": 0.00300451,
-                "usd": 3.78
+                "btc": 0.00010162,
+                "eth": 0.00243367,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 844.47,
-                "eth": 21595,
-                "usd": 27163440
+                "btc": 324.229,
+                "eth": 7765,
+                "usd": 10499290
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.113228,
-            "timestamp": "2021-01-23T18:25:10+00:00",
-            "last_traded_at": "2021-01-23T18:25:10+00:00",
-            "last_fetch_at": "2021-01-23T18:25:10+00:00",
+            "bid_ask_spread_percentage": 0.14603,
+            "timestamp": "2021-01-26T03:06:22+00:00",
+            "last_traded_at": "2021-01-26T03:06:22+00:00",
+            "last_fetch_at": "2021-01-26T03:06:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/QTUM",
@@ -426,92 +490,29 @@
         },
         {
             "base": "QTUM",
-            "target": "KRW",
-            "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
-                "has_trading_incentive": false
-            },
-            "last": 4200.0,
-            "volume": 7495236.55592835,
-            "converted_last": {
-                "btc": 0.00011815,
-                "eth": 0.00302715,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 885.588,
-                "eth": 22689,
-                "usd": 28474767
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.171565,
-            "timestamp": "2021-01-23T18:21:13+00:00",
-            "last_traded_at": "2021-01-23T18:21:13+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/QTUM_KRW",
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Decoin",
-                "identifier": "decoin",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001168,
-            "volume": 245462.0352140411,
-            "converted_last": {
-                "btc": 0.0001168,
-                "eth": 0.00299247,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 28.669966,
-                "eth": 734.538,
-                "usd": 921887
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.185324,
-            "timestamp": "2021-01-23T18:19:47+00:00",
-            "last_traded_at": "2021-01-23T18:19:47+00:00",
-            "last_fetch_at": "2021-01-23T18:19:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.decoin.io/trade/QTUM-BTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
             "target": "BTC",
             "market": {
                 "name": "Binance",
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.0001175,
-            "volume": 4849080.280765957,
+            "last": 0.0001016,
+            "volume": 2168231.560629921,
             "converted_last": {
-                "btc": 0.0001175,
-                "eth": 0.00300474,
-                "usd": 3.78
+                "btc": 0.0001016,
+                "eth": 0.00243312,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 569.767,
-                "eth": 14570,
-                "usd": 18327276
+                "btc": 220.292,
+                "eth": 5276,
+                "usd": 7133584
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184674,
-            "timestamp": "2021-01-23T18:25:55+00:00",
-            "last_traded_at": "2021-01-23T18:25:55+00:00",
-            "last_fetch_at": "2021-01-23T18:25:55+00:00",
+            "bid_ask_spread_percentage": 0.19685,
+            "timestamp": "2021-01-26T03:06:32+00:00",
+            "last_traded_at": "2021-01-26T03:06:32+00:00",
+            "last_fetch_at": "2021-01-26T03:06:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/QTUM_BTC",
@@ -527,23 +528,23 @@
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 3.786,
-            "volume": 5148319.95508,
+            "last": 3.283,
+            "volume": 2511695.24449,
             "converted_last": {
-                "btc": 0.00011782,
-                "eth": 0.00301851,
-                "usd": 3.79
+                "btc": 0.00010172,
+                "eth": 0.00243613,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 606.556,
-                "eth": 15540,
-                "usd": 19504110
+                "btc": 255.495,
+                "eth": 6119,
+                "usd": 8267298
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.126406,
-            "timestamp": "2021-01-23T18:20:36+00:00",
-            "last_traded_at": "2021-01-23T18:20:36+00:00",
-            "last_fetch_at": "2021-01-23T18:20:36+00:00",
+            "bid_ask_spread_percentage": 0.121766,
+            "timestamp": "2021-01-26T03:03:17+00:00",
+            "last_traded_at": "2021-01-26T03:03:17+00:00",
+            "last_fetch_at": "2021-01-26T03:03:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.okex.com/market?product=qtum_usdt",
@@ -555,30 +556,62 @@
             "base": "QTUM",
             "target": "USDT",
             "market": {
-                "name": "LBank",
-                "identifier": "lbank",
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 3.7878,
-            "volume": 6480588.3704,
+            "last": 3.286,
+            "volume": 58155.77355,
             "converted_last": {
-                "btc": 0.00011789,
-                "eth": 0.00301471,
-                "usd": 3.79
+                "btc": 0.00010165,
+                "eth": 0.00243433,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 763.995,
-                "eth": 19537,
-                "usd": 24565515
+                "btc": 5.911578,
+                "eth": 141.57,
+                "usd": 191428
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.115985,
-            "timestamp": "2021-01-23T18:26:02+00:00",
-            "last_traded_at": "2021-01-23T18:26:02+00:00",
-            "last_fetch_at": "2021-01-23T18:26:02+00:00",
+            "bid_ask_spread_percentage": 0.152068,
+            "timestamp": "2021-01-26T03:05:41+00:00",
+            "last_traded_at": "2021-01-26T03:05:41+00:00",
+            "last_fetch_at": "2021-01-26T03:05:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=qtum&post=usdt",
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "Catex",
+                "identifier": "catex",
+                "has_trading_incentive": false
+            },
+            "last": 3.2851,
+            "volume": 1800505.836198825,
+            "converted_last": {
+                "btc": 0.00010162,
+                "eth": 0.00243367,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 182.973,
+                "eth": 4382,
+                "usd": 5925156
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.133485,
+            "timestamp": "2021-01-26T03:07:16+00:00",
+            "last_traded_at": "2021-01-26T03:07:16+00:00",
+            "last_fetch_at": "2021-01-26T03:07:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.catex.io/trading/QTUM/USDT",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -591,23 +624,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 3.7875,
-            "volume": 6069407.3813653905,
+            "last": 3.2802,
+            "volume": 2431243.6970926025,
             "converted_last": {
-                "btc": 0.00011776,
-                "eth": 0.00301127,
-                "usd": 3.79
+                "btc": 0.00010153,
+                "eth": 0.0024351,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 714.704,
-                "eth": 18277,
-                "usd": 22989358
+                "btc": 246.85,
+                "eth": 5920,
+                "usd": 7989954
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.155759,
-            "timestamp": "2021-01-23T18:25:08+00:00",
-            "last_traded_at": "2021-01-23T18:25:08+00:00",
-            "last_fetch_at": "2021-01-23T18:25:08+00:00",
+            "bid_ask_spread_percentage": 0.112688,
+            "timestamp": "2021-01-26T02:56:33+00:00",
+            "last_traded_at": "2021-01-26T02:56:33+00:00",
+            "last_fetch_at": "2021-01-26T02:56:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=qtum_usdt",
@@ -617,158 +650,32 @@
         },
         {
             "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 3.791434,
-            "volume": 3673723.04,
-            "converted_last": {
-                "btc": 0.00011791,
-                "eth": 0.00301535,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 433.186,
-                "eth": 11078,
-                "usd": 13928678
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.295471,
-            "timestamp": "2021-01-23T18:26:15+00:00",
-            "last_traded_at": "2021-01-23T18:26:15+00:00",
-            "last_fetch_at": "2021-01-23T18:26:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/QTUM-to-USD",
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
             "target": "USDT",
             "market": {
-                "name": "ZB",
-                "identifier": "zb",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 3.7867,
-            "volume": 4305062.34,
+            "last": 3.2896,
+            "volume": 33491.5804,
             "converted_last": {
-                "btc": 0.00011786,
-                "eth": 0.00301384,
-                "usd": 3.79
+                "btc": 0.00010157,
+                "eth": 0.0024324,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 507.376,
-                "eth": 12975,
-                "usd": 16314161
+                "btc": 3.401619,
+                "eth": 81.465,
+                "usd": 110250
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.187092,
-            "timestamp": "2021-01-23T18:26:23+00:00",
-            "last_traded_at": "2021-01-23T18:26:23+00:00",
-            "last_fetch_at": "2021-01-23T18:26:23+00:00",
+            "bid_ask_spread_percentage": 0.10304,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trans.zb.com/qtumusdt",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 3.731957,
-            "volume": 3651172.42,
-            "converted_last": {
-                "btc": 0.00011606,
-                "eth": 0.00297352,
-                "usd": 3.73
-            },
-            "converted_volume": {
-                "btc": 423.756,
-                "eth": 10857,
-                "usd": 13626018
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.233583,
-            "timestamp": "2021-01-23T18:18:43+00:00",
-            "last_traded_at": "2021-01-23T18:18:43+00:00",
-            "last_fetch_at": "2021-01-23T18:18:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/QTUM-to-USD",
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "QC",
-            "market": {
-                "name": "ZB",
-                "identifier": "zb",
-                "has_trading_incentive": false
-            },
-            "last": 24.518,
-            "volume": 3701245.9,
-            "converted_last": {
-                "btc": 0.0001182,
-                "eth": 0.00302262,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 437.483,
-                "eth": 11187,
-                "usd": 14066845
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.366928,
-            "timestamp": "2021-01-23T18:26:20+00:00",
-            "last_traded_at": "2021-01-23T18:26:20+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trans.zb.com/qtumqc",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "qcash"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "OKEx Korea",
-                "identifier": "okex_korea",
-                "has_trading_incentive": false
-            },
-            "last": 3.793,
-            "volume": 56732.35838,
-            "converted_last": {
-                "btc": 0.00011805,
-                "eth": 0.00301885,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 6.697349,
-                "eth": 171.267,
-                "usd": 215429
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179031,
-            "timestamp": "2021-01-23T18:25:43+00:00",
-            "last_traded_at": "2021-01-23T18:25:43+00:00",
-            "last_fetch_at": "2021-01-23T18:25:43+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "trade_url": "https://crypto.com/exchange/trade/spot/QTUM_USDT",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -781,23 +688,23 @@
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 3.7818,
-            "volume": 903759.62,
+            "last": 3.2765,
+            "volume": 576998.48,
             "converted_last": {
-                "btc": 0.00011758,
-                "eth": 0.00300674,
-                "usd": 3.78
+                "btc": 0.00010144,
+                "eth": 0.00242927,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 106.262,
-                "eth": 2717,
-                "usd": 3417943
+                "btc": 58.53,
+                "eth": 1402,
+                "usd": 1895377
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.1347,
-            "timestamp": "2021-01-23T18:24:23+00:00",
-            "last_traded_at": "2021-01-23T18:24:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:23+00:00",
+            "bid_ask_spread_percentage": 0.243546,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/qtum_usdt",
@@ -807,32 +714,96 @@
         },
         {
             "base": "QTUM",
-            "target": "USDT",
+            "target": "QC",
             "market": {
-                "name": "MXC",
-                "identifier": "mxc",
+                "name": "ZB",
+                "identifier": "zb",
                 "has_trading_incentive": false
             },
-            "last": 3.784,
-            "volume": 1305541.84,
+            "last": 21.176,
+            "volume": 1417756.79,
             "converted_last": {
-                "btc": 0.00011775,
-                "eth": 0.00301692,
-                "usd": 3.79
+                "btc": 0.00010138,
+                "eth": 0.00242777,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 153.733,
-                "eth": 3939,
-                "usd": 4943347
+                "btc": 143.728,
+                "eth": 3442,
+                "usd": 4654301
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.334014,
-            "timestamp": "2021-01-23T18:22:03+00:00",
-            "last_traded_at": "2021-01-23T18:22:03+00:00",
-            "last_fetch_at": "2021-01-23T18:22:03+00:00",
+            "bid_ask_spread_percentage": 0.193396,
+            "timestamp": "2021-01-26T03:07:39+00:00",
+            "last_traded_at": "2021-01-26T03:07:39+00:00",
+            "last_fetch_at": "2021-01-26T03:07:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#QTUM_USDT",
+            "trade_url": "https://trans.zb.com/qtumqc",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "QTUM",
+            "target": "SXC",
+            "market": {
+                "name": "XT",
+                "identifier": "xt",
+                "has_trading_incentive": false
+            },
+            "last": 21.178,
+            "volume": 2159537.62,
+            "converted_last": {
+                "btc": 0.00010182,
+                "eth": 0.00243838,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 219.884,
+                "eth": 5266,
+                "usd": 7120435
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.383066,
+            "timestamp": "2021-01-26T03:07:48+00:00",
+            "last_traded_at": "2021-01-26T03:07:48+00:00",
+            "last_fetch_at": "2021-01-26T03:07:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.xt.com/trade/qtum_sxc",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "sxc"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "LBank",
+                "identifier": "lbank",
+                "has_trading_incentive": false
+            },
+            "last": 3.2846,
+            "volume": 2575196.228,
+            "converted_last": {
+                "btc": 0.00010169,
+                "eth": 0.00243528,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 261.872,
+                "eth": 6271,
+                "usd": 8480149
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.225013,
+            "timestamp": "2021-01-26T03:07:55+00:00",
+            "last_traded_at": "2021-01-26T03:07:55+00:00",
+            "last_fetch_at": "2021-01-26T03:07:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.lbank.info/exchange.html?asset=qtum&post=usdt",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -845,23 +816,23 @@
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 0.00011764,
-            "volume": 998355.68,
+            "last": 0.00010151,
+            "volume": 900704.22,
             "converted_last": {
-                "btc": 0.00011764,
-                "eth": 0.00300832,
-                "usd": 3.78
+                "btc": 0.00010151,
+                "eth": 0.00243096,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 117.447,
-                "eth": 3003,
-                "usd": 3777691
+                "btc": 91.43,
+                "eth": 2190,
+                "usd": 2960770
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.178253,
-            "timestamp": "2021-01-23T18:24:24+00:00",
-            "last_traded_at": "2021-01-23T18:24:24+00:00",
-            "last_fetch_at": "2021-01-23T18:24:24+00:00",
+            "bid_ask_spread_percentage": 0.216557,
+            "timestamp": "2021-01-26T03:07:45+00:00",
+            "last_traded_at": "2021-01-26T03:07:45+00:00",
+            "last_fetch_at": "2021-01-26T03:07:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/qtum_btc",
@@ -871,35 +842,97 @@
         },
         {
             "base": "QTUM",
-            "target": "SXC",
+            "target": "USDT",
             "market": {
-                "name": "XT",
-                "identifier": "xt",
+                "name": "MXC",
+                "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 24.4603,
-            "volume": 963331.22,
+            "last": 3.283,
+            "volume": 582253.24,
             "converted_last": {
-                "btc": 0.00011776,
-                "eth": 0.00301132,
-                "usd": 3.79
+                "btc": 0.00010156,
+                "eth": 0.00243211,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 113.439,
-                "eth": 2901,
-                "usd": 3648798
+                "btc": 59.132,
+                "eth": 1416,
+                "usd": 1914817
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.151497,
-            "timestamp": "2021-01-23T18:24:25+00:00",
-            "last_traded_at": "2021-01-23T18:24:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:25+00:00",
+            "bid_ask_spread_percentage": 0.206756,
+            "timestamp": "2021-01-26T03:05:09+00:00",
+            "last_traded_at": "2021-01-26T03:05:09+00:00",
+            "last_fetch_at": "2021-01-26T03:05:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/qtum_sxc",
+            "trade_url": "https://www.mxc.com/trade/easy#QTUM_USDT",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "sxc"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USD",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 3.289,
+            "volume": 35486.91,
+            "converted_last": {
+                "btc": 0.00010157,
+                "eth": 0.00243238,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 3.604381,
+                "eth": 86.318,
+                "usd": 116716
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.4245,
+            "timestamp": "2021-01-26T03:05:51+00:00",
+            "last_traded_at": "2021-01-26T03:05:51+00:00",
+            "last_fetch_at": "2021-01-26T03:05:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/QTUMUSD",
+            "token_info_url": null,
+            "coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 3.282015,
+            "volume": 2796416.59,
+            "converted_last": {
+                "btc": 0.00010127,
+                "eth": 0.00242533,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 283.196,
+                "eth": 6782,
+                "usd": 9177881
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.420467,
+            "timestamp": "2021-01-26T03:00:50+00:00",
+            "last_traded_at": "2021-01-26T03:00:50+00:00",
+            "last_fetch_at": "2021-01-26T03:00:50+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/QTUM-to-USD",
+            "token_info_url": null,
+            "coin_id": "qtum"
         },
         {
             "base": "QTUM",
@@ -909,23 +942,23 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.00011748,
-            "volume": 684335.21,
+            "last": 0.00010157,
+            "volume": 553555.2,
             "converted_last": {
-                "btc": 0.00011748,
-                "eth": 0.00300423,
-                "usd": 3.78
+                "btc": 0.00010157,
+                "eth": 0.00243248,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 80.396,
-                "eth": 2056,
-                "usd": 2585991
+                "btc": 56.225,
+                "eth": 1347,
+                "usd": 1819324
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.195811,
-            "timestamp": "2021-01-23T18:23:34+00:00",
-            "last_traded_at": "2021-01-23T18:23:34+00:00",
-            "last_fetch_at": "2021-01-23T18:23:34+00:00",
+            "bid_ask_spread_percentage": 0.236058,
+            "timestamp": "2021-01-26T03:02:28+00:00",
+            "last_traded_at": "2021-01-26T03:02:28+00:00",
+            "last_fetch_at": "2021-01-26T03:02:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/QTUM-to-BTC",
@@ -935,35 +968,34 @@
         },
         {
             "base": "QTUM",
-            "target": "BTC",
+            "target": "USD",
             "market": {
                 "name": "Bitcoin.com Exchange",
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.00011658,
-            "volume": 681490.93,
+            "last": 3.282844,
+            "volume": 2796075.51,
             "converted_last": {
-                "btc": 0.00011658,
-                "eth": 0.00298684,
-                "usd": 3.75
+                "btc": 0.00010129,
+                "eth": 0.00242573,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 79.448,
-                "eth": 2036,
-                "usd": 2554682
+                "btc": 283.209,
+                "eth": 6783,
+                "usd": 9179080
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.274325,
-            "timestamp": "2021-01-23T18:18:44+00:00",
-            "last_traded_at": "2021-01-23T18:18:44+00:00",
-            "last_fetch_at": "2021-01-23T18:18:44+00:00",
+            "bid_ask_spread_percentage": 0.48846,
+            "timestamp": "2021-01-26T02:59:48+00:00",
+            "last_traded_at": "2021-01-26T02:59:48+00:00",
+            "last_fetch_at": "2021-01-26T02:59:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/QTUM-to-BTC",
+            "trade_url": "https://exchange.bitcoin.com/exchange/QTUM-to-USD",
             "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
+            "coin_id": "qtum"
         },
         {
             "base": "QTUM",
@@ -973,26 +1005,121 @@
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.0030152,
-            "volume": 85008.6,
+            "last": 0.0024296,
+            "volume": 57305.57,
             "converted_last": {
-                "btc": 0.00011789,
-                "eth": 0.00301483,
-                "usd": 3.79
+                "btc": 0.00010141,
+                "eth": 0.00242869,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 10.022031,
-                "eth": 256.286,
-                "usd": 322248
+                "btc": 5.811444,
+                "eth": 139.177,
+                "usd": 188048
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.143052,
-            "timestamp": "2021-01-23T18:26:11+00:00",
-            "last_traded_at": "2021-01-23T18:26:11+00:00",
-            "last_fetch_at": "2021-01-23T18:26:11+00:00",
+            "bid_ask_spread_percentage": 0.31223,
+            "timestamp": "2021-01-26T03:02:16+00:00",
+            "last_traded_at": "2021-01-26T03:02:16+00:00",
+            "last_fetch_at": "2021-01-26T03:02:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://hitbtc.com/QTUM-to-ETH",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010159,
+            "volume": 557267.32,
+            "converted_last": {
+                "btc": 0.00010159,
+                "eth": 0.00243296,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 56.613,
+                "eth": 1356,
+                "usd": 1834877
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.334087,
+            "timestamp": "2021-01-26T02:59:49+00:00",
+            "last_traded_at": "2021-01-26T02:59:49+00:00",
+            "last_fetch_at": "2021-01-26T02:59:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/QTUM-to-BTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 3.27846,
+            "volume": 105001.20907906,
+            "converted_last": {
+                "btc": 0.00010132,
+                "eth": 0.00242646,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 10.638565,
+                "eth": 254.781,
+                "usd": 344242
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.380888,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/qtum/usd",
+            "token_info_url": null,
+            "coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "Catex",
+                "identifier": "catex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0024206,
+            "volume": 1666665.9302528298,
+            "converted_last": {
+                "btc": 0.00010142,
+                "eth": 0.00242888,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 169.038,
+                "eth": 4048,
+                "usd": 5473929
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.141207,
+            "timestamp": "2021-01-26T03:07:18+00:00",
+            "last_traded_at": "2021-01-26T03:07:18+00:00",
+            "last_fetch_at": "2021-01-26T03:07:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.catex.io/trading/QTUM/ETH",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
@@ -1005,23 +1132,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 3.1049,
-            "volume": 273751.75096774,
+            "last": 2.7164,
+            "volume": 166399.01146962,
             "converted_last": {
-                "btc": 0.00011756,
-                "eth": 0.00301202,
-                "usd": 3.78
+                "btc": 0.00010194,
+                "eth": 0.00244124,
+                "usd": 3.3
             },
             "converted_volume": {
-                "btc": 32.183048,
-                "eth": 824.545,
-                "usd": 1034798
+                "btc": 16.961958,
+                "eth": 406.219,
+                "usd": 548854
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.40604,
-            "timestamp": "2021-01-23T18:21:20+00:00",
-            "last_traded_at": "2021-01-23T18:21:20+00:00",
-            "last_fetch_at": "2021-01-23T18:21:20+00:00",
+            "bid_ask_spread_percentage": 0.814711,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/qtum/eur",
@@ -1030,66 +1157,35 @@
         },
         {
             "base": "QTUM",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
+                "name": "Catex",
+                "identifier": "catex",
                 "has_trading_incentive": false
             },
-            "last": 3.8144,
-            "volume": 57804.2414,
+            "last": 0.00010151,
+            "volume": 1546351.312087479,
             "converted_last": {
-                "btc": 0.0001187,
-                "eth": 0.00304115,
-                "usd": 3.82
+                "btc": 0.00010151,
+                "eth": 0.00243096,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 6.861371,
-                "eth": 175.792,
-                "usd": 220617
+                "btc": 156.97,
+                "eth": 3759,
+                "usd": 5083123
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.267541,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
+            "bid_ask_spread_percentage": 0.159073,
+            "timestamp": "2021-01-26T03:07:18+00:00",
+            "last_traded_at": "2021-01-26T03:07:18+00:00",
+            "last_fetch_at": "2021-01-26T03:07:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/QTUM_USDT",
+            "trade_url": "https://www.catex.io/trading/QTUM/BTC",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 3.74249,
-            "volume": 307952.81101907,
-            "converted_last": {
-                "btc": 0.00011639,
-                "eth": 0.00298208,
-                "usd": 3.74
-            },
-            "converted_volume": {
-                "btc": 35.84399,
-                "eth": 918.34,
-                "usd": 1152510
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.546666,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/qtum/usd",
-            "token_info_url": null,
-            "coin_id": "qtum"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "QTUM",
@@ -1099,282 +1195,26 @@
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 3.78,
-            "volume": 2231793.7516,
+            "last": 3.281,
+            "volume": 1899518.9804,
             "converted_last": {
-                "btc": 0.00011752,
-                "eth": 0.00300531,
-                "usd": 3.78
+                "btc": 0.00010156,
+                "eth": 0.0024357,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 262.285,
-                "eth": 6707,
-                "usd": 8436440
+                "btc": 192.91,
+                "eth": 4627,
+                "usd": 6244035
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.158688,
-            "timestamp": "2021-01-23T18:24:11+00:00",
-            "last_traded_at": "2021-01-23T18:24:11+00:00",
-            "last_fetch_at": "2021-01-23T18:24:11+00:00",
+            "bid_ask_spread_percentage": 0.121729,
+            "timestamp": "2021-01-26T02:56:58+00:00",
+            "last_traded_at": "2021-01-26T02:56:58+00:00",
+            "last_fetch_at": "2021-01-26T02:56:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=QTUM_USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 3.78,
-            "volume": 649052.4948513227,
-            "converted_last": {
-                "btc": 0.00011751,
-                "eth": 0.0030049,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 76.268,
-                "eth": 1950,
-                "usd": 2452306
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.343461,
-            "timestamp": "2021-01-23T18:26:37+00:00",
-            "last_traded_at": "2021-01-23T18:26:37+00:00",
-            "last_fetch_at": "2021-01-23T18:26:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/QTUM_BUSD",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "Dex-Trade",
-                "identifier": "dextrade",
-                "has_trading_incentive": false
-            },
-            "last": 3.778,
-            "volume": 17073.817,
-            "converted_last": {
-                "btc": 0.00011746,
-                "eth": 0.00300372,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 2.005487,
-                "eth": 51.285,
-                "usd": 64507
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.290851,
-            "timestamp": "2021-01-23T18:24:38+00:00",
-            "last_traded_at": "2021-01-23T18:24:38+00:00",
-            "last_fetch_at": "2021-01-23T18:24:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001175,
-            "volume": 794070.01065,
-            "converted_last": {
-                "btc": 0.0001175,
-                "eth": 0.00301041,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 93.303,
-                "eth": 2390,
-                "usd": 3000210
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.423729,
-            "timestamp": "2021-01-23T18:20:42+00:00",
-            "last_traded_at": "2021-01-23T18:20:42+00:00",
-            "last_fetch_at": "2021-01-23T18:20:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=qtum_btc",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.000117,
-            "volume": 582712.613548945,
-            "converted_last": {
-                "btc": 0.000117,
-                "eth": 0.00299196,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 68.177,
-                "eth": 1743,
-                "usd": 2193012
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.847458,
-            "timestamp": "2021-01-23T18:25:03+00:00",
-            "last_traded_at": "2021-01-23T18:25:03+00:00",
-            "last_fetch_at": "2021-01-23T18:25:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=qtum_btc",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "XBT",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001169,
-            "volume": 47542.13240194,
-            "converted_last": {
-                "btc": 0.0001169,
-                "eth": 0.00299503,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 5.557675,
-                "eth": 142.39,
-                "usd": 178699
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.424809,
-            "timestamp": "2021-01-23T18:21:24+00:00",
-            "last_traded_at": "2021-01-23T18:21:24+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/qtum/xbt",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "CoinAll",
-                "identifier": "coinall",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001176,
-            "volume": 4.9925,
-            "converted_last": {
-                "btc": 0.0001176,
-                "eth": 0.0030073,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 0.00058712,
-                "eth": 0.01501395,
-                "usd": 18.88
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.424448,
-            "timestamp": "2021-01-23T18:24:49+00:00",
-            "last_traded_at": "2021-01-23T18:24:49+00:00",
-            "last_fetch_at": "2021-01-23T18:24:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx Korea",
-                "identifier": "okex_korea",
-                "has_trading_incentive": false
-            },
-            "last": 0.000118,
-            "volume": 3700.29016,
-            "converted_last": {
-                "btc": 0.000118,
-                "eth": 0.00301753,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 0.43663424,
-                "eth": 11.165735,
-                "usd": 14044.89
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.422654,
-            "timestamp": "2021-01-23T18:25:45+00:00",
-            "last_traded_at": "2021-01-23T18:25:45+00:00",
-            "last_fetch_at": "2021-01-23T18:25:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://okex.co.kr/kr/view/trade/order",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 3.7516,
-            "volume": 237538.038,
-            "converted_last": {
-                "btc": 0.00011675,
-                "eth": 0.00299109,
-                "usd": 3.75
-            },
-            "converted_volume": {
-                "btc": 27.731581,
-                "eth": 710.496,
-                "usd": 891668
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.812944,
-            "timestamp": "2021-01-23T18:21:45+00:00",
-            "last_traded_at": "2021-01-23T18:21:45+00:00",
-            "last_fetch_at": "2021-01-23T18:21:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/qtum",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -1387,23 +1227,23 @@
                 "identifier": "coinone",
                 "has_trading_incentive": false
             },
-            "last": 4196.0,
-            "volume": 424405.6913,
+            "last": 3660.0,
+            "volume": 117145.6533,
             "converted_last": {
-                "btc": 0.000118,
-                "eth": 0.00301742,
-                "usd": 3.8
+                "btc": 0.00010255,
+                "eth": 0.00245593,
+                "usd": 3.32
             },
             "converted_volume": {
-                "btc": 50.078,
-                "eth": 1281,
-                "usd": 1610802
+                "btc": 12.013584,
+                "eth": 287.701,
+                "usd": 389022
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.24105,
-            "timestamp": "2021-01-23T18:23:55+00:00",
-            "last_traded_at": "2021-01-23T18:23:55+00:00",
-            "last_fetch_at": "2021-01-23T18:23:55+00:00",
+            "bid_ask_spread_percentage": 0.435019,
+            "timestamp": "2021-01-26T03:05:42+00:00",
+            "last_traded_at": "2021-01-26T03:05:42+00:00",
+            "last_fetch_at": "2021-01-26T03:05:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://coinone.co.kr/exchange/trade/qtum/krw",
@@ -1414,126 +1254,381 @@
             "base": "QTUM",
             "target": "USDT",
             "market": {
+                "name": "Dex-Trade",
+                "identifier": "dextrade",
+                "has_trading_incentive": false
+            },
+            "last": 3.282,
+            "volume": 5386.1986694,
+            "converted_last": {
+                "btc": 0.00010133,
+                "eth": 0.00242678,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 0.54579284,
+                "eth": 13.071104,
+                "usd": 17689.69
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243309,
+            "timestamp": "2021-01-26T03:00:02+00:00",
+            "last_traded_at": "2021-01-26T03:00:02+00:00",
+            "last_fetch_at": "2021-01-26T03:00:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001017,
+            "volume": 530729.43592,
+            "converted_last": {
+                "btc": 0.0001017,
+                "eth": 0.0024356,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 53.975,
+                "eth": 1293,
+                "usd": 1746527
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.392542,
+            "timestamp": "2021-01-26T03:03:18+00:00",
+            "last_traded_at": "2021-01-26T03:03:18+00:00",
+            "last_fetch_at": "2021-01-26T03:03:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=qtum_btc",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001023,
+            "volume": 15956.94005127,
+            "converted_last": {
+                "btc": 0.0001023,
+                "eth": 0.00244327,
+                "usd": 3.32
+            },
+            "converted_volume": {
+                "btc": 1.632395,
+                "eth": 38.987126,
+                "usd": 53005
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.294695,
+            "timestamp": "2021-01-26T02:42:27+00:00",
+            "last_traded_at": "2021-01-26T02:42:27+00:00",
+            "last_fetch_at": "2021-01-26T03:03:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/qtum/xbt",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.002421,
+            "volume": 100551.51115654688,
+            "converted_last": {
+                "btc": 0.00010144,
+                "eth": 0.00242928,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 10.199935,
+                "eth": 244.268,
+                "usd": 330298
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.288303,
+            "timestamp": "2021-01-26T03:06:08+00:00",
+            "last_traded_at": "2021-01-26T03:06:08+00:00",
+            "last_fetch_at": "2021-01-26T03:06:08+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/QTUM_ETH",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 3.2844,
+            "volume": 104439.174,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.00243315,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 10.611152,
+                "eth": 254.116,
+                "usd": 343618
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.491953,
+            "timestamp": "2021-01-26T03:07:18+00:00",
+            "last_traded_at": "2021-01-26T03:07:18+00:00",
+            "last_fetch_at": "2021-01-26T03:07:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/usdt/qtum",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001016,
+            "volume": 4461.53908,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.00243673,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 0.45329237,
+                "eth": 10.871546,
+                "usd": 14672.01
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.294695,
+            "timestamp": "2021-01-26T02:56:04+00:00",
+            "last_traded_at": "2021-01-26T02:56:04+00:00",
+            "last_fetch_at": "2021-01-26T03:05:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001014,
+            "volume": 15168.4,
+            "converted_last": {
+                "btc": 0.0001014,
+                "eth": 0.00242833,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 1.538076,
+                "eth": 36.833837,
+                "usd": 49806
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.491159,
+            "timestamp": "2021-01-26T03:05:51+00:00",
+            "last_traded_at": "2021-01-26T03:05:51+00:00",
+            "last_fetch_at": "2021-01-26T03:05:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/QTUMBTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "CoinAll",
+                "identifier": "coinall",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001015,
+            "volume": 11.48215,
+            "converted_last": {
+                "btc": 0.0001015,
+                "eth": 0.00243072,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 0.00116544,
+                "eth": 0.02790991,
+                "usd": 37.74
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.491159,
+            "timestamp": "2021-01-26T03:06:56+00:00",
+            "last_traded_at": "2021-01-26T03:06:56+00:00",
+            "last_fetch_at": "2021-01-26T03:06:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.000102,
+            "volume": 127269.9738,
+            "converted_last": {
+                "btc": 0.000102,
+                "eth": 0.00244278,
+                "usd": 3.31
+            },
+            "converted_volume": {
+                "btc": 12.981537,
+                "eth": 310.893,
+                "usd": 420745
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.980392,
+            "timestamp": "2021-01-26T02:59:23+00:00",
+            "last_traded_at": "2021-01-26T02:59:23+00:00",
+            "last_fetch_at": "2021-01-26T02:59:23+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=qtum_btc",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "USD",
+            "market": {
                 "name": "Binance US",
                 "identifier": "binance_us",
                 "has_trading_incentive": false
             },
-            "last": 3.747,
-            "volume": 23854.921042700826,
+            "last": 3.294,
+            "volume": 50098.085640558595,
             "converted_last": {
-                "btc": 0.0001166,
-                "eth": 0.00298742,
-                "usd": 3.75
+                "btc": 0.00010163,
+                "eth": 0.00243397,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 2.781548,
-                "eth": 71.265,
-                "usd": 89442
+                "btc": 5.091577,
+                "eth": 121.937,
+                "usd": 165023
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.185578,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.130349,
+            "timestamp": "2021-01-26T02:59:47+00:00",
+            "last_traded_at": "2021-01-26T02:59:47+00:00",
+            "last_fetch_at": "2021-01-26T02:59:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/QTUM_USDT",
+            "trade_url": "https://www.binance.us/en/trade/QTUM_USD",
+            "token_info_url": null,
+            "coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 3.281,
+            "volume": 207964.39677964034,
+            "converted_last": {
+                "btc": 0.0001014,
+                "eth": 0.00242832,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 21.087487,
+                "eth": 505.003,
+                "usd": 682571
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.364631,
+            "timestamp": "2021-01-26T03:08:01+00:00",
+            "last_traded_at": "2021-01-26T03:08:01+00:00",
+            "last_fetch_at": "2021-01-26T03:08:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/QTUM_BUSD",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "tether"
+            "target_coin_id": "binance-usd"
         },
         {
             "base": "QTUM",
             "target": "USDT",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "Hotbit",
+                "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 3.765,
-            "volume": 254611.91504244,
+            "last": 3.29182,
+            "volume": 20879.02,
             "converted_last": {
-                "btc": 0.00011706,
-                "eth": 0.00299338,
-                "usd": 3.77
+                "btc": 0.00010183,
+                "eth": 0.00243864,
+                "usd": 3.3
             },
             "converted_volume": {
-                "btc": 29.803753,
-                "eth": 762.15,
-                "usd": 958661
+                "btc": 2.126127,
+                "eth": 50.916,
+                "usd": 68849
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.396511,
-            "timestamp": "2021-01-23T18:23:16+00:00",
-            "last_traded_at": "2021-01-23T18:23:16+00:00",
-            "last_fetch_at": "2021-01-23T18:23:16+00:00",
+            "bid_ask_spread_percentage": 0.697816,
+            "timestamp": "2021-01-26T03:06:23+00:00",
+            "last_traded_at": "2021-01-26T03:06:23+00:00",
+            "last_fetch_at": "2021-01-26T03:06:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/QTUM_USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 52.677,
-            "volume": 3042.65,
-            "converted_last": {
-                "btc": 0.00011731,
-                "eth": 0.00300562,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 0.35694271,
-                "eth": 9.145044,
-                "usd": 11476.96
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.078319,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/QTUM_CRO",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "crypto-com-chain"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 3.779,
-            "volume": 696341.46,
-            "converted_last": {
-                "btc": 0.00011762,
-                "eth": 0.00300771,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 81.901,
-                "eth": 2094,
-                "usd": 2633441
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.550449,
-            "timestamp": "2021-01-23T18:26:32+00:00",
-            "last_traded_at": "2021-01-23T18:26:32+00:00",
-            "last_fetch_at": "2021-01-23T18:26:32+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_USDT",
+            "trade_url": "https://www.hotbit.io/exchange?symbol=QTUM_USDT",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -1546,23 +1641,23 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 3.7713,
-            "volume": 289621.722,
+            "last": 3.286,
+            "volume": 259206.87272405,
             "converted_last": {
-                "btc": 0.00011725,
-                "eth": 0.00299839,
-                "usd": 3.77
+                "btc": 0.00010182,
+                "eth": 0.00243835,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 33.958575,
-                "eth": 868.398,
-                "usd": 1092304
+                "btc": 26.391175,
+                "eth": 632.038,
+                "usd": 853965
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.369686,
-            "timestamp": "2021-01-23T18:23:15+00:00",
-            "last_traded_at": "2021-01-23T18:23:15+00:00",
-            "last_fetch_at": "2021-01-23T18:23:15+00:00",
+            "bid_ask_spread_percentage": 0.288771,
+            "timestamp": "2021-01-26T03:04:00+00:00",
+            "last_traded_at": "2021-01-26T03:04:00+00:00",
+            "last_fetch_at": "2021-01-26T03:04:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/QTUM_USDT",
@@ -1572,98 +1667,131 @@
         },
         {
             "base": "QTUM",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.002997,
-            "volume": 183290.61244244245,
+            "last": 3.285,
+            "volume": 139679.40164233,
             "converted_last": {
-                "btc": 0.00011718,
-                "eth": 0.00299663,
-                "usd": 3.77
+                "btc": 0.00010142,
+                "eth": 0.002429,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 21.478489,
-                "eth": 549.254,
-                "usd": 690620
+                "btc": 14.166893,
+                "eth": 339.281,
+                "usd": 459163
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.660502,
-            "timestamp": "2021-01-23T18:26:29+00:00",
-            "last_traded_at": "2021-01-23T18:26:29+00:00",
-            "last_fetch_at": "2021-01-23T18:26:29+00:00",
+            "bid_ask_spread_percentage": 0.395017,
+            "timestamp": "2021-01-26T02:59:28+00:00",
+            "last_traded_at": "2021-01-26T02:59:28+00:00",
+            "last_fetch_at": "2021-01-26T02:59:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/QTUM_ETH",
+            "trade_url": "https://gate.io/trade/QTUM_USDT",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
         },
         {
             "base": "QTUM",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "CoinEx",
+                "identifier": "coinex",
                 "has_trading_incentive": false
             },
-            "last": 0.0030275,
-            "volume": 8215.3934272,
+            "last": 3.28,
+            "volume": 80813.20735147,
             "converted_last": {
-                "btc": 0.00011828,
-                "eth": 0.00304001,
-                "usd": 3.81
+                "btc": 0.00010163,
+                "eth": 0.0024339,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 0.97175309,
-                "eth": 24.974857,
-                "usd": 31296
+                "btc": 8.212981,
+                "eth": 196.691,
+                "usd": 265755
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.62269,
-            "timestamp": "2021-01-23T18:14:42+00:00",
-            "last_traded_at": "2021-01-23T18:14:42+00:00",
-            "last_fetch_at": "2021-01-23T18:21:48+00:00",
+            "bid_ask_spread_percentage": 0.358695,
+            "timestamp": "2021-01-26T03:03:43+00:00",
+            "last_traded_at": "2021-01-26T03:03:43+00:00",
+            "last_fetch_at": "2021-01-26T03:03:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/qtum/eth",
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=QTUM#limit",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTM",
+            "target": "BTC",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001022,
+            "volume": 10475.09144914,
+            "converted_last": {
+                "btc": 0.0001022,
+                "eth": 0.00243932,
+                "usd": 3.32
+            },
+            "converted_volume": {
+                "btc": 1.070554,
+                "eth": 25.552143,
+                "usd": 34778
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.587659,
+            "timestamp": "2021-01-26T02:35:45+00:00",
+            "last_traded_at": "2021-01-26T02:35:45+00:00",
+            "last_fetch_at": "2021-01-26T03:01:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/QTMBTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "QTUM",
-            "target": "USD",
+            "target": "USDT",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "BitMart",
+                "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 3.746,
-            "volume": 43030.15408435665,
+            "last": 3.284,
+            "volume": 533878.92,
             "converted_last": {
-                "btc": 0.0001165,
-                "eth": 0.0029847,
-                "usd": 3.75
+                "btc": 0.00010165,
+                "eth": 0.00243793,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 5.01287,
-                "eth": 128.432,
-                "usd": 161191
+                "btc": 54.269,
+                "eth": 1302,
+                "usd": 1756332
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.132275,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.507367,
+            "timestamp": "2021-01-26T02:55:56+00:00",
+            "last_traded_at": "2021-01-26T02:55:56+00:00",
+            "last_fetch_at": "2021-01-26T02:59:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/QTUM_USD",
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_USDT",
             "token_info_url": null,
-            "coin_id": "qtum"
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
         },
         {
             "base": "QTUM",
@@ -1673,217 +1801,26 @@
                 "identifier": "zb",
                 "has_trading_incentive": false
             },
-            "last": 0.00011711,
-            "volume": 226807.66,
+            "last": 0.00010151,
+            "volume": 75865.77,
             "converted_last": {
-                "btc": 0.00011711,
-                "eth": 0.00300041,
-                "usd": 3.77
+                "btc": 0.00010151,
+                "eth": 0.00243096,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 26.561445,
-                "eth": 680.517,
-                "usd": 854094
+                "btc": 7.701134,
+                "eth": 184.427,
+                "usd": 249384
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.194866,
-            "timestamp": "2021-01-23T18:22:01+00:00",
-            "last_traded_at": "2021-01-23T18:22:01+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
+            "bid_ask_spread_percentage": 0.188557,
+            "timestamp": "2021-01-26T03:07:56+00:00",
+            "last_traded_at": "2021-01-26T03:07:56+00:00",
+            "last_fetch_at": "2021-01-26T03:07:56+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trans.zb.com/qtumbtc",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001178,
-            "volume": 690953.63779,
-            "converted_last": {
-                "btc": 0.0001178,
-                "eth": 0.00301242,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 81.394,
-                "eth": 2081,
-                "usd": 2618152
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.525424,
-            "timestamp": "2021-01-23T18:25:04+00:00",
-            "last_traded_at": "2021-01-23T18:25:04+00:00",
-            "last_fetch_at": "2021-01-23T18:25:04+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/QTUM",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
-                "has_trading_incentive": false
-            },
-            "last": 3.769,
-            "volume": 134630.188,
-            "converted_last": {
-                "btc": 0.00011721,
-                "eth": 0.00300303,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 15.780268,
-                "eth": 404.298,
-                "usd": 507421
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.449735,
-            "timestamp": "2021-01-23T18:22:08+00:00",
-            "last_traded_at": "2021-01-23T18:22:08+00:00",
-            "last_fetch_at": "2021-01-23T18:22:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exrates.me/trading/QTUMUSD",
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 3.771016,
-            "volume": 9965.35,
-            "converted_last": {
-                "btc": 0.00011737,
-                "eth": 0.00300135,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 1.169608,
-                "eth": 29.90954,
-                "usd": 37622
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.579405,
-            "timestamp": "2021-01-23T18:25:29+00:00",
-            "last_traded_at": "2021-01-23T18:25:29+00:00",
-            "last_fetch_at": "2021-01-23T18:25:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=QTUM_USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 0.002997,
-            "volume": 383300.26,
-            "converted_last": {
-                "btc": 0.00011718,
-                "eth": 0.00299663,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 44.916159,
-                "eth": 1149,
-                "usd": 1444235
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.38101,
-            "timestamp": "2021-01-23T18:26:27+00:00",
-            "last_traded_at": "2021-01-23T18:26:27+00:00",
-            "last_fetch_at": "2021-01-23T18:26:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_ETH",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "BigONE",
-                "identifier": "bigone",
-                "has_trading_incentive": false
-            },
-            "last": 3.773,
-            "volume": 327299.943,
-            "converted_last": {
-                "btc": 0.00011741,
-                "eth": 0.00300815,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 38.428875,
-                "eth": 984.566,
-                "usd": 1235623
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.238032,
-            "timestamp": "2021-01-23T18:21:27+00:00",
-            "last_traded_at": "2021-01-23T18:21:27+00:00",
-            "last_fetch_at": "2021-01-23T18:21:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://big.one/trade/QTUM-USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011735,
-            "volume": 76578.57000426076,
-            "converted_last": {
-                "btc": 0.00011735,
-                "eth": 0.00300656,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 8.986495,
-                "eth": 230.238,
-                "usd": 288947
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.958683,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/QTUM:BTC",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "bitcoin"
@@ -1896,92 +1833,28 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 3.7579,
-            "volume": 33643.65106259,
+            "last": 3.3133,
+            "volume": 13671.99058348,
             "converted_last": {
-                "btc": 0.00011683,
-                "eth": 0.00298764,
-                "usd": 3.76
+                "btc": 0.00010199,
+                "eth": 0.00243436,
+                "usd": 3.31
             },
             "converted_volume": {
-                "btc": 3.930631,
-                "eth": 100.515,
-                "usd": 126429
+                "btc": 1.394433,
+                "eth": 33.282529,
+                "usd": 45299
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.791139,
-            "timestamp": "2021-01-23T18:24:57+00:00",
-            "last_traded_at": "2021-01-23T18:24:57+00:00",
-            "last_fetch_at": "2021-01-23T18:24:57+00:00",
+            "bid_ask_spread_percentage": 0.395257,
+            "timestamp": "2021-01-26T02:35:40+00:00",
+            "last_traded_at": "2021-01-26T02:35:40+00:00",
+            "last_fetch_at": "2021-01-26T03:01:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/QTMUSD",
             "token_info_url": null,
             "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "CoinEgg",
-                "identifier": "coin_egg",
-                "has_trading_incentive": false
-            },
-            "last": 0.000118,
-            "volume": 603949.1474,
-            "converted_last": {
-                "btc": 0.000118,
-                "eth": 0.00302322,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 71.266,
-                "eth": 1826,
-                "usd": 2291593
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.097315,
-            "timestamp": "2021-01-23T18:20:58+00:00",
-            "last_traded_at": "2021-01-23T18:20:58+00:00",
-            "last_fetch_at": "2021-01-23T18:20:58+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinegg.com/btc/qtum/",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
-                "has_trading_incentive": false
-            },
-            "last": 3.78,
-            "volume": 114849.29537896,
-            "converted_last": {
-                "btc": 0.00011763,
-                "eth": 0.00301373,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 13.50968,
-                "eth": 346.125,
-                "usd": 434384
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.45638,
-            "timestamp": "2021-01-23T18:21:03+00:00",
-            "last_traded_at": "2021-01-23T18:21:03+00:00",
-            "last_fetch_at": "2021-01-23T18:21:03+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=QTUM#limit",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
         },
         {
             "base": "QTUM",
@@ -1991,23 +1864,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.003018,
-            "volume": 116615.903,
+            "last": 0.002431,
+            "volume": 54822.3991,
             "converted_last": {
-                "btc": 0.000118,
-                "eth": 0.00301763,
-                "usd": 3.8
+                "btc": 0.00010147,
+                "eth": 0.00243009,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 13.76112,
-                "eth": 351.903,
-                "usd": 442644
+                "btc": 5.562826,
+                "eth": 133.223,
+                "usd": 180297
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.364842,
-            "timestamp": "2021-01-23T18:25:17+00:00",
-            "last_traded_at": "2021-01-23T18:25:17+00:00",
-            "last_fetch_at": "2021-01-23T18:25:17+00:00",
+            "bid_ask_spread_percentage": 0.369307,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=qtum_eth",
@@ -2017,64 +1890,478 @@
         },
         {
             "base": "QTUM",
-            "target": "ETH",
+            "target": "CRO",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.003,
-            "volume": 78859.41835,
+            "last": 46.73,
+            "volume": 7083.14,
             "converted_last": {
-                "btc": 0.00011742,
-                "eth": 0.00300836,
-                "usd": 3.78
+                "btc": 0.00010142,
+                "eth": 0.00242895,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 9.259673,
-                "eth": 237.237,
-                "usd": 297749
+                "btc": 0.71838877,
+                "eth": 17.204577,
+                "usd": 23284
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.662252,
-            "timestamp": "2021-01-23T18:20:36+00:00",
-            "last_traded_at": "2021-01-23T18:20:36+00:00",
-            "last_fetch_at": "2021-01-23T18:20:36+00:00",
+            "bid_ask_spread_percentage": 0.903365,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=qtum_eth",
+            "trade_url": "https://crypto.com/exchange/trade/spot/QTUM_CRO",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "crypto-com-chain"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001016,
+            "volume": 392385.58979,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.00243312,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 39.866376,
+                "eth": 954.72,
+                "usd": 1290967
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.431907,
+            "timestamp": "2021-01-26T03:06:24+00:00",
+            "last_traded_at": "2021-01-26T03:06:24+00:00",
+            "last_fetch_at": "2021-01-26T03:06:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/QTUM",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "AAX",
+                "identifier": "aax",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001016,
+            "volume": 65311.02933070866,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.0024332,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 6.635601,
+                "eth": 158.915,
+                "usd": 214715
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.475186,
+            "timestamp": "2021-01-26T03:03:48+00:00",
+            "last_traded_at": "2021-01-26T03:03:48+00:00",
+            "last_fetch_at": "2021-01-26T03:03:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aax.com/spot/trade/QTUM:BTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001015,
+            "volume": 11605.78,
+            "converted_last": {
+                "btc": 0.0001015,
+                "eth": 0.00243072,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 1.177987,
+                "eth": 28.210423,
+                "usd": 38146
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.686948,
+            "timestamp": "2021-01-26T03:06:10+00:00",
+            "last_traded_at": "2021-01-26T03:06:10+00:00",
+            "last_fetch_at": "2021-01-26T03:06:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 3.29,
+            "volume": 35003.79327781155,
+            "converted_last": {
+                "btc": 0.00010194,
+                "eth": 0.00244124,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 3.568253,
+                "eth": 85.453,
+                "usd": 115460
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.394777,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/QTUM_USDT",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 3.289,
+            "volume": 25926.70535632,
+            "converted_last": {
+                "btc": 0.00010191,
+                "eth": 0.00244058,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 2.64214,
+                "eth": 63.276,
+                "usd": 85609
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.63791,
+            "timestamp": "2021-01-26T03:01:54+00:00",
+            "last_traded_at": "2021-01-26T03:01:54+00:00",
+            "last_fetch_at": "2021-01-26T03:01:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "BigONE",
+                "identifier": "bigone",
+                "has_trading_incentive": false
+            },
+            "last": 3.285,
+            "volume": 411979.644,
+            "converted_last": {
+                "btc": 0.00010162,
+                "eth": 0.00243359,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 41.865299,
+                "eth": 1003,
+                "usd": 1355713
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.243235,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://big.one/trade/QTUM-USDT",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USD",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 3.288,
+            "volume": 39672.94676571,
+            "converted_last": {
+                "btc": 0.00010154,
+                "eth": 0.0024316,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 4.028264,
+                "eth": 96.469,
+                "usd": 130445
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.575583,
+            "timestamp": "2021-01-26T03:06:45+00:00",
+            "last_traded_at": "2021-01-26T03:06:45+00:00",
+            "last_fetch_at": "2021-01-26T03:06:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001013,
+            "volume": 38559.8,
+            "converted_last": {
+                "btc": 0.0001013,
+                "eth": 0.00242593,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 3.906108,
+                "eth": 93.543,
+                "usd": 126489
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.27451,
+            "timestamp": "2021-01-26T03:06:46+00:00",
+            "last_traded_at": "2021-01-26T03:06:46+00:00",
+            "last_fetch_at": "2021-01-26T03:06:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 0.002443,
+            "volume": 246070.8,
+            "converted_last": {
+                "btc": 0.00010192,
+                "eth": 0.00244445,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 25.080018,
+                "eth": 601.507,
+                "usd": 811679
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.575609,
+            "timestamp": "2021-01-26T02:55:53+00:00",
+            "last_traded_at": "2021-01-26T02:55:53+00:00",
+            "last_fetch_at": "2021-01-26T02:59:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_ETH",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
         },
         {
             "base": "QTUM",
-            "target": "BTC",
+            "target": "IDR",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "Indodax",
+                "identifier": "indodax",
                 "has_trading_incentive": false
             },
-            "last": 0.00011714,
-            "volume": 58071.5156988,
+            "last": 46705.0,
+            "volume": 64061.74767127,
             "converted_last": {
-                "btc": 0.00011714,
-                "eth": 0.00299554,
-                "usd": 3.77
+                "btc": 0.00010226,
+                "eth": 0.00244897,
+                "usd": 3.31
             },
             "converted_volume": {
-                "btc": 6.802497,
-                "eth": 173.955,
-                "usd": 218804
+                "btc": 6.550841,
+                "eth": 156.885,
+                "usd": 212319
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.895346,
-            "timestamp": "2021-01-23T18:24:38+00:00",
-            "last_traded_at": "2021-01-23T18:24:38+00:00",
-            "last_fetch_at": "2021-01-23T18:24:38+00:00",
+            "bid_ask_spread_percentage": 0.895529,
+            "timestamp": "2021-01-26T02:59:06+00:00",
+            "last_traded_at": "2021-01-26T02:59:06+00:00",
+            "last_fetch_at": "2021-01-26T02:59:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/QTUM-BTC",
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Dex-Trade",
+                "identifier": "dextrade",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001017,
+            "volume": 2772.11,
+            "converted_last": {
+                "btc": 0.0001017,
+                "eth": 0.0024356,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.28192359,
+                "eth": 6.751742,
+                "usd": 9137.43
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.491159,
+            "timestamp": "2021-01-26T02:59:58+00:00",
+            "last_traded_at": "2021-01-26T02:59:58+00:00",
+            "last_fetch_at": "2021-01-26T02:59:58+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "CoinEgg",
+                "identifier": "coin_egg",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001016,
+            "volume": 476845.815,
+            "converted_last": {
+                "btc": 0.0001016,
+                "eth": 0.0024332,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 48.447535,
+                "eth": 1160,
+                "usd": 1570233
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.33463,
+            "timestamp": "2021-01-26T02:59:06+00:00",
+            "last_traded_at": "2021-01-26T02:59:06+00:00",
+            "last_fetch_at": "2021-01-26T02:59:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinegg.com/btc/qtum/",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010117,
+            "volume": 7778.92143722,
+            "converted_last": {
+                "btc": 0.00010117,
+                "eth": 0.00242282,
+                "usd": 3.28
+            },
+            "converted_volume": {
+                "btc": 0.78699348,
+                "eth": 18.846919,
+                "usd": 25485
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.716389,
+            "timestamp": "2021-01-26T03:06:56+00:00",
+            "last_traded_at": "2021-01-26T03:06:56+00:00",
+            "last_fetch_at": "2021-01-26T03:06:56+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-QTUM",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "Coindeal",
+                "identifier": "coindeal",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010121,
+            "volume": 19297.88586154,
+            "converted_last": {
+                "btc": 0.00010121,
+                "eth": 0.00242319,
+                "usd": 3.27
+            },
+            "converted_volume": {
+                "btc": 1.953139,
+                "eth": 46.76238,
+                "usd": 63151
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.819348,
+            "timestamp": "2021-01-26T02:53:42+00:00",
+            "last_traded_at": "2021-01-26T02:53:42+00:00",
+            "last_fetch_at": "2021-01-26T02:59:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://frontend.coindeal.com/market/trade.html?pair=QTUM/BTC",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "bitcoin"
@@ -2087,23 +2374,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.0001173,
-            "volume": 3743.75,
+            "last": 0.0001016,
+            "volume": 15539.11,
             "converted_last": {
-                "btc": 0.0001173,
-                "eth": 0.00299963,
-                "usd": 3.77
+                "btc": 0.0001016,
+                "eth": 0.00243312,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 0.43914188,
-                "eth": 11.229861,
-                "usd": 14125.08
+                "btc": 1.578774,
+                "eth": 37.808468,
+                "usd": 51124
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.932203,
-            "timestamp": "2021-01-23T18:24:29+00:00",
-            "last_traded_at": "2021-01-23T18:24:29+00:00",
-            "last_fetch_at": "2021-01-23T18:24:29+00:00",
+            "bid_ask_spread_percentage": 0.979432,
+            "timestamp": "2021-01-26T03:06:45+00:00",
+            "last_traded_at": "2021-01-26T03:06:45+00:00",
+            "last_fetch_at": "2021-01-26T03:06:45+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2119,23 +2406,23 @@
                 "identifier": "bitforex",
                 "has_trading_incentive": false
             },
-            "last": 3.7811,
-            "volume": 131921.7784,
+            "last": 3.2879,
+            "volume": 125071.6192,
             "converted_last": {
-                "btc": 0.00011756,
-                "eth": 0.00300618,
-                "usd": 3.78
+                "btc": 0.00010177,
+                "eth": 0.00243729,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 15.508218,
-                "eth": 396.581,
-                "usd": 498834
+                "btc": 12.728631,
+                "eth": 304.836,
+                "usd": 412063
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.163839,
-            "timestamp": "2021-01-23T18:24:02+00:00",
-            "last_traded_at": "2021-01-23T18:24:02+00:00",
-            "last_fetch_at": "2021-01-23T18:24:02+00:00",
+            "bid_ask_spread_percentage": 0.142883,
+            "timestamp": "2021-01-26T02:58:18+00:00",
+            "last_traded_at": "2021-01-26T02:58:18+00:00",
+            "last_fetch_at": "2021-01-26T02:58:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitforex.com/en/spot/qtum_usdt",
@@ -2147,155 +2434,27 @@
             "base": "QTUM",
             "target": "BTC",
             "market": {
-                "name": "Dex-Trade",
-                "identifier": "dextrade",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001173,
-            "volume": 7717.52,
-            "converted_last": {
-                "btc": 0.0001173,
-                "eth": 0.00299963,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 0.9052651,
-                "eth": 23.149697,
-                "usd": 29118
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.509338,
-            "timestamp": "2021-01-23T18:24:41+00:00",
-            "last_traded_at": "2021-01-23T18:24:41+00:00",
-            "last_fetch_at": "2021-01-23T18:24:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.002998,
-            "volume": 91592.7943,
-            "converted_last": {
-                "btc": 0.00011722,
-                "eth": 0.00299763,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 10.736672,
-                "eth": 274.561,
-                "usd": 345359
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.006579,
-            "timestamp": "2021-01-23T18:25:10+00:00",
-            "last_traded_at": "2021-01-23T18:25:10+00:00",
-            "last_fetch_at": "2021-01-23T18:25:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/QTUM",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001175,
-            "volume": 31132.40757472,
-            "converted_last": {
-                "btc": 0.0001175,
-                "eth": 0.00300474,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 3.658058,
-                "eth": 93.545,
-                "usd": 117664
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.102629,
-            "timestamp": "2021-01-23T18:23:30+00:00",
-            "last_traded_at": "2021-01-23T18:23:30+00:00",
-            "last_fetch_at": "2021-01-23T18:23:30+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "OKEx Korea",
-                "identifier": "okex_korea",
-                "has_trading_incentive": false
-            },
-            "last": 0.00301,
-            "volume": 1710.44116,
-            "converted_last": {
-                "btc": 0.00011769,
-                "eth": 0.00300963,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 0.20130353,
-                "eth": 5.147791,
-                "usd": 6475.18
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.660066,
-            "timestamp": "2021-01-23T18:25:47+00:00",
-            "last_traded_at": "2021-01-23T18:25:47+00:00",
-            "last_fetch_at": "2021-01-23T18:25:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://okex.co.kr/kr/view/trade/order",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
                 "name": "Gate.io",
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.0001171,
-            "volume": 12621.65251874,
+            "last": 0.0001015,
+            "volume": 8652.30612586,
             "converted_last": {
-                "btc": 0.0001171,
-                "eth": 0.00299451,
-                "usd": 3.77
+                "btc": 0.0001015,
+                "eth": 0.00243072,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 1.477996,
-                "eth": 37.795722,
-                "usd": 47541
+                "btc": 0.87820907,
+                "eth": 21.03135,
+                "usd": 28439
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.593723,
-            "timestamp": "2021-01-23T18:23:17+00:00",
-            "last_traded_at": "2021-01-23T18:23:17+00:00",
-            "last_fetch_at": "2021-01-23T18:23:17+00:00",
+            "bid_ask_spread_percentage": 0.588813,
+            "timestamp": "2021-01-26T03:07:26+00:00",
+            "last_traded_at": "2021-01-26T03:07:26+00:00",
+            "last_fetch_at": "2021-01-26T03:07:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/QTUM_BTC",
@@ -2305,156 +2464,29 @@
         },
         {
             "base": "QTUM",
-            "target": "KRW",
-            "market": {
-                "name": "GoPax",
-                "identifier": "gopax",
-                "has_trading_incentive": false
-            },
-            "last": 4200.0,
-            "volume": 20900.95202633,
-            "converted_last": {
-                "btc": 0.00011811,
-                "eth": 0.00302026,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 2.46854,
-                "eth": 63.126,
-                "usd": 79404
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.787589,
-            "timestamp": "2021-01-23T18:25:11+00:00",
-            "last_traded_at": "2021-01-23T18:25:11+00:00",
-            "last_fetch_at": "2021-01-23T18:25:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.gopax.co.kr/exchange/QTUM-KRW",
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001169,
-            "volume": 49415.8,
-            "converted_last": {
-                "btc": 0.0001169,
-                "eth": 0.00299503,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 5.776707,
-                "eth": 148.002,
-                "usd": 185752
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.426257,
-            "timestamp": "2021-01-23T18:22:12+00:00",
-            "last_traded_at": "2021-01-23T18:22:12+00:00",
-            "last_fetch_at": "2021-01-23T18:22:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exrates.me/trading/QTUMBTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
-                "has_trading_incentive": false
-            },
-            "last": 0.00300876,
-            "volume": 19379.6983,
-            "converted_last": {
-                "btc": 0.00011764,
-                "eth": 0.00300839,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 2.279876,
-                "eth": 58.302,
-                "usd": 73335
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.184637,
-            "timestamp": "2021-01-23T18:25:46+00:00",
-            "last_traded_at": "2021-01-23T18:25:46+00:00",
-            "last_fetch_at": "2021-01-23T18:25:46+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=QTUM_ETH",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTM",
-            "target": "BTC",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011843,
-            "volume": 15712.39187627,
-            "converted_last": {
-                "btc": 0.00011843,
-                "eth": 0.00304705,
-                "usd": 3.82
-            },
-            "converted_volume": {
-                "btc": 1.860819,
-                "eth": 47.876412,
-                "usd": 60005
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.763359,
-            "timestamp": "2021-01-23T18:10:26+00:00",
-            "last_traded_at": "2021-01-23T18:10:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/QTMBTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
             "target": "ETH",
             "market": {
                 "name": "Atomars",
                 "identifier": "atomars",
                 "has_trading_incentive": false
             },
-            "last": 0.003014,
-            "volume": 3093.73,
+            "last": 0.002437,
+            "volume": 1334.39,
             "converted_last": {
-                "btc": 0.00011797,
-                "eth": 0.00301671,
-                "usd": 3.79
+                "btc": 0.00010211,
+                "eth": 0.00244534,
+                "usd": 3.31
             },
             "converted_volume": {
-                "btc": 0.36496102,
-                "eth": 9.332887,
-                "usd": 11739.26
+                "btc": 0.13625496,
+                "eth": 3.263034,
+                "usd": 4412.26
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.454545,
-            "timestamp": "2021-01-23T18:23:33+00:00",
-            "last_traded_at": "2021-01-23T18:23:33+00:00",
-            "last_fetch_at": "2021-01-23T18:23:33+00:00",
+            "bid_ask_spread_percentage": 1.191454,
+            "timestamp": "2021-01-26T03:06:18+00:00",
+            "last_traded_at": "2021-01-26T03:06:18+00:00",
+            "last_fetch_at": "2021-01-26T03:06:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -2464,255 +2496,64 @@
         },
         {
             "base": "QTUM",
-            "target": "USDT",
+            "target": "TRX",
             "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
+                "name": "Catex",
+                "identifier": "catex",
                 "has_trading_incentive": false
             },
-            "last": 3.781,
-            "volume": 90346.778,
+            "last": 110.945945,
+            "volume": 232379.7411718469,
             "converted_last": {
-                "btc": 0.00011766,
-                "eth": 0.00301453,
-                "usd": 3.78
+                "btc": 0.00010207,
+                "eth": 0.00244438,
+                "usd": 3.31
             },
             "converted_volume": {
-                "btc": 10.63027,
-                "eth": 272.353,
-                "usd": 341821
+                "btc": 23.719063,
+                "eth": 568.024,
+                "usd": 768088
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.152231,
-            "timestamp": "2021-01-23T18:20:58+00:00",
-            "last_traded_at": "2021-01-23T18:20:58+00:00",
-            "last_fetch_at": "2021-01-23T18:20:58+00:00",
+            "bid_ask_spread_percentage": 0.642835,
+            "timestamp": "2021-01-26T03:07:17+00:00",
+            "last_traded_at": "2021-01-26T03:07:17+00:00",
+            "last_fetch_at": "2021-01-26T03:07:17+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.catex.io/trading/QTUM/TRX",
             "token_info_url": null,
             "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
-                "has_trading_incentive": false
-            },
-            "last": 3.775,
-            "volume": 127133.67548085,
-            "converted_last": {
-                "btc": 0.00011736,
-                "eth": 0.00300118,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 14.920502,
-                "eth": 381.551,
-                "usd": 479930
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.162791,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 0.000119,
-            "volume": 334071.784,
-            "converted_last": {
-                "btc": 0.000119,
-                "eth": 0.0030431,
-                "usd": 3.83
-            },
-            "converted_volume": {
-                "btc": 39.754542,
-                "eth": 1017,
-                "usd": 1278268
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.333333,
-            "timestamp": "2021-01-23T18:26:31+00:00",
-            "last_traded_at": "2021-01-23T18:26:31+00:00",
-            "last_fetch_at": "2021-01-23T18:26:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_BTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
-                "has_trading_incentive": false
-            },
-            "last": 3.757,
-            "volume": 8669.802,
-            "converted_last": {
-                "btc": 0.00011681,
-                "eth": 0.00298702,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 1.012693,
-                "eth": 25.896863,
-                "usd": 32573
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.975481,
-            "timestamp": "2021-01-23T18:24:56+00:00",
-            "last_traded_at": "2021-01-23T18:24:56+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Bibox",
-                "identifier": "bibox",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011771,
-            "volume": 69615.061,
-            "converted_last": {
-                "btc": 0.00011771,
-                "eth": 0.00301011,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 8.194389,
-                "eth": 209.549,
-                "usd": 263574
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.125212,
-            "timestamp": "2021-01-23T18:24:10+00:00",
-            "last_traded_at": "2021-01-23T18:24:10+00:00",
-            "last_fetch_at": "2021-01-23T18:24:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bibox.com/exchange?coinPair=QTUM_BTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001175,
-            "volume": 108914.97623916,
-            "converted_last": {
-                "btc": 0.0001175,
-                "eth": 0.00300474,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 12.79751,
-                "eth": 327.262,
-                "usd": 411642
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.690617,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 3.7841,
-            "volume": 108356.50040066066,
-            "converted_last": {
-                "btc": 0.00011776,
-                "eth": 0.003017,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 12.75976,
-                "eth": 326.911,
-                "usd": 410271
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.010207,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/QTUM:USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
+            "target_coin_id": "tron"
         },
         {
             "base": "QTUM",
             "target": "ETH",
             "market": {
-                "name": "Gate.io",
-                "identifier": "gate",
+                "name": "Digifinex",
+                "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.00304,
-            "volume": 6596.2402871,
+            "last": 0.002411,
+            "volume": 49325.4858,
             "converted_last": {
-                "btc": 0.00011899,
-                "eth": 0.00304847,
-                "usd": 3.83
+                "btc": 0.00010102,
+                "eth": 0.00241925,
+                "usd": 3.27
             },
             "converted_volume": {
-                "btc": 0.78485761,
-                "eth": 20.10843,
-                "usd": 25236
+                "btc": 4.982905,
+                "eth": 119.331,
+                "usd": 161358
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.929924,
-            "timestamp": "2021-01-23T18:21:36+00:00",
-            "last_traded_at": "2021-01-23T18:21:36+00:00",
-            "last_fetch_at": "2021-01-23T18:21:36+00:00",
+            "bid_ask_spread_percentage": 1.798855,
+            "timestamp": "2021-01-26T03:06:47+00:00",
+            "last_traded_at": "2021-01-26T03:06:47+00:00",
+            "last_fetch_at": "2021-01-26T03:06:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://gate.io/trade/QTUM_ETH",
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/QTUM",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
@@ -2721,94 +2562,30 @@
             "base": "QTUM",
             "target": "ETH",
             "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
+                "name": "OKEx Korea",
+                "identifier": "okex_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.002995,
-            "volume": 2226.53,
+            "last": 0.00243,
+            "volume": 1989.13953,
             "converted_last": {
-                "btc": 0.000116,
-                "eth": 0.00300042,
-                "usd": 3.74
+                "btc": 0.00010138,
+                "eth": 0.00243144,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 0.25826935,
-                "eth": 6.680523,
-                "usd": 8338.26
+                "btc": 0.20165817,
+                "eth": 4.836472,
+                "usd": 6527.2
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.441678,
-            "timestamp": "2021-01-23T17:57:14+00:00",
-            "last_traded_at": "2021-01-23T17:57:14+00:00",
-            "last_fetch_at": "2021-01-23T17:57:14+00:00",
+            "bid_ask_spread_percentage": 0.823045,
+            "timestamp": "2021-01-26T02:56:04+00:00",
+            "last_traded_at": "2021-01-26T02:56:04+00:00",
+            "last_fetch_at": "2021-01-26T03:05:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "Bithumb Global",
-                "identifier": "bithumb_global",
-                "has_trading_incentive": false
-            },
-            "last": 3.77435,
-            "volume": 158432.50921589148,
-            "converted_last": {
-                "btc": 0.00011747,
-                "eth": 0.00300401,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 18.611259,
-                "eth": 475.932,
-                "usd": 598427
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.784409,
-            "timestamp": "2021-01-23T18:26:20+00:00",
-            "last_traded_at": "2021-01-23T18:26:20+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=QTUM_USDT",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
-                "has_trading_incentive": false
-            },
-            "last": 0.003008,
-            "volume": 8672.47,
-            "converted_last": {
-                "btc": 0.00011761,
-                "eth": 0.00300763,
-                "usd": 3.78
-            },
-            "converted_volume": {
-                "btc": 1.019993,
-                "eth": 26.083564,
-                "usd": 32809
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.711089,
-            "timestamp": "2021-01-23T18:25:49+00:00",
-            "last_traded_at": "2021-01-23T18:25:49+00:00",
-            "last_fetch_at": "2021-01-23T18:25:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=QTUM_ETH",
+            "trade_url": "https://okex.co.kr/kr/view/trade/order",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
@@ -2817,96 +2594,33 @@
             "base": "QTUM",
             "target": "ETH",
             "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.003014,
-            "volume": 3233.03335002,
+            "last": 0.00243,
+            "volume": 50320.36822,
             "converted_last": {
-                "btc": 0.00011797,
-                "eth": 0.0030224,
-                "usd": 3.79
+                "btc": 0.00010143,
+                "eth": 0.00242909,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 0.38139435,
-                "eth": 9.771507,
-                "usd": 12263.9
+                "btc": 5.103904,
+                "eth": 122.233,
+                "usd": 165152
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.325381,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
+            "bid_ask_spread_percentage": 1.22449,
+            "timestamp": "2021-01-26T03:03:09+00:00",
+            "last_traded_at": "2021-01-26T03:03:09+00:00",
+            "last_fetch_at": "2021-01-26T03:03:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exrates.me/trading/QTUMETH",
+            "trade_url": "https://www.okex.com/market?product=qtum_eth",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "IDR",
-            "market": {
-                "name": "Indodax",
-                "identifier": "indodax",
-                "has_trading_incentive": false
-            },
-            "last": 53102.0,
-            "volume": 56539.64238684,
-            "converted_last": {
-                "btc": 0.00011774,
-                "eth": 0.00301101,
-                "usd": 3.79
-            },
-            "converted_volume": {
-                "btc": 6.657259,
-                "eth": 170.241,
-                "usd": 214132
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.480519,
-            "timestamp": "2021-01-23T18:24:41+00:00",
-            "last_traded_at": "2021-01-23T18:24:41+00:00",
-            "last_fetch_at": "2021-01-23T18:24:41+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "qtum"
-        },
-        {
-            "base": "QTUM",
-            "target": "USDT",
-            "market": {
-                "name": "Poloniex",
-                "identifier": "poloniex",
-                "has_trading_incentive": false
-            },
-            "last": 3.7635442,
-            "volume": 25501.65239078,
-            "converted_last": {
-                "btc": 0.00011701,
-                "eth": 0.00299222,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 2.983957,
-                "eth": 76.307,
-                "usd": 95981
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.755044,
-            "timestamp": "2021-01-23T18:23:47+00:00",
-            "last_traded_at": "2021-01-23T18:23:47+00:00",
-            "last_fetch_at": "2021-01-23T18:23:47+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://poloniex.com/exchange#qtum_usdt",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "tether"
         },
         {
             "base": "QTUM",
@@ -2916,23 +2630,23 @@
                 "identifier": "bigone",
                 "has_trading_incentive": false
             },
-            "last": 0.000117,
-            "volume": 207253.43,
+            "last": 0.000102,
+            "volume": 291248.54,
             "converted_last": {
-                "btc": 0.000117,
-                "eth": 0.0029976,
-                "usd": 3.76
+                "btc": 0.000102,
+                "eth": 0.00244278,
+                "usd": 3.31
             },
             "converted_volume": {
-                "btc": 24.248651,
-                "eth": 621.262,
-                "usd": 779679
+                "btc": 29.707351,
+                "eth": 711.457,
+                "usd": 962845
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.521008,
-            "timestamp": "2021-01-23T18:21:27+00:00",
-            "last_traded_at": "2021-01-23T18:21:27+00:00",
-            "last_fetch_at": "2021-01-23T18:21:27+00:00",
+            "bid_ask_spread_percentage": 0.980392,
+            "timestamp": "2021-01-26T02:59:11+00:00",
+            "last_traded_at": "2021-01-26T02:59:11+00:00",
+            "last_fetch_at": "2021-01-26T03:07:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://big.one/trade/QTUM-BTC",
@@ -2942,32 +2656,224 @@
         },
         {
             "base": "QTUM",
-            "target": "BTC",
+            "target": "ETH",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "Bibox",
+                "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.00011792,
-            "volume": 26609.36635777,
+            "last": 0.00244134,
+            "volume": 4604.5776,
             "converted_last": {
-                "btc": 0.00011792,
-                "eth": 0.00301548,
-                "usd": 3.79
+                "btc": 0.0001019,
+                "eth": 0.0024371,
+                "usd": 3.3
             },
             "converted_volume": {
-                "btc": 3.137776,
-                "eth": 80.24,
-                "usd": 100927
+                "btc": 0.46921351,
+                "eth": 11.221811,
+                "usd": 15216.89
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.33751,
-            "timestamp": "2021-01-23T18:24:34+00:00",
-            "last_traded_at": "2021-01-23T18:24:34+00:00",
-            "last_fetch_at": "2021-01-23T18:24:34+00:00",
+            "bid_ask_spread_percentage": 1.112,
+            "timestamp": "2021-01-26T02:46:26+00:00",
+            "last_traded_at": "2021-01-26T02:46:26+00:00",
+            "last_fetch_at": "2021-01-26T02:59:25+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-QTUM",
+            "trade_url": "https://www.bibox.com/exchange?coinPair=QTUM_ETH",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "WazirX",
+                "identifier": "wazirx",
+                "has_trading_incentive": false
+            },
+            "last": 3.307,
+            "volume": 5957.067,
+            "converted_last": {
+                "btc": 0.00010252,
+                "eth": 0.00245461,
+                "usd": 3.32
+            },
+            "converted_volume": {
+                "btc": 0.61073367,
+                "eth": 14.622287,
+                "usd": 19748.96
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.996678,
+            "timestamp": "2021-01-26T02:51:45+00:00",
+            "last_traded_at": "2021-01-26T02:51:45+00:00",
+            "last_fetch_at": "2021-01-26T02:51:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.00243,
+            "volume": 1509.66,
+            "converted_last": {
+                "btc": 0.00010182,
+                "eth": 0.00243831,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.15370905,
+                "eth": 3.681024,
+                "usd": 4977.38
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.698439,
+            "timestamp": "2021-01-26T03:05:49+00:00",
+            "last_traded_at": "2021-01-26T03:05:49+00:00",
+            "last_fetch_at": "2021-01-26T03:05:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/QTUMETH",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "BitMart",
+                "identifier": "bitmart",
+                "has_trading_incentive": false
+            },
+            "last": 0.000102,
+            "volume": 343255.318,
+            "converted_last": {
+                "btc": 0.000102,
+                "eth": 0.00244632,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 35.012042,
+                "eth": 839.712,
+                "usd": 1133115
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.809524,
+            "timestamp": "2021-01-26T02:56:00+00:00",
+            "last_traded_at": "2021-01-26T02:56:00+00:00",
+            "last_fetch_at": "2021-01-26T02:56:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=QTUM_BTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "KuCoin",
+                "identifier": "kucoin",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010172,
+            "volume": 28087.76235072,
+            "converted_last": {
+                "btc": 0.00010172,
+                "eth": 0.00243599,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 2.857087,
+                "eth": 68.422,
+                "usd": 92519
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.442087,
+            "timestamp": "2021-01-26T03:06:51+00:00",
+            "last_traded_at": "2021-01-26T03:06:51+00:00",
+            "last_fetch_at": "2021-01-26T03:06:51+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.kucoin.com/trade/QTUM-BTC",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.002437,
+            "volume": 9639.24015265,
+            "converted_last": {
+                "btc": 0.00010172,
+                "eth": 0.00243608,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.98050717,
+                "eth": 23.482008,
+                "usd": 31776
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.343101,
+            "timestamp": "2021-01-26T03:00:44+00:00",
+            "last_traded_at": "2021-01-26T03:00:44+00:00",
+            "last_fetch_at": "2021-01-26T03:00:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/QTUM_ETH",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "BitMax",
+                "identifier": "bitmax",
+                "has_trading_incentive": false
+            },
+            "last": 0.00010158,
+            "volume": 19888.2,
+            "converted_last": {
+                "btc": 0.00010158,
+                "eth": 0.00243264,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 2.020243,
+                "eth": 48.380786,
+                "usd": 65421
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.330106,
+            "timestamp": "2021-01-26T03:07:20+00:00",
+            "last_traded_at": "2021-01-26T03:07:20+00:00",
+            "last_fetch_at": "2021-01-26T03:07:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/qtum",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "bitcoin"
@@ -2980,23 +2886,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 3.7864,
-            "volume": 28862.5822,
+            "last": 3.282,
+            "volume": 15851.6745,
             "converted_last": {
-                "btc": 0.00011762,
-                "eth": 0.00300791,
-                "usd": 3.78
+                "btc": 0.00010145,
+                "eth": 0.00243311,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 3.394924,
-                "eth": 86.816,
-                "usd": 109202
+                "btc": 1.608141,
+                "eth": 38.568868,
+                "usd": 52052
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.421938,
-            "timestamp": "2021-01-23T18:25:13+00:00",
-            "last_traded_at": "2021-01-23T18:25:13+00:00",
-            "last_fetch_at": "2021-01-23T18:25:13+00:00",
+            "bid_ask_spread_percentage": 1.204163,
+            "timestamp": "2021-01-26T02:56:40+00:00",
+            "last_traded_at": "2021-01-26T02:56:40+00:00",
+            "last_fetch_at": "2021-01-26T02:56:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=qtum_husd",
@@ -3006,125 +2912,29 @@
         },
         {
             "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "BitMax",
-                "identifier": "bitmax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011725,
-            "volume": 7636.2,
-            "converted_last": {
-                "btc": 0.00011725,
-                "eth": 0.003004,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 0.89534445,
-                "eth": 22.939156,
-                "usd": 28788
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.058232,
-            "timestamp": "2021-01-23T18:21:48+00:00",
-            "last_traded_at": "2021-01-23T18:21:48+00:00",
-            "last_fetch_at": "2021-01-23T18:21:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitmax.io/en-us/basic/cashtrade-spottrading/btc/qtum",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "Liquid",
-                "identifier": "quoine",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001157,
-            "volume": 755.94309394,
-            "converted_last": {
-                "btc": 0.0001157,
-                "eth": 0.00298331,
-                "usd": 3.72
-            },
-            "converted_volume": {
-                "btc": 0.08746262,
-                "eth": 2.255209,
-                "usd": 2811.66
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.017812,
-            "timestamp": "2021-01-23T17:04:46+00:00",
-            "last_traded_at": "2021-01-23T17:04:46+00:00",
-            "last_fetch_at": "2021-01-23T18:21:50+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.liquid.com/exchange/QTUMBTC?lang=en",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
             "target": "ETH",
             "market": {
-                "name": "Bithumb Global",
-                "identifier": "bithumb_global",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 0.003014,
-            "volume": 134289.44625082947,
+            "last": 0.002434,
+            "volume": 12116.83,
             "converted_last": {
-                "btc": 0.00011785,
-                "eth": 0.00301363,
-                "usd": 3.79
+                "btc": 0.0001016,
+                "eth": 0.00243309,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 15.825662,
-                "eth": 404.698,
-                "usd": 508858
+                "btc": 1.231011,
+                "eth": 29.48129,
+                "usd": 39898
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.616945,
-            "timestamp": "2021-01-23T18:26:21+00:00",
-            "last_traded_at": "2021-01-23T18:26:21+00:00",
-            "last_fetch_at": "2021-01-23T18:26:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=QTUM_ETH",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "ETH",
-            "market": {
-                "name": "AlterDice",
-                "identifier": "alterdice",
-                "has_trading_incentive": false
-            },
-            "last": 0.003016,
-            "volume": 11885.35,
-            "converted_last": {
-                "btc": 0.00011805,
-                "eth": 0.00301871,
-                "usd": 3.8
-            },
-            "converted_volume": {
-                "btc": 1.403021,
-                "eth": 35.87845,
-                "usd": 45129
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.389808,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
+            "bid_ask_spread_percentage": 1.589242,
+            "timestamp": "2021-01-26T02:59:14+00:00",
+            "last_traded_at": "2021-01-26T02:59:14+00:00",
+            "last_fetch_at": "2021-01-26T02:59:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3136,30 +2946,62 @@
             "base": "QTUM",
             "target": "USDT",
             "market": {
-                "name": "ProBit",
-                "identifier": "probit",
+                "name": "Poloniex",
+                "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 3.777,
-            "volume": 11438.857,
+            "last": 3.28716483,
+            "volume": 23201.64175265,
             "converted_last": {
-                "btc": 0.00011755,
-                "eth": 0.00300612,
-                "usd": 3.78
+                "btc": 0.00010169,
+                "eth": 0.0024352,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 1.34468,
-                "eth": 34.386536,
-                "usd": 43237
+                "btc": 2.3593,
+                "eth": 56.501,
+                "usd": 76400
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.840336,
-            "timestamp": "2021-01-23T18:26:17+00:00",
-            "last_traded_at": "2021-01-23T18:26:17+00:00",
-            "last_fetch_at": "2021-01-23T18:26:17+00:00",
+            "bid_ask_spread_percentage": 0.490087,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.probit.com/app/exchange/QTUM-USDT",
+            "trade_url": "https://poloniex.com/exchange#qtum_usdt",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "AAX",
+                "identifier": "aax",
+                "has_trading_incentive": false
+            },
+            "last": 3.2864,
+            "volume": 70919.1236656889,
+            "converted_last": {
+                "btc": 0.00010183,
+                "eth": 0.00243865,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 7.221517,
+                "eth": 172.947,
+                "usd": 233674
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.00793,
+            "timestamp": "2021-01-26T03:03:48+00:00",
+            "last_traded_at": "2021-01-26T03:03:48+00:00",
+            "last_fetch_at": "2021-01-26T03:03:48+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aax.com/spot/trade/QTUM:USDT",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "tether"
@@ -3168,94 +3010,30 @@
             "base": "QTUM",
             "target": "BTC",
             "market": {
-                "name": "CREX24",
-                "identifier": "crex24",
+                "name": "Bibox",
+                "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.0001179,
-            "volume": 61.82270029,
+            "last": 0.00010199,
+            "volume": 22042.2016,
             "converted_last": {
-                "btc": 0.0001179,
-                "eth": 0.00304844,
-                "usd": 3.81
+                "btc": 0.00010199,
+                "eth": 0.00244186,
+                "usd": 3.3
             },
             "converted_volume": {
-                "btc": 0.0072889,
-                "eth": 0.18846249,
-                "usd": 235.36
+                "btc": 2.248084,
+                "eth": 53.824,
+                "usd": 72695
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.699235,
-            "timestamp": "2021-01-23T17:56:49+00:00",
-            "last_traded_at": "2021-01-23T17:56:49+00:00",
-            "last_fetch_at": "2021-01-23T18:19:25+00:00",
+            "bid_ask_spread_percentage": 0.763284,
+            "timestamp": "2021-01-26T02:51:43+00:00",
+            "last_traded_at": "2021-01-26T02:51:43+00:00",
+            "last_fetch_at": "2021-01-26T02:57:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://crex24.com/exchange/QTUM-BTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "LBank",
-                "identifier": "lbank",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011686,
-            "volume": 97737.3298,
-            "converted_last": {
-                "btc": 0.00011686,
-                "eth": 0.00298838,
-                "usd": 3.76
-            },
-            "converted_volume": {
-                "btc": 11.421584,
-                "eth": 292.076,
-                "usd": 367390
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.959515,
-            "timestamp": "2021-01-23T18:26:01+00:00",
-            "last_traded_at": "2021-01-23T18:26:01+00:00",
-            "last_fetch_at": "2021-01-23T18:26:01+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.lbank.info/exchange.html?asset=qtum&post=btc",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
-                "name": "LATOKEN",
-                "identifier": "latoken",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001172,
-            "volume": 721.703259386,
-            "converted_last": {
-                "btc": 0.0001172,
-                "eth": 0.00300272,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 0.08458362,
-                "eth": 2.167073,
-                "usd": 2719.82
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170503,
-            "timestamp": "2021-01-23T18:22:02+00:00",
-            "last_traded_at": "2021-01-23T18:22:02+00:00",
-            "last_fetch_at": "2021-01-23T18:22:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://latoken.com/exchange/BTC-QTUM",
+            "trade_url": "https://www.bibox.com/exchange?coinPair=QTUM_BTC",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "bitcoin"
@@ -3268,23 +3046,23 @@
                 "identifier": "poloniex",
                 "has_trading_incentive": false
             },
-            "last": 0.00011694,
-            "volume": 15085.12181919,
+            "last": 0.00010174,
+            "volume": 3097.03383112,
             "converted_last": {
-                "btc": 0.00011694,
-                "eth": 0.00300545,
-                "usd": 3.77
+                "btc": 0.00010174,
+                "eth": 0.00243647,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 1.764054,
-                "eth": 45.337648,
-                "usd": 56812
+                "btc": 0.31509222,
+                "eth": 7.545828,
+                "usd": 10203.43
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.451613,
-            "timestamp": "2021-01-23T18:14:53+00:00",
-            "last_traded_at": "2021-01-23T18:14:53+00:00",
-            "last_fetch_at": "2021-01-23T18:21:39+00:00",
+            "bid_ask_spread_percentage": 0.157017,
+            "timestamp": "2021-01-26T03:06:34+00:00",
+            "last_traded_at": "2021-01-26T03:06:34+00:00",
+            "last_fetch_at": "2021-01-26T03:06:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://poloniex.com/exchange#qtum_btc",
@@ -3296,27 +3074,219 @@
             "base": "QTUM",
             "target": "USDT",
             "market": {
+                "name": "Bithumb Global",
+                "identifier": "bithumb_global",
+                "has_trading_incentive": false
+            },
+            "last": 3.28922,
+            "volume": 65486.24574367175,
+            "converted_last": {
+                "btc": 0.00010175,
+                "eth": 0.00243672,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 6.66325,
+                "eth": 159.571,
+                "usd": 215768
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.648324,
+            "timestamp": "2021-01-26T03:05:41+00:00",
+            "last_traded_at": "2021-01-26T03:05:41+00:00",
+            "last_fetch_at": "2021-01-26T03:05:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=QTUM_USDT",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "AlterDice",
+                "identifier": "alterdice",
+                "has_trading_incentive": false
+            },
+            "last": 0.002437,
+            "volume": 4747.75,
+            "converted_last": {
+                "btc": 0.00010172,
+                "eth": 0.002436,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 0.48294293,
+                "eth": 11.565517,
+                "usd": 15626.92
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.779967,
+            "timestamp": "2021-01-26T03:04:27+00:00",
+            "last_traded_at": "2021-01-26T03:04:27+00:00",
+            "last_fetch_at": "2021-01-26T03:04:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "BTC",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001022,
+            "volume": 590.307260274,
+            "converted_last": {
+                "btc": 0.0001022,
+                "eth": 0.00244749,
+                "usd": 3.31
+            },
+            "converted_volume": {
+                "btc": 0.0603294,
+                "eth": 1.444768,
+                "usd": 1953.58
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.198425,
+            "timestamp": "2021-01-26T03:05:25+00:00",
+            "last_traded_at": "2021-01-26T03:05:25+00:00",
+            "last_fetch_at": "2021-01-26T03:05:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/BTC-QTUM",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 3.286,
+            "volume": 11077.672,
+            "converted_last": {
+                "btc": 0.00010165,
+                "eth": 0.00243433,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 1.126054,
+                "eth": 26.966734,
+                "usd": 36464
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.060285,
+            "timestamp": "2021-01-26T03:05:17+00:00",
+            "last_traded_at": "2021-01-26T03:05:17+00:00",
+            "last_fetch_at": "2021-01-26T03:05:17+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/QTUM-USDT",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 0.002433,
+            "volume": 234.178882039,
+            "converted_last": {
+                "btc": 0.00010194,
+                "eth": 0.00244132,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.02387283,
+                "eth": 0.57170645,
+                "usd": 773.05
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.450082,
+            "timestamp": "2021-01-26T03:05:22+00:00",
+            "last_traded_at": "2021-01-26T03:05:22+00:00",
+            "last_fetch_at": "2021-01-26T03:05:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/ETH-QTUM",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "ETH",
+            "market": {
+                "name": "Dex-Trade",
+                "identifier": "dextrade",
+                "has_trading_incentive": false
+            },
+            "last": 0.00244,
+            "volume": 770.33,
+            "converted_last": {
+                "btc": 0.00010185,
+                "eth": 0.00243908,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.07845472,
+                "eth": 1.878899,
+                "usd": 2542.8
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.103392,
+            "timestamp": "2021-01-26T03:00:01+00:00",
+            "last_traded_at": "2021-01-26T03:00:01+00:00",
+            "last_fetch_at": "2021-01-26T03:00:01+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
                 "name": "P2PB2B",
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 3.807,
-            "volume": 4072.19,
+            "last": 3.281,
+            "volume": 20286.56,
             "converted_last": {
-                "btc": 0.00011836,
-                "eth": 0.00303248,
-                "usd": 3.81
+                "btc": 0.0001013,
+                "eth": 0.00242604,
+                "usd": 3.28
             },
             "converted_volume": {
-                "btc": 0.48199014,
-                "eth": 12.34882,
-                "usd": 15498.6
+                "btc": 2.055046,
+                "eth": 49.215962,
+                "usd": 66606
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.581444,
-            "timestamp": "2021-01-23T18:22:44+00:00",
-            "last_traded_at": "2021-01-23T18:22:44+00:00",
-            "last_fetch_at": "2021-01-23T18:22:44+00:00",
+            "bid_ask_spread_percentage": 2.137267,
+            "timestamp": "2021-01-26T02:59:05+00:00",
+            "last_traded_at": "2021-01-26T02:59:05+00:00",
+            "last_fetch_at": "2021-01-26T02:59:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3328,64 +3298,33 @@
             "base": "QTUM",
             "target": "ETH",
             "market": {
-                "name": "Dex-Trade",
-                "identifier": "dextrade",
+                "name": "Bithumb Global",
+                "identifier": "bithumb_global",
                 "has_trading_incentive": false
             },
-            "last": 0.003018,
-            "volume": 2099.72,
+            "last": 0.00243,
+            "volume": 69524.05308641975,
             "converted_last": {
-                "btc": 0.00011812,
-                "eth": 0.00302071,
-                "usd": 3.8
+                "btc": 0.00010182,
+                "eth": 0.00243831,
+                "usd": 3.3
             },
             "converted_volume": {
-                "btc": 0.24802842,
-                "eth": 6.342653,
-                "usd": 7977.88
+                "btc": 7.078731,
+                "eth": 169.521,
+                "usd": 229222
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.190476,
-            "timestamp": "2021-01-23T18:24:37+00:00",
-            "last_traded_at": "2021-01-23T18:24:37+00:00",
-            "last_fetch_at": "2021-01-23T18:24:37+00:00",
+            "bid_ask_spread_percentage": 2.406199,
+            "timestamp": "2021-01-26T03:05:42+00:00",
+            "last_traded_at": "2021-01-26T03:05:42+00:00",
+            "last_fetch_at": "2021-01-26T03:05:42+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://global.bithumb.pro/spot/trade;symbol=QTUM_ETH",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "ethereum"
-        },
-        {
-            "base": "QTUM",
-            "target": "USD",
-            "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 3.744882,
-            "volume": 14950.53257136,
-            "converted_last": {
-                "btc": 0.00011647,
-                "eth": 0.00298399,
-                "usd": 3.74
-            },
-            "converted_volume": {
-                "btc": 1.741271,
-                "eth": 44.612199,
-                "usd": 55988
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 2.21837,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/QTUM_USD",
-            "token_info_url": null,
-            "coin_id": "qtum"
         },
         {
             "base": "QTUM",
@@ -3395,23 +3334,23 @@
                 "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 3.741,
-            "volume": 5316.66,
+            "last": 3.285,
+            "volume": 23155.43,
             "converted_last": {
-                "btc": 0.00011631,
-                "eth": 0.00297421,
-                "usd": 3.74
+                "btc": 0.00010138,
+                "eth": 0.00242805,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 0.61835874,
-                "eth": 15.812846,
-                "usd": 19889.63
+                "btc": 2.347608,
+                "eth": 56.222,
+                "usd": 76066
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.580611,
-            "timestamp": "2021-01-23T18:24:33+00:00",
-            "last_traded_at": "2021-01-23T18:24:33+00:00",
-            "last_fetch_at": "2021-01-23T18:24:33+00:00",
+            "bid_ask_spread_percentage": 2.634731,
+            "timestamp": "2021-01-26T03:01:30+00:00",
+            "last_traded_at": "2021-01-26T03:01:30+00:00",
+            "last_fetch_at": "2021-01-26T03:01:30+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -3422,65 +3361,128 @@
             "base": "QTUM",
             "target": "BTC",
             "market": {
-                "name": "EXMO",
-                "identifier": "exmo",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011726,
-            "volume": 4112.28385044,
-            "converted_last": {
-                "btc": 0.00011726,
-                "eth": 0.00300426,
-                "usd": 3.77
-            },
-            "converted_volume": {
-                "btc": 0.4822064,
-                "eth": 12.354361,
-                "usd": 15504.63
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 3.867311,
-            "timestamp": "2021-01-23T18:21:25+00:00",
-            "last_traded_at": "2021-01-23T18:21:25+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exmo.com/en/trade/QTUM_BTC",
-            "token_info_url": null,
-            "coin_id": "qtum",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "QTUM",
-            "target": "BTC",
-            "market": {
                 "name": "Bithumb Global",
                 "identifier": "bithumb_global",
                 "has_trading_incentive": false
             },
-            "last": 0.00011753,
-            "volume": 29508.142601888878,
+            "last": 0.00010161,
+            "volume": 47433.47111504773,
             "converted_last": {
-                "btc": 0.00011753,
-                "eth": 0.00300551,
-                "usd": 3.78
+                "btc": 0.00010161,
+                "eth": 0.00243336,
+                "usd": 3.29
             },
             "converted_volume": {
-                "btc": 3.468092,
-                "eth": 88.687,
-                "usd": 111513
+                "btc": 4.819715,
+                "eth": 115.423,
+                "usd": 156071
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.635969,
-            "timestamp": "2021-01-23T18:26:22+00:00",
-            "last_traded_at": "2021-01-23T18:26:22+00:00",
-            "last_fetch_at": "2021-01-23T18:26:22+00:00",
+            "bid_ask_spread_percentage": 2.489062,
+            "timestamp": "2021-01-26T03:05:40+00:00",
+            "last_traded_at": "2021-01-26T03:05:40+00:00",
+            "last_fetch_at": "2021-01-26T03:05:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://global.bithumb.pro/spot/trade;symbol=QTUM_BTC",
             "token_info_url": null,
             "coin_id": "qtum",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "ETH",
+            "target": "QTUM",
+            "market": {
+                "name": "Bithumb Singapore",
+                "identifier": "bitholic",
+                "has_trading_incentive": false
+            },
+            "last": 410.64974,
+            "volume": 8.0383,
+            "converted_last": {
+                "btc": 0.00010167,
+                "eth": 0.00243482,
+                "usd": 3.3
+            },
+            "converted_volume": {
+                "btc": 0.33559727,
+                "eth": 8.037165,
+                "usd": 10877.04
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.253471,
+            "timestamp": "2021-01-26T02:59:26+00:00",
+            "last_traded_at": "2021-01-26T02:59:26+00:00",
+            "last_fetch_at": "2021-01-26T02:59:26+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bithumbsg.com/exchange/eth-qtum",
+            "token_info_url": null,
+            "coin_id": "ethereum",
+            "target_coin_id": "qtum"
+        },
+        {
+            "base": "QTUM",
+            "target": "USDT",
+            "market": {
+                "name": "LATOKEN",
+                "identifier": "latoken",
+                "has_trading_incentive": false
+            },
+            "last": 3.283,
+            "volume": 173.061451111788,
+            "converted_last": {
+                "btc": 0.00010156,
+                "eth": 0.00243211,
+                "usd": 3.29
+            },
+            "converted_volume": {
+                "btc": 0.01757577,
+                "eth": 0.42090445,
+                "usd": 569.14
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.160901,
+            "timestamp": "2021-01-26T03:05:27+00:00",
+            "last_traded_at": "2021-01-26T03:05:27+00:00",
+            "last_fetch_at": "2021-01-26T03:05:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://latoken.com/exchange/USDT-QTUM",
+            "token_info_url": null,
+            "coin_id": "qtum",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "QTUM",
+            "target": "KRW",
+            "market": {
+                "name": "ProBit",
+                "identifier": "probit",
+                "has_trading_incentive": false
+            },
+            "last": 3660.0,
+            "volume": 9662.30432098,
+            "converted_last": {
+                "btc": 0.00010255,
+                "eth": 0.00245593,
+                "usd": 3.32
+            },
+            "converted_volume": {
+                "btc": 0.99089383,
+                "eth": 23.729924,
+                "usd": 32087
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 3.703704,
+            "timestamp": "2021-01-26T03:05:18+00:00",
+            "last_traded_at": "2021-01-26T03:05:18+00:00",
+            "last_fetch_at": "2021-01-26T03:05:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.probit.com/app/exchange/QTUM-KRW",
+            "token_info_url": null,
+            "coin_id": "qtum"
         }
     ]
 }

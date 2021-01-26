@@ -108,9 +108,9 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
-    "sentiment_votes_up_percentage": 89.0,
-    "sentiment_votes_down_percentage": 11.0,
-    "market_cap_rank": 52,
+    "sentiment_votes_up_percentage": 83.62,
+    "sentiment_votes_down_percentage": 16.38,
+    "market_cap_rank": 58,
     "coingecko_rank": 19,
     "coingecko_score": 57.06,
     "developer_score": 81.673,
@@ -122,7 +122,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:27:29.888Z",
+    "last_updated": "2021-01-26T03:03:16.163Z",
     "tickers": [
         {
             "base": "GRT",
@@ -132,23 +132,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.56616,
-            "volume": 142388958.91294158,
+            "last": 0.52786,
+            "volume": 90811316.26348273,
             "converted_last": {
-                "btc": 1.762e-05,
-                "eth": 0.00045061,
-                "usd": 0.566799
+                "btc": 1.633e-05,
+                "eth": 0.00039105,
+                "usd": 0.52878
             },
             "converted_volume": {
-                "btc": 2509,
-                "eth": 64161,
-                "usd": 80705929
+                "btc": 1483,
+                "eth": 35512,
+                "usd": 48019250
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.18656,
-            "timestamp": "2021-01-23T18:25:23+00:00",
-            "last_traded_at": "2021-01-23T18:25:23+00:00",
-            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "bid_ask_spread_percentage": 0.1625,
+            "timestamp": "2021-01-26T03:07:39+00:00",
+            "last_traded_at": "2021-01-26T03:07:39+00:00",
+            "last_fetch_at": "2021-01-26T03:07:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/GRT_USDT",
@@ -164,23 +164,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.5645,
-            "volume": 94194830.64,
+            "last": 0.5283,
+            "volume": 48036914.04,
             "converted_last": {
-                "btc": 1.755e-05,
-                "eth": 0.00044879,
-                "usd": 0.5645
+                "btc": 1.631e-05,
+                "eth": 0.00039069,
+                "usd": 0.5283
             },
             "converted_volume": {
-                "btc": 1653,
-                "eth": 42274,
-                "usd": 53172982
+                "btc": 783.686,
+                "eth": 18768,
+                "usd": 25377902
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.13543,
-            "timestamp": "2021-01-23T18:24:46+00:00",
-            "last_traded_at": "2021-01-23T18:24:46+00:00",
-            "last_fetch_at": "2021-01-23T18:24:46+00:00",
+            "bid_ask_spread_percentage": 0.194554,
+            "timestamp": "2021-01-26T03:07:43+00:00",
+            "last_traded_at": "2021-01-26T03:07:43+00:00",
+            "last_fetch_at": "2021-01-26T03:07:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/GRT-USD",
@@ -195,58 +195,26 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 1.756e-05,
-            "volume": 26828697.150341686,
+            "last": 1.639e-05,
+            "volume": 17718062.320927396,
             "converted_last": {
-                "btc": 1.756e-05,
-                "eth": 0.00044905,
-                "usd": 0.564831
+                "btc": 1.639e-05,
+                "eth": 0.00039251,
+                "usd": 0.530747
             },
             "converted_volume": {
-                "btc": 471.112,
-                "eth": 12047,
-                "usd": 15153684
+                "btc": 290.399,
+                "eth": 6954,
+                "usd": 9403804
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.156883,
-            "timestamp": "2021-01-23T18:23:44+00:00",
-            "last_traded_at": "2021-01-23T18:23:44+00:00",
-            "last_fetch_at": "2021-01-23T18:23:44+00:00",
+            "bid_ask_spread_percentage": 0.121803,
+            "timestamp": "2021-01-26T03:06:23+00:00",
+            "last_traded_at": "2021-01-26T03:06:23+00:00",
+            "last_fetch_at": "2021-01-26T03:06:23+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/GRT_BTC",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "GRT",
-            "target": "BTC",
-            "market": {
-                "name": "Coinbase Pro",
-                "identifier": "gdax",
-                "has_trading_incentive": false
-            },
-            "last": 1.753e-05,
-            "volume": 15512881.26,
-            "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044828,
-                "usd": 0.563856
-            },
-            "converted_volume": {
-                "btc": 271.941,
-                "eth": 6954,
-                "usd": 8747027
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11396,
-            "timestamp": "2021-01-23T18:24:45+00:00",
-            "last_traded_at": "2021-01-23T18:24:45+00:00",
-            "last_fetch_at": "2021-01-23T18:24:45+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://pro.coinbase.com/trade/GRT-BTC",
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "bitcoin"
@@ -259,23 +227,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.4633,
-            "volume": 16291748.42,
+            "last": 0.436,
+            "volume": 9315528.24,
             "converted_last": {
-                "btc": 1.754e-05,
-                "eth": 0.00044843,
-                "usd": 0.564045
+                "btc": 1.635e-05,
+                "eth": 0.00039153,
+                "usd": 0.529428
             },
             "converted_volume": {
-                "btc": 285.69,
-                "eth": 7306,
-                "usd": 9189272
+                "btc": 152.3,
+                "eth": 3647,
+                "usd": 4931903
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.164753,
-            "timestamp": "2021-01-23T18:24:39+00:00",
-            "last_traded_at": "2021-01-23T18:24:39+00:00",
-            "last_fetch_at": "2021-01-23T18:24:39+00:00",
+            "bid_ask_spread_percentage": 0.206422,
+            "timestamp": "2021-01-26T03:07:39+00:00",
+            "last_traded_at": "2021-01-26T03:07:39+00:00",
+            "last_fetch_at": "2021-01-26T03:07:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/GRT-EUR",
@@ -286,59 +254,27 @@
             "base": "GRT",
             "target": "USDT",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 0.5626,
-            "volume": 84540501.207696,
-            "converted_last": {
-                "btc": 1.751e-05,
-                "eth": 0.00044855,
-                "usd": 0.562963
-            },
-            "converted_volume": {
-                "btc": 1480,
-                "eth": 37921,
-                "usd": 47593161
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.106496,
-            "timestamp": "2021-01-23T18:20:38+00:00",
-            "last_traded_at": "2021-01-23T18:20:38+00:00",
-            "last_fetch_at": "2021-01-23T18:20:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=grt_usdt",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "GRT",
-            "target": "USDT",
-            "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 0.56701,
-            "volume": 26736500.593386434,
+            "last": 0.528817,
+            "volume": 20295247.31799035,
             "converted_last": {
-                "btc": 1.765e-05,
-                "eth": 0.00045128,
-                "usd": 0.56765
+                "btc": 1.637e-05,
+                "eth": 0.00039257,
+                "usd": 0.529811
             },
             "converted_volume": {
-                "btc": 471.829,
-                "eth": 12066,
-                "usd": 15176975
+                "btc": 332.203,
+                "eth": 7967,
+                "usd": 10752643
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.242505,
-            "timestamp": "2021-01-23T18:25:26+00:00",
-            "last_traded_at": "2021-01-23T18:25:26+00:00",
-            "last_fetch_at": "2021-01-23T18:25:26+00:00",
+            "bid_ask_spread_percentage": 0.206636,
+            "timestamp": "2021-01-26T02:56:43+00:00",
+            "last_traded_at": "2021-01-26T02:56:43+00:00",
+            "last_fetch_at": "2021-01-26T02:56:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=grt_usdt",
@@ -348,35 +284,35 @@
         },
         {
             "base": "GRT",
-            "target": "ETH",
+            "target": "USDT",
             "market": {
-                "name": "Binance",
-                "identifier": "binance",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.00045051,
-            "volume": 3314169.631217953,
+            "last": 0.5278,
+            "volume": 54066776.121151,
             "converted_last": {
-                "btc": 1.761e-05,
-                "eth": 0.00045045,
-                "usd": 0.566607
+                "btc": 1.635e-05,
+                "eth": 0.00039165,
+                "usd": 0.52917
             },
             "converted_volume": {
-                "btc": 58.379,
-                "eth": 1493,
-                "usd": 1877831
+                "btc": 884.188,
+                "eth": 21175,
+                "usd": 28610513
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.354791,
-            "timestamp": "2021-01-23T18:25:21+00:00",
-            "last_traded_at": "2021-01-23T18:25:21+00:00",
-            "last_fetch_at": "2021-01-23T18:25:21+00:00",
+            "bid_ask_spread_percentage": 0.194625,
+            "timestamp": "2021-01-26T03:03:05+00:00",
+            "last_traded_at": "2021-01-26T03:03:05+00:00",
+            "last_fetch_at": "2021-01-26T03:03:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/GRT_ETH",
+            "trade_url": "https://www.okex.com/market?product=grt_usdt",
             "token_info_url": null,
             "coin_id": "the-graph",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "tether"
         },
         {
             "base": "GRT",
@@ -386,23 +322,23 @@
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 1.756e-05,
-            "volume": 2837863.731675808,
+            "last": 1.635e-05,
+            "volume": 3193239.098085952,
             "converted_last": {
-                "btc": 1.756e-05,
-                "eth": 0.00044905,
-                "usd": 0.56484
+                "btc": 1.635e-05,
+                "eth": 0.00039213,
+                "usd": 0.529211
             },
             "converted_volume": {
-                "btc": 49.832887,
-                "eth": 1274,
-                "usd": 1602938
+                "btc": 52.209,
+                "eth": 1252,
+                "usd": 1689898
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.170261,
-            "timestamp": "2021-01-23T18:25:03+00:00",
-            "last_traded_at": "2021-01-23T18:25:03+00:00",
-            "last_fetch_at": "2021-01-23T18:25:03+00:00",
+            "bid_ask_spread_percentage": 0.183262,
+            "timestamp": "2021-01-26T02:56:43+00:00",
+            "last_traded_at": "2021-01-26T02:56:43+00:00",
+            "last_fetch_at": "2021-01-26T02:56:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=grt_btc",
@@ -412,29 +348,93 @@
         },
         {
             "base": "GRT",
+            "target": "BTC",
+            "market": {
+                "name": "Coinbase Pro",
+                "identifier": "gdax",
+                "has_trading_incentive": false
+            },
+            "last": 1.634e-05,
+            "volume": 6571435.11,
+            "converted_last": {
+                "btc": 1.634e-05,
+                "eth": 0.00039131,
+                "usd": 0.529134
+            },
+            "converted_volume": {
+                "btc": 107.377,
+                "eth": 2571,
+                "usd": 3477170
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.183262,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://pro.coinbase.com/trade/GRT-BTC",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "GRT",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.00039,
+            "volume": 1659600.9498461538,
+            "converted_last": {
+                "btc": 1.634e-05,
+                "eth": 0.00039133,
+                "usd": 0.529151
+            },
+            "converted_volume": {
+                "btc": 27.119539,
+                "eth": 649.459,
+                "usd": 878180
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.474562,
+            "timestamp": "2021-01-26T03:05:21+00:00",
+            "last_traded_at": "2021-01-26T03:05:21+00:00",
+            "last_fetch_at": "2021-01-26T03:05:21+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/GRT_ETH",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "GRT",
             "target": "USDT",
             "market": {
                 "name": "Digifinex",
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 0.565,
-            "volume": 44582332.396287,
+            "last": 0.5299,
+            "volume": 28636576.302726,
             "converted_last": {
-                "btc": 1.757e-05,
-                "eth": 0.00044921,
-                "usd": 0.565036
+                "btc": 1.639e-05,
+                "eth": 0.00039256,
+                "usd": 0.530818
             },
             "converted_volume": {
-                "btc": 783.138,
-                "eth": 20027,
-                "usd": 25190637
+                "btc": 469.416,
+                "eth": 11242,
+                "usd": 15200800
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.282087,
-            "timestamp": "2021-01-23T18:25:06+00:00",
-            "last_traded_at": "2021-01-23T18:25:06+00:00",
-            "last_fetch_at": "2021-01-23T18:25:06+00:00",
+            "bid_ask_spread_percentage": 0.31991,
+            "timestamp": "2021-01-26T03:06:20+00:00",
+            "last_traded_at": "2021-01-26T03:06:20+00:00",
+            "last_fetch_at": "2021-01-26T03:06:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/GRT",
@@ -450,23 +450,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.4105,
-            "volume": 2971927.53,
+            "last": 0.3889,
+            "volume": 3011670.49,
             "converted_last": {
-                "btc": 1.746e-05,
-                "eth": 0.00044651,
-                "usd": 0.561629
+                "btc": 1.642e-05,
+                "eth": 0.00039313,
+                "usd": 0.531599
             },
             "converted_volume": {
-                "btc": 51.892,
-                "eth": 1327,
-                "usd": 1669122
+                "btc": 49.439981,
+                "eth": 1184,
+                "usd": 1601002
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.124307,
-            "timestamp": "2021-01-23T18:24:43+00:00",
-            "last_traded_at": "2021-01-23T18:24:43+00:00",
-            "last_fetch_at": "2021-01-23T18:24:43+00:00",
+            "bid_ask_spread_percentage": 0.232558,
+            "timestamp": "2021-01-26T03:07:39+00:00",
+            "last_traded_at": "2021-01-26T03:07:39+00:00",
+            "last_fetch_at": "2021-01-26T03:07:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/GRT-GBP",
@@ -481,23 +481,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.56469,
-            "volume": 4686465.51578668,
+            "last": 0.53002,
+            "volume": 3967326.88596712,
             "converted_last": {
-                "btc": 1.757e-05,
-                "eth": 0.00045022,
-                "usd": 0.56502
+                "btc": 1.64e-05,
+                "eth": 0.00039265,
+                "usd": 0.530938
             },
             "converted_volume": {
-                "btc": 82.353,
-                "eth": 2110,
-                "usd": 2647945
+                "btc": 65.048,
+                "eth": 1558,
+                "usd": 2106404
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.221769,
-            "timestamp": "2021-01-23T18:21:49+00:00",
-            "last_traded_at": "2021-01-23T18:21:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:49+00:00",
+            "bid_ask_spread_percentage": 0.277694,
+            "timestamp": "2021-01-26T03:06:54+00:00",
+            "last_traded_at": "2021-01-26T03:06:54+00:00",
+            "last_fetch_at": "2021-01-26T03:06:54+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/GRT-USDT",
@@ -513,23 +513,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.4631,
-            "volume": 3746130.79369562,
+            "last": 0.43522,
+            "volume": 2057903.68121797,
             "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044925,
-                "usd": 0.563801
+                "btc": 1.633e-05,
+                "eth": 0.00039113,
+                "usd": 0.528471
             },
             "converted_volume": {
-                "btc": 65.687,
-                "eth": 1683,
-                "usd": 2112073
+                "btc": 33.60976,
+                "eth": 804.915,
+                "usd": 1087543
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.325207,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.29749,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/grt/eur",
@@ -544,60 +544,28 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.56291,
-            "volume": 3094105.50169581,
+            "last": 0.52906,
+            "volume": 1658930.66726654,
             "converted_last": {
-                "btc": 1.751e-05,
-                "eth": 0.00044854,
-                "usd": 0.56291
+                "btc": 1.635e-05,
+                "eth": 0.00039157,
+                "usd": 0.52906
             },
             "converted_volume": {
-                "btc": 54.168,
-                "eth": 1388,
-                "usd": 1741703
+                "btc": 27.123893,
+                "eth": 649.586,
+                "usd": 877674
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.30922,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.383004,
+            "timestamp": "2021-01-26T03:03:32+00:00",
+            "last_traded_at": "2021-01-26T03:03:32+00:00",
+            "last_fetch_at": "2021-01-26T03:03:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/grt/usd",
             "token_info_url": null,
             "coin_id": "the-graph"
-        },
-        {
-            "base": "GRT",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.00045011,
-            "volume": 507412.0889442172,
-            "converted_last": {
-                "btc": 1.76e-05,
-                "eth": 0.00045005,
-                "usd": 0.566104
-            },
-            "converted_volume": {
-                "btc": 8.930098,
-                "eth": 228.363,
-                "usd": 287248
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.583942,
-            "timestamp": "2021-01-23T18:25:07+00:00",
-            "last_traded_at": "2021-01-23T18:25:07+00:00",
-            "last_fetch_at": "2021-01-23T18:25:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=grt_eth",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "GRT",
@@ -607,29 +575,61 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 0.56419,
-            "volume": 160532.43,
+            "last": 0.5312,
+            "volume": 334348.31,
             "converted_last": {
-                "btc": 1.756e-05,
-                "eth": 0.00044982,
-                "usd": 0.564519
+                "btc": 1.64e-05,
+                "eth": 0.00039278,
+                "usd": 0.531566
             },
             "converted_volume": {
-                "btc": 2.818468,
-                "eth": 72.211,
-                "usd": 90624
+                "btc": 5.483579,
+                "eth": 131.325,
+                "usd": 177728
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.342726,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 0.298632,
+            "timestamp": "2021-01-26T02:59:39+00:00",
+            "last_traded_at": "2021-01-26T02:59:39+00:00",
+            "last_fetch_at": "2021-01-26T02:59:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/GRT_USDT",
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "GRT",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.00039205,
+            "volume": 355345.105249503,
+            "converted_last": {
+                "btc": 1.636e-05,
+                "eth": 0.00039228,
+                "usd": 0.529416
+            },
+            "converted_volume": {
+                "btc": 5.81214,
+                "eth": 139.396,
+                "usd": 188125
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.495943,
+            "timestamp": "2021-01-26T02:56:34+00:00",
+            "last_traded_at": "2021-01-26T02:56:34+00:00",
+            "last_fetch_at": "2021-01-26T02:56:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=grt_eth",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "0XC944E90C64B2C07662A292BE6244BDF05CDA44A7",
@@ -639,23 +639,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.00044728059792945,
-            "volume": 4625375.70517702,
+            "last": 0.000391600807791294,
+            "volume": 3707604.03418484,
             "converted_last": {
-                "btc": 1.751e-05,
-                "eth": 0.00044768,
-                "usd": 0.563102
+                "btc": 1.634e-05,
+                "eth": 0.00039127,
+                "usd": 0.528895
             },
             "converted_volume": {
-                "btc": 80.974,
-                "eth": 2071,
-                "usd": 2604558
+                "btc": 60.573,
+                "eth": 1451,
+                "usd": 1960934
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602822,
-            "timestamp": "2021-01-23T18:24:35+00:00",
-            "last_traded_at": "2021-01-23T18:24:35+00:00",
-            "last_fetch_at": "2021-01-23T18:24:35+00:00",
+            "bid_ask_spread_percentage": 0.602815,
+            "timestamp": "2021-01-26T02:58:49+00:00",
+            "last_traded_at": "2021-01-26T02:58:49+00:00",
+            "last_fetch_at": "2021-01-26T02:58:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xc944e90c64b2c07662a292be6244bdf05cda44a7",
@@ -665,124 +665,29 @@
         },
         {
             "base": "GRT",
-            "target": "BTC",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 1.75e-05,
-            "volume": 17246291.49373571,
-            "converted_last": {
-                "btc": 1.75e-05,
-                "eth": 0.00044836,
-                "usd": 0.562721
-            },
-            "converted_volume": {
-                "btc": 301.81,
-                "eth": 7733,
-                "usd": 9704850
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.285388,
-            "timestamp": "2021-01-23T18:20:39+00:00",
-            "last_traded_at": "2021-01-23T18:20:39+00:00",
-            "last_fetch_at": "2021-01-23T18:20:39+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=grt_btc",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "GRT",
-            "target": "USDT",
-            "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
-                "has_trading_incentive": false
-            },
-            "last": 0.5555,
-            "volume": 4221210.7,
-            "converted_last": {
-                "btc": 1.726e-05,
-                "eth": 0.00044372,
-                "usd": 0.556013
-            },
-            "converted_volume": {
-                "btc": 72.878,
-                "eth": 1873,
-                "usd": 2347049
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.569381,
-            "timestamp": "2021-01-23T18:14:29+00:00",
-            "last_traded_at": "2021-01-23T18:14:29+00:00",
-            "last_fetch_at": "2021-01-23T18:14:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/GRT_USDT",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "GRT",
-            "target": "EUR",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.4654,
-            "volume": 3313502.2926665233,
-            "converted_last": {
-                "btc": 1.762e-05,
-                "eth": 0.00045062,
-                "usd": 0.566601
-            },
-            "converted_volume": {
-                "btc": 58.389,
-                "eth": 1493,
-                "usd": 1877434
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.121322,
-            "timestamp": "2021-01-23T18:26:33+00:00",
-            "last_traded_at": "2021-01-23T18:26:33+00:00",
-            "last_fetch_at": "2021-01-23T18:26:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/GRT_EUR",
-            "token_info_url": null,
-            "coin_id": "the-graph"
-        },
-        {
-            "base": "GRT",
             "target": "USDT",
             "market": {
                 "name": "Gate.io",
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.5632,
-            "volume": 1416876.13388873,
+            "last": 0.5283,
+            "volume": 1017325.70985807,
             "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044903,
-                "usd": 0.563529
+                "btc": 1.634e-05,
+                "eth": 0.00039137,
+                "usd": 0.529221
             },
             "converted_volume": {
-                "btc": 24.832444,
-                "eth": 636.219,
-                "usd": 798450
+                "btc": 16.625844,
+                "eth": 398.156,
+                "usd": 538390
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.759315,
-            "timestamp": "2021-01-23T18:21:39+00:00",
-            "last_traded_at": "2021-01-23T18:21:39+00:00",
-            "last_fetch_at": "2021-01-23T18:21:39+00:00",
+            "bid_ask_spread_percentage": 0.189107,
+            "timestamp": "2021-01-26T03:07:20+00:00",
+            "last_traded_at": "2021-01-26T03:07:20+00:00",
+            "last_fetch_at": "2021-01-26T03:07:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/GRT_USDT",
@@ -792,35 +697,35 @@
         },
         {
             "base": "GRT",
-            "target": "ETH",
+            "target": "BTC",
             "market": {
                 "name": "OKEx",
                 "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.0004482,
-            "volume": 2635738.53424467,
+            "last": 1.633e-05,
+            "volume": 11741924.47362981,
             "converted_last": {
-                "btc": 1.754e-05,
-                "eth": 0.0004486,
-                "usd": 0.56427
+                "btc": 1.633e-05,
+                "eth": 0.00039108,
+                "usd": 0.528405
             },
             "converted_volume": {
-                "btc": 46.23757,
-                "eth": 1182,
-                "usd": 1487268
+                "btc": 191.746,
+                "eth": 4592,
+                "usd": 6204497
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.311735,
-            "timestamp": "2021-01-23T18:23:56+00:00",
-            "last_traded_at": "2021-01-23T18:23:56+00:00",
-            "last_fetch_at": "2021-01-23T18:23:56+00:00",
+            "bid_ask_spread_percentage": 0.244648,
+            "timestamp": "2021-01-26T03:03:13+00:00",
+            "last_traded_at": "2021-01-26T03:03:13+00:00",
+            "last_fetch_at": "2021-01-26T03:03:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=grt_eth",
+            "trade_url": "https://www.okex.com/market?product=grt_btc",
             "token_info_url": null,
             "coin_id": "the-graph",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "GRT",
@@ -830,23 +735,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 1.747e-05,
-            "volume": 1069213.39467522,
+            "last": 1.639e-05,
+            "volume": 473505.01563679,
             "converted_last": {
-                "btc": 1.747e-05,
-                "eth": 0.00044759,
-                "usd": 0.561722
+                "btc": 1.639e-05,
+                "eth": 0.00039252,
+                "usd": 0.530347
             },
             "converted_volume": {
-                "btc": 18.679158,
-                "eth": 478.569,
-                "usd": 600601
+                "btc": 7.760747,
+                "eth": 185.861,
+                "usd": 251122
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.284414,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
+            "bid_ask_spread_percentage": 0.42735,
+            "timestamp": "2021-01-26T03:03:34+00:00",
+            "last_traded_at": "2021-01-26T03:03:34+00:00",
+            "last_fetch_at": "2021-01-26T03:03:34+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/grt/xbt",
@@ -856,32 +761,95 @@
         },
         {
             "base": "GRT",
-            "target": "USDT",
+            "target": "EUR",
             "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
+                "name": "Binance",
+                "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.56345,
-            "volume": 17859934.7457,
+            "last": 0.4373,
+            "volume": 2366100.5344957695,
             "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044923,
-                "usd": 0.563779
+                "btc": 1.64e-05,
+                "eth": 0.0003927,
+                "usd": 0.531007
             },
             "converted_volume": {
-                "btc": 313.156,
-                "eth": 8023,
-                "usd": 10069054
+                "btc": 38.798922,
+                "eth": 929.157,
+                "usd": 1256415
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.19806,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
+            "bid_ask_spread_percentage": 0.229043,
+            "timestamp": "2021-01-26T03:07:32+00:00",
+            "last_traded_at": "2021-01-26T03:07:32+00:00",
+            "last_fetch_at": "2021-01-26T03:07:32+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/GRT_USDT",
+            "trade_url": "https://www.binance.com/en/trade/GRT_EUR",
+            "token_info_url": null,
+            "coin_id": "the-graph"
+        },
+        {
+            "base": "GRT",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0003895,
+            "volume": 1390278.72198607,
+            "converted_last": {
+                "btc": 1.626e-05,
+                "eth": 0.00038935,
+                "usd": 0.526067
+            },
+            "converted_volume": {
+                "btc": 22.602776,
+                "eth": 541.31,
+                "usd": 731380
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.230415,
+            "timestamp": "2021-01-26T03:03:06+00:00",
+            "last_traded_at": "2021-01-26T03:03:06+00:00",
+            "last_fetch_at": "2021-01-26T03:03:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=grt_eth",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "GRT",
+            "target": "USDT",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 0.52716,
+            "volume": 4175535.2,
+            "converted_last": {
+                "btc": 1.631e-05,
+                "eth": 0.00039053,
+                "usd": 0.527671
+            },
+            "converted_volume": {
+                "btc": 68.092,
+                "eth": 1631,
+                "usd": 2203308
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.343974,
+            "timestamp": "2021-01-26T03:04:53+00:00",
+            "last_traded_at": "2021-01-26T03:04:53+00:00",
+            "last_fetch_at": "2021-01-26T03:04:53+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/GRT_USDT",
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "tether"
@@ -894,26 +862,90 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 0.56328,
-            "volume": 2057050.05,
+            "last": 0.52801,
+            "volume": 1643626.01,
             "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044909,
-                "usd": 0.563642
+                "btc": 1.633e-05,
+                "eth": 0.00039116,
+                "usd": 0.528916
             },
             "converted_volume": {
-                "btc": 36.057377,
-                "eth": 923.807,
-                "usd": 1159440
+                "btc": 26.846533,
+                "eth": 642.921,
+                "usd": 869340
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.493151,
-            "timestamp": "2021-01-23T18:22:09+00:00",
-            "last_traded_at": "2021-01-23T18:22:09+00:00",
-            "last_fetch_at": "2021-01-23T18:22:09+00:00",
+            "bid_ask_spread_percentage": 0.406695,
+            "timestamp": "2021-01-26T03:05:14+00:00",
+            "last_traded_at": "2021-01-26T03:05:14+00:00",
+            "last_fetch_at": "2021-01-26T03:05:14+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#GRT_USDT",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "GRT",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 0.52827,
+            "volume": 9960713.8248,
+            "converted_last": {
+                "btc": 1.634e-05,
+                "eth": 0.00039135,
+                "usd": 0.529176
+            },
+            "converted_volume": {
+                "btc": 162.776,
+                "eth": 3898,
+                "usd": 5270974
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.200602,
+            "timestamp": "2021-01-26T03:05:49+00:00",
+            "last_traded_at": "2021-01-26T03:05:49+00:00",
+            "last_fetch_at": "2021-01-26T03:05:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/GRT_USDT",
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "GRT",
+            "target": "USDT",
+            "market": {
+                "name": "CoinBene",
+                "identifier": "coinbene",
+                "has_trading_incentive": false
+            },
+            "last": 0.52792,
+            "volume": 1475638.324765116,
+            "converted_last": {
+                "btc": 1.633e-05,
+                "eth": 0.00039109,
+                "usd": 0.528841
+            },
+            "converted_volume": {
+                "btc": 24.098561,
+                "eth": 577.112,
+                "usd": 780377
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.80948,
+            "timestamp": "2021-01-26T03:07:36+00:00",
+            "last_traded_at": "2021-01-26T03:07:36+00:00",
+            "last_fetch_at": "2021-01-26T03:07:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinbene.com/spot/exchange/GRT_USDT",
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "tether"
@@ -926,23 +958,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.0004441,
-            "volume": 132445.66516794,
+            "last": 0.0003916,
+            "volume": 406021.43522148,
             "converted_last": {
-                "btc": 1.738e-05,
-                "eth": 0.00044534,
-                "usd": 0.558895
+                "btc": 1.635e-05,
+                "eth": 0.00039145,
+                "usd": 0.528903
             },
             "converted_volume": {
-                "btc": 2.30218,
-                "eth": 58.983,
-                "usd": 74023
+                "btc": 6.636576,
+                "eth": 158.938,
+                "usd": 214746
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.468019,
-            "timestamp": "2021-01-23T18:21:48+00:00",
-            "last_traded_at": "2021-01-23T18:21:48+00:00",
-            "last_fetch_at": "2021-01-23T18:21:48+00:00",
+            "bid_ask_spread_percentage": 0.510334,
+            "timestamp": "2021-01-26T03:03:33+00:00",
+            "last_traded_at": "2021-01-26T03:03:33+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/grt/eth",
@@ -958,23 +990,23 @@
                 "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 7.914,
-            "volume": 5848.32,
+            "last": 7.513,
+            "volume": 38273.52,
             "converted_last": {
-                "btc": 1.762e-05,
-                "eth": 0.00045155,
-                "usd": 0.566696
+                "btc": 1.631e-05,
+                "eth": 0.00039051,
+                "usd": 0.528498
             },
             "converted_volume": {
-                "btc": 0.10307484,
-                "eth": 2.640827,
-                "usd": 3314.22
+                "btc": 0.62409359,
+                "eth": 14.946317,
+                "usd": 20227
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.200404,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
+            "bid_ask_spread_percentage": 1.027533,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://crypto.com/exchange/trade/spot/GRT_CRO",
@@ -984,29 +1016,60 @@
         },
         {
             "base": "GRT",
+            "target": "USD",
+            "market": {
+                "name": "FTX",
+                "identifier": "ftx_spot",
+                "has_trading_incentive": false
+            },
+            "last": 0.53,
+            "volume": 272381.3882075472,
+            "converted_last": {
+                "btc": 1.637e-05,
+                "eth": 0.00039196,
+                "usd": 0.53
+            },
+            "converted_volume": {
+                "btc": 4.45805,
+                "eth": 106.761,
+                "usd": 144362
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.919411,
+            "timestamp": "2021-01-26T03:06:49+00:00",
+            "last_traded_at": "2021-01-26T03:06:49+00:00",
+            "last_fetch_at": "2021-01-26T03:06:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.com/trade/GRT/USD",
+            "token_info_url": null,
+            "coin_id": "the-graph"
+        },
+        {
+            "base": "GRT",
             "target": "USDT",
             "market": {
                 "name": "BitMart",
                 "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 0.561739,
-            "volume": 1743263.4,
+            "last": 0.530559,
+            "volume": 1694690.0,
             "converted_last": {
-                "btc": 1.748e-05,
-                "eth": 0.00044786,
-                "usd": 0.562101
+                "btc": 1.642e-05,
+                "eth": 0.00039387,
+                "usd": 0.531489
             },
             "converted_volume": {
-                "btc": 30.473513,
-                "eth": 780.746,
-                "usd": 979891
+                "btc": 27.830965,
+                "eth": 667.484,
+                "usd": 900710
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.63857,
-            "timestamp": "2021-01-23T18:20:25+00:00",
-            "last_traded_at": "2021-01-23T18:20:25+00:00",
-            "last_fetch_at": "2021-01-23T18:24:19+00:00",
+            "bid_ask_spread_percentage": 1.313534,
+            "timestamp": "2021-01-26T02:55:46+00:00",
+            "last_traded_at": "2021-01-26T02:55:46+00:00",
+            "last_fetch_at": "2021-01-26T02:59:09+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitmart.com/trade/en?symbol=GRT_USDT",
@@ -1016,63 +1079,127 @@
         },
         {
             "base": "GRT",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.52801,
+            "volume": 88304.06050775,
+            "converted_last": {
+                "btc": 1.63e-05,
+                "eth": 0.00039042,
+                "usd": 0.528216
+            },
+            "converted_volume": {
+                "btc": 1.43956,
+                "eth": 34.475785,
+                "usd": 46644
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.719479,
+            "timestamp": "2021-01-26T03:01:39+00:00",
+            "last_traded_at": "2021-01-26T03:01:39+00:00",
+            "last_fetch_at": "2021-01-26T03:01:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "GRT",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 1.633e-05,
+            "volume": 17443.0,
+            "converted_last": {
+                "btc": 1.633e-05,
+                "eth": 0.00039107,
+                "usd": 0.52881
+            },
+            "converted_volume": {
+                "btc": 0.28484419,
+                "eth": 6.821448,
+                "usd": 9224.04
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.792683,
+            "timestamp": "2021-01-26T03:07:10+00:00",
+            "last_traded_at": "2021-01-26T03:07:10+00:00",
+            "last_fetch_at": "2021-01-26T03:07:10+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "GRT",
+            "target": "USD",
+            "market": {
+                "name": "FTX.us",
+                "identifier": "ftx_us",
+                "has_trading_incentive": false
+            },
+            "last": 0.53555,
+            "volume": 14.317617402670152,
+            "converted_last": {
+                "btc": 1.649e-05,
+                "eth": 0.00039394,
+                "usd": 0.53555
+            },
+            "converted_volume": {
+                "btc": 0.00023616,
+                "eth": 0.00564031,
+                "usd": 7.67
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.03346,
+            "timestamp": "2021-01-26T02:41:57+00:00",
+            "last_traded_at": "2021-01-26T02:41:57+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://ftx.us/trade/GRT/USD",
+            "token_info_url": null,
+            "coin_id": "the-graph"
+        },
+        {
+            "base": "GRT",
             "target": "IDR",
             "market": {
                 "name": "Indodax",
                 "identifier": "indodax",
                 "has_trading_incentive": false
             },
-            "last": 7950.0,
-            "volume": 80173.70093515,
+            "last": 7686.0,
+            "volume": 56334.95303991,
             "converted_last": {
-                "btc": 1.763e-05,
-                "eth": 0.00045078,
-                "usd": 0.567002
+                "btc": 1.683e-05,
+                "eth": 0.00040301,
+                "usd": 0.545416
             },
             "converted_volume": {
-                "btc": 1.413288,
-                "eth": 36.140995,
-                "usd": 45459
+                "btc": 0.94801071,
+                "eth": 22.703755,
+                "usd": 30726
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.251572,
-            "timestamp": "2021-01-23T18:24:42+00:00",
-            "last_traded_at": "2021-01-23T18:24:42+00:00",
-            "last_fetch_at": "2021-01-23T18:24:42+00:00",
+            "bid_ask_spread_percentage": 1.125485,
+            "timestamp": "2021-01-26T02:59:07+00:00",
+            "last_traded_at": "2021-01-26T02:59:07+00:00",
+            "last_fetch_at": "2021-01-26T02:59:07+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "the-graph"
-        },
-        {
-            "base": "GRT",
-            "target": "USD",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 0.5629,
-            "volume": 119907.50248712028,
-            "converted_last": {
-                "btc": 1.751e-05,
-                "eth": 0.0004485,
-                "usd": 0.5629
-            },
-            "converted_volume": {
-                "btc": 2.099053,
-                "eth": 53.779,
-                "usd": 67496
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.995595,
-            "timestamp": "2021-01-23T18:22:27+00:00",
-            "last_traded_at": "2021-01-23T18:22:27+00:00",
-            "last_fetch_at": "2021-01-23T18:22:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/GRT/USD",
             "token_info_url": null,
             "coin_id": "the-graph"
         },
@@ -1084,23 +1211,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.0004457,
-            "volume": 25797.29345658,
+            "last": 0.0003908,
+            "volume": 39677.27558173,
             "converted_last": {
-                "btc": 1.744e-05,
-                "eth": 0.00044694,
-                "usd": 0.560908
+                "btc": 1.637e-05,
+                "eth": 0.00039214,
+                "usd": 0.530252
             },
             "converted_volume": {
-                "btc": 0.45002599,
-                "eth": 11.529883,
-                "usd": 14469.92
+                "btc": 0.64969634,
+                "eth": 15.558927,
+                "usd": 21039
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.172005,
-            "timestamp": "2021-01-23T18:21:31+00:00",
-            "last_traded_at": "2021-01-23T18:21:31+00:00",
-            "last_fetch_at": "2021-01-23T18:21:31+00:00",
+            "bid_ask_spread_percentage": 1.348601,
+            "timestamp": "2021-01-26T03:07:24+00:00",
+            "last_traded_at": "2021-01-26T03:07:24+00:00",
+            "last_fetch_at": "2021-01-26T03:07:24+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/GRT_ETH",
@@ -1116,23 +1243,23 @@
                 "identifier": "vcc",
                 "has_trading_incentive": false
             },
-            "last": 0.56015,
-            "volume": 81753760.8,
+            "last": 0.52863,
+            "volume": 47264520.6,
             "converted_last": {
-                "btc": 1.743e-05,
-                "eth": 0.00044662,
-                "usd": 0.560539
+                "btc": 1.638e-05,
+                "eth": 0.00039227,
+                "usd": 0.530002
             },
             "converted_volume": {
-                "btc": 1425,
-                "eth": 36513,
-                "usd": 45826175
+                "btc": 774.162,
+                "eth": 18540,
+                "usd": 25050295
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.16781,
-            "timestamp": "2021-01-23T18:19:01+00:00",
-            "last_traded_at": "2021-01-23T18:19:01+00:00",
-            "last_fetch_at": "2021-01-23T18:19:01+00:00",
+            "bid_ask_spread_percentage": 0.188933,
+            "timestamp": "2021-01-26T03:03:55+00:00",
+            "last_traded_at": "2021-01-26T03:03:55+00:00",
+            "last_fetch_at": "2021-01-26T03:03:55+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vcc.exchange/exchange/basic?currency=usdt&coin=grt",
@@ -1148,58 +1275,26 @@
                 "identifier": "huobi_id",
                 "has_trading_incentive": false
             },
-            "last": 0.570873,
-            "volume": 399.6,
+            "last": 0.527677,
+            "volume": 3878.1701000000003,
             "converted_last": {
-                "btc": 1.777e-05,
-                "eth": 0.00045436,
-                "usd": 0.5713
+                "btc": 1.629e-05,
+                "eth": 0.00039018,
+                "usd": 0.527995
             },
             "converted_volume": {
-                "btc": 0.00709993,
-                "eth": 0.18156151,
-                "usd": 228.29
+                "btc": 0.06318324,
+                "eth": 1.513165,
+                "usd": 2047.65
             },
             "trust_score": "yellow",
-            "bid_ask_spread_percentage": 0.158004,
-            "timestamp": "2021-01-23T18:26:20+00:00",
-            "last_traded_at": "2021-01-23T18:26:20+00:00",
-            "last_fetch_at": "2021-01-23T18:26:20+00:00",
+            "bid_ask_spread_percentage": 0.168128,
+            "timestamp": "2021-01-26T03:00:43+00:00",
+            "last_traded_at": "2021-01-26T03:00:43+00:00",
+            "last_fetch_at": "2021-01-26T03:00:43+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.com.co/exchange/#s=grt_usdt",
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "GRT",
-            "target": "USDT",
-            "market": {
-                "name": "CoinBene",
-                "identifier": "coinbene",
-                "has_trading_incentive": false
-            },
-            "last": 0.56389,
-            "volume": 3492269.1105002747,
-            "converted_last": {
-                "btc": 1.753e-05,
-                "eth": 0.00044832,
-                "usd": 0.563918
-            },
-            "converted_volume": {
-                "btc": 61.225,
-                "eth": 1566,
-                "usd": 1969353
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.793917,
-            "timestamp": "2021-01-23T18:23:37+00:00",
-            "last_traded_at": "2021-01-23T18:23:37+00:00",
-            "last_fetch_at": "2021-01-23T18:23:37+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinbene.com/spot/exchange/GRT_USDT",
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "tether"
@@ -1212,23 +1307,23 @@
                 "identifier": "kraken",
                 "has_trading_incentive": false
             },
-            "last": 0.41667,
-            "volume": 7058.79099059,
+            "last": 0.4,
+            "volume": 24073.46077287,
             "converted_last": {
-                "btc": 1.77e-05,
-                "eth": 0.00045712,
-                "usd": 0.570071
+                "btc": 1.679e-05,
+                "eth": 0.00039851,
+                "usd": 0.546818
             },
             "converted_volume": {
-                "btc": 0.12493987,
-                "eth": 3.226738,
-                "usd": 4024.01
+                "btc": 0.40420874,
+                "eth": 9.593632,
+                "usd": 13163.8
             },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 5.482278,
-            "timestamp": "2021-01-23T17:40:02+00:00",
-            "last_traded_at": "2021-01-23T17:40:02+00:00",
-            "last_fetch_at": "2021-01-23T18:21:25+00:00",
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 2.694963,
+            "timestamp": "2021-01-26T01:00:13+00:00",
+            "last_traded_at": "2021-01-26T01:00:13+00:00",
+            "last_fetch_at": "2021-01-26T03:03:33+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://trade.kraken.com/markets/kraken/grt/gbp",
@@ -1243,23 +1338,23 @@
                 "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.563026,
-            "volume": 17803.33534631903,
+            "last": 0.528691,
+            "volume": 62147.8003,
             "converted_last": {
-                "btc": 1.75e-05,
-                "eth": 0.00044848,
-                "usd": 0.562872
+                "btc": 1.638e-05,
+                "eth": 0.00039231,
+                "usd": 0.530063
             },
             "converted_volume": {
-                "btc": 0.31164278,
-                "eth": 7.984438,
-                "usd": 10021.0
+                "btc": 1.018058,
+                "eth": 24.381296,
+                "usd": 32942
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:22:54+00:00",
-            "last_traded_at": "2021-01-23T18:22:54+00:00",
-            "last_fetch_at": "2021-01-23T18:22:54+00:00",
+            "timestamp": "2021-01-26T03:03:26+00:00",
+            "last_traded_at": "2021-01-26T03:03:26+00:00",
+            "last_fetch_at": "2021-01-26T03:03:26+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.huobi.co.kr/en-US/exchange/grt_usdt/",
@@ -1268,36 +1363,36 @@
             "target_coin_id": "tether"
         },
         {
-            "base": "0XC944E90C64B2C07662A292BE6244BDF05CDA44A7",
-            "target": "ETH",
+            "base": "GRT",
+            "target": "BTC",
             "market": {
-                "name": "Paraswap",
-                "identifier": "paraswap",
+                "name": "Huobi Korea",
+                "identifier": "huobi_korea",
                 "has_trading_incentive": false
             },
-            "last": 0.000426146155313,
-            "volume": 2880.68256542114,
+            "last": 1.634e-05,
+            "volume": 43333.299999999996,
             "converted_last": {
-                "btc": 1.642e-05,
-                "eth": 0.00042683,
-                "usd": 0.526023
+                "btc": 1.634e-05,
+                "eth": 0.00039132,
+                "usd": 0.528729
             },
             "converted_volume": {
-                "btc": 0.04728684,
-                "eth": 1.229565,
-                "usd": 1515.31
+                "btc": 0.70806612,
+                "eth": 16.957361,
+                "usd": 22912
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T15:36:49+00:00",
-            "last_traded_at": "2021-01-23T15:36:49+00:00",
-            "last_fetch_at": "2021-01-23T16:14:21+00:00",
+            "timestamp": "2021-01-26T03:03:28+00:00",
+            "last_traded_at": "2021-01-26T03:03:28+00:00",
+            "last_fetch_at": "2021-01-26T03:03:28+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.huobi.co.kr/en-US/exchange/grt_btc/",
             "token_info_url": null,
             "coin_id": "the-graph",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "GRT",
@@ -1307,23 +1402,23 @@
                 "identifier": "hoo",
                 "has_trading_incentive": false
             },
-            "last": 0.558062,
-            "volume": 1634455.4924924534,
+            "last": 0.527606,
+            "volume": 1734607.540243894,
             "converted_last": {
-                "btc": 1.737e-05,
-                "eth": 0.00044493,
-                "usd": 0.558416
+                "btc": 1.629e-05,
+                "eth": 0.00039012,
+                "usd": 0.527924
             },
             "converted_volume": {
-                "btc": 28.38445,
-                "eth": 727.223,
-                "usd": 912706
+                "btc": 28.256466,
+                "eth": 676.71,
+                "usd": 915741
             },
             "trust_score": null,
-            "bid_ask_spread_percentage": 1.092402,
-            "timestamp": "2021-01-23T18:19:46+00:00",
-            "last_traded_at": "2021-01-23T18:19:46+00:00",
-            "last_fetch_at": "2021-01-23T18:20:42+00:00",
+            "bid_ask_spread_percentage": 1.135251,
+            "timestamp": "2021-01-26T03:00:35+00:00",
+            "last_traded_at": "2021-01-26T03:00:35+00:00",
+            "last_fetch_at": "2021-01-26T03:00:35+00:00",
             "is_anomaly": true,
             "is_stale": false,
             "trade_url": "https://hoo.com/spot/grt-usdt",
@@ -1339,23 +1434,23 @@
                 "identifier": "one_inch",
                 "has_trading_incentive": false
             },
-            "last": 0.00041865957754243,
-            "volume": 364567.510821387,
+            "last": 0.000398078904024123,
+            "volume": 139130.666366667,
             "converted_last": {
-                "btc": 1.633e-05,
-                "eth": 0.00042009,
-                "usd": 0.52637
+                "btc": 1.664e-05,
+                "eth": 0.00039825,
+                "usd": 0.541002
             },
             "converted_volume": {
-                "btc": 5.952558,
-                "eth": 153.151,
-                "usd": 191898
+                "btc": 2.315646,
+                "eth": 55.408,
+                "usd": 75270
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T18:11:11+00:00",
-            "last_traded_at": "2021-01-23T18:11:11+00:00",
-            "last_fetch_at": "2021-01-23T18:19:51+00:00",
+            "timestamp": "2021-01-26T02:26:34+00:00",
+            "last_traded_at": "2021-01-26T02:26:34+00:00",
+            "last_fetch_at": "2021-01-26T03:04:20+00:00",
             "is_anomaly": true,
             "is_stale": false,
             "trade_url": "https://1inch.exchange/#/r/0x050F788d09395724777a67Dd08bE127cF70dd238/0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/0xc944e90c64b2c07662a292be6244bdf05cda44a7",
@@ -1365,60 +1460,29 @@
         },
         {
             "base": "GRT",
-            "target": "AUD",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.61308,
-            "volume": 3233.17478176,
-            "converted_last": {
-                "btc": 1.462e-05,
-                "eth": 0.00037984,
-                "usd": 0.473088
-            },
-            "converted_volume": {
-                "btc": 0.04726982,
-                "eth": 1.228096,
-                "usd": 1529.58
-            },
-            "trust_score": "red",
-            "bid_ask_spread_percentage": 10.447433,
-            "timestamp": "2021-01-23T11:04:32+00:00",
-            "last_traded_at": "2021-01-23T11:04:32+00:00",
-            "last_fetch_at": "2021-01-23T18:21:22+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": "https://trade.kraken.com/markets/kraken/grt/aud",
-            "token_info_url": null,
-            "coin_id": "the-graph"
-        },
-        {
-            "base": "GRT",
             "target": "USDC",
             "market": {
                 "name": "Serum DEX",
                 "identifier": "serum_dex",
                 "has_trading_incentive": false
             },
-            "last": 0.53,
-            "volume": 33.6,
+            "last": 0.539,
+            "volume": 27.9,
             "converted_last": {
-                "btc": 1.504e-05,
-                "eth": 0.00039074,
-                "usd": 0.530385
+                "btc": 1.634e-05,
+                "eth": 0.000402,
+                "usd": 0.540997
             },
             "converted_volume": {
-                "btc": 0.00050533,
-                "eth": 0.013129,
-                "usd": 17.82
+                "btc": 0.000456,
+                "eth": 0.0112157,
+                "usd": 15.09
             },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.743832,
-            "timestamp": "2021-01-20T05:03:31+00:00",
-            "last_traded_at": "2021-01-20T05:03:31+00:00",
-            "last_fetch_at": "2021-01-20T06:03:23+00:00",
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 7.327517,
+            "timestamp": "2021-01-25T21:13:11+00:00",
+            "last_traded_at": "2021-01-25T21:13:11+00:00",
+            "last_fetch_at": "2021-01-26T03:00:56+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": "https://dex.projectserum.com",
@@ -1434,29 +1498,61 @@
                 "identifier": "paraswap",
                 "has_trading_incentive": false
             },
-            "last": 0.413524452611332,
-            "volume": 8775.57376418192,
+            "last": 0.5795,
+            "volume": 18464.1932700604,
             "converted_last": {
-                "btc": 1.16e-05,
-                "eth": 0.00033788,
-                "usd": 0.41508
+                "btc": 1.669e-05,
+                "eth": 0.00040877,
+                "usd": 0.578582
             },
             "converted_volume": {
-                "btc": 0.10179684,
-                "eth": 2.965132,
-                "usd": 3642.57
+                "btc": 0.30817487,
+                "eth": 7.547699,
+                "usd": 10683.06
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-16T22:07:00+00:00",
-            "last_traded_at": "2021-01-16T22:07:00+00:00",
-            "last_fetch_at": "2021-01-17T06:21:06+00:00",
+            "timestamp": "2021-01-25T14:22:36+00:00",
+            "last_traded_at": "2021-01-25T14:22:36+00:00",
+            "last_fetch_at": "2021-01-26T00:55:30+00:00",
             "is_anomaly": false,
             "is_stale": true,
             "trade_url": null,
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "dai"
+        },
+        {
+            "base": "0XC944E90C64B2C07662A292BE6244BDF05CDA44A7",
+            "target": "ETH",
+            "market": {
+                "name": "Paraswap",
+                "identifier": "paraswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.00039714281632725,
+            "volume": 2517.98587029203,
+            "converted_last": {
+                "btc": 1.678e-05,
+                "eth": 0.00039739,
+                "usd": 0.555893
+            },
+            "converted_volume": {
+                "btc": 0.04226,
+                "eth": 1.000615,
+                "usd": 1399.73
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": null,
+            "timestamp": "2021-01-25T11:24:42+00:00",
+            "last_traded_at": "2021-01-25T11:24:42+00:00",
+            "last_fetch_at": "2021-01-25T19:07:50+00:00",
+            "is_anomaly": false,
+            "is_stale": true,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "the-graph",
+            "target_coin_id": "ethereum"
         },
         {
             "base": "0XC944E90C64B2C07662A292BE6244BDF05CDA44A7",
@@ -1491,38 +1587,6 @@
             "target_coin_id": "ethereum"
         },
         {
-            "base": "0XC944E90C64B2C07662A292BE6244BDF05CDA44A7",
-            "target": "USDT",
-            "market": {
-                "name": "Paraswap",
-                "identifier": "paraswap",
-                "has_trading_incentive": false
-            },
-            "last": 0.49489178337009,
-            "volume": 2.02064377224097,
-            "converted_last": {
-                "btc": 1.376e-05,
-                "eth": 0.00040687,
-                "usd": 0.494747
-            },
-            "converted_volume": {
-                "btc": 2.781e-05,
-                "eth": 0.00082215,
-                "usd": 0.999708
-            },
-            "trust_score": null,
-            "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-18T11:44:30+00:00",
-            "last_traded_at": "2021-01-18T11:44:30+00:00",
-            "last_fetch_at": "2021-01-19T08:28:03+00:00",
-            "is_anomaly": false,
-            "is_stale": true,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "the-graph",
-            "target_coin_id": "tether"
-        },
-        {
             "base": "GRT",
             "target": "ETH",
             "market": {
@@ -1553,6 +1617,37 @@
             "token_info_url": null,
             "coin_id": "the-graph",
             "target_coin_id": "ethereum"
+        },
+        {
+            "base": "GRT",
+            "target": "AUD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.77,
+            "volume": 100.0,
+            "converted_last": {
+                "btc": 1.794e-05,
+                "eth": 0.00042222,
+                "usd": 0.594933
+            },
+            "converted_volume": {
+                "btc": 0.001794,
+                "eth": 0.04222183,
+                "usd": 59.49
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 6.244371,
+            "timestamp": "2021-01-25T12:12:29+00:00",
+            "last_traded_at": "2021-01-25T12:12:29+00:00",
+            "last_fetch_at": "2021-01-26T03:03:31+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://trade.kraken.com/markets/kraken/grt/aud",
+            "token_info_url": null,
+            "coin_id": "the-graph"
         },
         {
             "base": "GRT",
@@ -1619,35 +1714,35 @@
         },
         {
             "base": "GRT",
-            "target": "BTC",
+            "target": "ETH",
             "market": {
-                "name": "Huobi Korea",
-                "identifier": "huobi_korea",
+                "name": "Loopring AMM",
+                "identifier": "loopring_amm",
                 "has_trading_incentive": false
             },
-            "last": 1.636e-05,
-            "volume": 1098.03,
+            "last": 0.0,
+            "volume": 0.0,
             "converted_last": {
-                "btc": 1.636e-05,
-                "eth": 0.00042389,
-                "usd": 0.520984
+                "btc": 0.0,
+                "eth": 0.0,
+                "usd": 0.0
             },
             "converted_volume": {
-                "btc": 0.01796377,
-                "eth": 0.46544387,
-                "usd": 572.06
+                "btc": 0.0,
+                "eth": 0.0,
+                "usd": 0.0
             },
             "trust_score": null,
             "bid_ask_spread_percentage": null,
-            "timestamp": "2021-01-23T14:45:54+00:00",
-            "last_traded_at": "2021-01-23T14:45:54+00:00",
-            "last_fetch_at": "2021-01-23T14:45:54+00:00",
+            "timestamp": "2021-01-25T06:03:34+00:00",
+            "last_traded_at": "2021-01-25T06:03:34+00:00",
+            "last_fetch_at": "2021-01-25T06:03:34+00:00",
             "is_anomaly": true,
             "is_stale": true,
-            "trade_url": "https://www.huobi.co.kr/en-US/exchange/grt_btc/",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "the-graph",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "ethereum"
         }
     ]
 }

@@ -105,10 +105,10 @@
     "country_origin": "",
     "genesis_date": null,
     "contract_address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
-    "sentiment_votes_up_percentage": 85.71,
-    "sentiment_votes_down_percentage": 14.29,
-    "market_cap_rank": 332,
-    "coingecko_rank": 851,
+    "sentiment_votes_up_percentage": 63.33,
+    "sentiment_votes_down_percentage": 36.67,
+    "market_cap_rank": 361,
+    "coingecko_rank": 852,
     "coingecko_score": 21.457,
     "developer_score": 0.0,
     "community_score": 10.44,
@@ -119,7 +119,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:25:42.746Z",
+    "last_updated": "2021-01-26T03:07:45.064Z",
     "tickers": [
         {
             "base": "0X4688A8B1F292FDAB17E9A90C8BC379DC1DBD8713",
@@ -129,23 +129,23 @@
                 "identifier": "sushiswap",
                 "has_trading_incentive": false
             },
-            "last": 0.399318895355942,
-            "volume": 1886.53479900095,
+            "last": 0.320547451925124,
+            "volume": 1382.08583349807,
             "converted_last": {
-                "btc": 0.01561337,
-                "eth": 0.39952309,
-                "usd": 502.05
+                "btc": 0.01343094,
+                "eth": 0.32164409,
+                "usd": 434.93
             },
             "converted_volume": {
-                "btc": 29.455164,
-                "eth": 753.714,
-                "usd": 947133
+                "btc": 18.562709,
+                "eth": 444.54,
+                "usd": 601104
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602898,
-            "timestamp": "2021-01-23T18:27:03+00:00",
-            "last_traded_at": "2021-01-23T18:27:03+00:00",
-            "last_fetch_at": "2021-01-23T18:27:03+00:00",
+            "bid_ask_spread_percentage": 0.602904,
+            "timestamp": "2021-01-26T03:06:57+00:00",
+            "last_traded_at": "2021-01-26T03:06:57+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
@@ -161,61 +161,29 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 504.73,
-            "volume": 1964.8485071426308,
+            "last": 440.01,
+            "volume": 2010.3304213076976,
             "converted_last": {
-                "btc": 0.01567614,
-                "eth": 0.40087484,
-                "usd": 504.24
+                "btc": 0.01359854,
+                "eth": 0.32565772,
+                "usd": 440.36
             },
             "converted_volume": {
-                "btc": 30.801249,
-                "eth": 787.658,
-                "usd": 990761
+                "btc": 27.33755,
+                "eth": 654.68,
+                "usd": 885265
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.380926,
-            "timestamp": "2021-01-23T18:25:23+00:00",
-            "last_traded_at": "2021-01-23T18:25:23+00:00",
-            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "bid_ask_spread_percentage": 0.477235,
+            "timestamp": "2021-01-26T03:07:50+00:00",
+            "last_traded_at": "2021-01-26T03:07:50+00:00",
+            "last_fetch_at": "2021-01-26T03:07:50+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/COVER_BUSD",
             "token_info_url": null,
             "coin_id": "cover-protocol",
             "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "COVER",
-            "target": "ETH",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.4026,
-            "volume": 283.56526997019375,
-            "converted_last": {
-                "btc": 0.01573763,
-                "eth": 0.40270285,
-                "usd": 505.54
-            },
-            "converted_volume": {
-                "btc": 4.462646,
-                "eth": 114.193,
-                "usd": 143354
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.371195,
-            "timestamp": "2021-01-23T18:28:21+00:00",
-            "last_traded_at": "2021-01-23T18:28:21+00:00",
-            "last_fetch_at": "2021-01-23T18:28:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/COVER_ETH",
-            "token_info_url": null,
-            "coin_id": "cover-protocol",
-            "target_coin_id": "ethereum"
         },
         {
             "base": "0X4688A8B1F292FDAB17E9A90C8BC379DC1DBD8713",
@@ -225,23 +193,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.394606703498183,
-            "volume": 571.987413179875,
+            "last": 0.317613977828004,
+            "volume": 379.856998661036,
             "converted_last": {
-                "btc": 0.01544491,
-                "eth": 0.39570595,
-                "usd": 496.64
+                "btc": 0.01325721,
+                "eth": 0.31749472,
+                "usd": 429.64
             },
             "converted_volume": {
-                "btc": 8.834292,
-                "eth": 226.339,
-                "usd": 284070
+                "btc": 5.035843,
+                "eth": 120.603,
+                "usd": 163203
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.605416,
-            "timestamp": "2021-01-23T18:22:37+00:00",
-            "last_traded_at": "2021-01-23T18:22:37+00:00",
-            "last_fetch_at": "2021-01-23T18:22:37+00:00",
+            "bid_ask_spread_percentage": 0.604934,
+            "timestamp": "2021-01-26T03:00:08+00:00",
+            "last_traded_at": "2021-01-26T03:00:08+00:00",
+            "last_fetch_at": "2021-01-26T03:00:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
@@ -257,29 +225,125 @@
                 "identifier": "mxc",
                 "has_trading_incentive": false
             },
-            "last": 501.8,
-            "volume": 263.507,
+            "last": 442.11,
+            "volume": 297.159,
             "converted_last": {
-                "btc": 0.01561549,
-                "eth": 0.40007636,
-                "usd": 502.12
+                "btc": 0.01367645,
+                "eth": 0.32752362,
+                "usd": 442.87
             },
             "converted_volume": {
-                "btc": 4.114791,
-                "eth": 105.423,
-                "usd": 132313
+                "btc": 4.06408,
+                "eth": 97.327,
+                "usd": 131602
             },
-            "trust_score": null,
-            "bid_ask_spread_percentage": 0.776518,
-            "timestamp": "2021-01-23T18:22:04+00:00",
-            "last_traded_at": "2021-01-23T18:22:04+00:00",
-            "last_fetch_at": "2021-01-23T18:22:04+00:00",
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.65324,
+            "timestamp": "2021-01-26T03:05:11+00:00",
+            "last_traded_at": "2021-01-26T03:05:11+00:00",
+            "last_fetch_at": "2021-01-26T03:05:11+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.mxc.com/trade/easy#COVER_USDT",
             "token_info_url": null,
             "coin_id": "cover-protocol",
             "target_coin_id": "tether"
+        },
+        {
+            "base": "COVER",
+            "target": "USDT",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 460.0,
+            "volume": 2474.372027,
+            "converted_last": {
+                "btc": 0.01425288,
+                "eth": 0.3413398,
+                "usd": 461.19
+            },
+            "converted_volume": {
+                "btc": 35.266916,
+                "eth": 844.602,
+                "usd": 1141165
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.171739,
+            "timestamp": "2021-01-26T03:03:06+00:00",
+            "last_traded_at": "2021-01-26T03:03:06+00:00",
+            "last_fetch_at": "2021-01-26T03:03:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=cover_usdt",
+            "token_info_url": null,
+            "coin_id": "cover-protocol",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "COVER",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.3257,
+            "volume": 278.53304734418174,
+            "converted_last": {
+                "btc": 0.01364683,
+                "eth": 0.32681427,
+                "usd": 441.92
+            },
+            "converted_volume": {
+                "btc": 3.801093,
+                "eth": 91.029,
+                "usd": 123088
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.063733,
+            "timestamp": "2021-01-26T03:06:18+00:00",
+            "last_traded_at": "2021-01-26T03:06:18+00:00",
+            "last_fetch_at": "2021-01-26T03:06:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/COVER_ETH",
+            "token_info_url": null,
+            "coin_id": "cover-protocol",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "COVER",
+            "target": "ETH",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.338,
+            "volume": 320.636972,
+            "converted_last": {
+                "btc": 0.01410812,
+                "eth": 0.33787309,
+                "usd": 456.51
+            },
+            "converted_volume": {
+                "btc": 4.523585,
+                "eth": 108.335,
+                "usd": 146374
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 22.911695,
+            "timestamp": "2021-01-26T03:03:06+00:00",
+            "last_traded_at": "2021-01-26T03:03:06+00:00",
+            "last_fetch_at": "2021-01-26T03:03:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=cover_eth",
+            "token_info_url": null,
+            "coin_id": "cover-protocol",
+            "target_coin_id": "ethereum"
         }
     ]
 }

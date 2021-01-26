@@ -104,8 +104,8 @@
     "country_origin": "",
     "genesis_date": "2017-07-06",
     "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
-    "sentiment_votes_up_percentage": 82.35,
-    "sentiment_votes_down_percentage": 17.65,
+    "sentiment_votes_up_percentage": 77.08,
+    "sentiment_votes_down_percentage": 22.92,
     "ico_data": {
         "ico_start_date": "2017-06-27T00:00:00.000Z",
         "ico_end_date": "2017-07-27T00:00:00.000Z",
@@ -158,7 +158,7 @@
         "bing_matches": null
     },
     "status_updates": [],
-    "last_updated": "2021-01-23T18:25:18.978Z",
+    "last_updated": "2021-01-26T03:04:40.099Z",
     "tickers": [
         {
             "base": "OMG",
@@ -168,23 +168,23 @@
                 "identifier": "bitfinex",
                 "has_trading_incentive": false
             },
-            "last": 3.5127,
-            "volume": 1533732.82813572,
+            "last": 3.5756,
+            "volume": 637590.20341081,
             "converted_last": {
-                "btc": 0.0001092,
-                "eth": 0.00279261,
-                "usd": 3.51
+                "btc": 0.00011048,
+                "eth": 0.00264581,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 167.49,
-                "eth": 4283,
-                "usd": 5387543
+                "btc": 70.442,
+                "eth": 1687,
+                "usd": 2279768
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.11383,
-            "timestamp": "2021-01-23T18:25:03+00:00",
-            "last_traded_at": "2021-01-23T18:25:03+00:00",
-            "last_fetch_at": "2021-01-23T18:25:03+00:00",
+            "bid_ask_spread_percentage": 0.16802,
+            "timestamp": "2021-01-26T03:09:36+00:00",
+            "last_traded_at": "2021-01-26T03:09:36+00:00",
+            "last_fetch_at": "2021-01-26T03:09:36+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bitfinex.com/t/OMGUSD",
@@ -195,27 +195,59 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011032,
+            "volume": 152842.93101869,
+            "converted_last": {
+                "btc": 0.00011032,
+                "eth": 0.00264194,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 16.861632,
+                "eth": 403.802,
+                "usd": 545706
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.271248,
+            "timestamp": "2021-01-26T03:09:36+00:00",
+            "last_traded_at": "2021-01-26T03:09:36+00:00",
+            "last_fetch_at": "2021-01-26T03:09:36+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/OMGBTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
                 "name": "Decoin",
                 "identifier": "decoin",
                 "has_trading_incentive": false
             },
-            "last": 0.0001092,
-            "volume": 202405.96315934067,
+            "last": 0.0001106,
+            "volume": 196749.14329113925,
             "converted_last": {
-                "btc": 0.0001092,
-                "eth": 0.00279427,
-                "usd": 3.51
+                "btc": 0.0001106,
+                "eth": 0.00264874,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 22.102731,
-                "eth": 565.576,
-                "usd": 710715
+                "btc": 21.760455,
+                "eth": 521.138,
+                "usd": 704124
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.274725,
-            "timestamp": "2021-01-23T18:27:19+00:00",
-            "last_traded_at": "2021-01-23T18:27:19+00:00",
-            "last_fetch_at": "2021-01-23T18:27:19+00:00",
+            "bid_ask_spread_percentage": 0.180832,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.decoin.io/trade/OMG-BTC",
@@ -231,23 +263,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 3.502,
-            "volume": 6610387.8936587665,
+            "last": 3.5776,
+            "volume": 9146295.728000335,
             "converted_last": {
-                "btc": 0.00010899,
-                "eth": 0.00278724,
-                "usd": 3.51
+                "btc": 0.00011067,
+                "eth": 0.00265036,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 720.497,
-                "eth": 18425,
-                "usd": 23175709
+                "btc": 1012,
+                "eth": 24241,
+                "usd": 32778454
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.117114,
-            "timestamp": "2021-01-23T18:25:35+00:00",
-            "last_traded_at": "2021-01-23T18:25:35+00:00",
-            "last_fetch_at": "2021-01-23T18:25:35+00:00",
+            "bid_ask_spread_percentage": 0.122388,
+            "timestamp": "2021-01-26T03:06:01+00:00",
+            "last_traded_at": "2021-01-26T03:06:01+00:00",
+            "last_fetch_at": "2021-01-26T03:06:01+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/OMG_USDT",
@@ -257,35 +289,35 @@
         },
         {
             "base": "OMG",
-            "target": "BTC",
+            "target": "USDT",
             "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
+                "name": "Deversifi ",
+                "identifier": "deversifi",
                 "has_trading_incentive": false
             },
-            "last": 0.000109,
-            "volume": 108806.74395651,
+            "last": 3.5756,
+            "volume": 49.52170098,
             "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278738,
-                "usd": 3.51
+                "btc": 0.0001107,
+                "eth": 0.00265103,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 11.859935,
-                "eth": 303.286,
-                "usd": 381477
+                "btc": 0.00548203,
+                "eth": 0.13128369,
+                "usd": 177.42
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183486,
-            "timestamp": "2021-01-23T18:24:56+00:00",
-            "last_traded_at": "2021-01-23T18:24:56+00:00",
-            "last_fetch_at": "2021-01-23T18:24:56+00:00",
+            "bid_ask_spread_percentage": 0.17083,
+            "timestamp": "2021-01-26T03:09:18+00:00",
+            "last_traded_at": "2021-01-26T03:09:18+00:00",
+            "last_fetch_at": "2021-01-26T03:09:18+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/OMGBTC",
+            "trade_url": "https://app.deversifi.com",
             "token_info_url": null,
             "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
+            "target_coin_id": "tether"
         },
         {
             "base": "OMG",
@@ -295,23 +327,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 3.49,
-            "volume": 2724125.2,
+            "last": 3.5806,
+            "volume": 2923860.4,
             "converted_last": {
-                "btc": 0.00010854,
-                "eth": 0.00277729,
-                "usd": 3.49
+                "btc": 0.00011057,
+                "eth": 0.00264799,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 295.667,
-                "eth": 7566,
-                "usd": 9507197
+                "btc": 323.299,
+                "eth": 7742,
+                "usd": 10469175
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.166056,
-            "timestamp": "2021-01-23T18:27:04+00:00",
-            "last_traded_at": "2021-01-23T18:27:04+00:00",
-            "last_fetch_at": "2021-01-23T18:27:38+00:00",
+            "bid_ask_spread_percentage": 0.148165,
+            "timestamp": "2021-01-26T03:06:09+00:00",
+            "last_traded_at": "2021-01-26T03:06:09+00:00",
+            "last_fetch_at": "2021-01-26T03:07:37+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/OMG-USD",
@@ -322,27 +354,59 @@
             "base": "OMG",
             "target": "USDT",
             "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 3.571,
+            "volume": 5969010.5425,
+            "converted_last": {
+                "btc": 0.00011065,
+                "eth": 0.00264984,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 660.445,
+                "eth": 15817,
+                "usd": 21370662
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.13986,
+            "timestamp": "2021-01-26T03:03:18+00:00",
+            "last_traded_at": "2021-01-26T03:03:18+00:00",
+            "last_fetch_at": "2021-01-26T03:03:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=omg_usdt",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
                 "name": "Huobi Global",
                 "identifier": "huobi",
                 "has_trading_incentive": false
             },
-            "last": 3.5041,
-            "volume": 3190732.4940082147,
+            "last": 3.5754,
+            "volume": 5226186.535959103,
             "converted_last": {
-                "btc": 0.00010894,
-                "eth": 0.00278595,
-                "usd": 3.5
+                "btc": 0.00011039,
+                "eth": 0.00264372,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 347.611,
-                "eth": 8889,
-                "usd": 11181364
+                "btc": 576.921,
+                "eth": 13817,
+                "usd": 18698590
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.128355,
-            "timestamp": "2021-01-23T18:25:16+00:00",
-            "last_traded_at": "2021-01-23T18:25:16+00:00",
-            "last_fetch_at": "2021-01-23T18:25:16+00:00",
+            "bid_ask_spread_percentage": 0.197861,
+            "timestamp": "2021-01-26T02:59:20+00:00",
+            "last_traded_at": "2021-01-26T02:59:20+00:00",
+            "last_fetch_at": "2021-01-26T02:59:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_usdt",
@@ -352,29 +416,60 @@
         },
         {
             "base": "OMG",
+            "target": "KRW",
+            "market": {
+                "name": "Upbit",
+                "identifier": "upbit",
+                "has_trading_incentive": false
+            },
+            "last": 3975.0,
+            "volume": 2850435.17730651,
+            "converted_last": {
+                "btc": 0.00011145,
+                "eth": 0.00266903,
+                "usd": 3.61
+            },
+            "converted_volume": {
+                "btc": 317.684,
+                "eth": 7608,
+                "usd": 10282964
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.125628,
+            "timestamp": "2021-01-26T03:08:25+00:00",
+            "last_traded_at": "2021-01-26T03:08:25+00:00",
+            "last_fetch_at": "2021-01-26T03:08:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-OMG",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
             "target": "USDT",
             "market": {
                 "name": "Digifinex",
                 "identifier": "digifinex",
                 "has_trading_incentive": false
             },
-            "last": 3.5006,
-            "volume": 5201564.8497,
+            "last": 3.5751,
+            "volume": 7333107.0679,
             "converted_last": {
-                "btc": 0.00010884,
-                "eth": 0.00278317,
-                "usd": 3.5
+                "btc": 0.00011059,
+                "eth": 0.0026485,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 566.114,
-                "eth": 14477,
-                "usd": 18209768
+                "btc": 810.997,
+                "eth": 19422,
+                "usd": 26261992
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.16823,
-            "timestamp": "2021-01-23T18:25:05+00:00",
-            "last_traded_at": "2021-01-23T18:25:05+00:00",
-            "last_fetch_at": "2021-01-23T18:25:05+00:00",
+            "bid_ask_spread_percentage": 0.134224,
+            "timestamp": "2021-01-26T03:06:21+00:00",
+            "last_traded_at": "2021-01-26T03:06:21+00:00",
+            "last_fetch_at": "2021-01-26T03:06:21+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.digifinex.com/en-ww/trade/USDT/OMG",
@@ -390,23 +485,23 @@
                 "identifier": "binance",
                 "has_trading_incentive": false
             },
-            "last": 0.000109,
-            "volume": 1550417.7182568808,
+            "last": 0.0001106,
+            "volume": 2038117.0774864375,
             "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278738,
-                "usd": 3.51
+                "btc": 0.0001106,
+                "eth": 0.00264865,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 168.996,
-                "eth": 4322,
-                "usd": 5435773
+                "btc": 225.416,
+                "eth": 5398,
+                "usd": 7299492
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183486,
-            "timestamp": "2021-01-23T18:24:53+00:00",
-            "last_traded_at": "2021-01-23T18:24:53+00:00",
-            "last_fetch_at": "2021-01-23T18:24:53+00:00",
+            "bid_ask_spread_percentage": 0.180832,
+            "timestamp": "2021-01-26T03:06:39+00:00",
+            "last_traded_at": "2021-01-26T03:06:39+00:00",
+            "last_fetch_at": "2021-01-26T03:06:39+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.binance.com/en/trade/OMG_BTC",
@@ -416,470 +511,29 @@
         },
         {
             "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 3.500221,
-            "volume": 3254503.29,
-            "converted_last": {
-                "btc": 0.00010886,
-                "eth": 0.00278375,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 354.279,
-                "eth": 9060,
-                "usd": 11391481
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.100029,
-            "timestamp": "2021-01-23T18:26:11+00:00",
-            "last_traded_at": "2021-01-23T18:26:11+00:00",
-            "last_fetch_at": "2021-01-23T18:26:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/OMG-to-USD",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.00010881,
-            "volume": 1508063.6,
-            "converted_last": {
-                "btc": 0.00010881,
-                "eth": 0.00278429,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 164.092,
-                "eth": 4199,
-                "usd": 5276405
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.330366,
-            "timestamp": "2021-01-23T18:27:34+00:00",
-            "last_traded_at": "2021-01-23T18:27:34+00:00",
-            "last_fetch_at": "2021-01-23T18:27:34+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/OMG-to-BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "OKEx",
-                "identifier": "okex",
-                "has_trading_incentive": false
-            },
-            "last": 3.48,
-            "volume": 4594557.4051,
-            "converted_last": {
-                "btc": 0.00010831,
-                "eth": 0.00277149,
-                "usd": 3.48
-            },
-            "converted_volume": {
-                "btc": 497.636,
-                "eth": 12734,
-                "usd": 16001544
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.186381,
-            "timestamp": "2021-01-23T18:27:18+00:00",
-            "last_traded_at": "2021-01-23T18:27:18+00:00",
-            "last_fetch_at": "2021-01-23T18:27:18+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=omg_usdt",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 3.51,
-            "volume": 471277.12399252,
-            "converted_last": {
-                "btc": 0.00010912,
-                "eth": 0.0027905,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 51.427,
-                "eth": 1315,
-                "usd": 1654183
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.290698,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "HitBTC",
-                "identifier": "hitbtc",
-                "has_trading_incentive": false
-            },
-            "last": 0.00010894,
-            "volume": 1506123.05,
-            "converted_last": {
-                "btc": 0.00010894,
-                "eth": 0.00278584,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 164.077,
-                "eth": 4196,
-                "usd": 5275735
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.311469,
-            "timestamp": "2021-01-23T18:26:07+00:00",
-            "last_traded_at": "2021-01-23T18:26:07+00:00",
-            "last_fetch_at": "2021-01-23T18:26:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://hitbtc.com/OMG-to-BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "C2CX",
-                "identifier": "c2cx",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001085,
-            "volume": 4162.93,
-            "converted_last": {
-                "btc": 0.0001085,
-                "eth": 0.00277982,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 0.45167791,
-                "eth": 11.572206,
-                "usd": 14523.03
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.183655,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Bitfinex",
-                "identifier": "bitfinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0027853,
-            "volume": 17433.87050997,
-            "converted_last": {
-                "btc": 0.00010891,
-                "eth": 0.00278496,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 1.89864,
-                "eth": 48.552555,
-                "usd": 61072
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.179211,
-            "timestamp": "2021-01-23T18:25:05+00:00",
-            "last_traded_at": "2021-01-23T18:25:05+00:00",
-            "last_fetch_at": "2021-01-23T18:25:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitfinex.com/t/OMGETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "Resfinex",
-                "identifier": "resfinex",
-                "has_trading_incentive": false
-            },
-            "last": 3.502951,
-            "volume": 32798.700016997755,
-            "converted_last": {
-                "btc": 0.00010891,
-                "eth": 0.00278504,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 3.572053,
-                "eth": 91.346,
-                "usd": 114898
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.145683,
-            "timestamp": "2021-01-23T18:23:52+00:00",
-            "last_traded_at": "2021-01-23T18:23:52+00:00",
-            "last_fetch_at": "2021-01-23T18:23:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.resfinex.com/?pair=OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 0.000109,
-            "volume": 6919.324770642,
-            "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278915,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 0.7542064,
-                "eth": 19.29903,
-                "usd": 24252
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.365965,
-            "timestamp": "2021-01-23T18:27:07+00:00",
-            "last_traded_at": "2021-01-23T18:27:07+00:00",
-            "last_fetch_at": "2021-01-23T18:27:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/OMG/BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "KRW",
-            "market": {
-                "name": "Upbit",
-                "identifier": "upbit",
-                "has_trading_incentive": false
-            },
-            "last": 3850.0,
-            "volume": 2499571.94367714,
-            "converted_last": {
-                "btc": 0.0001083,
-                "eth": 0.00277129,
-                "usd": 3.48
-            },
-            "converted_volume": {
-                "btc": 270.709,
-                "eth": 6927,
-                "usd": 8704662
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.129702,
-            "timestamp": "2021-01-23T18:27:27+00:00",
-            "last_traded_at": "2021-01-23T18:27:27+00:00",
-            "last_fetch_at": "2021-01-23T18:27:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://upbit.com/exchange?code=CRIX.UPBIT.KRW-OMG",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "EUR",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 2.878437,
-            "volume": 183949.39299162,
-            "converted_last": {
-                "btc": 0.00010899,
-                "eth": 0.00279233,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 20.048308,
-                "eth": 513.647,
-                "usd": 644624
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.184835,
-            "timestamp": "2021-01-23T18:21:21+00:00",
-            "last_traded_at": "2021-01-23T18:21:21+00:00",
-            "last_fetch_at": "2021-01-23T18:21:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/omg/eur",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "Bitcoin.com Exchange",
-                "identifier": "bitcoin_com",
-                "has_trading_incentive": false
-            },
-            "last": 3.508,
-            "volume": 3255928.6,
-            "converted_last": {
-                "btc": 0.0001091,
-                "eth": 0.00279161,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 355.21,
-                "eth": 9089,
-                "usd": 11421798
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.496264,
-            "timestamp": "2021-01-23T18:27:33+00:00",
-            "last_traded_at": "2021-01-23T18:27:33+00:00",
-            "last_fetch_at": "2021-01-23T18:27:33+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.bitcoin.com/exchange/OMG-to-USD",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "FTX",
-                "identifier": "ftx_spot",
-                "has_trading_incentive": false
-            },
-            "last": 3.517,
-            "volume": 15256.601862382713,
-            "converted_last": {
-                "btc": 0.00010938,
-                "eth": 0.00280224,
-                "usd": 3.52
-            },
-            "converted_volume": {
-                "btc": 1.668691,
-                "eth": 42.752673,
-                "usd": 53657
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.413459,
-            "timestamp": "2021-01-23T18:22:29+00:00",
-            "last_traded_at": "2021-01-23T18:22:29+00:00",
-            "last_fetch_at": "2021-01-23T18:22:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://ftx.com/trade/OMG/USD",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "KRW",
-            "market": {
-                "name": "Bithumb",
-                "identifier": "bithumb",
-                "has_trading_incentive": false
-            },
-            "last": 3885.0,
-            "volume": 763621.24940571,
-            "converted_last": {
-                "btc": 0.00010929,
-                "eth": 0.00280011,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 83.458,
-                "eth": 2138,
-                "usd": 2683457
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.308642,
-            "timestamp": "2021-01-23T18:21:15+00:00",
-            "last_traded_at": "2021-01-23T18:21:15+00:00",
-            "last_fetch_at": "2021-01-23T18:21:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bithumb.com/trade/order/OMG_KRW",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
             "target": "EUR",
             "market": {
                 "name": "Coinbase Pro",
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 2.8786,
-            "volume": 502689.0,
+            "last": 2.9395,
+            "volume": 992716.7,
             "converted_last": {
-                "btc": 0.00010899,
-                "eth": 0.00278887,
-                "usd": 3.5
+                "btc": 0.00011023,
+                "eth": 0.00263967,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 54.788,
-                "eth": 1402,
-                "usd": 1761699
+                "btc": 109.422,
+                "eth": 2620,
+                "usd": 3543393
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.250845,
-            "timestamp": "2021-01-23T18:27:12+00:00",
-            "last_traded_at": "2021-01-23T18:27:12+00:00",
-            "last_fetch_at": "2021-01-23T18:27:36+00:00",
+            "bid_ask_spread_percentage": 0.127214,
+            "timestamp": "2021-01-26T03:07:40+00:00",
+            "last_traded_at": "2021-01-26T03:07:40+00:00",
+            "last_fetch_at": "2021-01-26T03:07:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/OMG-EUR",
@@ -894,23 +548,23 @@
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 0.00010916,
-            "volume": 240269.06,
+            "last": 0.00011044,
+            "volume": 346627.097,
             "converted_last": {
-                "btc": 0.00010916,
-                "eth": 0.00279324,
-                "usd": 3.51
+                "btc": 0.00011044,
+                "eth": 0.00264482,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 26.227771,
-                "eth": 671.13,
-                "usd": 843356
+                "btc": 38.281497,
+                "eth": 916.765,
+                "usd": 1238701
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.302059,
-            "timestamp": "2021-01-23T18:27:02+00:00",
-            "last_traded_at": "2021-01-23T18:27:02+00:00",
-            "last_fetch_at": "2021-01-23T18:27:33+00:00",
+            "bid_ask_spread_percentage": 0.12695,
+            "timestamp": "2021-01-26T03:04:31+00:00",
+            "last_traded_at": "2021-01-26T03:04:31+00:00",
+            "last_fetch_at": "2021-01-26T03:07:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/OMG-BTC",
@@ -920,127 +574,63 @@
         },
         {
             "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Deversifi ",
-                "identifier": "deversifi",
-                "has_trading_incentive": false
-            },
-            "last": 0.0027853,
-            "volume": 43.175,
-            "converted_last": {
-                "btc": 0.00010891,
-                "eth": 0.00278496,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 0.00470198,
-                "eth": 0.12024046,
-                "usd": 151.25
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.168049,
-            "timestamp": "2021-01-23T18:25:16+00:00",
-            "last_traded_at": "2021-01-23T18:25:16+00:00",
-            "last_fetch_at": "2021-01-23T18:26:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://app.deversifi.com",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
             "target": "USD",
             "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
+                "name": "FTX",
+                "identifier": "ftx_spot",
                 "has_trading_incentive": false
             },
-            "last": 3.507207,
-            "volume": 216861.24850273,
+            "last": 3.574,
+            "volume": 28025.43599608282,
             "converted_last": {
-                "btc": 0.00010908,
-                "eth": 0.0027946,
-                "usd": 3.51
+                "btc": 0.00011053,
+                "eth": 0.00264643,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 23.65456,
-                "eth": 606.041,
-                "usd": 760577
+                "btc": 3.097768,
+                "eth": 74.167,
+                "usd": 100163
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.181981,
-            "timestamp": "2021-01-23T18:21:49+00:00",
-            "last_traded_at": "2021-01-23T18:21:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:49+00:00",
+            "bid_ask_spread_percentage": 0.294324,
+            "timestamp": "2021-01-26T02:52:44+00:00",
+            "last_traded_at": "2021-01-26T02:52:44+00:00",
+            "last_fetch_at": "2021-01-26T03:07:41+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/omg/usd",
+            "trade_url": "https://ftx.com/trade/OMG/USD",
             "token_info_url": null,
             "coin_id": "omisego"
         },
         {
             "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 3.4861,
-            "volume": 30593.43691259574,
-            "converted_last": {
-                "btc": 0.0001085,
-                "eth": 0.00277635,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 3.319383,
-                "eth": 84.938,
-                "usd": 106735
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.186024,
-            "timestamp": "2021-01-23T18:27:08+00:00",
-            "last_traded_at": "2021-01-23T18:27:08+00:00",
-            "last_fetch_at": "2021-01-23T18:27:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/OMG/USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
             "target": "BTC",
             "market": {
-                "name": "MXC",
-                "identifier": "mxc",
+                "name": "C2CX",
+                "identifier": "c2cx",
                 "has_trading_incentive": false
             },
-            "last": 0.0001093,
-            "volume": 296748.94,
+            "last": 0.0001102,
+            "volume": 5360.71,
             "converted_last": {
-                "btc": 0.0001093,
-                "eth": 0.00280032,
-                "usd": 3.51
+                "btc": 0.0001102,
+                "eth": 0.00263907,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 32.434659,
-                "eth": 830.992,
-                "usd": 1042950
+                "btc": 0.59075024,
+                "eth": 14.147286,
+                "usd": 19115.31
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.54827,
-            "timestamp": "2021-01-23T18:22:12+00:00",
-            "last_traded_at": "2021-01-23T18:22:12+00:00",
-            "last_fetch_at": "2021-01-23T18:22:12+00:00",
+            "bid_ask_spread_percentage": 0.361337,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#OMG_BTC",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
@@ -1049,65 +639,65 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.0001089,
-            "volume": 1417038.906,
+            "last": 0.00011039,
+            "volume": 1437581.3,
             "converted_last": {
-                "btc": 0.0001089,
-                "eth": 0.00278482,
-                "usd": 3.5
+                "btc": 0.00011039,
+                "eth": 0.00264362,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 154.316,
-                "eth": 3946,
-                "usd": 4963680
+                "btc": 158.695,
+                "eth": 3800,
+                "usd": 5135957
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.274977,
-            "timestamp": "2021-01-23T18:23:56+00:00",
-            "last_traded_at": "2021-01-23T18:23:56+00:00",
-            "last_fetch_at": "2021-01-23T18:23:56+00:00",
+            "bid_ask_spread_percentage": 0.162881,
+            "timestamp": "2021-01-26T03:09:03+00:00",
+            "last_traded_at": "2021-01-26T03:09:03+00:00",
+            "last_fetch_at": "2021-01-26T03:09:03+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=omg_btc",
+            "trade_url": "https://exchange.bitcoin.com/exchange/OMG-to-BTC",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
         },
         {
             "base": "OMG",
-            "target": "ETH",
+            "target": "BTC",
             "market": {
                 "name": "HitBTC",
                 "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 0.0027887,
-            "volume": 242781.4,
+            "last": 0.00011039,
+            "volume": 1437581.3,
             "converted_last": {
-                "btc": 0.00010904,
-                "eth": 0.00278836,
-                "usd": 3.51
+                "btc": 0.00011039,
+                "eth": 0.00264362,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 26.47244,
-                "eth": 676.961,
-                "usd": 851520
+                "btc": 158.695,
+                "eth": 3800,
+                "usd": 5135957
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.447035,
-            "timestamp": "2021-01-23T18:25:39+00:00",
-            "last_traded_at": "2021-01-23T18:25:39+00:00",
-            "last_fetch_at": "2021-01-23T18:25:39+00:00",
+            "bid_ask_spread_percentage": 0.199005,
+            "timestamp": "2021-01-26T03:09:06+00:00",
+            "last_traded_at": "2021-01-26T03:09:06+00:00",
+            "last_fetch_at": "2021-01-26T03:09:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://hitbtc.com/OMG-to-ETH",
+            "trade_url": "https://hitbtc.com/OMG-to-BTC",
             "token_info_url": null,
             "coin_id": "omisego",
-            "target_coin_id": "ethereum"
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "OMG",
@@ -1117,23 +707,23 @@
                 "identifier": "vindax",
                 "has_trading_incentive": false
             },
-            "last": 0.0001085,
-            "volume": 543501.01,
+            "last": 0.0001105,
+            "volume": 535514.71,
             "converted_last": {
-                "btc": 0.0001085,
-                "eth": 0.00279156,
-                "usd": 3.5
+                "btc": 0.0001105,
+                "eth": 0.00265018,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 58.97,
-                "eth": 1517,
-                "usd": 1901575
+                "btc": 59.174,
+                "eth": 1419,
+                "usd": 1915335
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.275229,
-            "timestamp": "2021-01-23T18:10:53+00:00",
-            "last_traded_at": "2021-01-23T18:10:53+00:00",
-            "last_fetch_at": "2021-01-23T18:10:53+00:00",
+            "bid_ask_spread_percentage": 0.180668,
+            "timestamp": "2021-01-26T02:56:06+00:00",
+            "last_traded_at": "2021-01-26T02:56:06+00:00",
+            "last_fetch_at": "2021-01-26T02:56:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vindax.com/exchange-base.html?symbol=OMG_BTC",
@@ -1143,29 +733,343 @@
         },
         {
             "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "Bitcoin.com Exchange",
+                "identifier": "bitcoin_com",
+                "has_trading_incentive": false
+            },
+            "last": 3.565552,
+            "volume": 3872730.63,
+            "converted_last": {
+                "btc": 0.00011017,
+                "eth": 0.00263838,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 426.663,
+                "eth": 10218,
+                "usd": 13808422
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.389705,
+            "timestamp": "2021-01-26T03:09:03+00:00",
+            "last_traded_at": "2021-01-26T03:09:03+00:00",
+            "last_fetch_at": "2021-01-26T03:09:03+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.bitcoin.com/exchange/OMG-to-USD",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "HitBTC",
+                "identifier": "hitbtc",
+                "has_trading_incentive": false
+            },
+            "last": 3.562876,
+            "volume": 3872730.67,
+            "converted_last": {
+                "btc": 0.00011009,
+                "eth": 0.0026364,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 426.343,
+                "eth": 10210,
+                "usd": 13798059
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.424645,
+            "timestamp": "2021-01-26T03:09:31+00:00",
+            "last_traded_at": "2021-01-26T03:09:31+00:00",
+            "last_fetch_at": "2021-01-26T03:09:31+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://hitbtc.com/OMG-to-USD",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 3.567187,
+            "volume": 220732.48862708,
+            "converted_last": {
+                "btc": 0.00011021,
+                "eth": 0.0026392,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 24.325907,
+                "eth": 582.557,
+                "usd": 787394
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.223493,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/omg/usd",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001106,
+            "volume": 9029.030922242,
+            "converted_last": {
+                "btc": 0.0001106,
+                "eth": 0.00264865,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 0.99861082,
+                "eth": 23.914731,
+                "usd": 32324
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.361664,
+            "timestamp": "2021-01-26T03:08:54+00:00",
+            "last_traded_at": "2021-01-26T03:08:54+00:00",
+            "last_fetch_at": "2021-01-26T03:08:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/OMG/BTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 3.56,
+            "volume": 319490.27169426,
+            "converted_last": {
+                "btc": 0.00011009,
+                "eth": 0.00263585,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 35.173468,
+                "eth": 842.129,
+                "usd": 1137385
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.564972,
+            "timestamp": "2021-01-26T02:51:40+00:00",
+            "last_traded_at": "2021-01-26T02:51:40+00:00",
+            "last_fetch_at": "2021-01-26T02:58:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 3.5766,
+            "volume": 206494.38500251636,
+            "converted_last": {
+                "btc": 0.00011053,
+                "eth": 0.00264705,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 22.82449,
+                "eth": 546.601,
+                "usd": 738548
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.162143,
+            "timestamp": "2021-01-26T03:04:39+00:00",
+            "last_traded_at": "2021-01-26T03:04:39+00:00",
+            "last_fetch_at": "2021-01-26T03:04:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/OMG_USD",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "EUR",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 2.948327,
+            "volume": 181546.65452976,
+            "converted_last": {
+                "btc": 0.0001106,
+                "eth": 0.00264876,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 20.079893,
+                "eth": 480.873,
+                "usd": 649957
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.265557,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/omg/eur",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Resfinex",
+                "identifier": "resfinex",
+                "has_trading_incentive": false
+            },
+            "last": 3.5764,
+            "volume": 28787.600026905537,
+            "converted_last": {
+                "btc": 0.00011042,
+                "eth": 0.00264446,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 3.178765,
+                "eth": 76.128,
+                "usd": 103027
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.161495,
+            "timestamp": "2021-01-26T02:59:24+00:00",
+            "last_traded_at": "2021-01-26T02:59:24+00:00",
+            "last_fetch_at": "2021-01-26T02:59:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.resfinex.com/?pair=OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "OKEx",
+                "identifier": "okex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001105,
+            "volume": 1817424.2398,
+            "converted_last": {
+                "btc": 0.0001105,
+                "eth": 0.00264635,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 200.825,
+                "eth": 4810,
+                "usd": 6498300
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.271248,
+            "timestamp": "2021-01-26T03:03:16+00:00",
+            "last_traded_at": "2021-01-26T03:03:16+00:00",
+            "last_fetch_at": "2021-01-26T03:03:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.okex.com/market?product=omg_btc",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 3.569,
+            "volume": 42850.987177640796,
+            "converted_last": {
+                "btc": 0.0001105,
+                "eth": 0.00264614,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 4.734831,
+                "eth": 113.39,
+                "usd": 153260
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.150465,
+            "timestamp": "2021-01-26T03:08:55+00:00",
+            "last_traded_at": "2021-01-26T03:08:55+00:00",
+            "last_fetch_at": "2021-01-26T03:08:55+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/OMG/USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
             "target": "USDT",
             "market": {
                 "name": "Bibox",
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 3.4985,
-            "volume": 1107534.2867,
+            "last": 3.5673,
+            "volume": 967590.2805,
             "converted_last": {
-                "btc": 0.00010877,
-                "eth": 0.0027815,
-                "usd": 3.5
+                "btc": 0.00011044,
+                "eth": 0.00264488,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 120.467,
-                "eth": 3081,
-                "usd": 3874828
+                "btc": 106.863,
+                "eth": 2559,
+                "usd": 3459006
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.151217,
-            "timestamp": "2021-01-23T18:24:06+00:00",
-            "last_traded_at": "2021-01-23T18:24:06+00:00",
-            "last_fetch_at": "2021-01-23T18:24:06+00:00",
+            "bid_ask_spread_percentage": 0.12604,
+            "timestamp": "2021-01-26T03:08:20+00:00",
+            "last_traded_at": "2021-01-26T03:08:20+00:00",
+            "last_fetch_at": "2021-01-26T03:08:20+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=OMG_USDT",
@@ -1175,93 +1079,29 @@
         },
         {
             "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "Decoin",
-                "identifier": "decoin",
-                "has_trading_incentive": false
-            },
-            "last": 3.4924,
-            "volume": 126144.41998854656,
-            "converted_last": {
-                "btc": 0.0001087,
-                "eth": 0.00278137,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 13.711384,
-                "eth": 350.854,
-                "usd": 440891
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.17493,
-            "timestamp": "2021-01-23T18:27:19+00:00",
-            "last_traded_at": "2021-01-23T18:27:19+00:00",
-            "last_fetch_at": "2021-01-23T18:27:19+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.decoin.io/trade/OMG-USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001088,
-            "volume": 675593.2887,
-            "converted_last": {
-                "btc": 0.0001088,
-                "eth": 0.00278226,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 73.505,
-                "eth": 1880,
-                "usd": 2364367
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.277372,
-            "timestamp": "2021-01-23T18:25:11+00:00",
-            "last_traded_at": "2021-01-23T18:25:11+00:00",
-            "last_fetch_at": "2021-01-23T18:25:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/OMG",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
             "target": "GBP",
             "market": {
                 "name": "Coinbase Pro",
                 "identifier": "gdax",
                 "has_trading_incentive": false
             },
-            "last": 2.5649,
-            "volume": 508644.5,
+            "last": 2.6123,
+            "volume": 505083.5,
             "converted_last": {
-                "btc": 0.0001091,
-                "eth": 0.00278991,
-                "usd": 3.51
+                "btc": 0.00011027,
+                "eth": 0.00264074,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 55.493,
-                "eth": 1419,
-                "usd": 1784931
+                "btc": 55.695,
+                "eth": 1334,
+                "usd": 1803569
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.410943,
-            "timestamp": "2021-01-23T18:24:46+00:00",
-            "last_traded_at": "2021-01-23T18:24:46+00:00",
-            "last_fetch_at": "2021-01-23T18:27:34+00:00",
+            "bid_ask_spread_percentage": 0.191197,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://pro.coinbase.com/trade/OMG-GBP",
@@ -1272,221 +1112,30 @@
             "base": "OMG",
             "target": "USDT",
             "market": {
-                "name": "Bilaxy",
-                "identifier": "bilaxy",
+                "name": "Decoin",
+                "identifier": "decoin",
                 "has_trading_incentive": false
             },
-            "last": 3.4891,
-            "volume": 1123613.23,
+            "last": 3.5683,
+            "volume": 153484.0705131295,
             "converted_last": {
-                "btc": 0.00010844,
-                "eth": 0.00278698,
-                "usd": 3.49
+                "btc": 0.00011056,
+                "eth": 0.00264783,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 121.844,
-                "eth": 3131,
-                "usd": 3924021
+                "btc": 16.969511,
+                "eth": 406.4,
+                "usd": 549099
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.438284,
-            "timestamp": "2021-01-23T18:14:30+00:00",
-            "last_traded_at": "2021-01-23T18:14:30+00:00",
-            "last_fetch_at": "2021-01-23T18:14:30+00:00",
+            "bid_ask_spread_percentage": 0.151057,
+            "timestamp": "2021-01-26T03:03:38+00:00",
+            "last_traded_at": "2021-01-26T03:03:38+00:00",
+            "last_fetch_at": "2021-01-26T03:03:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bilaxy.com/trade/OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 3.5046,
-            "volume": 18117.6712,
-            "converted_last": {
-                "btc": 0.00010906,
-                "eth": 0.00279416,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 1.975904,
-                "eth": 50.624,
-                "usd": 63532
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.139621,
-            "timestamp": "2021-01-23T18:21:11+00:00",
-            "last_traded_at": "2021-01-23T18:21:11+00:00",
-            "last_fetch_at": "2021-01-23T18:21:11+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "MXC",
-                "identifier": "mxc",
-                "has_trading_incentive": false
-            },
-            "last": 3.50775,
-            "volume": 551748.89,
-            "converted_last": {
-                "btc": 0.00010916,
-                "eth": 0.00279667,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 60.228,
-                "eth": 1543,
-                "usd": 1936642
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.406303,
-            "timestamp": "2021-01-23T18:22:07+00:00",
-            "last_traded_at": "2021-01-23T18:22:07+00:00",
-            "last_fetch_at": "2021-01-23T18:22:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.mxc.com/trade/easy#OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "CNC",
-            "market": {
-                "name": "AEX",
-                "identifier": "aex",
-                "has_trading_incentive": false
-            },
-            "last": 22.54,
-            "volume": 310847.61801086,
-            "converted_last": {
-                "btc": 0.00010908,
-                "eth": 0.00278935,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 33.906357,
-                "eth": 867.063,
-                "usd": 1090604
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.177384,
-            "timestamp": "2021-01-23T18:24:14+00:00",
-            "last_traded_at": "2021-01-23T18:24:14+00:00",
-            "last_fetch_at": "2021-01-23T18:24:14+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=OMG",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "global-china-cash"
-        },
-        {
-            "base": "OMG",
-            "target": "EUR",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 2.88,
-            "volume": 407433.45563334,
-            "converted_last": {
-                "btc": 0.00010901,
-                "eth": 0.00278753,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 44.412596,
-                "eth": 1136,
-                "usd": 1428566
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.699301,
-            "timestamp": "2021-01-23T18:23:29+00:00",
-            "last_traded_at": "2021-01-23T18:23:29+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.00280556,
-            "volume": 6634.3935178,
-            "converted_last": {
-                "btc": 0.00010942,
-                "eth": 0.0028211,
-                "usd": 3.53
-            },
-            "converted_volume": {
-                "btc": 0.72591437,
-                "eth": 18.716279,
-                "usd": 23449
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.480666,
-            "timestamp": "2021-01-23T18:07:33+00:00",
-            "last_traded_at": "2021-01-23T18:07:33+00:00",
-            "last_fetch_at": "2021-01-23T18:21:24+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/omg/eth",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
-                "has_trading_incentive": false
-            },
-            "last": 3.5002,
-            "volume": 160672.03691838,
-            "converted_last": {
-                "btc": 0.00010882,
-                "eth": 0.00278285,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 17.484789,
-                "eth": 447.126,
-                "usd": 562412
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.117019,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.decoin.io/trade/OMG-USDT",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "tether"
@@ -1499,23 +1148,23 @@
                 "identifier": "bitcoin_com",
                 "has_trading_incentive": false
             },
-            "last": 0.0027908,
-            "volume": 242783.13,
+            "last": 0.0026308,
+            "volume": 140642.42,
             "converted_last": {
-                "btc": 0.00010909,
-                "eth": 0.00279151,
-                "usd": 3.51
+                "btc": 0.00011028,
+                "eth": 0.00264106,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 26.485788,
-                "eth": 677.732,
-                "usd": 851653
+                "btc": 15.510487,
+                "eth": 371.445,
+                "usd": 501978
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.633387,
-            "timestamp": "2021-01-23T18:27:33+00:00",
-            "last_traded_at": "2021-01-23T18:27:33+00:00",
-            "last_fetch_at": "2021-01-23T18:27:33+00:00",
+            "bid_ask_spread_percentage": 0.432309,
+            "timestamp": "2021-01-26T03:09:02+00:00",
+            "last_traded_at": "2021-01-26T03:09:02+00:00",
+            "last_fetch_at": "2021-01-26T03:09:02+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exchange.bitcoin.com/exchange/OMG-to-ETH",
@@ -1525,66 +1174,387 @@
         },
         {
             "base": "OMG",
-            "target": "USDT",
+            "target": "ETH",
             "market": {
-                "name": "Vindax",
-                "identifier": "vindax",
+                "name": "HitBTC",
+                "identifier": "hitbtc",
                 "has_trading_incentive": false
             },
-            "last": 3.4935,
-            "volume": 432465.28,
+            "last": 0.0026308,
+            "volume": 140642.42,
             "converted_last": {
-                "btc": 0.0001084,
-                "eth": 0.00278896,
-                "usd": 3.5
+                "btc": 0.00011028,
+                "eth": 0.00264106,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 46.8788,
-                "eth": 1206,
-                "usd": 1511680
+                "btc": 15.510487,
+                "eth": 371.445,
+                "usd": 502052
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.195884,
-            "timestamp": "2021-01-23T18:10:55+00:00",
-            "last_traded_at": "2021-01-23T18:10:55+00:00",
-            "last_fetch_at": "2021-01-23T18:10:55+00:00",
+            "bid_ask_spread_percentage": 0.46628,
+            "timestamp": "2021-01-26T03:08:58+00:00",
+            "last_traded_at": "2021-01-26T03:08:58+00:00",
+            "last_fetch_at": "2021-01-26T03:08:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://vindax.com/exchange-base.html?symbol=OMG_USDT",
+            "trade_url": "https://hitbtc.com/OMG-to-ETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001102,
+            "volume": 878155.0132,
+            "converted_last": {
+                "btc": 0.0001102,
+                "eth": 0.00263907,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 96.773,
+                "eth": 2318,
+                "usd": 3133727
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.260126,
+            "timestamp": "2021-01-26T03:06:22+00:00",
+            "last_traded_at": "2021-01-26T03:06:22+00:00",
+            "last_fetch_at": "2021-01-26T03:06:22+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/BTC/OMG",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 3.56166,
+            "volume": 539839.87,
+            "converted_last": {
+                "btc": 0.00010989,
+                "eth": 0.00262464,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 59.325,
+                "eth": 1417,
+                "usd": 1926160
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.190636,
+            "timestamp": "2021-01-26T02:39:30+00:00",
+            "last_traded_at": "2021-01-26T02:39:30+00:00",
+            "last_fetch_at": "2021-01-26T02:39:30+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#OMG_USDT",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "tether"
         },
         {
             "base": "OMG",
-            "target": "USD",
+            "target": "BTC",
             "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
                 "has_trading_incentive": false
             },
-            "last": 3.5051,
-            "volume": 212171.4175344498,
+            "last": 0.00011056,
+            "volume": 99777.8901,
             "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00279276,
-                "usd": 3.51
+                "btc": 0.00011056,
+                "eth": 0.00264778,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 23.127734,
-                "eth": 592.544,
-                "usd": 743682
+                "btc": 11.031444,
+                "eth": 264.19,
+                "usd": 357540
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.133934,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
+            "bid_ask_spread_percentage": 0.189959,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/OMG_USD",
+            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_BTC",
             "token_info_url": null,
-            "coin_id": "omisego"
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 3.58,
+            "volume": 88200.0086,
+            "converted_last": {
+                "btc": 0.00011053,
+                "eth": 0.00264712,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 9.748966,
+                "eth": 233.476,
+                "usd": 315974
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.21248,
+            "timestamp": "2021-01-26T02:59:40+00:00",
+            "last_traded_at": "2021-01-26T02:59:40+00:00",
+            "last_fetch_at": "2021-01-26T02:59:40+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "MXC",
+                "identifier": "mxc",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001108,
+            "volume": 362450.05,
+            "converted_last": {
+                "btc": 0.0001108,
+                "eth": 0.00265344,
+                "usd": 3.59
+            },
+            "converted_volume": {
+                "btc": 40.159466,
+                "eth": 961.739,
+                "usd": 1299712
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.527403,
+            "timestamp": "2021-01-26T03:09:18+00:00",
+            "last_traded_at": "2021-01-26T03:09:18+00:00",
+            "last_fetch_at": "2021-01-26T03:09:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.mxc.com/trade/easy#OMG_BTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 3.5719,
+            "volume": 263856.2981,
+            "converted_last": {
+                "btc": 0.00011049,
+                "eth": 0.00264613,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 29.154783,
+                "eth": 698.199,
+                "usd": 944085
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.123067,
+            "timestamp": "2021-01-26T03:05:45+00:00",
+            "last_traded_at": "2021-01-26T03:05:45+00:00",
+            "last_fetch_at": "2021-01-26T03:05:45+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "CNC",
+            "market": {
+                "name": "AEX",
+                "identifier": "aex",
+                "has_trading_incentive": false
+            },
+            "last": 22.99,
+            "volume": 364311.67625607,
+            "converted_last": {
+                "btc": 0.00011111,
+                "eth": 0.00266087,
+                "usd": 3.6
+            },
+            "converted_volume": {
+                "btc": 40.478744,
+                "eth": 969.385,
+                "usd": 1310776
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.303556,
+            "timestamp": "2021-01-26T03:05:37+00:00",
+            "last_traded_at": "2021-01-26T03:05:37+00:00",
+            "last_fetch_at": "2021-01-26T03:05:37+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.aex.com/page/trade.html?mk_type=CNC&trade_coin_name=OMG",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "global-china-cash"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011,
+            "volume": 169322.35063198133,
+            "converted_last": {
+                "btc": 0.00011,
+                "eth": 0.00263819,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 18.625459,
+                "eth": 446.704,
+                "usd": 602862
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.900901,
+            "timestamp": "2021-01-26T02:56:27+00:00",
+            "last_traded_at": "2021-01-26T02:56:27+00:00",
+            "last_fetch_at": "2021-01-26T02:56:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_btc",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Bitfinex",
+                "identifier": "bitfinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0026369,
+            "volume": 65417.00376792,
+            "converted_last": {
+                "btc": 0.00011054,
+                "eth": 0.00264718,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 7.23112,
+                "eth": 173.171,
+                "usd": 234026
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.416509,
+            "timestamp": "2021-01-26T03:09:35+00:00",
+            "last_traded_at": "2021-01-26T03:09:35+00:00",
+            "last_fetch_at": "2021-01-26T03:09:35+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitfinex.com/t/OMGETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Catex",
+                "identifier": "catex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0026358,
+            "volume": 1448161.561188254,
+            "converted_last": {
+                "btc": 0.00011044,
+                "eth": 0.00264482,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 159.935,
+                "eth": 3830,
+                "usd": 5179133
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.153083,
+            "timestamp": "2021-01-26T03:07:20+00:00",
+            "last_traded_at": "2021-01-26T03:07:20+00:00",
+            "last_fetch_at": "2021-01-26T03:07:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.catex.io/trading/OMG/ETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "XBT",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.000110572,
+            "volume": 40855.27433739,
+            "converted_last": {
+                "btc": 0.00011057,
+                "eth": 0.00265191,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 4.517449,
+                "eth": 108.344,
+                "usd": 146201
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.233488,
+            "timestamp": "2021-01-26T02:55:27+00:00",
+            "last_traded_at": "2021-01-26T02:55:27+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/omg/xbt",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "OMG",
@@ -1594,23 +1564,23 @@
                 "identifier": "c2cx",
                 "has_trading_incentive": false
             },
-            "last": 3.528,
-            "volume": 68274.18,
+            "last": 3.565,
+            "volume": 39602.05,
             "converted_last": {
-                "btc": 0.00010965,
-                "eth": 0.00282111,
-                "usd": 3.53
+                "btc": 0.00011046,
+                "eth": 0.00264529,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 7.486157,
-                "eth": 192.609,
-                "usd": 241192
+                "btc": 4.374434,
+                "eth": 104.759,
+                "usd": 141547
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.284333,
-            "timestamp": "2021-01-23T18:12:14+00:00",
-            "last_traded_at": "2021-01-23T18:12:14+00:00",
-            "last_fetch_at": "2021-01-23T18:21:13+00:00",
+            "bid_ask_spread_percentage": 0.223651,
+            "timestamp": "2021-01-26T03:04:38+00:00",
+            "last_traded_at": "2021-01-26T03:04:38+00:00",
+            "last_fetch_at": "2021-01-26T03:04:38+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": null,
@@ -1626,23 +1596,23 @@
                 "identifier": "uniswap",
                 "has_trading_incentive": false
             },
-            "last": 0.00279576759022182,
-            "volume": 91355.1090642362,
+            "last": 0.00264243008972923,
+            "volume": 137290.722803598,
             "converted_last": {
-                "btc": 0.00010887,
-                "eth": 0.00280693,
-                "usd": 3.52
+                "btc": 0.00011072,
+                "eth": 0.00265147,
+                "usd": 3.59
             },
             "converted_volume": {
-                "btc": 9.945574,
-                "eth": 256.427,
-                "usd": 321255
+                "btc": 15.20053,
+                "eth": 364.022,
+                "usd": 492221
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.602861,
-            "timestamp": "2021-01-23T18:05:57+00:00",
-            "last_traded_at": "2021-01-23T18:05:57+00:00",
-            "last_fetch_at": "2021-01-23T18:27:26+00:00",
+            "bid_ask_spread_percentage": 0.602854,
+            "timestamp": "2021-01-26T03:05:46+00:00",
+            "last_traded_at": "2021-01-26T03:05:46+00:00",
+            "last_fetch_at": "2021-01-26T03:05:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
@@ -1652,480 +1622,35 @@
         },
         {
             "base": "OMG",
-            "target": "XBT",
-            "market": {
-                "name": "Kraken",
-                "identifier": "kraken",
-                "has_trading_incentive": false
-            },
-            "last": 0.000108776,
-            "volume": 44896.39267925,
-            "converted_last": {
-                "btc": 0.00010878,
-                "eth": 0.00278689,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 4.88365,
-                "eth": 125.121,
-                "usd": 157027
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.235603,
-            "timestamp": "2021-01-23T18:21:22+00:00",
-            "last_traded_at": "2021-01-23T18:21:22+00:00",
-            "last_fetch_at": "2021-01-23T18:21:22+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://trade.kraken.com/markets/kraken/omg/xbt",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
             "target": "BTC",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.000109,
-            "volume": 82149.45464374582,
-            "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278915,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 8.954291,
-                "eth": 229.127,
-                "usd": 287926
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.818182,
-            "timestamp": "2021-01-23T18:27:15+00:00",
-            "last_traded_at": "2021-01-23T18:27:15+00:00",
-            "last_fetch_at": "2021-01-23T18:27:15+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_btc",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Bitstamp",
-                "identifier": "bitstamp",
-                "has_trading_incentive": false
-            },
-            "last": 0.00010858,
-            "volume": 30803.37059247,
-            "converted_last": {
-                "btc": 0.00010858,
-                "eth": 0.00279952,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 3.34463,
-                "eth": 86.235,
-                "usd": 108038
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.460787,
-            "timestamp": "2021-01-23T18:08:37+00:00",
-            "last_traded_at": "2021-01-23T18:08:37+00:00",
-            "last_fetch_at": "2021-01-23T18:23:29+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "CoinTiger",
-                "identifier": "cointiger",
-                "has_trading_incentive": false
-            },
-            "last": 0.002802,
-            "volume": 1060.32276343,
-            "converted_last": {
-                "btc": 0.00010911,
-                "eth": 0.00281318,
-                "usd": 3.52
-            },
-            "converted_volume": {
-                "btc": 0.11569169,
-                "eth": 2.982883,
-                "usd": 3735.99
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.250986,
-            "timestamp": "2021-01-23T18:06:15+00:00",
-            "last_traded_at": "2021-01-23T18:06:15+00:00",
-            "last_fetch_at": "2021-01-23T18:22:35+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Binance",
-                "identifier": "binance",
-                "has_trading_incentive": false
-            },
-            "last": 0.002789,
-            "volume": 127432.82882395123,
-            "converted_last": {
-                "btc": 0.00010905,
-                "eth": 0.00278866,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 13.896537,
-                "eth": 355.366,
-                "usd": 446829
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.856225,
-            "timestamp": "2021-01-23T18:26:53+00:00",
-            "last_traded_at": "2021-01-23T18:26:53+00:00",
-            "last_fetch_at": "2021-01-23T18:26:53+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.com/en/trade/OMG_ETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
             "market": {
                 "name": "Catex",
                 "identifier": "catex",
                 "has_trading_incentive": false
             },
-            "last": 0.0027846,
-            "volume": 76574.69728865905,
+            "last": 0.00011047,
+            "volume": 1426953.897619263,
             "converted_last": {
-                "btc": 0.00010888,
-                "eth": 0.00278426,
-                "usd": 3.5
+                "btc": 0.00011047,
+                "eth": 0.00264554,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 8.337289,
-                "eth": 213.204,
-                "usd": 268179
+                "btc": 157.636,
+                "eth": 3775,
+                "usd": 5104672
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.118024,
-            "timestamp": "2021-01-23T18:25:10+00:00",
-            "last_traded_at": "2021-01-23T18:25:10+00:00",
-            "last_fetch_at": "2021-01-23T18:25:10+00:00",
+            "bid_ask_spread_percentage": 0.1181,
+            "timestamp": "2021-01-26T03:07:13+00:00",
+            "last_traded_at": "2021-01-26T03:07:13+00:00",
+            "last_fetch_at": "2021-01-26T03:07:13+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.catex.io/trading/OMG/ETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Nominex",
-                "identifier": "nominex",
-                "has_trading_incentive": false
-            },
-            "last": 0.002809,
-            "volume": 579.5731861872553,
-            "converted_last": {
-                "btc": 0.00010955,
-                "eth": 0.00282456,
-                "usd": 3.54
-            },
-            "converted_volume": {
-                "btc": 0.06349282,
-                "eth": 1.637038,
-                "usd": 2050.98
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.92824,
-            "timestamp": "2021-01-23T18:07:18+00:00",
-            "last_traded_at": "2021-01-23T18:07:18+00:00",
-            "last_fetch_at": "2021-01-23T18:27:07+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://nominex.io/en/markets/OMG/ETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Bitrue",
-                "identifier": "bitrue",
-                "has_trading_incentive": false
-            },
-            "last": 0.002792,
-            "volume": 80973.63,
-            "converted_last": {
-                "btc": 0.00010917,
-                "eth": 0.00279165,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 8.839664,
-                "eth": 226.05,
-                "usd": 284231
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.357654,
-            "timestamp": "2021-01-23T18:26:31+00:00",
-            "last_traded_at": "2021-01-23T18:26:31+00:00",
-            "last_fetch_at": "2021-01-23T18:26:31+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=omgeth",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "AUD",
-            "market": {
-                "name": "CoinJar Exchange",
-                "identifier": "coinjar",
-                "has_trading_incentive": false
-            },
-            "last": 4.546,
-            "volume": 2550.0,
-            "converted_last": {
-                "btc": 0.0001091,
-                "eth": 0.0027899,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 0.27820118,
-                "eth": 7.11424,
-                "usd": 8945.28
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.366594,
-            "timestamp": "2021-01-23T18:26:13+00:00",
-            "last_traded_at": "2021-01-23T18:26:13+00:00",
-            "last_fetch_at": "2021-01-23T18:26:13+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://exchange.coinjar.com/trade",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 3.4914,
-            "volume": 303008.39,
-            "converted_last": {
-                "btc": 0.00010854,
-                "eth": 0.00277572,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 32.889716,
-                "eth": 841.065,
-                "usd": 1057923
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.048295,
-            "timestamp": "2021-01-23T18:23:49+00:00",
-            "last_traded_at": "2021-01-23T18:23:49+00:00",
-            "last_fetch_at": "2021-01-23T18:23:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/OMG_USD",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 0.000109,
-            "volume": 85755.79,
-            "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278738,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 9.347381,
-                "eth": 239.034,
-                "usd": 300666
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.457875,
-            "timestamp": "2021-01-23T18:23:48+00:00",
-            "last_traded_at": "2021-01-23T18:23:48+00:00",
-            "last_fetch_at": "2021-01-23T18:23:48+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/OMG_BTC",
+            "trade_url": "https://www.catex.io/trading/OMG/BTC",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "XT",
-                "identifier": "xt",
-                "has_trading_incentive": false
-            },
-            "last": 3.5019,
-            "volume": 390227.04,
-            "converted_last": {
-                "btc": 0.00010888,
-                "eth": 0.0027842,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 42.486245,
-                "eth": 1086,
-                "usd": 1366578
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.174188,
-            "timestamp": "2021-01-23T18:24:23+00:00",
-            "last_traded_at": "2021-01-23T18:24:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/omg_usdt",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 0.002787,
-            "volume": 106247.583,
-            "converted_last": {
-                "btc": 0.00010897,
-                "eth": 0.00278666,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 11.57798,
-                "eth": 296.075,
-                "usd": 372420
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.214823,
-            "timestamp": "2021-01-23T18:25:20+00:00",
-            "last_traded_at": "2021-01-23T18:25:20+00:00",
-            "last_fetch_at": "2021-01-23T18:25:20+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_eth",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "AAX",
-                "identifier": "aax",
-                "has_trading_incentive": false
-            },
-            "last": 0.00011,
-            "volume": 96850.58863636364,
-            "converted_last": {
-                "btc": 0.00011,
-                "eth": 0.00281825,
-                "usd": 3.54
-            },
-            "converted_volume": {
-                "btc": 10.653565,
-                "eth": 272.949,
-                "usd": 342550
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.909091,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.aax.com/spot/trade/OMG:BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "AUD",
-            "market": {
-                "name": "BTCMarkets",
-                "identifier": "btcmarkets",
-                "has_trading_incentive": false
-            },
-            "last": 4.4859,
-            "volume": 36254.994,
-            "converted_last": {
-                "btc": 0.00010774,
-                "eth": 0.00278491,
-                "usd": 3.46
-            },
-            "converted_volume": {
-                "btc": 3.906291,
-                "eth": 100.967,
-                "usd": 125499
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.398082,
-            "timestamp": "2021-01-23T17:25:48+00:00",
-            "last_traded_at": "2021-01-23T17:25:48+00:00",
-            "last_fetch_at": "2021-01-23T18:21:27+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego"
         },
         {
             "base": "OMG",
@@ -2135,23 +1660,23 @@
                 "identifier": "vindax",
                 "has_trading_incentive": false
             },
-            "last": 0.002762,
-            "volume": 508112.26,
+            "last": 0.002649,
+            "volume": 509052.7,
             "converted_last": {
-                "btc": 0.00010772,
-                "eth": 0.00277144,
-                "usd": 3.47
+                "btc": 0.00011099,
+                "eth": 0.00265806,
+                "usd": 3.59
             },
             "converted_volume": {
-                "btc": 54.733,
-                "eth": 1408,
-                "usd": 1764946
+                "btc": 56.501,
+                "eth": 1353,
+                "usd": 1829617
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 2.337938,
-            "timestamp": "2021-01-23T18:10:56+00:00",
-            "last_traded_at": "2021-01-23T18:10:56+00:00",
-            "last_fetch_at": "2021-01-23T18:10:56+00:00",
+            "bid_ask_spread_percentage": 0.1,
+            "timestamp": "2021-01-26T03:05:08+00:00",
+            "last_traded_at": "2021-01-26T03:05:08+00:00",
+            "last_fetch_at": "2021-01-26T03:05:08+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://vindax.com/exchange-base.html?symbol=OMG_ETH",
@@ -2163,30 +1688,475 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001106,
+            "volume": 17900.05327505,
+            "converted_last": {
+                "btc": 0.0001106,
+                "eth": 0.00264865,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 1.979746,
+                "eth": 47.410952,
+                "usd": 64109
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.732369,
+            "timestamp": "2021-01-26T03:07:00+00:00",
+            "last_traded_at": "2021-01-26T03:07:00+00:00",
+            "last_fetch_at": "2021-01-26T03:07:00+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-OMG",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Bilaxy",
+                "identifier": "bilaxy",
+                "has_trading_incentive": false
+            },
+            "last": 3.566,
+            "volume": 994329.02,
+            "converted_last": {
+                "btc": 0.0001104,
+                "eth": 0.00264392,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 109.776,
+                "eth": 2629,
+                "usd": 3553298
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.3331,
+            "timestamp": "2021-01-26T03:08:39+00:00",
+            "last_traded_at": "2021-01-26T03:08:39+00:00",
+            "last_fetch_at": "2021-01-26T03:08:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bilaxy.com/trade/OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Kraken",
+                "identifier": "kraken",
+                "has_trading_incentive": false
+            },
+            "last": 0.00264663,
+            "volume": 18588.94001994,
+            "converted_last": {
+                "btc": 0.00011042,
+                "eth": 0.0026482,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 2.052542,
+                "eth": 49.227191,
+                "usd": 66428
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.612753,
+            "timestamp": "2021-01-26T02:55:28+00:00",
+            "last_traded_at": "2021-01-26T02:55:28+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trade.kraken.com/markets/kraken/omg/eth",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Vindax",
+                "identifier": "vindax",
+                "has_trading_incentive": false
+            },
+            "last": 3.5725,
+            "volume": 430355.49,
+            "converted_last": {
+                "btc": 0.00011051,
+                "eth": 0.00264658,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 47.560088,
+                "eth": 1139,
+                "usd": 1540083
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.106332,
+            "timestamp": "2021-01-26T03:05:07+00:00",
+            "last_traded_at": "2021-01-26T03:05:07+00:00",
+            "last_fetch_at": "2021-01-26T03:05:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://vindax.com/exchange-base.html?symbol=OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Nominex",
+                "identifier": "nominex",
+                "has_trading_incentive": false
+            },
+            "last": 0.002642,
+            "volume": 726.8037168811506,
+            "converted_last": {
+                "btc": 0.00011028,
+                "eth": 0.00263856,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 0.08014979,
+                "eth": 1.917717,
+                "usd": 2600.09
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.379219,
+            "timestamp": "2021-01-26T02:48:45+00:00",
+            "last_traded_at": "2021-01-26T02:48:45+00:00",
+            "last_fetch_at": "2021-01-26T03:08:54+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://nominex.io/en/markets/OMG/ETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
                 "name": "Hotbit",
                 "identifier": "hotbit",
                 "has_trading_incentive": false
             },
-            "last": 0.00010846,
-            "volume": 20845.74,
+            "last": 3.57119992,
+            "volume": 1952133.797,
             "converted_last": {
-                "btc": 0.00010846,
-                "eth": 0.00277357,
-                "usd": 3.49
+                "btc": 0.00011026,
+                "eth": 0.00264062,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 2.260929,
-                "eth": 57.817,
-                "usd": 72726
+                "btc": 215.244,
+                "eth": 5155,
+                "usd": 6974182
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.913659,
-            "timestamp": "2021-01-23T18:25:17+00:00",
-            "last_traded_at": "2021-01-23T18:25:17+00:00",
-            "last_fetch_at": "2021-01-23T18:25:17+00:00",
+            "bid_ask_spread_percentage": 0.438322,
+            "timestamp": "2021-01-26T03:01:22+00:00",
+            "last_traded_at": "2021-01-26T03:01:22+00:00",
+            "last_fetch_at": "2021-01-26T03:01:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=OMG_BTC",
+            "trade_url": "https://www.hotbit.io/exchange?symbol=OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "AUD",
+            "market": {
+                "name": "CoinJar Exchange",
+                "identifier": "coinjar",
+                "has_trading_incentive": false
+            },
+            "last": 4.632,
+            "volume": 3090.0,
+            "converted_last": {
+                "btc": 0.00011032,
+                "eth": 0.00264184,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 0.34087531,
+                "eth": 8.163282,
+                "usd": 11032.01
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.493033,
+            "timestamp": "2021-01-26T03:09:04+00:00",
+            "last_traded_at": "2021-01-26T03:09:04+00:00",
+            "last_fetch_at": "2021-01-26T03:09:04+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exchange.coinjar.com/trade",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Binance",
+                "identifier": "binance",
+                "has_trading_incentive": false
+            },
+            "last": 0.002638,
+            "volume": 164673.45467399544,
+            "converted_last": {
+                "btc": 0.00011053,
+                "eth": 0.00264703,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 18.201719,
+                "eth": 435.895,
+                "usd": 589414
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.416825,
+            "timestamp": "2021-01-26T03:06:29+00:00",
+            "last_traded_at": "2021-01-26T03:06:29+00:00",
+            "last_fetch_at": "2021-01-26T03:06:29+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.com/en/trade/OMG_ETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 0.00265,
+            "volume": 2650.54236332,
+            "converted_last": {
+                "btc": 0.00011104,
+                "eth": 0.00265907,
+                "usd": 3.6
+            },
+            "converted_volume": {
+                "btc": 0.29430297,
+                "eth": 7.047967,
+                "usd": 9530.07
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.34078,
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "EUR",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 2.94,
+            "volume": 542844.3038573,
+            "converted_last": {
+                "btc": 0.00011029,
+                "eth": 0.0026414,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 59.872,
+                "eth": 1434,
+                "usd": 1938233
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.013514,
+            "timestamp": "2021-01-26T02:58:33+00:00",
+            "last_traded_at": "2021-01-26T02:58:33+00:00",
+            "last_fetch_at": "2021-01-26T02:58:33+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 0.002648,
+            "volume": 147434.1571,
+            "converted_last": {
+                "btc": 0.00011047,
+                "eth": 0.00264957,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 16.287724,
+                "eth": 390.637,
+                "usd": 527195
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.301773,
+            "timestamp": "2021-01-26T02:56:32+00:00",
+            "last_traded_at": "2021-01-26T02:56:32+00:00",
+            "last_fetch_at": "2021-01-26T02:56:32+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_eth",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 3.5719,
+            "volume": 96711.15,
+            "converted_last": {
+                "btc": 0.00011059,
+                "eth": 0.00264829,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 10.694806,
+                "eth": 256.119,
+                "usd": 346175
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.361061,
+            "timestamp": "2021-01-26T03:08:52+00:00",
+            "last_traded_at": "2021-01-26T03:08:52+00:00",
+            "last_fetch_at": "2021-01-26T03:08:52+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "USD",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 3.5771,
+            "volume": 325106.54,
+            "converted_last": {
+                "btc": 0.00011053,
+                "eth": 0.00264692,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 35.933335,
+                "eth": 860.531,
+                "usd": 1162939
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.087563,
+            "timestamp": "2021-01-26T03:09:05+00:00",
+            "last_traded_at": "2021-01-26T03:09:05+00:00",
+            "last_fetch_at": "2021-01-26T03:09:05+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/OMG_USD",
+            "token_info_url": null,
+            "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Bitrue",
+                "identifier": "bitrue",
+                "has_trading_incentive": false
+            },
+            "last": 0.002631,
+            "volume": 136799.59,
+            "converted_last": {
+                "btc": 0.00011029,
+                "eth": 0.00264126,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 15.087835,
+                "eth": 361.323,
+                "usd": 488371
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.341297,
+            "timestamp": "2021-01-26T03:08:49+00:00",
+            "last_traded_at": "2021-01-26T03:08:49+00:00",
+            "last_fetch_at": "2021-01-26T03:08:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bitrue.com/trading?market=eth&symbol=omgeth",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Bitstamp",
+                "identifier": "bitstamp",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011012,
+            "volume": 18286.39506528,
+            "converted_last": {
+                "btc": 0.00011012,
+                "eth": 0.00263725,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 2.013698,
+                "eth": 48.225724,
+                "usd": 65189
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.731481,
+            "timestamp": "2021-01-26T02:58:34+00:00",
+            "last_traded_at": "2021-01-26T02:58:34+00:00",
+            "last_fetch_at": "2021-01-26T02:58:34+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
@@ -2195,30 +2165,30 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
-                "name": "Bittrex",
-                "identifier": "bittrex",
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 0.0001085,
-            "volume": 19893.07971337,
+            "last": 0.0001106,
+            "volume": 153180.05,
             "converted_last": {
-                "btc": 0.0001085,
-                "eth": 0.00277982,
-                "usd": 3.49
+                "btc": 0.0001106,
+                "eth": 0.00264865,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 2.158399,
-                "eth": 55.299,
-                "usd": 69404
+                "btc": 16.941714,
+                "eth": 405.72,
+                "usd": 548298
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.96101,
-            "timestamp": "2021-01-23T18:18:03+00:00",
-            "last_traded_at": "2021-01-23T18:18:03+00:00",
-            "last_fetch_at": "2021-01-23T18:24:38+00:00",
+            "bid_ask_spread_percentage": 0.542005,
+            "timestamp": "2021-01-26T03:09:06+00:00",
+            "last_traded_at": "2021-01-26T03:09:06+00:00",
+            "last_fetch_at": "2021-01-26T03:09:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://bittrex.com/Market/Index?MarketName=BTC-OMG",
+            "trade_url": "https://whitebit.com/trade/OMG_BTC",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
@@ -2231,23 +2201,23 @@
                 "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 3.503,
-            "volume": 68886.01433617,
+            "last": 3.574,
+            "volume": 81710.25466841,
             "converted_last": {
-                "btc": 0.00010891,
-                "eth": 0.00278508,
-                "usd": 3.5
+                "btc": 0.00011065,
+                "eth": 0.00264985,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 7.502369,
-                "eth": 191.853,
-                "usd": 241320
+                "btc": 9.041244,
+                "eth": 216.52,
+                "usd": 292652
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.456361,
-            "timestamp": "2021-01-23T18:23:19+00:00",
-            "last_traded_at": "2021-01-23T18:23:19+00:00",
-            "last_fetch_at": "2021-01-23T18:23:19+00:00",
+            "bid_ask_spread_percentage": 0.252242,
+            "timestamp": "2021-01-26T03:08:15+00:00",
+            "last_traded_at": "2021-01-26T03:08:15+00:00",
+            "last_fetch_at": "2021-01-26T03:08:15+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://gate.io/trade/OMG_USDT",
@@ -2257,32 +2227,32 @@
         },
         {
             "base": "OMG",
-            "target": "GBP",
+            "target": "USD",
             "market": {
-                "name": "CoinJar Exchange",
-                "identifier": "coinjar",
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
                 "has_trading_incentive": false
             },
-            "last": 2.53,
-            "volume": 1110.0,
+            "last": 3.5725,
+            "volume": 89059.78,
             "converted_last": {
-                "btc": 0.00010715,
-                "eth": 0.0027689,
-                "usd": 3.46
+                "btc": 0.00011037,
+                "eth": 0.00264313,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 0.11893377,
-                "eth": 3.073477,
-                "usd": 3842.2
+                "btc": 9.829485,
+                "eth": 235.396,
+                "usd": 318166
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.882443,
-            "timestamp": "2021-01-23T17:52:17+00:00",
-            "last_traded_at": "2021-01-23T17:52:17+00:00",
-            "last_fetch_at": "2021-01-23T18:26:13+00:00",
+            "bid_ask_spread_percentage": 0.383238,
+            "timestamp": "2021-01-26T03:08:16+00:00",
+            "last_traded_at": "2021-01-26T03:08:16+00:00",
+            "last_fetch_at": "2021-01-26T03:08:16+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exchange.coinjar.com/trade",
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "omisego"
         },
@@ -2290,30 +2260,30 @@
             "base": "OMG",
             "target": "USDT",
             "market": {
-                "name": "Hotbit",
-                "identifier": "hotbit",
+                "name": "XT",
+                "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 3.49490001,
-            "volume": 766402.603,
+            "last": 3.5719,
+            "volume": 160938.76,
             "converted_last": {
-                "btc": 0.00010877,
-                "eth": 0.00278159,
-                "usd": 3.5
+                "btc": 0.00011059,
+                "eth": 0.00264829,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 83.364,
-                "eth": 2132,
-                "usd": 2681524
+                "btc": 17.797419,
+                "eth": 426.213,
+                "usd": 576329
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.646043,
-            "timestamp": "2021-01-23T18:25:23+00:00",
-            "last_traded_at": "2021-01-23T18:25:23+00:00",
-            "last_fetch_at": "2021-01-23T18:25:23+00:00",
+            "bid_ask_spread_percentage": 0.133647,
+            "timestamp": "2021-01-26T03:07:46+00:00",
+            "last_traded_at": "2021-01-26T03:07:46+00:00",
+            "last_fetch_at": "2021-01-26T03:07:46+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.hotbit.io/exchange?symbol=OMG_USDT",
+            "trade_url": "https://www.xt.com/trade/omg_usdt",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "tether"
@@ -2326,28 +2296,92 @@
                 "identifier": "exrates",
                 "has_trading_incentive": false
             },
-            "last": 3.5096,
-            "volume": 47227.28,
+            "last": 3.5742,
+            "volume": 62057.18,
             "converted_last": {
-                "btc": 0.00010914,
-                "eth": 0.00279634,
-                "usd": 3.51
+                "btc": 0.00011042,
+                "eth": 0.00264439,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 5.154616,
-                "eth": 132.064,
-                "usd": 165749
+                "btc": 6.85248,
+                "eth": 164.103,
+                "usd": 221805
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.341413,
-            "timestamp": "2021-01-23T18:22:04+00:00",
-            "last_traded_at": "2021-01-23T18:22:04+00:00",
-            "last_fetch_at": "2021-01-23T18:22:04+00:00",
+            "bid_ask_spread_percentage": 0.273911,
+            "timestamp": "2021-01-26T03:08:47+00:00",
+            "last_traded_at": "2021-01-26T03:08:47+00:00",
+            "last_fetch_at": "2021-01-26T03:08:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://exrates.me/trading/OMGUSD",
             "token_info_url": null,
             "coin_id": "omisego"
+        },
+        {
+            "base": "OMG",
+            "target": "BUSD",
+            "market": {
+                "name": "Binance US",
+                "identifier": "binance_us",
+                "has_trading_incentive": false
+            },
+            "last": 3.5822,
+            "volume": 49267.175733348224,
+            "converted_last": {
+                "btc": 0.00011084,
+                "eth": 0.00265442,
+                "usd": 3.59
+            },
+            "converted_volume": {
+                "btc": 5.460633,
+                "eth": 130.776,
+                "usd": 176985
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.276846,
+            "timestamp": "2021-01-26T02:59:47+00:00",
+            "last_traded_at": "2021-01-26T02:59:47+00:00",
+            "last_fetch_at": "2021-01-26T02:59:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.binance.us/en/trade/OMG_BUSD",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "binance-usd"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Hotbit",
+                "identifier": "hotbit",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011008,
+            "volume": 53351.24,
+            "converted_last": {
+                "btc": 0.00011008,
+                "eth": 0.0026362,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 5.872904,
+                "eth": 140.644,
+                "usd": 190181
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.035104,
+            "timestamp": "2021-01-26T03:07:15+00:00",
+            "last_traded_at": "2021-01-26T03:07:15+00:00",
+            "last_fetch_at": "2021-01-26T03:07:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hotbit.io/exchange?symbol=OMG_BTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
         },
         {
             "base": "OMG",
@@ -2357,26 +2391,122 @@
                 "identifier": "biki",
                 "has_trading_incentive": false
             },
-            "last": 3.5035,
-            "volume": 62577.6584,
+            "last": 3.5773,
+            "volume": 68128.7376,
             "converted_last": {
-                "btc": 0.00010893,
-                "eth": 0.00279072,
-                "usd": 3.5
+                "btc": 0.00011066,
+                "eth": 0.00265013,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 6.8163,
-                "eth": 174.637,
-                "usd": 219181
+                "btc": 7.539261,
+                "eth": 180.55,
+                "usd": 244142
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.356359,
-            "timestamp": "2021-01-23T18:22:38+00:00",
-            "last_traded_at": "2021-01-23T18:22:38+00:00",
-            "last_fetch_at": "2021-01-23T18:22:38+00:00",
+            "bid_ask_spread_percentage": 0.279439,
+            "timestamp": "2021-01-26T03:07:06+00:00",
+            "last_traded_at": "2021-01-26T03:07:06+00:00",
+            "last_fetch_at": "2021-01-26T03:07:06+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.biki.com/trade/OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "BKEX",
+                "identifier": "bkex",
+                "has_trading_incentive": false
+            },
+            "last": 3.5745,
+            "volume": 1821508.2602,
+            "converted_last": {
+                "btc": 0.00011058,
+                "eth": 0.00264806,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 201.414,
+                "eth": 4823,
+                "usd": 6522151
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.129068,
+            "timestamp": "2021-01-26T03:05:49+00:00",
+            "last_traded_at": "2021-01-26T03:05:49+00:00",
+            "last_fetch_at": "2021-01-26T03:05:49+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.bkex.com/#/trade/OMG_USDT",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "CoinEx",
+                "identifier": "coinex",
+                "has_trading_incentive": false
+            },
+            "last": 3.5686,
+            "volume": 71265.68423877,
+            "converted_last": {
+                "btc": 0.00011057,
+                "eth": 0.00264805,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 7.879941,
+                "eth": 188.715,
+                "usd": 254979
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.385744,
+            "timestamp": "2021-01-26T03:03:41+00:00",
+            "last_traded_at": "2021-01-26T03:03:41+00:00",
+            "last_fetch_at": "2021-01-26T03:03:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=OMG#limit",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 3.5743,
+            "volume": 45616.7,
+            "converted_last": {
+                "btc": 0.00011075,
+                "eth": 0.00265228,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 5.051955,
+                "eth": 120.988,
+                "usd": 163471
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.586019,
+            "timestamp": "2021-01-26T03:03:02+00:00",
+            "last_traded_at": "2021-01-26T03:03:02+00:00",
+            "last_fetch_at": "2021-01-26T03:03:02+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "tether"
@@ -2389,23 +2519,23 @@
                 "identifier": "kucoin",
                 "has_trading_incentive": false
             },
-            "last": 0.0001087,
-            "volume": 18203.2318515,
+            "last": 0.00011077,
+            "volume": 35727.48499887,
             "converted_last": {
-                "btc": 0.0001087,
-                "eth": 0.00278495,
-                "usd": 3.5
+                "btc": 0.00011077,
+                "eth": 0.00265272,
+                "usd": 3.59
             },
             "converted_volume": {
-                "btc": 1.978691,
-                "eth": 50.695,
-                "usd": 63622
+                "btc": 3.957534,
+                "eth": 94.775,
+                "usd": 128100
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.210796,
-            "timestamp": "2021-01-23T18:21:47+00:00",
-            "last_traded_at": "2021-01-23T18:21:47+00:00",
-            "last_fetch_at": "2021-01-23T18:21:47+00:00",
+            "bid_ask_spread_percentage": 0.289462,
+            "timestamp": "2021-01-26T03:09:00+00:00",
+            "last_traded_at": "2021-01-26T03:09:00+00:00",
+            "last_fetch_at": "2021-01-26T03:09:00+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.kucoin.com/trade/OMG-BTC",
@@ -2415,411 +2545,29 @@
         },
         {
             "base": "OMG",
-            "target": "USD",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 3.4882,
-            "volume": 57818.29,
-            "converted_last": {
-                "btc": 0.00010845,
-                "eth": 0.00277322,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 6.270187,
-                "eth": 160.343,
-                "usd": 201682
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.410245,
-            "timestamp": "2021-01-23T18:24:49+00:00",
-            "last_traded_at": "2021-01-23T18:24:49+00:00",
-            "last_fetch_at": "2021-01-23T18:24:49+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "P2PB2B",
-                "identifier": "p2pb2b",
-                "has_trading_incentive": false
-            },
-            "last": 3.4891,
-            "volume": 50167.82,
-            "converted_last": {
-                "btc": 0.00010858,
-                "eth": 0.00278196,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 5.447403,
-                "eth": 139.565,
-                "usd": 175163
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.474272,
-            "timestamp": "2021-01-23T18:18:34+00:00",
-            "last_traded_at": "2021-01-23T18:18:34+00:00",
-            "last_fetch_at": "2021-01-23T18:18:34+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Catex",
-                "identifier": "catex",
-                "has_trading_incentive": false
-            },
-            "last": 0.00010901,
-            "volume": 75953.17044307862,
-            "converted_last": {
-                "btc": 0.00010901,
-                "eth": 0.00278763,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 8.279655,
-                "eth": 211.73,
-                "usd": 266326
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.109217,
-            "timestamp": "2021-01-23T18:25:16+00:00",
-            "last_traded_at": "2021-01-23T18:25:16+00:00",
-            "last_fetch_at": "2021-01-23T18:25:16+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.catex.io/trading/OMG/BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "BKEX",
-                "identifier": "bkex",
-                "has_trading_incentive": false
-            },
-            "last": 3.5057,
-            "volume": 1363629.5783,
-            "converted_last": {
-                "btc": 0.00010909,
-                "eth": 0.00279503,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 148.763,
-                "eth": 3811,
-                "usd": 4783266
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.590266,
-            "timestamp": "2021-01-23T18:21:23+00:00",
-            "last_traded_at": "2021-01-23T18:21:23+00:00",
-            "last_fetch_at": "2021-01-23T18:21:23+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bkex.com/#/trade/OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 0.000108,
-            "volume": 38437.8657,
-            "converted_last": {
-                "btc": 0.000108,
-                "eth": 0.00276701,
-                "usd": 3.47
-            },
-            "converted_volume": {
-                "btc": 4.151289,
-                "eth": 106.358,
-                "usd": 133479
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.909091,
-            "timestamp": "2021-01-23T18:21:09+00:00",
-            "last_traded_at": "2021-01-23T18:21:09+00:00",
-            "last_fetch_at": "2021-01-23T18:21:09+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "BUSD",
-            "market": {
-                "name": "Binance US",
-                "identifier": "binance_us",
-                "has_trading_incentive": false
-            },
-            "last": 3.4787,
-            "volume": 44180.62402477937,
-            "converted_last": {
-                "btc": 0.00010814,
-                "eth": 0.00277067,
-                "usd": 3.48
-            },
-            "converted_volume": {
-                "btc": 4.777814,
-                "eth": 122.41,
-                "usd": 153633
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.27607,
-            "timestamp": "2021-01-23T18:22:26+00:00",
-            "last_traded_at": "2021-01-23T18:22:26+00:00",
-            "last_fetch_at": "2021-01-23T18:22:26+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.binance.us/en/trade/OMG_BUSD",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "binance-usd"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 3.5042,
-            "volume": 36590.32,
-            "converted_last": {
-                "btc": 0.00010895,
-                "eth": 0.00278603,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 3.986413,
-                "eth": 101.942,
-                "usd": 128226
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.741941,
-            "timestamp": "2021-01-23T18:23:42+00:00",
-            "last_traded_at": "2021-01-23T18:23:42+00:00",
-            "last_fetch_at": "2021-01-23T18:23:42+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "HUSD",
-            "market": {
-                "name": "Huobi Global",
-                "identifier": "huobi",
-                "has_trading_incentive": false
-            },
-            "last": 3.4973,
-            "volume": 42176.802,
-            "converted_last": {
-                "btc": 0.00010864,
-                "eth": 0.00277825,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 4.582209,
-                "eth": 117.178,
-                "usd": 147393
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.478047,
-            "timestamp": "2021-01-23T18:25:12+00:00",
-            "last_traded_at": "2021-01-23T18:25:12+00:00",
-            "last_fetch_at": "2021-01-23T18:25:12+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_husd",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "husd"
-        },
-        {
-            "base": "OMG",
-            "target": "PLN",
-            "market": {
-                "name": "BitBay",
-                "identifier": "bitbay",
-                "has_trading_incentive": false
-            },
-            "last": 13.03,
-            "volume": 28353.4508202,
-            "converted_last": {
-                "btc": 0.00010864,
-                "eth": 0.0027835,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 3.080425,
-                "eth": 78.922,
-                "usd": 99052
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.52207,
-            "timestamp": "2021-01-23T18:22:38+00:00",
-            "last_traded_at": "2021-01-23T18:22:38+00:00",
-            "last_fetch_at": "2021-01-23T18:22:38+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://bitbay.net/en/exchange-rate",
-            "token_info_url": null,
-            "coin_id": "omisego"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.0001089,
-            "volume": 8967.86,
-            "converted_last": {
-                "btc": 0.0001089,
-                "eth": 0.00278482,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 0.97659995,
-                "eth": 24.973892,
-                "usd": 31402
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.822669,
-            "timestamp": "2021-01-23T18:27:02+00:00",
-            "last_traded_at": "2021-01-23T18:27:02+00:00",
-            "last_fetch_at": "2021-01-23T18:27:02+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "CoinEx",
-                "identifier": "coinex",
-                "has_trading_incentive": false
-            },
-            "last": 3.5011,
-            "volume": 51368.30361285,
-            "converted_last": {
-                "btc": 0.00010895,
-                "eth": 0.00279137,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 5.596605,
-                "eth": 143.388,
-                "usd": 179951
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.387299,
-            "timestamp": "2021-01-23T18:21:08+00:00",
-            "last_traded_at": "2021-01-23T18:21:08+00:00",
-            "last_fetch_at": "2021-01-23T18:21:08+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.coinex.com/trading?currency=USDT&dest=OMG#limit",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Digifinex",
-                "identifier": "digifinex",
-                "has_trading_incentive": false
-            },
-            "last": 0.002765,
-            "volume": 106498.0642,
-            "converted_last": {
-                "btc": 0.00010811,
-                "eth": 0.00276466,
-                "usd": 3.48
-            },
-            "converted_volume": {
-                "btc": 11.513665,
-                "eth": 294.431,
-                "usd": 370352
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.039054,
-            "timestamp": "2021-01-23T18:25:05+00:00",
-            "last_traded_at": "2021-01-23T18:25:05+00:00",
-            "last_fetch_at": "2021-01-23T18:25:05+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/OMG",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
             "target": "ETH",
             "market": {
                 "name": "Bibox",
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.00277744,
-            "volume": 9275.5112,
+            "last": 0.00265246,
+            "volume": 8916.0055,
             "converted_last": {
-                "btc": 0.00010871,
-                "eth": 0.00278518,
-                "usd": 3.5
+                "btc": 0.00011066,
+                "eth": 0.00265403,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 1.008332,
-                "eth": 25.833941,
-                "usd": 32423
+                "btc": 0.9866508,
+                "eth": 23.663358,
+                "usd": 31938
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.89953,
-            "timestamp": "2021-01-23T18:20:56+00:00",
-            "last_traded_at": "2021-01-23T18:20:56+00:00",
-            "last_fetch_at": "2021-01-23T18:25:36+00:00",
+            "bid_ask_spread_percentage": 1.081857,
+            "timestamp": "2021-01-26T02:57:05+00:00",
+            "last_traded_at": "2021-01-26T02:57:05+00:00",
+            "last_fetch_at": "2021-01-26T03:08:19+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=OMG_ETH",
@@ -2831,33 +2579,97 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
-                "name": "XT",
-                "identifier": "xt",
+                "name": "BitMart",
+                "identifier": "bitmart",
                 "has_trading_incentive": false
             },
-            "last": 0.00010903,
-            "volume": 352802.04,
+            "last": 0.00011052,
+            "volume": 403160.26,
             "converted_last": {
-                "btc": 0.00010903,
-                "eth": 0.00278815,
-                "usd": 3.51
+                "btc": 0.00011052,
+                "eth": 0.00265066,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 38.466006,
-                "eth": 983.664,
-                "usd": 1237266
+                "btc": 44.557272,
+                "eth": 1069,
+                "usd": 1442033
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.182561,
-            "timestamp": "2021-01-23T18:24:24+00:00",
-            "last_traded_at": "2021-01-23T18:24:24+00:00",
-            "last_fetch_at": "2021-01-23T18:24:24+00:00",
+            "bid_ask_spread_percentage": 0.460455,
+            "timestamp": "2021-01-26T02:55:55+00:00",
+            "last_traded_at": "2021-01-26T02:55:55+00:00",
+            "last_fetch_at": "2021-01-26T02:59:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.xt.com/trade/omg_btc",
+            "trade_url": "https://www.bitmart.com/trade/en?symbol=OMG_BTC",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "CoinTiger",
+                "identifier": "cointiger",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011067,
+            "volume": 511.36231177,
+            "converted_last": {
+                "btc": 0.00011067,
+                "eth": 0.00265033,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 0.05659247,
+                "eth": 1.355276,
+                "usd": 1832.57
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.963704,
+            "timestamp": "2021-01-26T03:05:44+00:00",
+            "last_traded_at": "2021-01-26T03:05:44+00:00",
+            "last_fetch_at": "2021-01-26T03:05:44+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "HUSD",
+            "market": {
+                "name": "Huobi Global",
+                "identifier": "huobi",
+                "has_trading_incentive": false
+            },
+            "last": 3.5776,
+            "volume": 68257.6395,
+            "converted_last": {
+                "btc": 0.00011064,
+                "eth": 0.00264969,
+                "usd": 3.59
+            },
+            "converted_volume": {
+                "btc": 7.551991,
+                "eth": 180.861,
+                "usd": 244768
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.399252,
+            "timestamp": "2021-01-26T02:59:20+00:00",
+            "last_traded_at": "2021-01-26T02:59:20+00:00",
+            "last_fetch_at": "2021-01-26T02:59:20+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.hbg.com/en-us/exchange/?s=omg_husd",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "husd"
         },
         {
             "base": "OMG",
@@ -2867,23 +2679,23 @@
                 "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 22.6503,
-            "volume": 96211.48,
+            "last": 23.0279,
+            "volume": 234002.36,
             "converted_last": {
-                "btc": 0.000109,
-                "eth": 0.00278732,
-                "usd": 3.51
+                "btc": 0.00011071,
+                "eth": 0.00265137,
+                "usd": 3.59
             },
             "converted_volume": {
-                "btc": 10.486847,
-                "eth": 268.173,
-                "usd": 337311
+                "btc": 25.907279,
+                "eth": 620.427,
+                "usd": 838949
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.148967,
-            "timestamp": "2021-01-23T18:24:23+00:00",
-            "last_traded_at": "2021-01-23T18:24:23+00:00",
-            "last_fetch_at": "2021-01-23T18:24:23+00:00",
+            "bid_ask_spread_percentage": 0.192674,
+            "timestamp": "2021-01-26T03:07:47+00:00",
+            "last_traded_at": "2021-01-26T03:07:47+00:00",
+            "last_fetch_at": "2021-01-26T03:07:47+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.xt.com/trade/omg_sxc",
@@ -2893,34 +2705,195 @@
         },
         {
             "base": "OMG",
-            "target": "BRL",
+            "target": "BTC",
             "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
+                "name": "AAX",
+                "identifier": "aax",
                 "has_trading_incentive": false
             },
-            "last": 19.3527,
-            "volume": 9533.3814,
+            "last": 0.00011,
+            "volume": 62108.401909090906,
             "converted_last": {
                 "btc": 0.00011,
-                "eth": 0.00282699,
-                "usd": 3.54
+                "eth": 0.00263428,
+                "usd": 3.56
             },
             "converted_volume": {
-                "btc": 1.048633,
-                "eth": 26.950739,
-                "usd": 33747
+                "btc": 6.831924,
+                "eth": 163.611,
+                "usd": 221107
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.422503,
-            "timestamp": "2021-01-23T18:16:58+00:00",
-            "last_traded_at": "2021-01-23T18:16:58+00:00",
-            "last_fetch_at": "2021-01-23T18:25:20+00:00",
+            "bid_ask_spread_percentage": 2.678571,
+            "timestamp": "2021-01-26T03:09:22+00:00",
+            "last_traded_at": "2021-01-26T03:09:22+00:00",
+            "last_fetch_at": "2021-01-26T03:09:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=OMG_BRL",
+            "trade_url": "https://www.aax.com/spot/trade/OMG:BTC",
             "token_info_url": null,
-            "coin_id": "omisego"
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Exrates",
+                "identifier": "exrates",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001101,
+            "volume": 11850.26,
+            "converted_last": {
+                "btc": 0.0001101,
+                "eth": 0.00263667,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 1.304714,
+                "eth": 31.24528,
+                "usd": 42232
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.542495,
+            "timestamp": "2021-01-26T03:08:46+00:00",
+            "last_traded_at": "2021-01-26T03:08:46+00:00",
+            "last_fetch_at": "2021-01-26T03:08:46+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exrates.me/trading/OMGBTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Digifinex",
+                "identifier": "digifinex",
+                "has_trading_incentive": false
+            },
+            "last": 0.002636,
+            "volume": 118143.6075,
+            "converted_last": {
+                "btc": 0.00011045,
+                "eth": 0.00264502,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 13.048772,
+                "eth": 312.492,
+                "usd": 422550
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.099318,
+            "timestamp": "2021-01-26T03:06:25+00:00",
+            "last_traded_at": "2021-01-26T03:06:25+00:00",
+            "last_fetch_at": "2021-01-26T03:06:25+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://www.digifinex.com/en-ww/trade/ETH/OMG",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.0001103,
+            "volume": 10246.71,
+            "converted_last": {
+                "btc": 0.0001103,
+                "eth": 0.00264156,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 1.130212,
+                "eth": 27.067267,
+                "usd": 36572
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.811542,
+            "timestamp": "2021-01-26T03:02:42+00:00",
+            "last_traded_at": "2021-01-26T03:02:42+00:00",
+            "last_fetch_at": "2021-01-26T03:02:42+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Atomars",
+                "identifier": "atomars",
+                "has_trading_incentive": false
+            },
+            "last": 0.002638,
+            "volume": 958.14,
+            "converted_last": {
+                "btc": 0.00011011,
+                "eth": 0.00263701,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 0.10550091,
+                "eth": 2.526624,
+                "usd": 3418.37
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.753864,
+            "timestamp": "2021-01-26T03:01:39+00:00",
+            "last_traded_at": "2021-01-26T03:01:39+00:00",
+            "last_fetch_at": "2021-01-26T03:01:39+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "CRO",
+            "market": {
+                "name": "Crypto.com",
+                "identifier": "crypto_com",
+                "has_trading_incentive": false
+            },
+            "last": 50.992,
+            "volume": 7038.07,
+            "converted_last": {
+                "btc": 0.00011067,
+                "eth": 0.00265048,
+                "usd": 3.59
+            },
+            "converted_volume": {
+                "btc": 0.77892126,
+                "eth": 18.654259,
+                "usd": 25246
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.103922,
+            "timestamp": "2021-01-26T02:59:41+00:00",
+            "last_traded_at": "2021-01-26T02:59:41+00:00",
+            "last_fetch_at": "2021-01-26T02:59:41+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_CRO",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "crypto-com-chain"
         },
         {
             "base": "OMG",
@@ -2930,23 +2903,23 @@
                 "identifier": "aax",
                 "has_trading_incentive": false
             },
-            "last": 3.505,
-            "volume": 128892.2201706562,
+            "last": 3.567,
+            "volume": 71440.69170126437,
             "converted_last": {
-                "btc": 0.00010907,
-                "eth": 0.00279448,
-                "usd": 3.51
+                "btc": 0.00011043,
+                "eth": 0.00264466,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 14.058522,
-                "eth": 360.186,
-                "usd": 452031
+                "btc": 7.889434,
+                "eth": 188.936,
+                "usd": 255332
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.568828,
-            "timestamp": "2021-01-23T18:21:12+00:00",
-            "last_traded_at": "2021-01-23T18:21:12+00:00",
-            "last_fetch_at": "2021-01-23T18:21:12+00:00",
+            "bid_ask_spread_percentage": 0.475391,
+            "timestamp": "2021-01-26T03:09:22+00:00",
+            "last_traded_at": "2021-01-26T03:09:22+00:00",
+            "last_fetch_at": "2021-01-26T03:09:22+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.aax.com/spot/trade/OMG:USDT",
@@ -2958,158 +2931,30 @@
             "base": "OMG",
             "target": "ETH",
             "market": {
-                "name": "KuCoin",
-                "identifier": "kucoin",
+                "name": "OKEx",
+                "identifier": "okex",
                 "has_trading_incentive": false
             },
-            "last": 0.0027711,
-            "volume": 9666.33481017,
+            "last": 0.00264,
+            "volume": 147359.6916,
             "converted_last": {
-                "btc": 0.00010846,
-                "eth": 0.00277882,
-                "usd": 3.49
+                "btc": 0.00011019,
+                "eth": 0.00263901,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 1.048419,
-                "eth": 26.860998,
-                "usd": 33710
+                "btc": 16.238095,
+                "eth": 388.884,
+                "usd": 525435
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.197281,
-            "timestamp": "2021-01-23T18:21:49+00:00",
-            "last_traded_at": "2021-01-23T18:21:49+00:00",
-            "last_fetch_at": "2021-01-23T18:21:49+00:00",
+            "bid_ask_spread_percentage": 0.754717,
+            "timestamp": "2021-01-26T03:02:48+00:00",
+            "last_traded_at": "2021-01-26T03:02:48+00:00",
+            "last_fetch_at": "2021-01-26T03:02:48+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.kucoin.com/trade/OMG-ETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "USDT",
-            "market": {
-                "name": "NovaDAX",
-                "identifier": "novadax",
-                "has_trading_incentive": false
-            },
-            "last": 3.49,
-            "volume": 74.2672,
-            "converted_last": {
-                "btc": 0.00010795,
-                "eth": 0.00279086,
-                "usd": 3.48
-            },
-            "converted_volume": {
-                "btc": 0.00801717,
-                "eth": 0.20726919,
-                "usd": 258.56
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.472854,
-            "timestamp": "2021-01-23T18:02:58+00:00",
-            "last_traded_at": "2021-01-23T18:02:58+00:00",
-            "last_fetch_at": "2021-01-23T18:25:21+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.novadax.com/product/orderbook?pair=OMG_USDT",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "tether"
-        },
-        {
-            "base": "OMG",
-            "target": "BTC",
-            "market": {
-                "name": "BitMart",
-                "identifier": "bitmart",
-                "has_trading_incentive": false
-            },
-            "last": 0.00010859,
-            "volume": 146464.74,
-            "converted_last": {
-                "btc": 0.00010859,
-                "eth": 0.00278213,
-                "usd": 3.49
-            },
-            "converted_volume": {
-                "btc": 15.904606,
-                "eth": 407.484,
-                "usd": 511420
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.658376,
-            "timestamp": "2021-01-23T18:20:28+00:00",
-            "last_traded_at": "2021-01-23T18:20:28+00:00",
-            "last_fetch_at": "2021-01-23T18:27:25+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://www.bitmart.com/trade/en?symbol=OMG_BTC",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "bitcoin"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "WhiteBIT",
-                "identifier": "whitebit",
-                "has_trading_incentive": false
-            },
-            "last": 0.002788,
-            "volume": 59626.41,
-            "converted_last": {
-                "btc": 0.00010912,
-                "eth": 0.00279051,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 6.506572,
-                "eth": 166.388,
-                "usd": 209289
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.537057,
-            "timestamp": "2021-01-23T18:23:51+00:00",
-            "last_traded_at": "2021-01-23T18:23:51+00:00",
-            "last_fetch_at": "2021-01-23T18:23:51+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://whitebit.com/trade/OMG_ETH",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "ethereum"
-        },
-        {
-            "base": "OMG",
-            "target": "ETH",
-            "market": {
-                "name": "Atomars",
-                "identifier": "atomars",
-                "has_trading_incentive": false
-            },
-            "last": 0.002789,
-            "volume": 916.57,
-            "converted_last": {
-                "btc": 0.00010905,
-                "eth": 0.00278866,
-                "usd": 3.51
-            },
-            "converted_volume": {
-                "btc": 0.09995187,
-                "eth": 2.555998,
-                "usd": 3213.85
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 1.104775,
-            "timestamp": "2021-01-23T18:26:52+00:00",
-            "last_traded_at": "2021-01-23T18:26:52+00:00",
-            "last_fetch_at": "2021-01-23T18:26:52+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.okex.com/market?product=omg_eth",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "ethereum"
@@ -3118,30 +2963,30 @@
             "base": "OMG",
             "target": "BTC",
             "market": {
-                "name": "Exrates",
-                "identifier": "exrates",
+                "name": "CoinBene",
+                "identifier": "coinbene",
                 "has_trading_incentive": false
             },
-            "last": 0.0001088,
-            "volume": 10194.72,
+            "last": 0.0001105,
+            "volume": 110018.35339366517,
             "converted_last": {
-                "btc": 0.0001088,
-                "eth": 0.00278403,
-                "usd": 3.5
+                "btc": 0.0001105,
+                "eth": 0.00264625,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 1.109186,
-                "eth": 28.382422,
-                "usd": 35666
+                "btc": 12.157028,
+                "eth": 291.136,
+                "usd": 393678
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.457875,
-            "timestamp": "2021-01-23T18:27:27+00:00",
-            "last_traded_at": "2021-01-23T18:27:27+00:00",
-            "last_fetch_at": "2021-01-23T18:27:27+00:00",
+            "bid_ask_spread_percentage": 0.542495,
+            "timestamp": "2021-01-26T03:07:40+00:00",
+            "last_traded_at": "2021-01-26T03:07:40+00:00",
+            "last_fetch_at": "2021-01-26T03:07:40+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://exrates.me/trading/OMGBTC",
+            "trade_url": "https://www.coinbene.com/spot/exchange/OMG_BTC",
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "bitcoin"
@@ -3154,23 +2999,23 @@
                 "identifier": "bittrex",
                 "has_trading_incentive": false
             },
-            "last": 3.51,
-            "volume": 4797.82167857,
+            "last": 3.58213856,
+            "volume": 14798.00048224,
             "converted_last": {
-                "btc": 0.00010891,
-                "eth": 0.00280214,
-                "usd": 3.51
+                "btc": 0.00011081,
+                "eth": 0.00265372,
+                "usd": 3.59
             },
             "converted_volume": {
-                "btc": 0.52253539,
-                "eth": 13.444148,
-                "usd": 16849.97
+                "btc": 1.639791,
+                "eth": 39.269711,
+                "usd": 53100
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.360149,
-            "timestamp": "2021-01-23T18:10:28+00:00",
-            "last_traded_at": "2021-01-23T18:10:28+00:00",
-            "last_fetch_at": "2021-01-23T18:24:32+00:00",
+            "bid_ask_spread_percentage": 0.881963,
+            "timestamp": "2021-01-26T03:06:58+00:00",
+            "last_traded_at": "2021-01-26T03:06:58+00:00",
+            "last_fetch_at": "2021-01-26T03:06:58+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://bittrex.com/Market/Index?MarketName=USDT-OMG",
@@ -3180,29 +3025,157 @@
         },
         {
             "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "WhiteBIT",
+                "identifier": "whitebit",
+                "has_trading_incentive": false
+            },
+            "last": 0.002632,
+            "volume": 72496.44,
+            "converted_last": {
+                "btc": 0.00011033,
+                "eth": 0.00264227,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 7.998782,
+                "eth": 191.555,
+                "usd": 258871
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.530504,
+            "timestamp": "2021-01-26T03:09:07+00:00",
+            "last_traded_at": "2021-01-26T03:09:07+00:00",
+            "last_fetch_at": "2021-01-26T03:09:07+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://whitebit.com/trade/OMG_ETH",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
+            "target": "USDT",
+            "market": {
+                "name": "Oceanex",
+                "identifier": "oceanex",
+                "has_trading_incentive": false
+            },
+            "last": 3.5611,
+            "volume": 106279.08,
+            "converted_last": {
+                "btc": 0.0001104,
+                "eth": 0.00264322,
+                "usd": 3.57
+            },
+            "converted_volume": {
+                "btc": 11.733218,
+                "eth": 280.919,
+                "usd": 379381
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.168587,
+            "timestamp": "2021-01-26T02:52:59+00:00",
+            "last_traded_at": "2021-01-26T02:52:59+00:00",
+            "last_fetch_at": "2021-01-26T02:52:59+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://oceanex.pro/trades/omgusdt",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "OMG",
+            "target": "QC",
+            "market": {
+                "name": "ZB",
+                "identifier": "zb",
+                "has_trading_incentive": false
+            },
+            "last": 22.15,
+            "volume": 45014.42,
+            "converted_last": {
+                "btc": 0.00010599,
+                "eth": 0.00253823,
+                "usd": 3.43
+            },
+            "converted_volume": {
+                "btc": 4.771043,
+                "eth": 114.257,
+                "usd": 154499
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 2.418502,
+            "timestamp": "2021-01-26T03:07:24+00:00",
+            "last_traded_at": "2021-01-26T03:07:24+00:00",
+            "last_fetch_at": "2021-01-26T03:08:27+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://trans.zb.com/omgqc",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "qcash"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "Bittrex",
+                "identifier": "bittrex",
+                "has_trading_incentive": false
+            },
+            "last": 0.00263021,
+            "volume": 5088.33139907,
+            "converted_last": {
+                "btc": 0.00011028,
+                "eth": 0.00263229,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 0.56116513,
+                "eth": 13.393969,
+                "usd": 18229.84
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.417236,
+            "timestamp": "2021-01-26T02:36:00+00:00",
+            "last_traded_at": "2021-01-26T02:36:00+00:00",
+            "last_fetch_at": "2021-01-26T03:06:57+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://bittrex.com/Market/Index?MarketName=ETH-OMG",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "OMG",
             "target": "USDT",
             "market": {
                 "name": "WhiteBIT",
                 "identifier": "whitebit",
                 "has_trading_incentive": false
             },
-            "last": 3.5007,
-            "volume": 13903.09,
+            "last": 3.5669,
+            "volume": 14821.84,
             "converted_last": {
-                "btc": 0.00010884,
-                "eth": 0.00278325,
-                "usd": 3.5
+                "btc": 0.00011043,
+                "eth": 0.00264458,
+                "usd": 3.57
             },
             "converted_volume": {
-                "btc": 1.51319,
-                "eth": 38.695727,
-                "usd": 48673
+                "btc": 1.636779,
+                "eth": 39.197589,
+                "usd": 52972
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.287963,
-            "timestamp": "2021-01-23T18:23:50+00:00",
-            "last_traded_at": "2021-01-23T18:23:50+00:00",
-            "last_fetch_at": "2021-01-23T18:23:50+00:00",
+            "bid_ask_spread_percentage": 0.293978,
+            "timestamp": "2021-01-26T03:09:05+00:00",
+            "last_traded_at": "2021-01-26T03:09:05+00:00",
+            "last_fetch_at": "2021-01-26T03:09:05+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://whitebit.com/trade/OMG_USDT",
@@ -3212,61 +3185,29 @@
         },
         {
             "base": "OMG",
-            "target": "CRO",
-            "market": {
-                "name": "Crypto.com",
-                "identifier": "crypto_com",
-                "has_trading_incentive": false
-            },
-            "last": 48.848,
-            "volume": 1042.86,
-            "converted_last": {
-                "btc": 0.00010879,
-                "eth": 0.00278715,
-                "usd": 3.5
-            },
-            "converted_volume": {
-                "btc": 0.11344838,
-                "eth": 2.906602,
-                "usd": 3647.76
-            },
-            "trust_score": "green",
-            "bid_ask_spread_percentage": 0.685801,
-            "timestamp": "2021-01-23T18:21:10+00:00",
-            "last_traded_at": "2021-01-23T18:21:10+00:00",
-            "last_fetch_at": "2021-01-23T18:21:10+00:00",
-            "is_anomaly": false,
-            "is_stale": false,
-            "trade_url": "https://crypto.com/exchange/trade/spot/OMG_CRO",
-            "token_info_url": null,
-            "coin_id": "omisego",
-            "target_coin_id": "crypto-com-chain"
-        },
-        {
-            "base": "OMG",
             "target": "BTC",
             "market": {
                 "name": "Bibox",
                 "identifier": "bibox",
                 "has_trading_incentive": false
             },
-            "last": 0.00010896,
-            "volume": 30061.31,
+            "last": 0.0001105,
+            "volume": 46123.8524,
             "converted_last": {
-                "btc": 0.00010896,
-                "eth": 0.00278636,
-                "usd": 3.5
+                "btc": 0.0001105,
+                "eth": 0.00264625,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 3.27548,
-                "eth": 83.762,
-                "usd": 105360
+                "btc": 5.096686,
+                "eth": 122.055,
+                "usd": 164972
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 1.004108,
-            "timestamp": "2021-01-23T18:25:57+00:00",
-            "last_traded_at": "2021-01-23T18:25:57+00:00",
-            "last_fetch_at": "2021-01-23T18:25:57+00:00",
+            "bid_ask_spread_percentage": 1.036223,
+            "timestamp": "2021-01-26T03:08:12+00:00",
+            "last_traded_at": "2021-01-26T03:08:12+00:00",
+            "last_fetch_at": "2021-01-26T03:08:12+00:00",
             "is_anomaly": false,
             "is_stale": false,
             "trade_url": "https://www.bibox.com/exchange?coinPair=OMG_BTC",
@@ -3276,67 +3217,131 @@
         },
         {
             "base": "OMG",
-            "target": "ETH",
+            "target": "BTC",
             "market": {
-                "name": "OKEx",
-                "identifier": "okex",
+                "name": "Gate.io",
+                "identifier": "gate",
                 "has_trading_incentive": false
             },
-            "last": 0.00279,
-            "volume": 159655.7445,
+            "last": 0.0001107,
+            "volume": 6185.49300246,
             "converted_last": {
-                "btc": 0.00010906,
-                "eth": 0.00279071,
-                "usd": 3.51
+                "btc": 0.0001107,
+                "eth": 0.00265104,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 17.412231,
-                "eth": 445.553,
-                "usd": 559892
+                "btc": 0.68473408,
+                "eth": 16.398011,
+                "usd": 22174
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.714286,
-            "timestamp": "2021-01-23T18:27:19+00:00",
-            "last_traded_at": "2021-01-23T18:27:19+00:00",
-            "last_fetch_at": "2021-01-23T18:27:19+00:00",
+            "bid_ask_spread_percentage": 1.168014,
+            "timestamp": "2021-01-26T03:07:27+00:00",
+            "last_traded_at": "2021-01-26T03:07:27+00:00",
+            "last_fetch_at": "2021-01-26T03:07:27+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": "https://www.okex.com/market?product=omg_eth",
+            "trade_url": "https://gate.io/trade/OMG_BTC",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "ETH",
+            "market": {
+                "name": "P2PB2B",
+                "identifier": "p2pb2b",
+                "has_trading_incentive": false
+            },
+            "last": 0.002639,
+            "volume": 19148.25,
+            "converted_last": {
+                "btc": 0.00011063,
+                "eth": 0.00264929,
+                "usd": 3.58
+            },
+            "converted_volume": {
+                "btc": 2.118311,
+                "eth": 50.729,
+                "usd": 68567
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 1.508296,
+            "timestamp": "2021-01-26T03:08:16+00:00",
+            "last_traded_at": "2021-01-26T03:08:16+00:00",
+            "last_fetch_at": "2021-01-26T03:08:16+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": null,
             "token_info_url": null,
             "coin_id": "omisego",
             "target_coin_id": "ethereum"
         },
         {
             "base": "OMG",
-            "target": "USDT",
+            "target": "BTC",
             "market": {
-                "name": "WazirX",
-                "identifier": "wazirx",
+                "name": "XT",
+                "identifier": "xt",
                 "has_trading_incentive": false
             },
-            "last": 3.5084,
-            "volume": 5080.05,
+            "last": 0.00011046,
+            "volume": 87542.66,
             "converted_last": {
-                "btc": 0.00010886,
-                "eth": 0.00280086,
-                "usd": 3.51
+                "btc": 0.00011046,
+                "eth": 0.0026453,
+                "usd": 3.58
             },
             "converted_volume": {
-                "btc": 0.55302094,
-                "eth": 14.228501,
-                "usd": 17833.02
+                "btc": 9.669962,
+                "eth": 231.576,
+                "usd": 313140
             },
             "trust_score": "green",
-            "bid_ask_spread_percentage": 0.654432,
-            "timestamp": "2021-01-23T18:10:42+00:00",
-            "last_traded_at": "2021-01-23T18:10:42+00:00",
-            "last_fetch_at": "2021-01-23T18:24:57+00:00",
+            "bid_ask_spread_percentage": 0.117722,
+            "timestamp": "2021-01-26T03:07:49+00:00",
+            "last_traded_at": "2021-01-26T03:07:49+00:00",
+            "last_fetch_at": "2021-01-26T03:07:49+00:00",
             "is_anomaly": false,
             "is_stale": false,
-            "trade_url": null,
+            "trade_url": "https://www.xt.com/trade/omg_btc",
             "token_info_url": null,
             "coin_id": "omisego",
-            "target_coin_id": "tether"
+            "target_coin_id": "bitcoin"
+        },
+        {
+            "base": "OMG",
+            "target": "BTC",
+            "market": {
+                "name": "ExMarkets",
+                "identifier": "exmarkets",
+                "has_trading_incentive": false
+            },
+            "last": 0.00011013,
+            "volume": 185221.644,
+            "converted_last": {
+                "btc": 0.00011013,
+                "eth": 0.00263739,
+                "usd": 3.56
+            },
+            "converted_volume": {
+                "btc": 20.39846,
+                "eth": 488.502,
+                "usd": 660047
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.226696,
+            "timestamp": "2021-01-26T03:04:24+00:00",
+            "last_traded_at": "2021-01-26T03:04:24+00:00",
+            "last_fetch_at": "2021-01-26T03:04:24+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://exmarkets.com/trade/omg-btc",
+            "token_info_url": null,
+            "coin_id": "omisego",
+            "target_coin_id": "bitcoin"
         }
     ]
 }
