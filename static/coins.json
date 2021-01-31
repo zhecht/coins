@@ -18,7 +18,7 @@
 		"type": "Layer 2,Internet of Blockchains"
 	},
 	"eth": {
-		"amt": 0.88447682,
+		"amt": 1.11975921,
 		"bought": 0,
 		"full": "ethereum",
 		"type": "smart"
@@ -118,12 +118,6 @@
 		"full": "aave",
 		"type": "Lending"
 	},
-	"dai": {
-		"amt": 135.8,
-		"bought": 0,
-		"full": "dai",
-		"type": "Stablecoin"
-	},
 	"cover": {
 		"amt": 0.42109866,
 		"bought": 213,
@@ -162,7 +156,21 @@
 		"amt": 0.7,
 		"bought": 222.52,
 		"full": "keeperdao",
-		"type": "farming",
+		"type": "farm",
 		"gecko": "rook"
+	},
+	"rsr": {
+		"amt": 4931.47735,
+		"bought": 177.13,
+		"full": "reserve rights",
+		"type": "governance",
+		"gecko": "reserve-rights-token"
+	},
+	"badger": {
+		"amt": 10.82086,
+		"bought": 337.82,
+		"full": "badger dao",
+		"type": "farm",
+		"gecko": "badger-dao"
 	}
 }

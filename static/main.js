@@ -116,13 +116,13 @@ let exit_coins = document.getElementsByClassName("exit_coin");
 for (let coin of exit_coins) {
 	coin.onclick = function() {
 		let coinName = this.innerText.toLowerCase();
-		let totAmt = data[coinName]["totAmount"];
-		let html = "<div class='header_row'><div colspan='3'>"+coinName.toUpperCase()+" "+totAmt+" ($"+data[coinName]["purchased"]+")</div></div>";
+		let totAmt = coinData[coinName]["totAmount"];
+		let html = "<div class='header_row'><div colspan='3'>"+coinName.toUpperCase()+" "+totAmt+" ($"+coinData[coinName]["purchased"]+")</div></div>";
 		let strats = [[2, 10], [3, 23], [6, 30]];
 		for (let i = 0; i < strats.length; ++i) {
 			let mult = strats[i][0];
 			let perc = strats[i][1];
-			let newPrice = mult*data[coinName]["bought_at"];
+			let newPrice = mult*coinData[coinName]["bought_at"];
 			let amt = totAmt * (perc / 100);
 			let fixed = coinName == "btc" ? 6 : 2;
 			let left = totAmt - amt;
@@ -160,10 +160,10 @@ for (let i = 0; i < sliders.length; ++i) {
 			let cols = rows[i].getElementsByTagName("div");
 			let coin = cols[0].innerText.toLowerCase();
 			let multiple = parseInt(this.id[0]);
-			let amt = (data[coin]["amount"] * perc / 100).toFixed(2);
-			let price = (amt*multiple*data[coin]["bought_at"]).toFixed(2);
-			let left = (data[coin]["amount"] - amt).toFixed(2);
-			let leftPrice = (left * data[coin]["bought_at"] * multiple).toFixed(2);
+			let amt = (coinData[coin]["amount"] * perc / 100).toFixed(2);
+			let price = (amt*multiple*coinData[coin]["bought_at"]).toFixed(2);
+			let left = (coinData[coin]["amount"] - amt).toFixed(2);
+			let leftPrice = (left * coinData[coin]["bought_at"] * multiple).toFixed(2);
 			document.getElementById(coin+"_multiple"+multiple+"_info").innerHTML = amt+" "+coin.toUpperCase()+" ($"+price+")<br>"+left+" left ($"+leftPrice+")";
 		}
 	}
@@ -193,7 +193,8 @@ function toggle(id, table=false) {
 }
 
 function getType(coinType) {
-	if (["insurance", "lending", "dex", "derivative", "assets", "oracle", "amm", "farming"].indexOf(coinType) >= 0) {
+	return coinType;
+	if (["insurance", "lending", "dex", "derivative", "assets", "oracle", "amm", "farm"].indexOf(coinType) >= 0) {
 		return "DeFi";
 	}
 	return coinType;
@@ -204,14 +205,23 @@ function add_data(perc, coin, worth, coinType) {
 
 	coinType = getType(coinType);
 	if (!(coinType in typeData)) {
-		typeData[coinType] = [];
+		typeData[coinType] = {
+			"coins": [],
+			"worth": 0,
+			"alt_worth": 0
+		};
 	}
-	typeData[coinType].push(coin);
+	typeData[coinType]["coins"].push(coin);
+	typeData[coinType]["worth"] += coinData[coin]["worth"]
+	if (["eth", "btc"].indexOf(coin) < 0) {
+		typeData[coinType]["alt_worth"] += coinData[coin]["worth"];
+	}
 }
 
 window.onload = function() {
 
 	let chart = new CanvasJS.Chart("pie_chart", {
+		width: 500,
 		animationEnabled: true,
 		title: {
 			//text: ""
@@ -220,7 +230,7 @@ window.onload = function() {
 			type: "doughnut",
 			//showInLegend: true,
 			//startAngle: 60,
-			indexLabelFontSize: 18,
+			//indexLabelFontSize: 18,
 			yValueFormatString: "##0.0\"%\"",
 			indexLabel: "{label} #percent%",
 			toolTipContent: "<b>{label}:</b> {y} (${worth})",
@@ -228,14 +238,20 @@ window.onload = function() {
 		}]
 	});
 	let d = [];
-	let tot_types = 0;
+	let tot_worth = 0, tot_alt_worth = 0;
 	for (let type in typeData) {
-		tot_types += typeData[type].length;
+		tot_worth += typeData[type]["worth"];
+		tot_alt_worth += typeData[type]["alt_worth"];
 	}
 	for (let type in typeData) {
-		d.push({"type": type, "y": parseFloat((typeData[type].length / tot_types * 100).toFixed(2)), "coinStr": typeData[type].join(",")});
+		d.push({
+			"type": type,
+			"y": parseFloat((typeData[type]["alt_worth"] / tot_alt_worth * 100).toFixed(2)), "coinStr": typeData[type]["coins"].join(",")
+		});
 	}
 	let chart2 = new CanvasJS.Chart("type_chart", {
+		width: 1000,
+		height: 500,
 		animationEnabled: true,
 		title: {
 			//text: ""
@@ -244,7 +260,7 @@ window.onload = function() {
 			type: "doughnut",
 			//showInLegend: true,
 			//startAngle: 60,
-			indexLabelFontSize: 18,
+			//indexLabelFontSize: 18,
 			yValueFormatString: "##0.0\"%\"",
 			indexLabel: "{type} #percent%",
 			toolTipContent: "<b>{type}:</b> {y} {coinStr}",

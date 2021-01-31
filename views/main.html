@@ -13,9 +13,9 @@
 			<button onclick="toggle('pie_chart')">Chart</button>
 			<button onclick="toggle('exchange_table')">Exchanges</button>
 		</div>
-		<div style="display: flex;">
-			<div id="pie_chart" class="table" style="height: 600px; width: 600px;"></div>
-			<div id="type_chart" class="table" style="height: 600px; width: 600px;"></div>
+		<div style="display: flex;justify-content: column;">
+			<div id="pie_chart"></div>
+			<div id="type_chart"></div>
 		</div>
 		<div id="exchange_table" class="table">
 			<div class="header_row">
@@ -138,14 +138,14 @@
 		</div>
 		<script src="/static/canvasjs.min.js"></script>
 		<script src="/static/main.js"></script>
-		{% for row in rows %}
-			<script>add_data("{{row.perc}}", "{{row.coin}}", "{{row.worth}}", "{{row.type.lower()}}");</script>
-		{% endfor %}
 		<script>
-			let data = {{data|tojson}};
+			let coinData = {{data|tojson}};
 			color();
 			color(class_="exit_row");
 		</script>
+		{% for row in rows %}
+			<script>add_data("{{row.perc}}", "{{row.coin}}", "{{row.worth}}", "{{row.type.lower()}}");</script>
+		{% endfor %}
 	</body>
 </html>
 

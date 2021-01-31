@@ -189,7 +189,7 @@ def markets_route():
 
 	coin_ids = ",".join([coin for coin in coins])
 	for coin in coins:
-		if coin != "rook":
+		if coin != "badger":
 			continue
 		gecko_id = coins[coin]["gecko"] if "gecko" in coins[coin] else coins[coin]["full"]
 		url = f"https://api.coingecko.com/api/v3/coins/{gecko_id}?market_data=false&community_data=false&developer_data=false"
