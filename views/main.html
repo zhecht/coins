@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Crypto</title>
+	<title>Crypto ${{tot.tot_profit}}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 		<link rel="stylesheet" href="/static/main.css" type="text/css">
 	</head>
@@ -14,8 +14,8 @@
 			<button onclick="toggle('exchange_table')">Exchanges</button>
 		</div>
 		<div style="display: flex;justify-content: column;">
-			<div id="pie_chart"></div>
-			<div id="type_chart"></div>
+			<div id="pie_chart" class="chart"></div>
+			<div id="type_chart" class="chart"></div>
 		</div>
 		<div id="exchange_table" class="table">
 			<div class="header_row">
@@ -89,6 +89,7 @@
 				<div>Total</div>
 				<div>Price</div>
 				<div>Bought@</div>
+				<div>Cap</div>
 				<div class="sells">Sells</div>
 				<div>Diff</div>
 				<div>Worth</div>
@@ -106,6 +107,7 @@
 					<div>{{row.amount}}</div>
 					<div>${{row.price}}</div>
 					<div>${{row.bought_at}}</div>
+					<div>${{row.market_cap}}</div>
 					<div class="sells">{{row.sells}}</div>
 					<div>{{row.diff}}x</div>
 					<div>${{row.worth}}</div>
@@ -119,6 +121,7 @@
 			{% endfor %}
 			<div class="row coin_row tot_row">
 				<div>TOTAL</div>
+				<div>-</div>
 				<div>-</div>
 				<div>-</div>
 				<div>-</div>

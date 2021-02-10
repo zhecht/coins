@@ -177,6 +177,10 @@ function toggle(id, table=false) {
 	for (let i = 0; i < tables.length; ++i) {
 		tables[i].style.display = "none";
 	}
+	let charts = document.getElementsByClassName("chart");
+	for (let i = 0; i < charts.length; ++i) {
+		charts[i].style.display = "none";
+	}
 	let chart = document.getElementById(id);
 	if (chart.style.display === "" || chart.style.display === "none") {
 		if (table) {
@@ -221,7 +225,8 @@ function add_data(perc, coin, worth, coinType) {
 window.onload = function() {
 
 	let chart = new CanvasJS.Chart("pie_chart", {
-		width: 500,
+		width: 1000,
+		height: 500,
 		animationEnabled: true,
 		title: {
 			//text: ""
@@ -267,7 +272,7 @@ window.onload = function() {
 			dataPoints: d
 		}]
 	});
-	chart.render();
+	//chart.render();
 	chart2.render();
 }
 
