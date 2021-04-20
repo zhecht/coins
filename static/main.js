@@ -272,8 +272,8 @@ window.onload = function() {
 			dataPoints: d
 		}]
 	});
-	chart.render();
-	//chart2.render();
+	//chart.render();
+	chart2.render();
 }
 
 setTimeout(function() {
