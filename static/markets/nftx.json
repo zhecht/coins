@@ -1,0 +1,288 @@
+{
+    "id": "nftx",
+    "symbol": "nftx",
+    "name": "NFTX",
+    "asset_platform_id": "ethereum",
+    "platforms": {
+        "ethereum": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+    },
+    "block_time_in_minutes": 0,
+    "hashing_algorithm": null,
+    "categories": [
+        "Asset Manager",
+        "Non-Fungible Tokens (NFT)",
+        "Decentralized Finance (DeFi)"
+    ],
+    "public_notice": null,
+    "additional_notices": [],
+    "localization": {
+        "en": "NFTX",
+        "de": "NFTX",
+        "es": "NFTX",
+        "fr": "NFTX",
+        "it": "NFTX",
+        "pl": "NFTX",
+        "ro": "NFTX",
+        "hu": "NFTX",
+        "nl": "NFTX",
+        "pt": "NFTX",
+        "sv": "NFTX",
+        "vi": "NFTX",
+        "tr": "NFTX",
+        "ru": "NFTX",
+        "ja": "NFTX",
+        "zh": "NFTX",
+        "zh-tw": "NFTX",
+        "ko": "NFTX",
+        "ar": "NFTX",
+        "th": "NFTX",
+        "id": "NFTX"
+    },
+    "description": {
+        "en": "NFT-backed index funds on Ethereum",
+        "de": "NFT-backed index funds on Ethereum",
+        "es": "NFT-backed index funds on Ethereum",
+        "fr": "NFT-backed index funds on Ethereum",
+        "it": "NFT-backed index funds on Ethereum",
+        "pl": "NFT-backed index funds on Ethereum",
+        "ro": "NFT-backed index funds on Ethereum",
+        "hu": "NFT-backed index funds on Ethereum",
+        "nl": "NFT-backed index funds on Ethereum",
+        "pt": "NFT-backed index funds on Ethereum",
+        "sv": "NFT-backed index funds on Ethereum",
+        "vi": "NFT-backed index funds on Ethereum",
+        "tr": "NFT-backed index funds on Ethereum",
+        "ru": "NFT-backed index funds on Ethereum",
+        "ja": "NFT-backed index funds on Ethereum",
+        "zh": "NFT-backed index funds on Ethereum",
+        "zh-tw": "NFT-backed index funds on Ethereum",
+        "ko": "NFT-backed index funds on Ethereum",
+        "ar": "NFT-backed index funds on Ethereum",
+        "th": "NFT-backed index funds on Ethereum",
+        "id": "NFT-backed index funds on Ethereum"
+    },
+    "links": {
+        "homepage": [
+            "https://nftx.org/#/",
+            "",
+            ""
+        ],
+        "blockchain_site": [
+            "https://etherscan.io/address/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+            "https://etherscan.io/token/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+            "https://ethplorer.io/address/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+            "",
+            ""
+        ],
+        "official_forum_url": [
+            "",
+            "",
+            ""
+        ],
+        "chat_url": [
+            "https://discord.gg/5ygF8rxdYR",
+            "",
+            ""
+        ],
+        "announcement_url": [
+            "https://blog.nftx.org/",
+            ""
+        ],
+        "twitter_screen_name": "nftx_",
+        "facebook_username": "",
+        "bitcointalk_thread_identifier": null,
+        "telegram_channel_identifier": "",
+        "subreddit_url": null,
+        "repos_url": {
+            "github": [
+                "https://github.com/NFTX-project/x-contracts"
+            ],
+            "bitbucket": []
+        }
+    },
+    "image": {
+        "thumb": "https://assets.coingecko.com/coins/images/13574/thumb/NFTX_%28Real%29.jpg?1613449530",
+        "small": "https://assets.coingecko.com/coins/images/13574/small/NFTX_%28Real%29.jpg?1613449530",
+        "large": "https://assets.coingecko.com/coins/images/13574/large/NFTX_%28Real%29.jpg?1613449530"
+    },
+    "country_origin": "ZZ",
+    "genesis_date": null,
+    "contract_address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+    "sentiment_votes_up_percentage": 58.33,
+    "sentiment_votes_down_percentage": 41.67,
+    "market_cap_rank": 548,
+    "coingecko_rank": 1296,
+    "coingecko_score": 19.554,
+    "developer_score": 0.0,
+    "community_score": 9.238,
+    "liquidity_score": 23.994,
+    "public_interest_score": 0.0,
+    "public_interest_stats": {
+        "alexa_rank": null,
+        "bing_matches": null
+    },
+    "status_updates": [],
+    "last_updated": "2021-05-21T16:11:37.510Z",
+    "tickers": [
+        {
+            "base": "0X87D73E916D7057945C9BCD8CDD94E42A6F47F776",
+            "target": "ETH",
+            "market": {
+                "name": "Sushiswap",
+                "identifier": "sushiswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.0328323826078769,
+            "volume": 11578.3829644274,
+            "converted_last": {
+                "btc": 0.00217186,
+                "eth": 0.03295478,
+                "usd": 81.46
+            },
+            "converted_volume": {
+                "btc": 25.146651,
+                "eth": 381.563,
+                "usd": 943212
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.602766,
+            "timestamp": "2021-05-21T15:45:49+00:00",
+            "last_traded_at": "2021-05-21T15:45:49+00:00",
+            "last_fetch_at": "2021-05-21T16:09:18+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.sushi.com/swap?outputCurrency=0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+            "token_info_url": "https://analytics.sushi.com/tokens/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+            "coin_id": "nftx",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0X87D73E916D7057945C9BCD8CDD94E42A6F47F776",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v2)",
+                "identifier": "uniswap_v2",
+                "has_trading_incentive": false
+            },
+            "last": 0.0322678201978029,
+            "volume": 655.975893693212,
+            "converted_last": {
+                "btc": 0.00213452,
+                "eth": 0.03226083,
+                "usd": 80.08
+            },
+            "converted_volume": {
+                "btc": 1.400191,
+                "eth": 21.162326,
+                "usd": 52528
+            },
+            "trust_score": "green",
+            "bid_ask_spread_percentage": 0.606037,
+            "timestamp": "2021-05-21T15:46:44+00:00",
+            "last_traded_at": "2021-05-21T15:46:44+00:00",
+            "last_fetch_at": "2021-05-21T16:08:47+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://app.uniswap.org/#/swap?outputCurrency=0x87d73e916d7057945c9bcd8cdd94e42a6f47f776&use=V2",
+            "token_info_url": "https://v2.info.uniswap.org/token/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+            "coin_id": "nftx",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "NFTX",
+            "target": "USDT",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 77.34,
+            "volume": 662.51327701441,
+            "converted_last": {
+                "btc": 0.0021099,
+                "eth": 0.03204943,
+                "usd": 77.45
+            },
+            "converted_volume": {
+                "btc": 1.397834,
+                "eth": 21.233172,
+                "usd": 51310
+            },
+            "trust_score": "yellow",
+            "bid_ask_spread_percentage": 4.221802,
+            "timestamp": "2021-05-21T16:08:15+00:00",
+            "last_traded_at": "2021-05-21T16:08:15+00:00",
+            "last_fetch_at": "2021-05-21T16:08:15+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/NFTX_USDT",
+            "token_info_url": null,
+            "coin_id": "nftx",
+            "target_coin_id": "tether"
+        },
+        {
+            "base": "NFTX",
+            "target": "ETH",
+            "market": {
+                "name": "Gate.io",
+                "identifier": "gate",
+                "has_trading_incentive": false
+            },
+            "last": 0.03008,
+            "volume": 13.18850365,
+            "converted_last": {
+                "btc": 0.00197295,
+                "eth": 0.02982437,
+                "usd": 73.76
+            },
+            "converted_volume": {
+                "btc": 0.02602022,
+                "eth": 0.39333877,
+                "usd": 972.76
+            },
+            "trust_score": "red",
+            "bid_ask_spread_percentage": 82.381391,
+            "timestamp": "2021-05-21T15:54:57+00:00",
+            "last_traded_at": "2021-05-21T15:54:57+00:00",
+            "last_fetch_at": "2021-05-21T16:08:06+00:00",
+            "is_anomaly": false,
+            "is_stale": false,
+            "trade_url": "https://gate.io/trade/NFTX_ETH",
+            "token_info_url": null,
+            "coin_id": "nftx",
+            "target_coin_id": "ethereum"
+        },
+        {
+            "base": "0X87D73E916D7057945C9BCD8CDD94E42A6F47F776",
+            "target": "ETH",
+            "market": {
+                "name": "Uniswap (v3)",
+                "identifier": "uniswap",
+                "has_trading_incentive": false
+            },
+            "last": 0.036386124111661,
+            "volume": 0.0,
+            "converted_last": {
+                "btc": 0.00245352,
+                "eth": 0.03639512,
+                "usd": 98.65
+            },
+            "converted_volume": {
+                "btc": 0.0071044,
+                "eth": 0.09352486,
+                "usd": 316.1
+            },
+            "trust_score": null,
+            "bid_ask_spread_percentage": 1.074169,
+            "timestamp": "2021-05-20T11:14:07+00:00",
+            "last_traded_at": "2021-05-20T11:14:07+00:00",
+            "last_fetch_at": "2021-05-20T20:12:09+00:00",
+            "is_anomaly": true,
+            "is_stale": true,
+            "trade_url": "https://app.uniswap.org/#/swap?inputCurrency=0x87d73e916d7057945c9bcd8cdd94e42a6f47f776&outputCurrency=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+            "token_info_url": null,
+            "coin_id": "nftx",
+            "target_coin_id": "ethereum"
+        }
+    ]
+}

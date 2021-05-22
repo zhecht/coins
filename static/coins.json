@@ -5,6 +5,13 @@
 		"full": "stellar",
 		"type": "payment"
 	},
+	"uos": {
+		"amt": 499.0589,
+		"bought": 234.78,
+		"fee": 0.0090756,
+		"full": "ultra",
+		"type": "gaming"
+	},
 	"ankr": {
 		"amt": 1440,
 		"bought": 220,
@@ -24,10 +31,17 @@
 		"type": "Layer 2,Internet of Blockchains"
 	},
 	"eth": {
-		"amt": 1.74638256,
+		"amt": 1.78656209,
 		"bought": 0,
 		"full": "ethereum",
 		"type": "smart"
+	},
+	"nftx": {
+		"amt": 2.24766,
+		"bought": 278.10,
+		"fee": 0.01294895745,
+		"full": "nftx",
+		"type": "nft index"
 	},
 	"room": {
 		"amt": 91.72698,
@@ -37,7 +51,7 @@
 		"gecko": "option-room"
 	},
 	"btc": {
-		"amt": 0.01613774,
+		"amt": 0.02504829,
 		"bought": 0,
 		"full": "bitcoin",
 		"exchange": "gemini",
@@ -140,9 +154,9 @@
 		"type": "insurance"
 	},
 	"api3": {
-		"amt": 43.9548,
-		"bought": 226.27,
-		"fee": 0.007078932,
+		"amt": 60.9785,
+		"bought": 344.81,
+		"fee": 0.014711532,
 		"full": "api3",
 		"type": "oracle"
 	},
@@ -166,11 +180,12 @@
 		"type": "amm"
 	},
 	"rook": {
-		"amt": 0.7,
-		"bought": 222.52,
+		"amt": 1.3677,
+		"bought": 460.26,
 		"full": "keeperdao",
 		"type": "farm",
-		"gecko": "rook"
+		"gecko": "rook",
+		"fee": 0.007628175
 	},
 	"rsr": {
 		"amt": 4931.47735,
